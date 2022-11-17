@@ -26,6 +26,7 @@ Scanned apps / Taranan uygulamalar:
 - Halkbank (Android)  
 - İnat BOX (Android)  
 - MobilDeniz (Android)  
+- N11 (Android)  
 - PTT-UETS (Android)  
 - Trendyol (Android)  
 - Türk Telekom (Android)  
