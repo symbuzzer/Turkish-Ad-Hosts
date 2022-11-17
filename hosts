@@ -23,5 +23,6 @@ ff02::3 ip6-allhosts
 # --- [ START ] --- #
  
 0:0:0:0 img.ekstat.com
+0:0:0:0 api.eksisozluk.com
  
 # --- [ END ] --- #
