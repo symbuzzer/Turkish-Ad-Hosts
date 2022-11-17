@@ -22,6 +22,7 @@ Scanned apps / Taranan uygulamalar:
 - Android (12) işletim sistemi ve uygulamalar  
 - Celse (Android)  
 - ekşi sözlük (Android)  
+- getir (Android)  
 - GİB (Android)  
 - Halkbank (Android)  
 - Hepsiburada (Android)  
@@ -34,3 +35,4 @@ Scanned apps / Taranan uygulamalar:
 - Trendyol (Android)  
 - Türk Telekom (Android)  
 - Uyap Doküman Editörü (Android)  
+- Yemeksepeti (Android)
