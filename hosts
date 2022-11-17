@@ -9,8 +9,8 @@
  
 # --- [ START ] --- #
  
-0:0:0:0 img.ekstat.com
-0:0:0:0 avalibeyaz.com
-0:0:0:0 api.eksisozluk.com
+127.0.0.1 img.ekstat.com
+127.0.0.1 avalibeyaz.com
+127.0.0.1 api.eksisozluk.com
  
 # --- [ END ] --- #
