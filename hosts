@@ -34,6 +34,7 @@
 127.0.0.1 beacons5.gvt3.com
 127.0.0.1 bidder.criteo.com
 127.0.0.1 cdn-settings.appsflyersdk.com
+127.0.0.1 cdn-settings.segment.com
 127.0.0.1 collect.trendyol.com
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 configv2.unityads.unity3d.com
@@ -79,7 +80,9 @@
 127.0.0.1 s.go-mpulse.net
 127.0.0.1 s.visilabs.net
 127.0.0.1 s2s.adjust.com
+127.0.0.1 sdk-api-v1.singular.net
 127.0.0.1 sdk.iad-01.braze.com
+127.0.0.1 sdk.iad-06.braze.com
 127.0.0.1 sdk.fra-01.braze.eu
 127.0.0.1 sdkapi.netmera.com
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
@@ -93,6 +96,7 @@
 127.0.0.1 trk.storyly.io
 127.0.0.1 ws.sahibinden.com
 127.0.0.1 www.google-analytics.com
+127.0.0.1 www.googleadservices.com
 127.0.0.1 wzrkt.com
 
 # --- [ END ] --- #
