@@ -31,8 +31,10 @@
 127.0.0.1 collect.trendyol.com
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 configv2.unityads.unity3d.com
+127.0.0.1 connect-dre.hispace.hicloud.com
 127.0.0.1 data.flurry.com
 127.0.0.1 data.mistat.intl.xiaomi.com
+127.0.0.1 datacollector-dre.dt.hicloud.com
 127.0.0.1 dit.whatsapp.net
 127.0.0.1 expo.io
 127.0.0.1 firebase-settings.crashlytics.com
@@ -54,6 +56,7 @@
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 static.xx.fbcdn.net
 127.0.0.1 trk.storyly.io
+127.0.0.1 ws.sahibinden.com
 127.0.0.1 www.google-analytics.com
 
 # --- [ END ] --- #
