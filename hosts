@@ -30,6 +30,7 @@
 127.0.0.1 collect.trendyol.com
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 configv2.unityads.unity3d.com
+127.0.0.1 data.flurry.com
 127.0.0.1 data.mistat.intl.xiaomi.com
 127.0.0.1 dit.whatsapp.net
 127.0.0.1 expo.io
@@ -37,10 +38,12 @@
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 img.ekstat.com
+127.0.0.1 mobile.eum-appdynamics.com
 127.0.0.1 o1142666.ingest.sentry.io
 127.0.0.1 pnsdkapi.turktelekom.com.tr
 127.0.0.1 pornhdr.cf
 127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 push.dengage.com
 127.0.0.1 region1.google-analytics.com
 127.0.0.1 review-rating.mncdn.com
 127.0.0.1 router.miwifi.com
