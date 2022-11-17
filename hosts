@@ -11,5 +11,8 @@
  
 127.0.0.1 img.ekstat.com
 127.0.0.1 analytics.halkbank.com.tr
+127.0.0.1 api.storyly.io
+127.0.0.1 analyticsb2c.com
+127.0.0.1 adfp.fcloud.com.tr
  
 # --- [ END ] --- #
