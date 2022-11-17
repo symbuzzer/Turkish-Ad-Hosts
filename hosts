@@ -55,6 +55,8 @@
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 laquesis.data.olxcdn.com
 127.0.0.1 launches.appsflyer.com
+127.0.0.1 lgr.visilabs.net
+127.0.0.1 mbls.visilabs.net
 127.0.0.1 me-client.eservice.emarsys.net
 127.0.0.1 mobile.eum-appdynamics.com
 127.0.0.1 mobile.useinsider.com
@@ -72,6 +74,7 @@
 127.0.0.1 register.appsflyer.com
 127.0.0.1 review-rating.mncdn.com
 127.0.0.1 router.miwifi.com
+127.0.0.1 rt.visilabs.net
 127.0.0.1 s.go-mpulse.net
 127.0.0.1 s2s.adjust.com
 127.0.0.1 sdk.iad-01.braze.com
