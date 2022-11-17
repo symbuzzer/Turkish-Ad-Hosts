@@ -22,6 +22,7 @@ Scanned apps / Taranan uygulamalar:
 - Android (12) işletim sistemi ve uygulamalar  
 - A101 Plus (Android)  
 - Celse (Android)  
+- Çiçeksepeti (Android)  
 - DeFacto (Android)  
 - e-Devlet Kapısı (Android)  
 - ekşi sözlük (Android)  
@@ -34,6 +35,7 @@ Scanned apps / Taranan uygulamalar:
 - LC Waikiki (Android)  
 - letgo (Android)  
 - MEB E-OKUL VBS (Android)  
+- MHRS (Android)  
 - MobilDeniz (Android)  
 - N11 (Android)  
 - PTT-UETS (Android)  
