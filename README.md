@@ -24,6 +24,7 @@ Scanned apps / Taranan uygulamalar:
 - ekşi sözlük (Android)  
 - GİB (Android)  
 - Halkbank (Android)  
+- Hepsiburada (Android)  
 - İnat BOX (Android)  
 - letgo (Android)  
 - MobilDeniz (Android)  
