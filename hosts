@@ -6,9 +6,10 @@
 # Version (also last update YYYYMMDD): 20221117
 #  
 
-127.0.0.1  localhost
-::1  localhost
+127.0.0.1 localhost
+::1 localhost
+0:0:0:0 0:0:0:0
 
 # --- [ START ] --- #
-127.0.0.1 avalibeyaz.com
+0:0:0:0 avalibeyaz.com
 # --- [ END ] --- #
