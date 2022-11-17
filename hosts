@@ -14,6 +14,8 @@
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 analytics.halkbank.com.tr
 127.0.0.1 analyticsb2c.com
+127.0.0.1 api.leanplum.com
+127.0.0.1 api.segment.io
 127.0.0.1 api.storyly.io
 127.0.0.1 api2.branch.io
 127.0.0.1 app.adjust.world
@@ -34,10 +36,12 @@
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 configv2.unityads.unity3d.com
 127.0.0.1 connect-dre.hispace.hicloud.com
+127.0.0.1 conversions.appsflyer.com
 127.0.0.1 data.flurry.com
 127.0.0.1 data.mistat.intl.xiaomi.com
 127.0.0.1 datacollector-dre.dt.hicloud.com
 127.0.0.1 dit.whatsapp.net
+127.0.0.1 dlsdk.appsflyer.com
 127.0.0.1 expo.io
 127.0.0.1 firebase-settings.crashlytics.com
 127.0.0.1 googleads.g.doubleclick.net
@@ -47,6 +51,7 @@
 127.0.0.1 img.ekstat.com
 127.0.0.1 in.appcenter.ms
 127.0.0.1 inapps.appsflyer.com
+127.0.0.1 js-agent.newrelic.com
 127.0.0.1 laquesis.data.olxcdn.com
 127.0.0.1 launches.appsflyer.com
 127.0.0.1 mobile.eum-appdynamics.com
@@ -58,6 +63,7 @@
 127.0.0.1 push.dengage.com
 127.0.0.1 radar.cedexis.com
 127.0.0.1 region1.google-analytics.com
+127.0.0.1 register.appsflyer.com
 127.0.0.1 review-rating.mncdn.com
 127.0.0.1 router.miwifi.com
 127.0.0.1 s.go-mpulse.net
