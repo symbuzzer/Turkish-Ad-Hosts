@@ -25,7 +25,7 @@ Scanned apps / Taranan uygulamalar:
 - GİB (Android)  
 - Halkbank (Android)  
 - İnat BOX (Android)  
-- letGo (Android)  
+- letgo (Android)  
 - MobilDeniz (Android)  
 - N11 (Android)  
 - PTT-UETS (Android)  
