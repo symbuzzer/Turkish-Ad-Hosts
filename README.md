@@ -22,6 +22,7 @@ Scanned apps / Taranan uygulamalar:
 - Android (12) işletim sistemi ve uygulamalar  
 - A101 Plus (Android)  
 - Celse (Android)  
+- DeFacto (Android)  
 - e-Devlet Kapısı (Android)  
 - ekşi sözlük (Android)  
 - getir (Android)  
