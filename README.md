@@ -1,2 +1,1 @@
-# Turkish-Ad-Hosts
-Turkish Ad Hosts for Adblockers
+# Turkish Ad Hosts for Adblockers  
