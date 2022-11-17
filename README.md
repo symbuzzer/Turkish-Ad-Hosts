@@ -20,7 +20,9 @@ Problematic apps / Sorunlu uygulamalar:
 Scanned apps / Taranan uygulamalar:  
 - MIUI (13) işletim sistemi ve uygulamaları  
 - Android (12) işletim sistemi ve uygulamalar  
+- A101 Plus (Android)  
 - Celse (Android)  
+- e-Devlet Kapısı (Android)  
 - ekşi sözlük (Android)  
 - getir (Android)  
 - GİB (Android)  
