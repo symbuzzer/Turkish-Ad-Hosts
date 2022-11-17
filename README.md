@@ -23,7 +23,7 @@ Problematic apps / Sorunlu uygulamalar:
   
 Scanned apps / Taranan uygulamalar:  
 - MIUI (13) işletim sistemi ve uygulamaları  
-- Android (12) işletim sistemi ve uygulamalar  
+- Android (12) işletim sistemi ve uygulamaları  
 - A101 Plus (Android)  
 - Canlı Döviz (Android)  
 - Celse (Android)  
