@@ -28,6 +28,7 @@
 127.0.0.1 beacons4.gvt2.com
 127.0.0.1 beacons5.gvt2.com
 127.0.0.1 beacons5.gvt3.com
+127.0.0.1 bidder.criteo.com
 127.0.0.1 collect.trendyol.com
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 configv2.unityads.unity3d.com
@@ -56,8 +57,10 @@
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 static.xx.fbcdn.net
+127.0.0.1 statics.olx.com.tr
 127.0.0.1 trk.storyly.io
 127.0.0.1 ws.sahibinden.com
 127.0.0.1 www.google-analytics.com
+127.0.0.1 wzrkt.com
 
 # --- [ END ] --- #
