@@ -1,17 +1,16 @@
 # Title: Turkish Ad Hosts for Adblockers
 # Author: Ali Beyaz (avalibeyaz.com/github)
-#  
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
 # Version: 20221118
 # (Version also shows update date as YYYYMMDD)
 # Scanned apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
- 
 127.0.0.1 localhost
- 
 # --- [ START ] --- #
-
+127.0.0.1 10138642.fls.doubleclick.net
+127.0.0.1 10978247.fls.doubleclick.net
+127.0.0.1 10978658.fls.doubleclick.net
 127.0.0.1 a.teads.tv
 127.0.0.1 aax-eu.amazon.com.tr
 127.0.0.1 adform.net
@@ -162,8 +161,4 @@
 127.0.0.1 www.googleadservices.com
 127.0.0.1 www.googleoptimize.com
 127.0.0.1 wzrkt.com
-127.0.0.1 10138642.fls.doubleclick.net
-127.0.0.1 10978247.fls.doubleclick.net
-127.0.0.1 10978658.fls.doubleclick.net
-
 # --- [ END ] --- #
