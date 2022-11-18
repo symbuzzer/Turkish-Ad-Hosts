@@ -19,6 +19,7 @@
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 analyticsb2c.com
 127.0.0.1 api.leanplum.com
+127.0.0.1 api.mixpanel.com
 127.0.0.1 api.segment.io
 127.0.0.1 api.storyly.io
 127.0.0.1 api2.branch.io
@@ -52,6 +53,7 @@
 127.0.0.1 data.flurry.com
 127.0.0.1 data.mistat.intl.xiaomi.com
 127.0.0.1 datacollector-dre.dt.hicloud.com
+127.0.0.1 decide.mixpanel.com
 127.0.0.1 dit.whatsapp.net
 127.0.0.1 dlsdk.appsflyer.com
 127.0.0.1 dmp.adform.net
