@@ -4,7 +4,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version (also shows last update as YYYYMMDD): 20221117
+# Version (also shows last update as YYYYMMDD): 20221118
 # Scanned apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
  
 127.0.0.1 localhost
@@ -66,6 +66,7 @@
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile-sdk-config.gservice.emarsys.net
 127.0.0.1 o1142666.ingest.sentry.io
+127.0.0.1 o244019.ingest.sentry.io
 127.0.0.1 o516780.ingest.sentry.io
 127.0.0.1 pnsdkapi.turktelekom.com.tr
 127.0.0.1 pornhdr.cf
@@ -89,6 +90,7 @@
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 ssl.google-analytics.com
+127.0.0.1 static.doubleclick.net
 127.0.0.1 static.fd-api.com
 127.0.0.1 static.lcwaikiki.com
 127.0.0.1 static.xx.fbcdn.net
