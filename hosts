@@ -24,9 +24,9 @@
 127.0.0.1 api.storyly.io
 127.0.0.1 api2.branch.io
 127.0.0.1 api3.siftscience.com
-127.0.0.1 app.adjust.world
 127.0.0.1 app.adjust.com
 127.0.0.1 app.adjust.net.in
+127.0.0.1 app.adjust.world
 127.0.0.1 app-measurement.com
 127.0.0.1 app.tr.adjust.com
 127.0.0.1 athena-event-provider.n11.com
@@ -141,6 +141,7 @@
 127.0.0.1 vidstat.taboola.com
 127.0.0.1 widget.perfectmarket.com
 127.0.0.1 ws.sahibinden.com
+127.0.0.1 www.clarity.ms
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googleadservices.com
 127.0.0.1 www.googleoptimize.com
