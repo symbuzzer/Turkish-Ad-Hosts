@@ -12,6 +12,7 @@
 # --- [ START ] --- #
 
 127.0.0.1 a.teads.tv
+127.0.0.1 aax-eu.amazon.com.tr
 127.0.0.1 adform.net
 127.0.0.1 adfp.fcloud.com.tr
 127.0.0.1 adv.sec.intl.miui.com
@@ -43,6 +44,7 @@
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn-settings.appsflyersdk.com
 127.0.0.1 cdn-settings.segment.com
+127.0.0.1 collect.dolap.com
 127.0.0.1 collect.trendyol.com
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 configv2.unityads.unity3d.com
@@ -50,10 +52,13 @@
 127.0.0.1 connect-dre.hispace.hicloud.com
 127.0.0.1 conversions.appsflyer.com
 127.0.0.1 creativecdn.com
+127.0.0.1 d.applvn.com
 127.0.0.1 data.flurry.com
 127.0.0.1 data.mistat.intl.xiaomi.com
 127.0.0.1 datacollector-dre.dt.hicloud.com
 127.0.0.1 decide.mixpanel.com
+127.0.0.1 device-metrics-us.amazon.com
+127.0.0.1 device-metrics-us-2.amazon.com
 127.0.0.1 dit.whatsapp.net
 127.0.0.1 dlsdk.appsflyer.com
 127.0.0.1 dmp.adform.net
@@ -62,6 +67,7 @@
 127.0.0.1 event-collector.analytics.onedio.com
 127.0.0.1 expo.io
 127.0.0.1 firebase-settings.crashlytics.com
+127.0.0.1 garantibbva.api.dataroid.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 grs.dbankcloud.asia
 127.0.0.1 grs.dbankcloud.cn
@@ -86,11 +92,14 @@
 127.0.0.1 mobile.useinsider.com
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile-sdk-config.gservice.emarsys.net
+127.0.0.1 ms.applovin.com
+127.0.0.1 ms.applvn.com
 127.0.0.1 netperform-is.vodafone.com.tr
 127.0.0.1 o109294.ingest.sentry.io
 127.0.0.1 o1142666.ingest.sentry.io
 127.0.0.1 o244019.ingest.sentry.io
 127.0.0.1 o516780.ingest.sentry.io
+127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 pghub.io
 127.0.0.1 pnsdkapi.turktelekom.com.tr
 127.0.0.1 pornhdr.cf
@@ -106,6 +115,7 @@
 127.0.0.1 review-rating.mncdn.com
 127.0.0.1 rosenberg.appmetrica.yandex.net
 127.0.0.1 router.miwifi.com
+127.0.0.1 rt.applovin.com
 127.0.0.1 rt.visilabs.net
 127.0.0.1 s.go-mpulse.net
 127.0.0.1 s.visilabs.net
@@ -121,6 +131,7 @@
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 static.ads-twitter.com
+127.0.0.1 static.cloudflareinsights.com
 127.0.0.1 static.criteo.net
 127.0.0.1 static.doubleclick.net
 127.0.0.1 static.fd-api.com
