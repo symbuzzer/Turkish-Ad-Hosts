@@ -67,6 +67,7 @@
 127.0.0.1 event-collector.analytics.onedio.com
 127.0.0.1 expo.io
 127.0.0.1 firebase-settings.crashlytics.com
+127.0.0.1 fls-na.amazon.com
 127.0.0.1 garantibbva.api.dataroid.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 grs.dbankcloud.asia
@@ -85,6 +86,7 @@
 127.0.0.1 laquesis.data.olxcdn.com
 127.0.0.1 launches.appsflyer.com
 127.0.0.1 lgr.visilabs.net
+127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 mbls.visilabs.net
 127.0.0.1 mc.yandex.ru
 127.0.0.1 me-client.eservice.emarsys.net
@@ -117,6 +119,7 @@
 127.0.0.1 router.miwifi.com
 127.0.0.1 rt.applovin.com
 127.0.0.1 rt.visilabs.net
+127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 s.go-mpulse.net
 127.0.0.1 s.visilabs.net
 127.0.0.1 s2s.adjust.com
