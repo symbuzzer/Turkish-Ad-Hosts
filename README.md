@@ -25,10 +25,12 @@ Scanned apps / Taranan uygulamalar:
 - MIUI (13) işletim sistemi ve uygulamaları  
 - Android (12) işletim sistemi ve uygulamaları  
 - A101 Plus (Android)  
+- Av. Ali BEYAZ (Android/WEB)  
 - Canlı Döviz (Android)  
 - Celse (Android)  
 - Çiçeksepeti (Android)  
 - DeFacto (Android)  
+- Dio (Android/WEB)  
 - e-Devlet Kapısı (Android)  
 - ekşi sözlük (Android)  
 - FLO (Android)  
