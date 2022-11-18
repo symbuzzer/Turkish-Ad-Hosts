@@ -45,6 +45,7 @@
 127.0.0.1 collect.trendyol.com
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 configv2.unityads.unity3d.com
+127.0.0.1 connect-dre.dbankcloud.cn
 127.0.0.1 connect-dre.hispace.hicloud.com
 127.0.0.1 conversions.appsflyer.com
 127.0.0.1 creativecdn.com
@@ -54,11 +55,17 @@
 127.0.0.1 dit.whatsapp.net
 127.0.0.1 dlsdk.appsflyer.com
 127.0.0.1 dmp.adform.net
+127.0.0.1 dtm-dre.platform.dbankcloud.cn
 127.0.0.1 eturkcell.netmera.com
 127.0.0.1 event-collector.analytics.onedio.com
 127.0.0.1 expo.io
 127.0.0.1 firebase-settings.crashlytics.com
 127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 grs.dbankcloud.asia
+127.0.0.1 grs.dbankcloud.cn
+127.0.0.1 grs.dbankcloud.com
+127.0.0.1 grs.dbankcloud.eu
+127.0.0.1 grs.platform.dbankcloud.ru
 127.0.0.1 gum.criteo.com
 127.0.0.1 hstats.hepsiburada.com
 127.0.0.1 imasdk.googleapis.com
@@ -86,6 +93,7 @@
 127.0.0.1 pornhdr.cf
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 push.dengage.com
+127.0.0.1 pushs.euromsg.com
 127.0.0.1 px-conf.perimeterx.net
 127.0.0.1 radar.cedexis.com
 127.0.0.1 region1.google-analytics.com
