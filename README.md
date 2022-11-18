@@ -43,6 +43,7 @@ Scanned apps / Taranan uygulamalar:
 - MHRS (Android)  
 - MobilDeniz (Android)  
 - N11 (Android)  
+- Onedio (Android/WEB)  
 - PTT-UETS (Android)  
 - Sahibinden (Android)  
 - Trendyol (Android)  
