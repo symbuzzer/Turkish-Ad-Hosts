@@ -16,6 +16,7 @@
 127.0.0.1 adfp.fcloud.com.tr
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 analytics.halkbank.com.tr
+127.0.0.1 analytics.tiktok.com
 127.0.0.1 analyticsb2c.com
 127.0.0.1 api.leanplum.com
 127.0.0.1 api.segment.io
@@ -36,7 +37,9 @@
 127.0.0.1 beacons5.gvt2.com
 127.0.0.1 beacons5.gvt3.com
 127.0.0.1 bidder.criteo.com
-127.0.0.1 cdn.taboola.comA
+127.0.0.1 cdn.mookie1.com
+127.0.0.1 cdn.segmentify.com
+127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn-settings.appsflyersdk.com
 127.0.0.1 cdn-settings.segment.com
 127.0.0.1 collect.trendyol.com
@@ -44,12 +47,14 @@
 127.0.0.1 configv2.unityads.unity3d.com
 127.0.0.1 connect-dre.hispace.hicloud.com
 127.0.0.1 conversions.appsflyer.com
+127.0.0.1 creativecdn.com
 127.0.0.1 data.flurry.com
 127.0.0.1 data.mistat.intl.xiaomi.com
 127.0.0.1 datacollector-dre.dt.hicloud.com
 127.0.0.1 dit.whatsapp.net
 127.0.0.1 dlsdk.appsflyer.com
 127.0.0.1 dmp.adform.net
+127.0.0.1 eturkcell.netmera.com
 127.0.0.1 event-collector.analytics.onedio.com
 127.0.0.1 expo.io
 127.0.0.1 firebase-settings.crashlytics.com
@@ -104,9 +109,11 @@
 127.0.0.1 sentry.io
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 ssl.google-analytics.com
+127.0.0.1 static.ads-twitter.com
 127.0.0.1 static.criteo.net
 127.0.0.1 static.doubleclick.net
 127.0.0.1 static.fd-api.com
+127.0.0.1 static.hotjar.com
 127.0.0.1 static.lcwaikiki.com
 127.0.0.1 static.onedio.com
 127.0.0.1 static.xx.fbcdn.net
@@ -119,6 +126,7 @@
 127.0.0.1 tracking.olx-st.com
 127.0.0.1 tracking.intl.miui.com
 127.0.0.1 trk.storyly.io
+127.0.0.1 turkcell.api.useinsider.com
 127.0.0.1 vidstat.taboola.com
 127.0.0.1 widget.perfectmarket.com
 127.0.0.1 ws.sahibinden.com
@@ -126,5 +134,8 @@
 127.0.0.1 www.googleadservices.com
 127.0.0.1 www.googleoptimize.com
 127.0.0.1 wzrkt.com
+127.0.0.1 10138642.fls.doubleclick.net
+127.0.0.1 10978247.fls.doubleclick.net
+127.0.0.1 10978658.fls.doubleclick.net
 
 # --- [ END ] --- #
