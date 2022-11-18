@@ -11,6 +11,8 @@
  
 # --- [ START ] --- #
 
+127.0.0.1 a.teads.tv
+127.0.0.1 adform.net
 127.0.0.1 adfp.fcloud.com.tr
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 analytics.halkbank.com.tr
@@ -34,6 +36,7 @@
 127.0.0.1 beacons5.gvt2.com
 127.0.0.1 beacons5.gvt3.com
 127.0.0.1 bidder.criteo.com
+127.0.0.1 cdn.taboola.comA
 127.0.0.1 cdn-settings.appsflyersdk.com
 127.0.0.1 cdn-settings.segment.com
 127.0.0.1 collect.trendyol.com
@@ -46,6 +49,8 @@
 127.0.0.1 datacollector-dre.dt.hicloud.com
 127.0.0.1 dit.whatsapp.net
 127.0.0.1 dlsdk.appsflyer.com
+127.0.0.1 dmp.adform.net
+127.0.0.1 event-collector.analytics.onedio.com
 127.0.0.1 expo.io
 127.0.0.1 firebase-settings.crashlytics.com
 127.0.0.1 googleads.g.doubleclick.net
@@ -60,14 +65,17 @@
 127.0.0.1 launches.appsflyer.com
 127.0.0.1 lgr.visilabs.net
 127.0.0.1 mbls.visilabs.net
+127.0.0.1 mc.yandex.ru
 127.0.0.1 me-client.eservice.emarsys.net
 127.0.0.1 mobile.eum-appdynamics.com
 127.0.0.1 mobile.useinsider.com
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile-sdk-config.gservice.emarsys.net
+127.0.0.1 o109294.ingest.sentry.io
 127.0.0.1 o1142666.ingest.sentry.io
 127.0.0.1 o244019.ingest.sentry.io
 127.0.0.1 o516780.ingest.sentry.io
+127.0.0.1 pghub.io
 127.0.0.1 pnsdkapi.turktelekom.com.tr
 127.0.0.1 pornhdr.cf
 127.0.0.1 pubads.g.doubleclick.net
@@ -75,6 +83,7 @@
 127.0.0.1 px-conf.perimeterx.net
 127.0.0.1 radar.cedexis.com
 127.0.0.1 region1.google-analytics.com
+127.0.0.1 region1.analytics.google.com
 127.0.0.1 register.appsflyer.com
 127.0.0.1 review-rating.mncdn.com
 127.0.0.1 router.miwifi.com
@@ -88,20 +97,28 @@
 127.0.0.1 sdk.fra-01.braze.eu
 127.0.0.1 sdkapi.netmera.com
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
+127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 sentry.io
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 ssl.google-analytics.com
+127.0.0.1 static.criteo.net
 127.0.0.1 static.doubleclick.net
 127.0.0.1 static.fd-api.com
 127.0.0.1 static.lcwaikiki.com
 127.0.0.1 static.xx.fbcdn.net
 127.0.0.1 statics.olx.com.tr
+127.0.0.1 stats.g.doubleclick.net
+127.0.0.1 s1.adform.net
+127.0.0.1 s8t.teads.tv
 127.0.0.1 tracking.olx-st.com
 127.0.0.1 tracking.intl.miui.com
 127.0.0.1 trk.storyly.io
+127.0.0.1 vidstat.taboola.com
+127.0.0.1 widget.perfectmarket.com
 127.0.0.1 ws.sahibinden.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googleadservices.com
+127.0.0.1 www.googleoptimize.com
 127.0.0.1 wzrkt.com
 
 # --- [ END ] --- #
