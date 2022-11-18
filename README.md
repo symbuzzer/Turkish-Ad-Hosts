@@ -25,6 +25,7 @@ Scanned apps / Taranan uygulamalar:
 - MIUI (13) işletim sistemi ve uygulamaları  
 - Android (12) işletim sistemi ve uygulamaları  
 - A101 Plus (Android)  
+- Akbank (Android)  
 - Av. Ali BEYAZ (Android/WEB)  
 - Canlı Döviz (Android)  
 - Celse (Android)  
@@ -48,6 +49,7 @@ Scanned apps / Taranan uygulamalar:
 - MobilDeniz (Android)  
 - N11 (Android)  
 - Onedio (Android/WEB)  
+- Paycell (Android)  
 - PTT-UETS (Android)  
 - Sahibinden (Android)  
 - Trendyol (Android)  
