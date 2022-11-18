@@ -71,6 +71,7 @@
 127.0.0.1 mobile.useinsider.com
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile-sdk-config.gservice.emarsys.net
+127.0.0.1 netperform-is.vodafone.com.tr
 127.0.0.1 o109294.ingest.sentry.io
 127.0.0.1 o1142666.ingest.sentry.io
 127.0.0.1 o244019.ingest.sentry.io
@@ -112,6 +113,7 @@
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 s1.adform.net
 127.0.0.1 s8t.teads.tv
+127.0.0.1 tags.tiqcdn.com
 127.0.0.1 tpx.tesseradigital.com
 127.0.0.1 tracking.olx-st.com
 127.0.0.1 tracking.intl.miui.com
