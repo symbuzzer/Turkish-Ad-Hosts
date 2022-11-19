@@ -11,7 +11,7 @@
 [TR]  
 - Türk menşeli firmalar ve kuruluşlara ait mobil uygulamalardaki (ve muhtemelen WEB sayfalarındakileri) reklam ağlarını engellemek için gerekli hosts dosyası...  
 - Bu liste, bütün uygulamalar tek tek denenerek ortaya çıkan DNS adreslerinin incelenmesiyle oluşturulmuştur.  
-- Favori reklam engelleme uygulamanıza ve tarayıcı eklentinize "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts" linkini ekleyin.  
+- Favori reklam engelleme uygulamanıza veya tarayıcı eklentinize "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts" linkini ekleyin.  
 - Eğer bir siteyi engelleme listesine eklemek veya çıkarmak istiyorsanız veya taranması için uygulama önerecekseniz, issue oluşturun.  
 - Bu liste günlük olarak güncellenmeye çalışılacaktır.  
 - iOS cihazım olmadığı için iOS'a destek veremiyorum.  
