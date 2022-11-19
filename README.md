@@ -27,6 +27,7 @@ Scanned apps / Taranan uygulamalar:
 - MIUI (13) işletim sistemi ve uygulamaları  
 - Android (12) işletim sistemi ve uygulamaları  
 - Android Google Play servisleri  
+- A101 (Android)  
 - A101 Plus (Android)  
 - Akbank (Android)  
 - Amazon Shopping (Android)  
@@ -37,12 +38,14 @@ Scanned apps / Taranan uygulamalar:
 - Canlı Döviz (Android)  
 - Celse (Android)  
 - Cepte Şok (Android)  
+- Cimri (Android)  
 - Çiçeksepeti (Android)  
 - DeFacto (Android)  
 - Dio (Android/WEB)  
 - Dolap (Android)  
 - e-Devlet Kapısı (Android)  
 - ekşi sözlük (Android)  
+- Enpara (Android)  
 - FLO (Android)  
 - Garanti BBVA (Android)  
 - getir (Android)  
