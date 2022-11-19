@@ -22,6 +22,7 @@
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 adx.adform.net
 127.0.0.1 adservice.google.com
+127.0.0.1 adservice.google.com.tr
 127.0.0.1 aip-cdn.sozcu.com.tr
 127.0.0.1 aip2.sozcu.com.tr
 127.0.0.1 analytics.halkbank.com.tr
@@ -50,6 +51,7 @@
 127.0.0.1 bidder.criteo.com
 127.0.0.1 cdn.cookielaw.org
 127.0.0.1 cdn.mookie1.com
+127.0.0.1 cdn.scarabresearch.com
 127.0.0.1 cdn.segmentify.com
 127.0.0.1 cdn.sift.com
 127.0.0.1 cdn.taboola.com
@@ -154,6 +156,7 @@
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 sentry.io
 127.0.0.1 settings.crashlytics.com
+127.0.0.1 signals.carrefoursa.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 stags.bluekai.com
 127.0.0.1 static.ads-twitter.com
