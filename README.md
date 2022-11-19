@@ -2,7 +2,7 @@
   
 [EN]  
 - The hosts file required to block advertising networks on mobile applications (and probably WEB pages) of Turkish companies and organizations...  
-- Also, I try to add services that are popular in Turkey as much as possible.  
+- Also, I try to add foreign services that are popular in Turkey as much as possible.  
 - This list was created by examining the DNS addresses that came up by trying all the applications one by one.  
 - Add "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts" url to your favorite adblocker app or browser extension.   
 - If you want to add or remove a site from the block list or suggest app for scanning, please create issue.  
@@ -11,7 +11,7 @@
   
 [TR]  
 - Türk menşeli firmalar ve kuruluşlara ait mobil uygulamalardaki (ve muhtemelen WEB sayfalarındakileri) reklam ağlarını engellemek için gerekli hosts dosyası...  
-- Ayrıca Türkiye'de popüler olarak kullanılan servisleri de olabildiğince eklemeye çalışıyorum.  
+- Ayrıca Türkiye'de popüler olarak kullanılan yabancı servisleri de olabildiğince eklemeye çalışıyorum.  
 - Bu liste, bütün uygulamalar tek tek denenerek ortaya çıkan DNS adreslerinin incelenmesiyle oluşturulmuştur.  
 - Favori reklam engelleme uygulamanıza veya tarayıcı eklentinize "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts" linkini ekleyin.  
 - Eğer bir siteyi engelleme listesine eklemek veya çıkarmak istiyorsanız veya taranması için uygulama önerecekseniz, issue oluşturun.  
