@@ -19,6 +19,7 @@
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 adform.net
 127.0.0.1 adfp.fcloud.com.tr
+127.0.0.1 adl.mynetreklam.com
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 adx.adform.net
 127.0.0.1 adservice.google.com
@@ -51,6 +52,7 @@
 127.0.0.1 bidder.criteo.com
 127.0.0.1 browser.events.data.microsoft.com
 127.0.0.1 cdn.cookielaw.org
+127.0.0.1 cdn.insurads.com
 127.0.0.1 cdn.mookie1.com
 127.0.0.1 cdn.scarabresearch.com
 127.0.0.1 cdn.segmentify.com
@@ -130,6 +132,7 @@
 127.0.0.1 pghub.io
 127.0.0.1 pnsdkapi.turktelekom.com.tr
 127.0.0.1 pornhdr.cf
+127.0.0.1 pub-sdk-cfg.criteo.com
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 push.dengage.com
 127.0.0.1 pushs.euromsg.com
