@@ -26,7 +26,7 @@ Problematic apps / Sorunlu uygulamalar:
 Scanned apps / Taranan uygulamalar:  
 - MIUI (13) işletim sistemi ve uygulamaları  
 - Android (12) işletim sistemi ve uygulamaları  
-- Android Google Play servisler  
+- Android Google Play servisleri  
 - A101 Plus (Android)  
 - Akbank (Android)  
 - Amazon Shopping (Android)  
