@@ -23,6 +23,7 @@
 127.0.0.1 adx.adform.net
 127.0.0.1 adservice.google.com
 127.0.0.1 aip-cdn.sozcu.com.tr
+127.0.0.1 aip2.sozcu.com.tr
 127.0.0.1 analytics.halkbank.com.tr
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 analyticsb2c.com
@@ -76,6 +77,7 @@
 127.0.0.1 dit.whatsapp.net
 127.0.0.1 dlsdk.appsflyer.com
 127.0.0.1 dmp.adform.net
+127.0.0.1 dmxleo.dailymotion.com
 127.0.0.1 dtm-dre.platform.dbankcloud.cn
 127.0.0.1 eturkcell.netmera.com
 127.0.0.1 event-collector.analytics.onedio.com
@@ -120,6 +122,7 @@
 127.0.0.1 o516780.ingest.sentry.io
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 pcdn.dengage.com
+127.0.0.1 pebed.dm-event.net
 127.0.0.1 pghub.io
 127.0.0.1 pnsdkapi.turktelekom.com.tr
 127.0.0.1 pornhdr.cf
