@@ -22,6 +22,7 @@
   
 Problematic apps / Sorunlu uygulamalar:  
 - İnat BOX (pornhdr.cf)  
+- A101  
   
 Scanned apps / Taranan uygulamalar:  
 - MIUI (13) işletim sistemi ve uygulamaları  
@@ -54,6 +55,7 @@ Scanned apps / Taranan uygulamalar:
 - Google Fotoğraflar (Android)  
 - Google Haritalar (Android)  
 - Google One (Android)  
+- Google Takvim (Android)  
 - Google TV (Android)  
 - Formula 1 (Android)  
 - GİB (Android)  
@@ -80,11 +82,14 @@ Scanned apps / Taranan uygulamalar:
 - PTT-UETS (Android)  
 - QNB Finansbank (Android)  
 - Sahibinden (Android/WEB)  
+- Send Files To TV (Android)  
 - Sözcü (Android/WEB)  
 - Telegram (Android)  
+- Trello (Android)  
 - Trendyol (Android)  
 - Turkcell (Android)  
 - Türk Telekom (Android)  
+- TwitchMod (Android)  
 - Uyap Doküman Editörü (Android)  
 - Vakıfbank (Android)  
 - Vodafone Yanımda (Android)  
