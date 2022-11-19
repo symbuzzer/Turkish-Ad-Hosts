@@ -8,15 +8,21 @@
 # Scanned apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 127.0.0.1 localhost
 # --- [ START ] --- #
+127.0.0.1 4431932.fls.doubleclick.net
+127.0.0.1 8065991.fls.doubleclick.net
 127.0.0.1 10138642.fls.doubleclick.net
+127.0.0.1 10776882.fls.doubleclick.net
 127.0.0.1 10978247.fls.doubleclick.net
 127.0.0.1 10978658.fls.doubleclick.net
 127.0.0.1 a.teads.tv
 127.0.0.1 aax-eu.amazon.com.tr
+127.0.0.1 ad.doubleclick.net
 127.0.0.1 adform.net
 127.0.0.1 adfp.fcloud.com.tr
 127.0.0.1 adv.sec.intl.miui.com
+127.0.0.1 adx.adform.net
 127.0.0.1 adservice.google.com
+127.0.0.1 aip-cdn.sozcu.com.tr
 127.0.0.1 analytics.halkbank.com.tr
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 analyticsb2c.com
@@ -41,8 +47,10 @@
 127.0.0.1 beacons5.gvt3.com
 127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 bidder.criteo.com
+127.0.0.1 cdn.cookielaw.org
 127.0.0.1 cdn.mookie1.com
 127.0.0.1 cdn.segmentify.com
+127.0.0.1 cdn.sift.com
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn-settings.appsflyersdk.com
 127.0.0.1 cdn-settings.segment.com
@@ -55,6 +63,7 @@
 127.0.0.1 connect-dre.dbankcloud.cn
 127.0.0.1 connect-dre.hispace.hicloud.com
 127.0.0.1 conversions.appsflyer.com
+127.0.0.1 cookie-cdn.cookiepro.com
 127.0.0.1 creativecdn.com
 127.0.0.1 d.applvn.com
 127.0.0.1 data.flurry.com
@@ -63,16 +72,19 @@
 127.0.0.1 decide.mixpanel.com
 127.0.0.1 device-metrics-us.amazon.com
 127.0.0.1 device-metrics-us-2.amazon.com
+127.0.0.1 devices.carnivalmobile.com
 127.0.0.1 dit.whatsapp.net
 127.0.0.1 dlsdk.appsflyer.com
 127.0.0.1 dmp.adform.net
 127.0.0.1 dtm-dre.platform.dbankcloud.cn
 127.0.0.1 eturkcell.netmera.com
 127.0.0.1 event-collector.analytics.onedio.com
+127.0.0.1 e2c43.gcp.gvt2.com
 127.0.0.1 expo.io
 127.0.0.1 firebase-settings.crashlytics.com
 127.0.0.1 fls-na.amazon.com
 127.0.0.1 garantibbva.api.dataroid.com
+127.0.0.1 gatr.hit.gemius.pl
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 grs.dbankcloud.asia
 127.0.0.1 grs.dbankcloud.cn
@@ -103,9 +115,11 @@
 127.0.0.1 netperform-is.vodafone.com.tr
 127.0.0.1 o109294.ingest.sentry.io
 127.0.0.1 o1142666.ingest.sentry.io
+127.0.0.1 o1277943.ingest.sentry.io
 127.0.0.1 o244019.ingest.sentry.io
 127.0.0.1 o516780.ingest.sentry.io
 127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 pcdn.dengage.com
 127.0.0.1 pghub.io
 127.0.0.1 pnsdkapi.turktelekom.com.tr
 127.0.0.1 pornhdr.cf
@@ -127,6 +141,7 @@
 127.0.0.1 s.go-mpulse.net
 127.0.0.1 s.visilabs.net
 127.0.0.1 s2s.adjust.com
+127.0.0.1 sb.scorecardresearch.com
 127.0.0.1 sdk-api-v1.singular.net
 127.0.0.1 sdk.iad-01.braze.com
 127.0.0.1 sdk.iad-06.braze.com
@@ -137,6 +152,7 @@
 127.0.0.1 sentry.io
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 ssl.google-analytics.com
+127.0.0.1 stags.bluekai.com
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 static.cloudflareinsights.com
 127.0.0.1 static.criteo.net
@@ -145,12 +161,13 @@
 127.0.0.1 static.hotjar.com
 127.0.0.1 static.lcwaikiki.com
 127.0.0.1 static.onedio.com
-127.0.0.1 static.sahibinden.com
 127.0.0.1 static.xx.fbcdn.net
 127.0.0.1 statics.olx.com.tr
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 s1.adform.net
 127.0.0.1 s8t.teads.tv
+127.0.0.1 tags.bluekai.com
+127.0.0.1 tags.bkrtx.com
 127.0.0.1 tags.tiqcdn.com
 127.0.0.1 td.doubleclick.net
 127.0.0.1 tpc.googlesyndication.com
