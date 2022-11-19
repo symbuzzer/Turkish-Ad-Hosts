@@ -66,6 +66,7 @@ Scanned apps / Taranan uygulamalar:
 - Microsoft Word (Android)  
 - MobilDeniz (Android)  
 - Multi-TIFF Viewer (Android)  
+- Mynet (Android)  
 - N11 (Android)  
 - Onedio (Android/WEB)  
 - Papara (Android)  
