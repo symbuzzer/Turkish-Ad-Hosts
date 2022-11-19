@@ -31,6 +31,8 @@
 127.0.0.1 analyticsb2c.com
 127.0.0.1 api.leanplum.com
 127.0.0.1 api.mixpanel.com
+127.0.0.1 api.nopbreak.ru
+127.0.0.1 api.personaclick.com
 127.0.0.1 api.segment.io
 127.0.0.1 api.storyly.io
 127.0.0.1 api2.branch.io
@@ -127,6 +129,7 @@
 127.0.0.1 o1277943.ingest.sentry.io
 127.0.0.1 o244019.ingest.sentry.io
 127.0.0.1 o516780.ingest.sentry.io
+127.0.0.1 o64293.ingest.sentry.io
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 pcdn.dengage.com
 127.0.0.1 pebed.dm-event.net
@@ -140,8 +143,9 @@
 127.0.0.1 pushs.euromsg.com
 127.0.0.1 px-conf.perimeterx.net
 127.0.0.1 radar.cedexis.com
-127.0.0.1 region1.google-analytics.com
 127.0.0.1 region1.analytics.google.com
+127.0.0.1 region1.app-measurement.com
+127.0.0.1 region1.google-analytics.com
 127.0.0.1 register.appsflyer.com
 127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 review-rating.mncdn.com
