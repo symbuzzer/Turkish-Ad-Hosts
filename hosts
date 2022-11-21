@@ -3,7 +3,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20221120
+# Version: 20221121
 # (Version also shows update date as YYYYMMDD)
 # Scanned apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 127.0.0.1 localhost
@@ -17,6 +17,7 @@
 127.0.0.1 a.teads.tv
 127.0.0.1 aax-eu.amazon.com.tr
 127.0.0.1 ad.doubleclick.net
+127.0.0.1 ad.medyanetads.com
 127.0.0.1 ad-cdn.bilgin.pro
 127.0.0.1 ad01.tmgrup.com.tr
 127.0.0.1 adform.net
@@ -60,6 +61,7 @@
 127.0.0.1 cdn.efilli.com
 127.0.0.1 cdn.insurads.com
 127.0.0.1 cdn.mookie1.com
+127.0.0.1 cdn.netmera-web.com
 127.0.0.1 cdn.scarabresearch.com
 127.0.0.1 cdn.segmentify.com
 127.0.0.1 cdn.serve.admatic.com.tr
@@ -101,12 +103,14 @@
 127.0.0.1 ecdn.firstimpression.io
 127.0.0.1 eturkcell.netmera.com
 127.0.0.1 event-collector.analytics.onedio.com
+127.0.0.1 e2c16.gcp.gvt2.com
 127.0.0.1 e2c43.gcp.gvt2.com
 127.0.0.1 expo.io
 127.0.0.1 firebase-settings.crashlytics.com
 127.0.0.1 fls-na.amazon.com
 127.0.0.1 garantibbva.api.dataroid.com
 127.0.0.1 gatr.hit.gemius.pl
+127.0.0.1 geoloc.hurriyet.com.tr
 127.0.0.1 google-analytics.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 grs.dbankcloud.asia
@@ -122,6 +126,7 @@
 127.0.0.1 inapps.appsflyer.com
 127.0.0.1 ipcheck.tmgrup.com.tr
 127.0.0.1 iscep-stories.commencis.com
+127.0.0.1 js.agkn.com
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 jsc.idealmedia.io
 127.0.0.1 laquesis.data.olxcdn.com
@@ -213,6 +218,7 @@
 127.0.0.1 trk.storyly.io
 127.0.0.1 turkcell.api.useinsider.com
 127.0.0.1 vidstat.taboola.com
+127.0.0.1 widget.engageya.com
 127.0.0.1 widget.perfectmarket.com
 127.0.0.1 ws.sahibinden.com
 127.0.0.1 www.clarity.ms
