@@ -126,6 +126,7 @@
 127.0.0.1 grs.platform.dbankcloud.ru
 127.0.0.1 gum.criteo.com
 127.0.0.1 hstats.hepsiburada.com
+127.0.0.1 i.isnssdk.com
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 img.ekstat.com
 127.0.0.1 in.appcenter.ms
@@ -138,6 +139,7 @@
 127.0.0.1 laquesis.data.olxcdn.com
 127.0.0.1 launches.appsflyer.com
 127.0.0.1 lgr.visilabs.net
+127.0.0.1 log-va.tiktokv.com
 127.0.0.1 ls.hit.gemius.pl
 127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 mbls.visilabs.net
@@ -148,6 +150,9 @@
 127.0.0.1 mobile.useinsider.com
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile-sdk-config.gservice.emarsys.net
+127.0.0.1 mon.isnssdk.com
+127.0.0.1 mon.tiktokv.com
+127.0.0.1 mon-va.tiktokv.com
 127.0.0.1 ms.applovin.com
 127.0.0.1 ms.applvn.com
 127.0.0.1 netperform-is.vodafone.com.tr
