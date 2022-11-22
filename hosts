@@ -3,7 +3,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20221121
+# Version: 20221122
 # (Version also shows update date as YYYYMMDD)
 # Scanned apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 127.0.0.1 localhost
@@ -57,12 +57,16 @@
 127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 bidder.criteo.com
 127.0.0.1 browser.events.data.microsoft.com
+127.0.0.1 cdn.adhouse.pro
 127.0.0.1 cdn.cookielaw.org
 127.0.0.1 cdn.efilli.com
+127.0.0.1 cdn.eksiup.com
 127.0.0.1 cdn.insurads.com
+127.0.0.1 cdn.makroo.com
 127.0.0.1 cdn.mookie1.com
 127.0.0.1 cdn.netmera-web.com
 127.0.0.1 cdn.scarabresearch.com
+127.0.0.1 cdn.segmenthub.com
 127.0.0.1 cdn.segmentify.com
 127.0.0.1 cdn.serve.admatic.com.tr
 127.0.0.1 cdn.sift.com
@@ -101,6 +105,7 @@
 127.0.0.1 dygassets.dygdigital.com
 127.0.0.1 ecdn.analysis.fi
 127.0.0.1 ecdn.firstimpression.io
+127.0.0.1 emea.hhkld.com
 127.0.0.1 eturkcell.netmera.com
 127.0.0.1 event-collector.analytics.onedio.com
 127.0.0.1 e2c16.gcp.gvt2.com
@@ -110,6 +115,7 @@
 127.0.0.1 fls-na.amazon.com
 127.0.0.1 garantibbva.api.dataroid.com
 127.0.0.1 gatr.hit.gemius.pl
+127.0.0.1 gdetr.hit.gemius.pl
 127.0.0.1 geoloc.hurriyet.com.tr
 127.0.0.1 google-analytics.com
 127.0.0.1 googleads.g.doubleclick.net
@@ -132,6 +138,7 @@
 127.0.0.1 laquesis.data.olxcdn.com
 127.0.0.1 launches.appsflyer.com
 127.0.0.1 lgr.visilabs.net
+127.0.0.1 ls.hit.gemius.pl
 127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 mbls.visilabs.net
 127.0.0.1 mc.yandex.ru
@@ -144,6 +151,7 @@
 127.0.0.1 ms.applovin.com
 127.0.0.1 ms.applvn.com
 127.0.0.1 netperform-is.vodafone.com.tr
+127.0.0.1 ntm.netmera-web.com
 127.0.0.1 ntv.api.useinsider.com
 127.0.0.1 o64293.ingest.sentry.io
 127.0.0.1 o109294.ingest.sentry.io
@@ -203,7 +211,10 @@
 127.0.0.1 static.onedio.com
 127.0.0.1 static.xx.fbcdn.net
 127.0.0.1 statics.olx.com.tr
+127.0.0.1 statistics.daktilo.com
+127.0.0.1 stats.birgun.net
 127.0.0.1 stats.g.doubleclick.net
+127.0.0.1 stats.wp.com
 127.0.0.1 s1.adform.net
 127.0.0.1 s8t.teads.tv
 127.0.0.1 tags.bluekai.com
