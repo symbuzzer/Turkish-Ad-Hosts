@@ -98,6 +98,7 @@ Scanned apps / Taranan uygulamalar:
 - TwitchMod (Android)  
 - Twitter (Android)  
 - Uyap Doküman Editörü (Android)  
+- Uyap Vatandaş Portal (Android)  
 - Vakıfbank (Android)  
 - Vodafone Yanımda (Android)  
 - VLC (Android)  
