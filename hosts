@@ -21,6 +21,8 @@
 127.0.0.1 ad.medyanetads.com
 127.0.0.1 ad-cdn.bilgin.pro
 127.0.0.1 ad01.tmgrup.com.tr
+127.0.0.1 ade.googlesyndication.com
+127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 adform.net
 127.0.0.1 adfp.fcloud.com.tr
 127.0.0.1 adl.mynetreklam.com
@@ -58,6 +60,7 @@
 127.0.0.1 beacons4.gvt2.com
 127.0.0.1 beacons5.gvt2.com
 127.0.0.1 beacons5.gvt3.com
+127.0.0.1 beacon-nf.rubiconproject.com
 127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 bidder.criteo.com
 127.0.0.1 browser.events.data.microsoft.com
@@ -119,8 +122,10 @@
 127.0.0.1 expo.io
 127.0.0.1 firebase-settings.crashlytics.com
 127.0.0.1 fls-na.amazon.com
+127.0.0.1 fra1-ib.adnxs.com
 127.0.0.1 garantibbva.api.dataroid.com
 127.0.0.1 gatr.hit.gemius.pl
+127.0.0.1 gcdn.2mdn.net
 127.0.0.1 gdetr.hit.gemius.pl
 127.0.0.1 geoloc.hurriyet.com.tr
 127.0.0.1 google-analytics.com
@@ -156,6 +161,7 @@
 127.0.0.1 me-client.eservice.emarsys.net
 127.0.0.1 mobile.eum-appdynamics.com
 127.0.0.1 mobile.useinsider.com
+127.0.0.1 mobile.yandexadexchange.net
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile-sdk-config.gservice.emarsys.net
 127.0.0.1 mon.isnssdk.com
