@@ -3,7 +3,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20221122
+# Version: 20221124
 # (Version also shows update date as YYYYMMDD)
 # Scanned apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 127.0.0.1 localhost
@@ -14,6 +14,7 @@
 127.0.0.1 10776882.fls.doubleclick.net
 127.0.0.1 10978247.fls.doubleclick.net
 127.0.0.1 10978658.fls.doubleclick.net
+127.0.0.1 a.pub.network
 127.0.0.1 a.teads.tv
 127.0.0.1 aax-eu.amazon.com.tr
 127.0.0.1 ad.doubleclick.net
@@ -28,11 +29,14 @@
 127.0.0.1 adx.adform.net
 127.0.0.1 adservice.google.com
 127.0.0.1 adservice.google.com.tr
+127.0.0.1 adservice.google.gr
 127.0.0.1 aip-cdn.sozcu.com.tr
 127.0.0.1 aip2.sozcu.com.tr
 127.0.0.1 analytics.halkbank.com.tr
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 analyticsb2c.com
+127.0.0.1 api.ad.intl.xiaomi.com
+127.0.0.1 api.instabug.com
 127.0.0.1 api.leanplum.com
 127.0.0.1 api.mixpanel.com
 127.0.0.1 api.nopbreak.ru
@@ -139,6 +143,7 @@
 127.0.0.1 js.tagon.co
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 jsc.idealmedia.io
+127.0.0.1 k.intellitxt.com
 127.0.0.1 laquesis.data.olxcdn.com
 127.0.0.1 launches.appsflyer.com
 127.0.0.1 lgr.visilabs.net
@@ -169,6 +174,7 @@
 127.0.0.1 o1142666.ingest.sentry.io
 127.0.0.1 o1277943.ingest.sentry.io
 127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 partner.googleadservices.com
 127.0.0.1 pcdn.dengage.com
 127.0.0.1 pebed.dm-event.net
 127.0.0.1 per1.segmentify.com
@@ -196,6 +202,7 @@
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 s.go-mpulse.net
 127.0.0.1 s.visilabs.net
+127.0.0.1 s0.2mdn.net
 127.0.0.1 s2s.adjust.com
 127.0.0.1 sb.scorecardresearch.com
 127.0.0.1 sdk-api-v1.singular.net
@@ -204,6 +211,7 @@
 127.0.0.1 sdk.fra-01.braze.eu
 127.0.0.1 sdkapi.netmera.com
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
+127.0.0.1 secure.quantserve.com
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 sentry.io
 127.0.0.1 settings.crashlytics.com
