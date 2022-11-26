@@ -112,7 +112,5 @@ Scanned apps / Taranan uygulamalar:
 - VLC (Android)  
 - Whatsapp (Android)  
 - Yemeksepeti (Android)  
-- Youtube (Android)  
-- Youtube Music (Android)  
 - ZArchiver (Android)  
 - Ziraat Mobil (Android)
