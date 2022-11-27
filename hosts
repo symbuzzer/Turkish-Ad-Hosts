@@ -64,6 +64,7 @@
 127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 bidder.criteo.com
 127.0.0.1 browser.events.data.microsoft.com
+127.0.0.1 browser-http-intake.logs.datadoghq.eu
 127.0.0.1 cdn.adhouse.pro
 127.0.0.1 cdn.cookielaw.org
 127.0.0.1 cdn.efilli.com
@@ -136,6 +137,7 @@
 127.0.0.1 grs.dbankcloud.eu
 127.0.0.1 grs.platform.dbankcloud.ru
 127.0.0.1 gum.criteo.com
+127.0.0.1 hepsiburada01.wt-eu02.net
 127.0.0.1 hstats.hepsiburada.com
 127.0.0.1 i.isnssdk.com
 127.0.0.1 imasdk.googleapis.com
