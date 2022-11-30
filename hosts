@@ -182,6 +182,7 @@
 127.0.0.1 o1142666.ingest.sentry.io
 127.0.0.1 o1277943.ingest.sentry.io
 127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 panel.afyads.com
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 pcdn.dengage.com
 127.0.0.1 pebed.dm-event.net
@@ -202,6 +203,7 @@
 127.0.0.1 region1.app-measurement.com
 127.0.0.1 region1.google-analytics.com
 127.0.0.1 register.appsflyer.com
+127.0.0.1 reklamup.com
 127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 review-rating.mncdn.com
 127.0.0.1 rosenberg.appmetrica.yandex.net
