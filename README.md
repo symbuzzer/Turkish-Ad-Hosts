@@ -74,6 +74,7 @@ Scanned apps / Taranan uygulamalar:
 - İnat BOX (Android)  
 - İşCep (Android)  
 - Karaca (Android)  
+- Karar (Android)  
 - LC Waikiki (Android)  
 - letgo (Android)  
 - Magisk (Android)  
