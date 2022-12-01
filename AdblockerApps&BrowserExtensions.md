@@ -7,6 +7,7 @@
   - Select "VPN based ad blocker" If this option is not selectable, make sure disable "Always on VPN" from Android VPN settings.  
   - Add this link to "Location" section on "host sources": https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts and enter any "Label"  
   - Don't change "List format: BLOCK" and "Type: URL"  
+  - If you get a "failed to apply" error, try disconnecting the VPN and restarting the application.  
   - And finally ready to use  
   
  ANDROID APPLICATION (ROOTED):  
@@ -14,6 +15,7 @@
   - Select "Root based ad blocker" and give root permission to AdAway.
   - Add this link to "Location" section on "host sources": https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts and enter any "Label"  
   - Don't change "List format: BLOCK" and "Type: URL"  
+  - If you get a "failed to apply" error, try disconnecting the VPN and restarting the application.  
   - And finally ready to use  
    
  PC CHROME-BASED BROWSER EXTENSIONS:  
@@ -30,6 +32,7 @@
   - "VPN temelli reklam engelleyici"yi seçin. Eğer seçilebilir değilse Android VPN Ayarlarından "Her zaman açık VPN" seçeneğini kapatın.  
   - https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts linkini "host kaynakları" bölümündeki "Location" bölümüne herhangi bir "Label" girerek ekleyin.  
   - "List format: BLOCK" and "Type: URL" seçeneklerini değiştirmeyin.  
+  - Eğer "uygulanamadı" hatası alırsanız VPN bağlantısını kesip uygulamayı yeniden başlatıp deneyin.  
   - Ve nihayet kullanıma hazır  
 
  ANDROID UYGULAMASI (ROOTLU):  
@@ -37,6 +40,7 @@
   - "Root temelli reklam engelleyici"yi seçin ve root izni verin.    
   - https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts linkini "host kaynakları" bölümündeki "Location" bölümüne herhangi bir "Label" girerek ekleyin.  
   - "List format: BLOCK" and "Type: URL" seçeneklerini değiştirmeyin.  
+  - Eğer "uygulanamadı" hatası alırsanız VPN bağlantısını kesip uygulamayı yeniden başlatıp deneyin.  
   - Ve nihayet kullanıma hazır  
   
  PC CHROME TABANLI TARAYICI EKLENTİLERİ:  
