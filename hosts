@@ -17,6 +17,7 @@
 127.0.0.1 a.pub.network
 127.0.0.1 a.teads.tv
 127.0.0.1 aax-eu.amazon.com.tr
+127.0.0.1 acdn.adnxs.com
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.medyanetads.com
 127.0.0.1 ad-cdn.bilgin.pro
@@ -27,8 +28,10 @@
 127.0.0.1 adfp.fcloud.com.tr
 127.0.0.1 adl.mynetreklam.com
 127.0.0.1 ads.pubmatic.com
+127.0.0.1 ads-api.twitter.com
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 adx.adform.net
+127.0.0.1 ads.pro-market.net
 127.0.0.1 adservice.google.com
 127.0.0.1 adservice.google.com.tr
 127.0.0.1 adservice.google.gr
@@ -65,6 +68,8 @@
 127.0.0.1 bidder.criteo.com
 127.0.0.1 browser.events.data.microsoft.com
 127.0.0.1 browser-http-intake.logs.datadoghq.eu
+127.0.0.1 c.amazon-adsystem.com
+127.0.0.1 c2.taboola.com
 127.0.0.1 cdn.adhouse.pro
 127.0.0.1 cdn.cookielaw.org
 127.0.0.1 cdn.efilli.com
@@ -114,13 +119,14 @@
 127.0.0.1 dmxleo.dailymotion.com
 127.0.0.1 dtm-dre.platform.dbankcloud.cn
 127.0.0.1 dygassets.dygdigital.com
+127.0.0.1 e2c16.gcp.gvt2.com
+127.0.0.1 e2c43.gcp.gvt2.com
 127.0.0.1 ecdn.analysis.fi
 127.0.0.1 ecdn.firstimpression.io
 127.0.0.1 emea.hhkld.com
 127.0.0.1 eturkcell.netmera.com
+127.0.0.1 eus.rubiconproject.com
 127.0.0.1 event-collector.analytics.onedio.com
-127.0.0.1 e2c16.gcp.gvt2.com
-127.0.0.1 e2c43.gcp.gvt2.com
 127.0.0.1 expo.io
 127.0.0.1 firebase-settings.crashlytics.com
 127.0.0.1 fls-na.amazon.com
@@ -130,6 +136,7 @@
 127.0.0.1 gcdn.2mdn.net
 127.0.0.1 gdetr.hit.gemius.pl
 127.0.0.1 geoloc.hurriyet.com.tr
+127.0.0.1 go.ezodn.com
 127.0.0.1 google-analytics.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 grs.dbankcloud.asia
@@ -141,10 +148,12 @@
 127.0.0.1 hepsiburada01.wt-eu02.net
 127.0.0.1 hstats.hepsiburada.com
 127.0.0.1 i.isnssdk.com
+127.0.0.1 ib.adnxs.com
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 img.ekstat.com
 127.0.0.1 in.appcenter.ms
 127.0.0.1 inapps.appsflyer.com
+127.0.0.1 instant.page
 127.0.0.1 ipcheck.tmgrup.com.tr
 127.0.0.1 iscep-stories.commencis.com
 127.0.0.1 js.agkn.com
@@ -192,9 +201,11 @@
 127.0.0.1 per1.segmentify.com
 127.0.0.1 pghub.io
 127.0.0.1 pix.eu.criteo.net
+127.0.0.1 pixel.wp.com
 127.0.0.1 platform-api.sharethis.com
 127.0.0.1 pnsdkapi.turktelekom.com.tr
 127.0.0.1 pornhdr.cf
+127.0.0.1 prebid-server.rubiconproject.com
 127.0.0.1 predataclient.b-cdn.net
 127.0.0.1 pub-sdk-cfg.criteo.com
 127.0.0.1 pubads.g.doubleclick.net
@@ -202,6 +213,7 @@
 127.0.0.1 pushs.euromsg.com
 127.0.0.1 px-conf.perimeterx.net
 127.0.0.1 radar.cedexis.com
+127.0.0.1 referrer.disqus.com
 127.0.0.1 region1.analytics.google.com
 127.0.0.1 region1.app-measurement.com
 127.0.0.1 region1.google-analytics.com
@@ -245,13 +257,17 @@
 127.0.0.1 statistics.daktilo.com
 127.0.0.1 stats.birgun.net
 127.0.0.1 stats.g.doubleclick.net
+127.0.0.1 stats.vk-portal.net
 127.0.0.1 stats.wp.com
 127.0.0.1 s1.adform.net
 127.0.0.1 s8t.teads.tv
+127.0.0.1 tag.crsspxl.com
 127.0.0.1 tags.bluekai.com
 127.0.0.1 tags.bkrtx.com
 127.0.0.1 tags.tiqcdn.com
 127.0.0.1 td.doubleclick.net
+127.0.0.1 tempest.services.disqus.com
+127.0.0.1 top-fwz1.mail.ru
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 tpx.tesseradigital.com
 127.0.0.1 tr.hit.gemius.pl
@@ -263,10 +279,13 @@
 127.0.0.1 widget.cdn.vidyome.com
 127.0.0.1 widget.engageya.com
 127.0.0.1 widget.perfectmarket.com
+127.0.0.1 widgets.outbrain.com
 127.0.0.1 ws.sahibinden.com
 127.0.0.1 www.clarity.ms
+127.0.0.1 www.ezojs.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googleadservices.com
 127.0.0.1 www.googleoptimize.com
+127.0.0.1 www.tns-counter.ru
 127.0.0.1 wzrkt.com
 # --- [ END ] --- #
