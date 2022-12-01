@@ -26,14 +26,14 @@
 [TR]  
   
  ANDROID UYGULAMASI (ROOTSUZ):  
-  - AdAway'ı https://github.com/AdAway/AdAway/releases adresinden indirin ve kurun.  
+  - AdAway'ın son sürümünü https://github.com/AdAway/AdAway/releases adresinden indirin ve kurun.  
   - "VPN temelli reklam engelleyici"yi seçin. Eğer seçilebilir değilse Android VPN Ayarlarından "Her zaman açık VPN" seçeneğini kapatın.  
   - https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts linkini "host kaynakları" bölümündeki "Location" bölümüne herhangi bir etiket girerek ekleyin.  
   - "List format: BLOCK" and "Type: URL" seçeneklerini değiştirmeyin.  
   - Ve nihayet kullanıma hazır  
 
  ANDROID UYGULAMASI (ROOTLU):  
-  - AdAway'ı https://github.com/AdAway/AdAway/releases adresinden indirin ve kurun.  
+  - AdAway'ın son sürümünü https://github.com/AdAway/AdAway/releases adresinden indirin ve kurun.  
   - "Root temelli reklam engelleyici"yi seçin ve root izni verin.    
   - https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts linkini "host kaynakları" bölümündeki "Location" bölümüne herhangi bir etiket girerek ekleyin.  
   - "List format: BLOCK" and "Type: URL" seçeneklerini değiştirmeyin.  
