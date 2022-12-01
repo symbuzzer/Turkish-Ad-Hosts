@@ -5,14 +5,14 @@
  ANDROID APPLICATION (NOT-ROOTED):  
   - Download and install latest version of AdAway from: https://github.com/AdAway/AdAway/releases  
   - Select "VPN based ad blocker" If this option is not selectable, make sure disable "Always on VPN" from Android VPN settings.  
-  - Add this link to "host sources": https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts and enter any label.  
+  - Add this link to "Location" section on "host sources": https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts and enter any label.  
   - Don't change "List format: BLOCK" and "Type: URL"  
   - And finally ready to use  
   
  ANDROID APPLICATION (ROOTED):  
   - Download and install latest version of AdAway from: https://github.com/AdAway/AdAway/releases  
   - Select "Root based ad blocker" and give root permission to AdAway.
-  - Add this link to "host sources": https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts and enter any label.  
+  - Add this link to "Location" section on "host sources": https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts and enter any label.  
   - Don't change "List format: BLOCK" and "Type: URL"  
   - And finally ready to use  
    
@@ -28,14 +28,14 @@
  ANDROID UYGULAMASI (ROOTSUZ):  
   - AdAway'ı https://github.com/AdAway/AdAway/releases adresinden indirin ve kurun.  
   - "VPN temelli reklam engelleyici"yi seçin. Eğer seçilebilir değilse Android VPN Ayarlarından "Her zaman açık VPN" seçeneğini kapatın.  
-  - https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts linkini "host kaynakları" bölümüne herhangi bir etiket girerek ekleyin.  
+  - https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts linkini "host kaynakları" bölümündeki "Location" bölümüne herhangi bir etiket girerek ekleyin.  
   - "List format: BLOCK" and "Type: URL" seçeneklerini değiştirmeyin.  
   - Ve nihayet kullanıma hazır  
 
  ANDROID UYGULAMASI (ROOTLU):  
   - AdAway'ı https://github.com/AdAway/AdAway/releases adresinden indirin ve kurun.  
   - "Root temelli reklam engelleyici"yi seçin ve root izni verin.    
-  - https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts linkini "host kaynakları" bölümüne herhangi bir etiket girerek ekleyin.  
+  - https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts linkini "host kaynakları" bölümündeki "Location" bölümüne herhangi bir etiket girerek ekleyin.  
   - "List format: BLOCK" and "Type: URL" seçeneklerini değiştirmeyin.  
   - Ve nihayet kullanıma hazır  
   
