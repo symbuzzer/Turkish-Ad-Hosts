@@ -5,6 +5,7 @@
 - Also, I try to add foreign services that are popular in Turkey as much as possible.  
 - This list was created by examining the DNS addresses that came up by trying all the applications one by one.  
 - Add "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts" url to your favorite adblocker app or browser extension.   
+- You can see install guides from https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/AdblockerApps&BrowserExtensions.md  
 - If you want to add or remove a site from the block list or suggest app for scanning, please create issue.  
 - This list will be updated daily.  
 - I can't support iOS because I don't have an iOS-based device.  
@@ -14,6 +15,7 @@
 - Ayrıca Türkiye'de popüler olarak kullanılan yabancı servisleri de olabildiğince eklemeye çalışıyorum.  
 - Bu liste, bütün uygulamalar tek tek denenerek ortaya çıkan DNS adreslerinin incelenmesiyle oluşturulmuştur.  
 - Favori reklam engelleme uygulamanıza veya tarayıcı eklentinize "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts" linkini ekleyin.  
+- Yükleme rehberini https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/AdblockerApps&BrowserExtensions.md adresinden görebilirsiniz.  
 - Eğer bir siteyi engelleme listesine eklemek veya çıkarmak istiyorsanız veya taranması için uygulama önerecekseniz, issue oluşturun.  
 - Bu liste günlük olarak güncellenmeye çalışılacaktır.  
 - iOS cihazım olmadığı için iOS'a destek veremiyorum.  
