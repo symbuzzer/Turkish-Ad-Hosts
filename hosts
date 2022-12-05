@@ -4,7 +4,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20221202
+# Version: 20221205
 # (Version also shows update date as YYYYMMDD)
 # Scanned apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 127.0.0.1 localhost
@@ -21,6 +21,7 @@
 127.0.0.1 acdn.adnxs.com
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.medyanetads.com
+127.0.0.1 ad.plus
 127.0.0.1 ad-cdn.bilgin.pro
 127.0.0.1 ad01.tmgrup.com.tr
 127.0.0.1 ade.googlesyndication.com
@@ -32,15 +33,18 @@
 127.0.0.1 ads-api.twitter.com
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 adx.adform.net
+127.0.0.1 ads.adfox.ru
 127.0.0.1 ads.pro-market.net
 127.0.0.1 adservice.google.com
 127.0.0.1 adservice.google.com.tr
 127.0.0.1 adservice.google.gr
 127.0.0.1 aip-cdn.sozcu.com.tr
 127.0.0.1 aip2.sozcu.com.tr
+127.0.0.1 amer.hhkld.com
 127.0.0.1 analytics.halkbank.com.tr
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 analyticsb2c.com
+127.0.0.1 ap.lijit.com
 127.0.0.1 api.ad.intl.xiaomi.com
 127.0.0.1 api.instabug.com
 127.0.0.1 api.leanplum.com
@@ -89,6 +93,7 @@
 127.0.0.1 cdn.sift.com
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.unblockia.com
+127.0.0.1 cdn-api.admost.com
 127.0.0.1 cdn-settings.appsflyersdk.com
 127.0.0.1 cdn-settings.segment.com
 127.0.0.1 cdn2.bildirt.com
@@ -148,8 +153,10 @@
 127.0.0.1 grs.dbankcloud.eu
 127.0.0.1 grs.platform.dbankcloud.ru
 127.0.0.1 gum.criteo.com
+127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 hepsiburada01.wt-eu02.net
 127.0.0.1 hstats.hepsiburada.com
+127.0.0.1 htlb.casalemedia.com
 127.0.0.1 i.isnssdk.com
 127.0.0.1 ib.adnxs.com
 127.0.0.1 imasdk.googleapis.com
@@ -162,6 +169,7 @@
 127.0.0.1 js.agkn.com
 127.0.0.1 js.tagon.co
 127.0.0.1 js-agent.newrelic.com
+127.0.0.1 js-sec.indexww.com
 127.0.0.1 jsc.idealmedia.io
 127.0.0.1 k.intellitxt.com
 127.0.0.1 laquesis.data.olxcdn.com
@@ -171,10 +179,12 @@
 127.0.0.1 ls.hit.gemius.pl
 127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 mbls.visilabs.net
+127.0.0.1 mc.webvisor.org
 127.0.0.1 mc.yandex.ru
 127.0.0.1 mc2tnzs73p3554cjc7h876m-gfm4.device.marketingcloudapis.com
 127.0.0.1 mcfk02nd3k8q7w75g9yxxcc6yj20.device.marketingcloudapis.com
 127.0.0.1 me-client.eservice.emarsys.net
+127.0.0.1 med-api.admost.com
 127.0.0.1 mobile.eum-appdynamics.com
 127.0.0.1 mobile.useinsider.com
 127.0.0.1 mobile.yandexadexchange.net
@@ -183,12 +193,14 @@
 127.0.0.1 mon.isnssdk.com
 127.0.0.1 mon.tiktokv.com
 127.0.0.1 mon-va.tiktokv.com
+127.0.0.1 monorail-edge.shopifysvc.com
 127.0.0.1 ms.applovin.com
 127.0.0.1 ms.applvn.com
 127.0.0.1 mstm.motorsport.com
 127.0.0.1 netperform-is.vodafone.com.tr
 127.0.0.1 ntm.netmera-web.com
 127.0.0.1 ntv.api.useinsider.com
+127.0.0.1 o33249.ingest.sentry.io
 127.0.0.1 o64293.ingest.sentry.io
 127.0.0.1 o109294.ingest.sentry.io
 127.0.0.1 o244019.ingest.sentry.io
@@ -225,6 +237,7 @@
 127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 review-rating.mncdn.com
 127.0.0.1 rosenberg.appmetrica.yandex.net
+127.0.0.1 rotarb.bid
 127.0.0.1 router.miwifi.com
 127.0.0.1 rt.applovin.com
 127.0.0.1 rt.visilabs.net
@@ -232,13 +245,15 @@
 127.0.0.1 s.go-mpulse.net
 127.0.0.1 s.visilabs.net
 127.0.0.1 s0.2mdn.net
+127.0.0.1 s2.adform.net
 127.0.0.1 s2s.adjust.com
 127.0.0.1 samsungturkey.demdex.net
 127.0.0.1 sb.scorecardresearch.com
-127.0.0.1 sdk-api-v1.singular.net
 127.0.0.1 sdk.iad-01.braze.com
 127.0.0.1 sdk.iad-06.braze.com
 127.0.0.1 sdk.fra-01.braze.eu
+127.0.0.1 sdk.privacy-center.org
+127.0.0.1 sdk-api-v1.singular.net
 127.0.0.1 sdkapi.netmera.com
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 secure.adnxs.com
@@ -247,6 +262,7 @@
 127.0.0.1 sentry.io
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 signals.carrefoursa.com
+127.0.0.1 srvr.dmvs-apac.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 stags.bluekai.com
 127.0.0.1 static.ads-twitter.com
@@ -285,6 +301,7 @@
 127.0.0.1 widget.engageya.com
 127.0.0.1 widget.perfectmarket.com
 127.0.0.1 widgets.outbrain.com
+127.0.0.1 ws.batch.com
 127.0.0.1 ws.sahibinden.com
 127.0.0.1 www.clarity.ms
 127.0.0.1 www.ezojs.com
@@ -293,4 +310,5 @@
 127.0.0.1 www.googleoptimize.com
 127.0.0.1 www.tns-counter.ru
 127.0.0.1 wzrkt.com
+127.0.0.1 yastatic.net
 # --- [ END ] --- #
