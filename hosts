@@ -59,6 +59,7 @@
 127.0.0.1 app.adjust.com
 127.0.0.1 app.adjust.net.in
 127.0.0.1 app.adjust.world
+127.0.0.1 app.gelirartisi.com
 127.0.0.1 app-measurement.com
 127.0.0.1 app.tr.adjust.com
 127.0.0.1 athena-event-provider.n11.com
@@ -78,6 +79,7 @@
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 c2.taboola.com
 127.0.0.1 cdn.adhouse.pro
+127.0.0.1 cdn.adpushup.com
 127.0.0.1 cdn.cookielaw.org
 127.0.0.1 cdn.efilli.com
 127.0.0.1 cdn.eksiup.com
@@ -197,6 +199,7 @@
 127.0.0.1 ms.applovin.com
 127.0.0.1 ms.applvn.com
 127.0.0.1 mstm.motorsport.com
+127.0.0.1 nativespot.com
 127.0.0.1 netperform-is.vodafone.com.tr
 127.0.0.1 ntm.netmera-web.com
 127.0.0.1 ntv.api.useinsider.com
