@@ -4,7 +4,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20221205
+# Version: 20221206
 # (Version also shows update date as YYYYMMDD)
 # Scanned apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 127.0.0.1 localhost
@@ -101,6 +101,7 @@
 127.0.0.1 cdn2.bildirt.com
 127.0.0.1 certify-js.alexametrics.com
 127.0.0.1 cm.g.doubleclick.net
+127.0.0.1 cm.mgid.com
 127.0.0.1 collect.dolap.com
 127.0.0.1 collect.trendyol.com
 127.0.0.1 collector.github.com
@@ -146,6 +147,7 @@
 127.0.0.1 gcdn.2mdn.net
 127.0.0.1 gdetr.hit.gemius.pl
 127.0.0.1 geoloc.hurriyet.com.tr
+127.0.0.1 geolocation.onetrust.com
 127.0.0.1 go.ezodn.com
 127.0.0.1 google-analytics.com
 127.0.0.1 googleads.g.doubleclick.net
@@ -263,6 +265,7 @@
 127.0.0.1 secure.quantserve.com
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 sentry.io
+127.0.0.1 services.vlitag.com
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 signals.carrefoursa.com
 127.0.0.1 srvr.dmvs-apac.com
