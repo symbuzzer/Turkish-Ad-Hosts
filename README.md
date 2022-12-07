@@ -94,6 +94,7 @@ Scanned apps / Taranan uygulamalar:
 - OctoDroid (Android)  
 - Onedio (Android/WEB)  
 - Papara (Android)  
+- Param (Android)  
 - Paycell (Android)  
 - Proton VPN (Android)  
 - PTT-UETS (Android)  
