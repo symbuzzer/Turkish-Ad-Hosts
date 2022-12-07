@@ -24,7 +24,7 @@
   
 Problematic apps / Sorunlu uygulamalar:  
 - İnat BOX (pornhdr.cf)  
-- A101  
+- All Yandex apps (yastatic.net)  
   
 Scanned apps / Taranan uygulamalar:  
 - MIUI (13) işletim sistemi ve uygulamaları  
