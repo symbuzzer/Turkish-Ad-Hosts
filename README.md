@@ -22,9 +22,9 @@
   
 -------------------------------------------  
   
-Problematic apps / Sorunlu uygulamalar:  
-- İnat BOX (pornhdr.cf)  
-- All Yandex apps (yastatic.net)  
+[Problematic apps / Sorunlu uygulamalar](https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22)  
+  
+-------------------------------------------  
   
 Scanned apps / Taranan uygulamalar:  
 - MIUI (13) işletim sistemi ve uygulamaları  
