@@ -41,6 +41,7 @@
 127.0.0.1 aip-cdn.sozcu.com.tr
 127.0.0.1 aip2.sozcu.com.tr
 127.0.0.1 amer.hhkld.com
+127.0.0.1 an.yandex.ru
 127.0.0.1 analytics.halkbank.com.tr
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 analyticsb2c.com
@@ -61,8 +62,9 @@
 127.0.0.1 app.adjust.net.in
 127.0.0.1 app.adjust.world
 127.0.0.1 app.gelirartisi.com
-127.0.0.1 app-measurement.com
+127.0.0.1 app.networkad.net
 127.0.0.1 app.tr.adjust.com
+127.0.0.1 app-measurement.com
 127.0.0.1 athena-event-provider.n11.com
 127.0.0.1 authbe.sec.intl.miui.com
 127.0.0.1 beacons.gvt2.com
@@ -123,6 +125,7 @@
 127.0.0.1 data.mistat.intl.xiaomi.com
 127.0.0.1 datacollector-dre.dt.hicloud.com
 127.0.0.1 decide.mixpanel.com
+127.0.0.1 delivery.adrecover.com
 127.0.0.1 device-metrics-us.amazon.com
 127.0.0.1 device-metrics-us-2.amazon.com
 127.0.0.1 devices.carnivalmobile.com
@@ -273,6 +276,8 @@
 127.0.0.1 srvr.dmvs-apac.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 stags.bluekai.com
+127.0.0.1 startup.mobile.webvisor.com
+127.0.0.1 startup.mobile.yandex.net
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 static.cloudflareinsights.com
 127.0.0.1 static.criteo.net
@@ -304,6 +309,7 @@
 127.0.0.1 tracking.intl.miui.com
 127.0.0.1 trk.storyly.io
 127.0.0.1 turkcell.api.useinsider.com
+127.0.0.1 u.startup.mobile.webvisor.com
 127.0.0.1 vidstat.taboola.com
 127.0.0.1 widget.cdn.vidyome.com
 127.0.0.1 widget.engageya.com
