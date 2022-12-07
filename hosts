@@ -4,7 +4,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20221206
+# Version: 20221207
 # (Version also shows update date as YYYYMMDD)
 # Scanned apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 127.0.0.1 localhost
@@ -51,6 +51,7 @@
 127.0.0.1 api.mixpanel.com
 127.0.0.1 api.nopbreak.ru
 127.0.0.1 api.personaclick.com
+127.0.0.1 api.sec.intl.miui.com
 127.0.0.1 api.segment.io
 127.0.0.1 api.storyly.io
 127.0.0.1 api-stg.ensonhaber.com
@@ -63,6 +64,7 @@
 127.0.0.1 app-measurement.com
 127.0.0.1 app.tr.adjust.com
 127.0.0.1 athena-event-provider.n11.com
+127.0.0.1 authbe.sec.intl.miui.com
 127.0.0.1 beacons.gvt2.com
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 beacons2.gvt2.com
@@ -313,6 +315,7 @@
 127.0.0.1 www.ezojs.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googleadservices.com
+127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googleoptimize.com
 127.0.0.1 www.tns-counter.ru
 127.0.0.1 wzrkt.com
