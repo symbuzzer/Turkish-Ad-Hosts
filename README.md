@@ -1,8 +1,8 @@
 # Turkish Ad Hosts for Adblockers  
   
-[EN]  
-- The hosts file required to block advertising networks on mobile applications (and probably WEB pages) of Turkish companies and organizations...  
-- Also, I try to add foreign services that are popular in Turkey as much as possible.  
+[EN] THE MANIFEST:  
+- Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...  
+- I also try to add foreign applications and WEB pages that are popularly used in Turkey as much as possible.  
 - Prepared for my own personal use. Use at your own risk.  
 - This list was created by examining the DNS addresses that came up by trying all the applications one by one.  
 - Add "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts" url to your favorite adblocker app or browser extension.   
@@ -11,9 +11,9 @@
 - This list will be updated daily.  
 - I can't support iOS because I don't have an iOS-based device.  
   
-[TR]  
-- Türk menşeli firmalar ve kuruluşlara ait mobil uygulamalardaki (ve muhtemelen WEB sayfalarındakileri) reklam ağlarını engellemek için gerekli hosts dosyası...  
-- Ayrıca Türkiye'de popüler olarak kullanılan yabancı servisleri de olabildiğince eklemeye çalışıyorum.  
+[TR] MANİFESTO:  
+- Türkiye'de yaygın kullanılan mobil uygulamalardaki (ve muhtemelen WEB sayfalarındakileri) izleme (ve beraberinde muhtemelen reklam) ağlarını engellemek için gerekli hosts dosyası...  
+- Ayrıca Türkiye'de popüler olarak kullanılan yabancı uygulamalar ve WEB sayfalarını da olabildiğince eklemeye çalışıyorum.  
 - Kendi şahsi kullanımım için hazırlanmıştır. Kullanmak kendi sorumluluğunuzdadır.  
 - Bu liste, bütün uygulamalar tek tek denenerek ortaya çıkan DNS adreslerinin incelenmesiyle oluşturulmuştur.  
 - Favori reklam engelleme uygulamanıza veya tarayıcı eklentinize "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts" linkini ekleyin.  
@@ -28,7 +28,8 @@
   
 -------------------------------------------  
   
-Scanned apps / Taranan uygulamalar:  
+[EN] These applications have been tested and confirmed to work smoothly:  
+[TR] Bu uygulamalar test edilerek sorunsuz çalıştıkları onaylanmıştır:  
 - MIUI (13) işletim sistemi ve uygulamaları  
 - Android (12) işletim sistemi ve uygulamaları  
 - Android Google Play servisleri  
