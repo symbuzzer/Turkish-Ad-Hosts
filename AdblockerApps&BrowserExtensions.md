@@ -12,6 +12,7 @@
   
  ANDROID APPLICATION (ROOTED):  
   - Download and install latest version of AdAway from: https://github.com/AdAway/AdAway/releases  
+  - Enable "Systemless Hosts" from Magisk settings.  
   - Select "Root based ad blocker" and give root permission to AdAway.
   - Add this link to "Location" section on "host sources": https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts and enter any "Label"  
   - Don't change "List format: BLOCK" and "Type: URL"  
@@ -37,6 +38,7 @@
 
  ANDROID UYGULAMASI (ROOTLU):  
   - AdAway'ın son sürümünü https://github.com/AdAway/AdAway/releases adresinden indirin ve kurun.  
+  - Magisk ayarlarından "Sistemsiz hosts" seçeneğini aktifleştirin.  
   - "Root temelli reklam engelleyici"yi seçin ve root izni verin.    
   - https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts linkini "host kaynakları" bölümündeki "Location" bölümüne herhangi bir "Label" girerek ekleyin.  
   - "List format: BLOCK" and "Type: URL" seçeneklerini değiştirmeyin.  
