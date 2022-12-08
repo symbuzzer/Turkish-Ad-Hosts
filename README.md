@@ -29,7 +29,7 @@
 -------------------------------------------  
   
 [EN] These applications have been tested and confirmed to work smoothly:  
-[TR] Bu uygulamalar test edilerek sorunsuz çalıştıkları onaylanmıştır:  
+[TR] Bu uygulamalar test edilerek sorunsuz çalıştıkları teyit edilmiştir:  
 - MIUI (13) işletim sistemi ve uygulamaları  
 - Android (12) işletim sistemi ve uygulamaları  
 - Android Google Play servisleri  
