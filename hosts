@@ -12,6 +12,7 @@
 # --- [ START ] --- #
 127.0.0.1 209176.hit.gemius.pl
 127.0.0.1 4431932.fls.doubleclick.net
+127.0.0.1 6371800.collect.igodigital.com
 127.0.0.1 8065991.fls.doubleclick.net
 127.0.0.1 10138642.fls.doubleclick.net
 127.0.0.1 10776882.fls.doubleclick.net
@@ -75,6 +76,7 @@
 127.0.0.1 athena-event-provider.n11.com
 127.0.0.1 attr.appsflyer.com
 127.0.0.1 authbe.sec.intl.miui.com
+127.0.0.1 baltar.dimml.io
 127.0.0.1 beacons.gvt2.com
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 beacons2.gvt2.com
@@ -87,6 +89,7 @@
 127.0.0.1 bidder.criteo.com
 127.0.0.1 browser.events.data.microsoft.com
 127.0.0.1 browser-http-intake.logs.datadoghq.eu
+127.0.0.1 btloader.com
 127.0.0.1 c.aaxads.com
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 c2.taboola.com
@@ -95,6 +98,7 @@
 127.0.0.1 cdn.adpushup.com
 127.0.0.1 cdn.adsafeprotected.com
 127.0.0.1 cdn.cookielaw.org
+127.0.0.1 cdn.dimml.io
 127.0.0.1 cdn.efilli.com
 127.0.0.1 cdn.eksiup.com
 127.0.0.1 cdn.insurads.com
@@ -244,6 +248,7 @@
 127.0.0.1 o516780.ingest.sentry.io
 127.0.0.1 o1142666.ingest.sentry.io
 127.0.0.1 o1277943.ingest.sentry.io
+127.0.0.1 p11.techlab-cdn.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 panel.afyads.com
 127.0.0.1 parkingridiculous.com
@@ -253,6 +258,7 @@
 127.0.0.1 per1.segmentify.com
 127.0.0.1 per2.segmentify.com
 127.0.0.1 pghub.io
+127.0.0.1 ping.chartbeat.net
 127.0.0.1 ping-meta-prd.jwpltx.com
 127.0.0.1 pisano.com.tr
 127.0.0.1 pix.eu.criteo.net
