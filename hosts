@@ -54,6 +54,7 @@
 127.0.0.1 analyticsb2c.com
 127.0.0.1 ap.lijit.com
 127.0.0.1 api.ad.intl.xiaomi.com
+127.0.0.1 api.dataroid.com
 127.0.0.1 api.instabug.com
 127.0.0.1 api.leanplum.com
 127.0.0.1 api.mixpanel.com
@@ -73,6 +74,7 @@
 127.0.0.1 app.gelirartisi.com
 127.0.0.1 app.networkad.net
 127.0.0.1 app.tr.adjust.com
+127.0.0.1 app-analytics-v2.snapchat.com
 127.0.0.1 app-measurement.com
 127.0.0.1 athena-event-provider.n11.com
 127.0.0.1 attr.appsflyer.com
@@ -137,6 +139,7 @@
 127.0.0.1 core-waw-1.wildcard.dns.army
 127.0.0.1 countly.fibabanka.com.tr
 127.0.0.1 creativecdn.com
+127.0.0.1 d.applovin.com
 127.0.0.1 d.applvn.com
 127.0.0.1 d.haberler.com
 127.0.0.1 d.sondakika.com
@@ -252,6 +255,7 @@
 127.0.0.1 o1142666.ingest.sentry.io
 127.0.0.1 o1277943.ingest.sentry.io
 127.0.0.1 p11.techlab-cdn.com
+127.0.0.1 pad-v3.presage.io
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 panel.afyads.com
 127.0.0.1 parkingridiculous.com
@@ -324,6 +328,7 @@
 127.0.0.1 services.vlitag.com
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 signals.carrefoursa.com
+127.0.0.1 snap.licdn.com
 127.0.0.1 sommelier.futurehybrid.tech
 127.0.0.1 srvr.dmvs-apac.com
 127.0.0.1 ssc-cms.33across.com
@@ -356,8 +361,11 @@
 127.0.0.1 tempest.services.disqus.com
 127.0.0.1 top-fwz1.mail.ru
 127.0.0.1 tpc.googlesyndication.com
+127.0.0.1 tps30.doubleverify.com
 127.0.0.1 tpx.tesseradigital.com
 127.0.0.1 tr.hit.gemius.pl
+127.0.0.1 tr.snapchat.com
+127.0.0.1 track.wattpad.com
 127.0.0.1 tracking.olx-st.com
 127.0.0.1 tracking.intl.miui.com
 127.0.0.1 trk.storyly.io
