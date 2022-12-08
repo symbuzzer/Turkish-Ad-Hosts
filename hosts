@@ -22,6 +22,7 @@
 127.0.0.1 a.pub.network
 127.0.0.1 a.teads.tv
 127.0.0.1 aax-eu.amazon.com.tr
+127.0.0.1 aax-us.amazon-adsystem.com
 127.0.0.1 acdn.adnxs.com
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.medyanetads.com
@@ -127,6 +128,7 @@
 127.0.0.1 collector.github.com
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 configv2.unityads.unity3d.com
+127.0.0.1 connect.tapjoy.com
 127.0.0.1 connect-dre.dbankcloud.cn
 127.0.0.1 connect-dre.hispace.hicloud.com
 127.0.0.1 consent.cookiebot.com
@@ -213,6 +215,7 @@
 127.0.0.1 launches.appsflyer.com
 127.0.0.1 lgr.visilabs.net
 127.0.0.1 log-va.tiktokv.com
+127.0.0.1 logsink.zedge.net
 127.0.0.1 ls.hit.gemius.pl
 127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 manager.smartlook.com
@@ -292,6 +295,7 @@
 127.0.0.1 rotarb.bid
 127.0.0.1 router.miwifi.com
 127.0.0.1 rt.applovin.com
+127.0.0.1 rt.applvn.com
 127.0.0.1 rt.visilabs.net
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 s.go-mpulse.net
