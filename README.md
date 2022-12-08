@@ -76,6 +76,7 @@ Scanned apps / Taranan uygulamalar:
 - Google Takvim (Android)  
 - Google TV (Android)  
 - Formula 1 (Android)  
+- GencizBiz (Android)  
 - GİB (Android)  
 - GNÇ (Android)  
 - Halkbank (Android)  
