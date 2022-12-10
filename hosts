@@ -4,7 +4,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20221209
+# Version: 20221210
 # (Version also shows update date as YYYYMMDD)
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -18,15 +18,16 @@
 127.0.0.1 localhost
 
 # --- [ START ] --- #
-127.0.0.1 209176.hit.gemius.pl
-127.0.0.1 4431932.fls.doubleclick.net
-127.0.0.1 6371800.collect.igodigital.com
-127.0.0.1 8065991.fls.doubleclick.net
+127.0.0.1 061353efff4748e1a51974616704a9cc.js.ubembed.com
 127.0.0.1 10138642.fls.doubleclick.net
 127.0.0.1 10776882.fls.doubleclick.net
 127.0.0.1 10978247.fls.doubleclick.net
 127.0.0.1 10978658.fls.doubleclick.net
+127.0.0.1 209176.hit.gemius.pl
+127.0.0.1 4431932.fls.doubleclick.net
 127.0.0.1 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
+127.0.0.1 6371800.collect.igodigital.com
+127.0.0.1 8065991.fls.doubleclick.net
 127.0.0.1 a.pub.network
 127.0.0.1 a.teads.tv
 127.0.0.1 aax-eu.amazon.com.tr
@@ -85,6 +86,7 @@
 127.0.0.1 app.tr.adjust.com
 127.0.0.1 app-analytics-v2.snapchat.com
 127.0.0.1 app-measurement.com
+127.0.0.1 assets.ubembed.com
 127.0.0.1 athena-event-provider.n11.com
 127.0.0.1 attr.appsflyer.com
 127.0.0.1 authbe.sec.intl.miui.com
@@ -149,12 +151,14 @@
 127.0.0.1 conversions.appsflyer.com
 127.0.0.1 cookie-cdn.cookiepro.com
 127.0.0.1 core-waw-1.wildcard.dns.army
+127.0.0.1 counter.yadro.ru
 127.0.0.1 countly.fibabanka.com.tr
 127.0.0.1 creativecdn.com
 127.0.0.1 d.applovin.com
 127.0.0.1 d.applvn.com
 127.0.0.1 d.haberler.com
 127.0.0.1 d.sondakika.com
+127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 data.flurry.com
 127.0.0.1 data.mistat.intl.xiaomi.com
 127.0.0.1 datacollector-dre.dt.hicloud.com
@@ -380,6 +384,7 @@
 127.0.0.1 stats.vk-portal.net
 127.0.0.1 stats.wp.com
 127.0.0.1 storj.cloud
+127.0.0.1 svibeacon.onezapp.com
 127.0.0.1 sync.bfmio.com
 127.0.0.1 sync.go.sonobi.com
 127.0.0.1 tag.crsspxl.com
