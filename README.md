@@ -49,6 +49,7 @@
 - Bitwarden (Android)  
 - Boyner (Android)  
 - Canlı Döviz (Android)  
+- Carista (Android)  
 - Celse (Android)  
 - Cepte Şok (Android)  
 - Cimri (Android)  
