@@ -4,7 +4,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20221211
+# Version: 20221212
 # (Version also shows update date as YYYYMMDD)
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -174,28 +174,56 @@
 127.0.0.1 dmxleo.dailymotion.com
 127.0.0.1 dtm-dre.platform.dbankcloud.cn
 127.0.0.1 dygassets.dygdigital.com
+127.0.0.1 e2c1.gcp.gvt2.com
 127.0.0.1 e2c2.gcp.gvt2.com
 127.0.0.1 e2c3.gcp.gvt2.com
 127.0.0.1 e2c4.gcp.gvt2.com
+127.0.0.1 e2c5.gcp.gvt2.com
 127.0.0.1 e2c6.gcp.gvt2.com
+127.0.0.1 e2c7.gcp.gvt2.com
 127.0.0.1 e2c8.gcp.gvt2.com
+127.0.0.1 e2c9.gcp.gvt2.com
+127.0.0.1 e2c10.gcp.gvt2.com
+127.0.0.1 e2c11.gcp.gvt2.com
+127.0.0.1 e2c12.gcp.gvt2.com
 127.0.0.1 e2c13.gcp.gvt2.com
 127.0.0.1 e2c14.gcp.gvt2.com
 127.0.0.1 e2c15.gcp.gvt2.com
 127.0.0.1 e2c16.gcp.gvt2.com
 127.0.0.1 e2c17.gcp.gvt2.com
+127.0.0.1 e2c18.gcp.gvt2.com
+127.0.0.1 e2c19.gcp.gvt2.com
+127.0.0.1 e2c20.gcp.gvt2.com
+127.0.0.1 e2c21.gcp.gvt2.com
+127.0.0.1 e2c22.gcp.gvt2.com
 127.0.0.1 e2c23.gcp.gvt2.com
+127.0.0.1 e2c24.gcp.gvt2.com
+127.0.0.1 e2c25.gcp.gvt2.com
+127.0.0.1 e2c26.gcp.gvt2.com
+127.0.0.1 e2c27.gcp.gvt2.com
 127.0.0.1 e2c28.gcp.gvt2.com
+127.0.0.1 e2c29.gcp.gvt2.com
+127.0.0.1 e2c30.gcp.gvt2.com
 127.0.0.1 e2c31.gcp.gvt2.com
 127.0.0.1 e2c32.gcp.gvt2.com
 127.0.0.1 e2c33.gcp.gvt2.com
+127.0.0.1 e2c34.gcp.gvt2.com
 127.0.0.1 e2c35.gcp.gvt2.com
+127.0.0.1 e2c36.gcp.gvt2.com
+127.0.0.1 e2c37.gcp.gvt2.com
 127.0.0.1 e2c38.gcp.gvt2.com
+127.0.0.1 e2c39.gcp.gvt2.com
+127.0.0.1 e2c40.gcp.gvt2.com
 127.0.0.1 e2c41.gcp.gvt2.com
 127.0.0.1 e2c42.gcp.gvt2.com
 127.0.0.1 e2c43.gcp.gvt2.com
 127.0.0.1 e2c44.gcp.gvt2.com
+127.0.0.1 e2c45.gcp.gvt2.com
+127.0.0.1 e2c46.gcp.gvt2.com
+127.0.0.1 e2c47.gcp.gvt2.com
+127.0.0.1 e2c48.gcp.gvt2.com
 127.0.0.1 e2c49.gcp.gvt2.com
+127.0.0.1 e2c50.gcp.gvt2.com
 127.0.0.1 e2c51.gcp.gvt2.com
 127.0.0.1 e2cs40.gcp.gvt2.com
 127.0.0.1 e2cs43.gcp.gvt2.com
