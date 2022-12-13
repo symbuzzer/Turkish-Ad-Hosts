@@ -4,7 +4,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20221212
+# Version: 20221213
 # (Version also shows update date as YYYYMMDD)
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -28,6 +28,7 @@
 127.0.0.1 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 127.0.0.1 6371800.collect.igodigital.com
 127.0.0.1 8065991.fls.doubleclick.net
+127.0.0.1 9145021.fls.doubleclick.net
 127.0.0.1 a.pub.network
 127.0.0.1 a.teads.tv
 127.0.0.1 aax-eu.amazon.com.tr
@@ -234,8 +235,10 @@
 127.0.0.1 ecdn.firstimpression.io
 127.0.0.1 emea.hhkld.com
 127.0.0.1 eturkcell.netmera.com
+127.0.0.1 eum.instana.io
 127.0.0.1 eus.rubiconproject.com
 127.0.0.1 event-collector.analytics.onedio.com
+127.0.0.1 evs.data.ciceksepeti.com
 127.0.0.1 expo.io
 127.0.0.1 firebase-settings.crashlytics.com
 127.0.0.1 fls-na.amazon.com
@@ -269,6 +272,7 @@
 127.0.0.1 ipcheck.tmgrup.com.tr
 127.0.0.1 iscep-stories.commencis.com
 127.0.0.1 js.agkn.com
+127.0.0.1 js.appboycdn.com
 127.0.0.1 js.tagon.co
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 js-sec.indexww.com
