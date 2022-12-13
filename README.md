@@ -53,7 +53,7 @@
 - Celse (Android)  
 - Cepte Şok (Android)  
 - Cimri (Android)  
-- Çiçeksepeti (Android)  
+- Çiçeksepeti (Android/WEB)  
 - Daha Daha (Android)  
 - DeFacto (Android)  
 - Dio (Android/WEB)  
