@@ -4,7 +4,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20221216
+# Version: 20221218
 # (Version also shows update date as YYYYMMDD)
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -93,6 +93,7 @@
 127.0.0.1 athena-event-provider.n11.com
 127.0.0.1 attr.appsflyer.com
 127.0.0.1 authbe.sec.intl.miui.com
+127.0.0.1 b-code.liadm.com
 127.0.0.1 baltar.dimml.io
 127.0.0.1 beacons.gvt2.com
 127.0.0.1 beacons.gcp.gvt2.com
@@ -331,6 +332,7 @@
 127.0.0.1 o516780.ingest.sentry.io
 127.0.0.1 o1142666.ingest.sentry.io
 127.0.0.1 o1277943.ingest.sentry.io
+127.0.0.1 offer.slgnt.eu
 127.0.0.1 p11.techlab-cdn.com
 127.0.0.1 pad-v3.presage.io
 127.0.0.1 pagead2.googlesyndication.com
