@@ -4,7 +4,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20221218
+# Version: 20221219
 # (Version also shows update date as YYYYMMDD)
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -182,6 +182,7 @@
 127.0.0.1 dmp.adform.net
 127.0.0.1 dmx.districtm.io
 127.0.0.1 dmxleo.dailymotion.com
+127.0.0.1 dt.adsafeprotected.com
 127.0.0.1 dtm-dre.platform.dbankcloud.cn
 127.0.0.1 dygassets.dygdigital.com
 127.0.0.1 e2c1.gcp.gvt2.com
@@ -349,6 +350,7 @@
 127.0.0.1 pisano.com.tr
 127.0.0.1 pix.eu.criteo.net
 127.0.0.1 pix.spot.im
+127.0.0.1 pixel.adsafeprotected.com
 127.0.0.1 pixel.advertising.com
 127.0.0.1 pixel.wp.com
 127.0.0.1 platform-api.sharethis.com
@@ -422,6 +424,8 @@
 127.0.0.1 startup.mobile.webvisor.com
 127.0.0.1 startup.mobile.yandex.net
 127.0.0.1 static.ads-twitter.com
+127.0.0.1 static.adsafeprotected.com
+127.0.0.1 static.chartbeat.com
 127.0.0.1 static.cloudflareinsights.com
 127.0.0.1 static.criteo.net
 127.0.0.1 static.doubleclick.net
