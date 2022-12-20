@@ -4,7 +4,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20221219
+# Version: 20221220
 # (Version also shows update date as YYYYMMDD)
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -109,6 +109,7 @@
 127.0.0.1 browser.events.data.microsoft.com
 127.0.0.1 browser-http-intake.logs.datadoghq.com
 127.0.0.1 browser-http-intake.logs.datadoghq.eu
+127.0.0.1 browser-update.org
 127.0.0.1 btloader.com
 127.0.0.1 c.aaxads.com
 127.0.0.1 c.amazon-adsystem.com
@@ -182,6 +183,7 @@
 127.0.0.1 dmp.adform.net
 127.0.0.1 dmx.districtm.io
 127.0.0.1 dmxleo.dailymotion.com
+127.0.0.1 dpm.demdex.net
 127.0.0.1 dt.adsafeprotected.com
 127.0.0.1 dtm-dre.platform.dbankcloud.cn
 127.0.0.1 dygassets.dygdigital.com
@@ -294,6 +296,7 @@
 127.0.0.1 laquesis.data.olxcdn.com
 127.0.0.1 launches.appsflyer.com
 127.0.0.1 lgr.visilabs.net
+127.0.0.1 log.haberturk.com
 127.0.0.1 log-va.tiktokv.com
 127.0.0.1 logsink.zedge.net
 127.0.0.1 ls.hit.gemius.pl
@@ -354,11 +357,13 @@
 127.0.0.1 pixel.advertising.com
 127.0.0.1 pixel.wp.com
 127.0.0.1 platform-api.sharethis.com
+127.0.0.1 player.adtelligent.com
 127.0.0.1 pnsdkapi.turktelekom.com.tr
 127.0.0.1 pornhdr.cf
 127.0.0.1 prd.jwpltx.com
 127.0.0.1 prebid-server.rubiconproject.com
 127.0.0.1 predataclient.b-cdn.net
+127.0.0.1 pro.hit.gemius.pl
 127.0.0.1 pub-sdk-cfg.criteo.com
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 purch-match.dotomi.com
@@ -464,6 +469,7 @@
 127.0.0.1 tracking.olx-st.com
 127.0.0.1 tracking.intl.miui.com
 127.0.0.1 trk.storyly.io
+127.0.0.1 tru.am
 127.0.0.1 turkcell.api.useinsider.com
 127.0.0.1 u.startup.mobile.webvisor.com
 127.0.0.1 uk-script.dotmetrics.net
