@@ -4,7 +4,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20221220
+# Version: 20221221
 # (Version also shows update date as YYYYMMDD)
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -45,6 +45,7 @@
 127.0.0.1 adfp.fcloud.com.tr
 127.0.0.1 adl.mynetreklam.com
 127.0.0.1 ads.adthrive.com
+127.0.0.1 ads.avocet.io
 127.0.0.1 ads.pubmatic.com
 127.0.0.1 ads-api.twitter.com
 127.0.0.1 adsp.haberturk.com
@@ -122,6 +123,7 @@
 127.0.0.1 cdn.dimml.io
 127.0.0.1 cdn.efilli.com
 127.0.0.1 cdn.eksiup.com
+127.0.0.1 cdn.id5-sync.com
 127.0.0.1 cdn.insurads.com
 127.0.0.1 cdn.makroo.com
 127.0.0.1 cdn.mookie1.com
@@ -137,6 +139,7 @@
 127.0.0.1 cdn-api.admost.com
 127.0.0.1 cdn-settings.appsflyersdk.com
 127.0.0.1 cdn-settings.segment.com
+127.0.0.1 cdn2.admatic.com.tr
 127.0.0.1 cdn2.bildirt.com
 127.0.0.1 cdn2.inner-active.mobi
 127.0.0.1 cdp.cloud.unity3d.com
@@ -284,6 +287,7 @@
 127.0.0.1 in.appcenter.ms
 127.0.0.1 inapps.appsflyer.com
 127.0.0.1 instant.page
+127.0.0.1 inv-nets.admixer.net
 127.0.0.1 ipcheck.tmgrup.com.tr
 127.0.0.1 iscep-stories.commencis.com
 127.0.0.1 js.agkn.com
@@ -327,6 +331,7 @@
 127.0.0.1 ms.applovin.com
 127.0.0.1 ms.applvn.com
 127.0.0.1 mstm.motorsport.com
+127.0.0.1 mug.criteo.com
 127.0.0.1 nativespot.com
 127.0.0.1 netperform-is.vodafone.com.tr
 127.0.0.1 ntm.netmera-web.com
@@ -426,6 +431,7 @@
 127.0.0.1 srvr.dmvs-apac.com
 127.0.0.1 ssc-cms.33across.com
 127.0.0.1 ssl.google-analytics.com
+127.0.0.1 ssp.programattik.com
 127.0.0.1 ssum-sec.casalemedia.com
 127.0.0.1 stags.bluekai.com
 127.0.0.1 startup.mobile.webvisor.com
@@ -444,6 +450,7 @@
 127.0.0.1 statistics.daktilo.com
 127.0.0.1 stats.birgun.net
 127.0.0.1 stats.g.doubleclick.net
+127.0.0.1 stats.vidyome.com
 127.0.0.1 stats.vk-portal.net
 127.0.0.1 stats.wp.com
 127.0.0.1 storj.cloud
@@ -484,6 +491,7 @@
 127.0.0.1 widget.criteo.com
 127.0.0.1 widget.engageya.com
 127.0.0.1 widget.perfectmarket.com
+127.0.0.1 widgets.engageya.com
 127.0.0.1 widgets.outbrain.com
 127.0.0.1 ws.batch.com
 127.0.0.1 ws.sahibinden.com
@@ -493,6 +501,7 @@
 127.0.0.1 www.googleadservices.com
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googleoptimize.com
+127.0.0.1 www.medyanative.com
 127.0.0.1 www.tns-counter.ru
 127.0.0.1 wzrkt.com
 127.0.0.1 x.bidswitch.net
