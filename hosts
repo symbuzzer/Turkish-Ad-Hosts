@@ -4,7 +4,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20221221
+# Version: 20221223
 # (Version also shows update date as YYYYMMDD)
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -29,6 +29,7 @@
 127.0.0.1 6371800.collect.igodigital.com
 127.0.0.1 8065991.fls.doubleclick.net
 127.0.0.1 9145021.fls.doubleclick.net
+127.0.0.1 a.ad.gt
 127.0.0.1 a.pub.network
 127.0.0.1 a.teads.tv
 127.0.0.1 aax-eu.amazon.com.tr
@@ -47,6 +48,7 @@
 127.0.0.1 ads.adthrive.com
 127.0.0.1 ads.avocet.io
 127.0.0.1 ads.pubmatic.com
+127.0.0.1 ads.stickyadstv.com
 127.0.0.1 ads-api.twitter.com
 127.0.0.1 adsp.haberturk.com
 127.0.0.1 adv.sec.intl.miui.com
@@ -74,6 +76,7 @@
 127.0.0.1 api.nopbreak.ru
 127.0.0.1 api.personaclick.com
 127.0.0.1 api.perzonalization.com
+127.0.0.1 api.rlcdn.com
 127.0.0.1 api.sec.intl.miui.com
 127.0.0.1 api.sec.intl.miui.comtrashcleaner
 127.0.0.1 api.segment.io
@@ -126,6 +129,7 @@
 127.0.0.1 cdn.id5-sync.com
 127.0.0.1 cdn.insurads.com
 127.0.0.1 cdn.makroo.com
+127.0.0.1 cdn.medyanetads.com
 127.0.0.1 cdn.mookie1.com
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 cdn.netmera-web.com
@@ -148,6 +152,7 @@
 127.0.0.1 champagne.futurecdn.net
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cm.mgid.com
+127.0.0.1 cnnturk.api.useinsider.com
 127.0.0.1 collect.dolap.com
 127.0.0.1 collect.trendyol.com
 127.0.0.1 collector.github.com
@@ -282,6 +287,8 @@
 127.0.0.1 htlb.casalemedia.com
 127.0.0.1 i.isnssdk.com
 127.0.0.1 ib.adnxs.com
+127.0.0.1 id.crwdcntrl.net
+127.0.0.1 id5-sync.com
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 img.ekstat.com
 127.0.0.1 in.appcenter.ms
@@ -297,6 +304,7 @@
 127.0.0.1 js-sec.indexww.com
 127.0.0.1 jsc.idealmedia.io
 127.0.0.1 k.intellitxt.com
+127.0.0.1 krk.kargo.com
 127.0.0.1 laquesis.data.olxcdn.com
 127.0.0.1 launches.appsflyer.com
 127.0.0.1 lgr.visilabs.net
@@ -308,7 +316,9 @@
 127.0.0.1 ls.hit.gemius.pl
 127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 manager.smartlook.com
+127.0.0.1 match.adsrvr.org
 127.0.0.1 match.sharethrough.com
+127.0.0.1 mbid.marfeelrev.com
 127.0.0.1 mbls.visilabs.net
 127.0.0.1 mc.webvisor.org
 127.0.0.1 mc.yandex.ru
@@ -409,6 +419,8 @@
 127.0.0.1 s8t.teads.tv
 127.0.0.1 samsungturkey.demdex.net
 127.0.0.1 sb.scorecardresearch.com
+127.0.0.1 scarfsmash.com
+127.0.0.1 script.4dex.io
 127.0.0.1 scripts.kiosked.com
 127.0.0.1 sdk.iad-01.braze.com
 127.0.0.1 sdk.iad-06.braze.com
@@ -421,6 +433,7 @@
 127.0.0.1 secure.quantserve.com
 127.0.0.1 secure-assets.rubiconproject.com
 127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 seg.ad.gt
 127.0.0.1 sentry.io
 127.0.0.1 servicer.idealmedia.io
 127.0.0.1 services.vlitag.com
