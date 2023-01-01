@@ -4,7 +4,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20221228
+# Version: 20230101
 # (Version also shows update date as YYYYMMDD)
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -25,6 +25,7 @@
 127.0.0.1 10978658.fls.doubleclick.net
 127.0.0.1 209176.hit.gemius.pl
 127.0.0.1 4431932.fls.doubleclick.net
+127.0.0.1 5371908.fls.doubleclick.net
 127.0.0.1 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 127.0.0.1 6371800.collect.igodigital.com
 127.0.0.1 8065991.fls.doubleclick.net
@@ -45,20 +46,21 @@
 127.0.0.1 adform.net
 127.0.0.1 adfp.fcloud.com.tr
 127.0.0.1 adl.mynetreklam.com
+127.0.0.1 ads.adfox.ru
 127.0.0.1 ads.adthrive.com
 127.0.0.1 ads.avocet.io
-127.0.0.1 ads.pubmatic.com
-127.0.0.1 ads.stickyadstv.com
-127.0.0.1 ads-api.twitter.com
-127.0.0.1 adsp.haberturk.com
-127.0.0.1 adv.sec.intl.miui.com
-127.0.0.1 adx.adform.net
-127.0.0.1 ads.adfox.ru
 127.0.0.1 ads.pro-market.net
+127.0.0.1 ads.pubmatic.com
 127.0.0.1 ads.servebom.com
+127.0.0.1 ads.stickyadstv.com
+127.0.0.1 ads.vidoomy.com
+127.0.0.1 ads-api.twitter.com
 127.0.0.1 adservice.google.com
 127.0.0.1 adservice.google.com.tr
 127.0.0.1 adservice.google.gr
+127.0.0.1 adsp.haberturk.com
+127.0.0.1 adv.sec.intl.miui.com
+127.0.0.1 adx.adform.net
 127.0.0.1 aip-cdn.sozcu.com.tr
 127.0.0.1 aip2.sozcu.com.tr
 127.0.0.1 amer.hhkld.com
@@ -270,6 +272,7 @@
 127.0.0.1 geoloc.hurriyet.com.tr
 127.0.0.1 geolocation.onetrust.com
 127.0.0.1 get.s-onetag.com
+127.0.0.1 ghb.adtelligent.com
 127.0.0.1 ghb.spotim.market
 127.0.0.1 go.ezodn.com
 127.0.0.1 google-analytics.com
@@ -354,6 +357,7 @@
 127.0.0.1 o1142666.ingest.sentry.io
 127.0.0.1 o1277943.ingest.sentry.io
 127.0.0.1 offer.slgnt.eu
+127.0.0.1 ow.pubmatic.com
 127.0.0.1 p11.techlab-cdn.com
 127.0.0.1 pad-v3.presage.io
 127.0.0.1 pagead2.googlesyndication.com
@@ -375,6 +379,7 @@
 127.0.0.1 pixel.wp.com
 127.0.0.1 platform-api.sharethis.com
 127.0.0.1 player.adtelligent.com
+127.0.0.1 player.aniview.com
 127.0.0.1 pnsdkapi.turktelekom.com.tr
 127.0.0.1 pornhdr.cf
 127.0.0.1 prd.jwpltx.com
@@ -398,6 +403,7 @@
 127.0.0.1 register.appsflyer.com
 127.0.0.1 reklamup.com
 127.0.0.1 report.appmetrica.yandex.net
+127.0.0.1 rest.segmentify.com
 127.0.0.1 review-rating.mncdn.com
 127.0.0.1 rosenberg.appmetrica.yandex.net
 127.0.0.1 rotarb.bid
@@ -487,6 +493,7 @@
 127.0.0.1 tps30.doubleverify.com
 127.0.0.1 tpx.tesseradigital.com
 127.0.0.1 tr.hit.gemius.pl
+127.0.0.1 tr.lib.dengage.com
 127.0.0.1 tr.snapchat.com
 127.0.0.1 track.wattpad.com
 127.0.0.1 track1.aniview.com
