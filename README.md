@@ -6,8 +6,8 @@
 - Prepared for my own personal use. Use at your own risk.  
 - This list was created by examining the DNS addresses that came up by trying all the applications one by one.  
 - Add "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts" url to your favorite adblocker app or browser extension.   
-- You can see install guides from [Adblocker applications and browser extensions](../main/AdblockerApps&BrowserExtensions.md) page  
-- If you want to add or remove a site from the block list or suggest app for scanning, please create issue.  
+- You can see install guides from [Adblocker applications and browser extensions](https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/AdblockerApps%26BrowserExtensions.md) page  
+- If you want to add or remove a site from the block list or suggest app for scanning, please create [issue](https://github.com/symbuzzer/Turkish-Ad-Hosts/issues).  
 - This list will be updated daily.  
 - I can't support iOS because I don't have an iOS-based device.  
   
@@ -17,8 +17,8 @@
 - Kendi şahsi kullanımım için hazırlanmıştır. Kullanmak kendi sorumluluğunuzdadır.  
 - Bu liste, bütün uygulamalar tek tek denenerek ortaya çıkan DNS adreslerinin incelenmesiyle oluşturulmuştur.  
 - Favori reklam engelleme uygulamanıza veya tarayıcı eklentinize "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts" linkini ekleyin.  
-- Yükleme rehberini [Adblocker applications and browser extensions](../main/AdblockerApps&BrowserExtensions.md) sayfasından görebilirsiniz.  
-- Eğer bir siteyi engelleme listesine eklemek veya çıkarmak istiyorsanız veya taranması için uygulama önerecekseniz, issue oluşturun.  
+- Yükleme rehberini [Adblocker applications and browser extensions](https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/AdblockerApps%26BrowserExtensions.md) sayfasından görebilirsiniz.  
+- Eğer bir siteyi engelleme listesine eklemek veya çıkarmak istiyorsanız veya taranması için uygulama önerecekseniz, [issue](https://github.com/symbuzzer/Turkish-Ad-Hosts/issues) oluşturun.  
 - Bu liste günlük olarak güncellenmeye çalışılacaktır.  
 - iOS cihazım olmadığı için iOS'a destek veremiyorum.  
   
