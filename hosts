@@ -4,7 +4,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20230102
+# Version: 20230103
 # (Version also shows update date as YYYYMMDD)
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -123,6 +123,7 @@
 127.0.0.1 cdn.adhouse.pro
 127.0.0.1 cdn.adpushup.com
 127.0.0.1 cdn.adsafeprotected.com
+127.0.0.1 cdn.adtarget.com.tr
 127.0.0.1 cdn.cookielaw.org
 127.0.0.1 cdn.dimml.io
 127.0.0.1 cdn.efilli.com
