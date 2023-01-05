@@ -4,7 +4,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20230103
+# Version: 20230105
 # (Version also shows update date as YYYYMMDD)
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -49,6 +49,7 @@
 127.0.0.1 ads.adfox.ru
 127.0.0.1 ads.adthrive.com
 127.0.0.1 ads.avocet.io
+127.0.0.1 ads.dygdigital.com
 127.0.0.1 ads.pro-market.net
 127.0.0.1 ads.pubmatic.com
 127.0.0.1 ads.servebom.com
@@ -353,6 +354,7 @@
 127.0.0.1 netperform-is.vodafone.com.tr
 127.0.0.1 ntm.netmera-web.com
 127.0.0.1 ntv.api.useinsider.com
+127.0.0.1 ntvsporweb.api.useinsider.com
 127.0.0.1 o33249.ingest.sentry.io
 127.0.0.1 o64293.ingest.sentry.io
 127.0.0.1 o109294.ingest.sentry.io
@@ -389,6 +391,7 @@
 127.0.0.1 prd.jwpltx.com
 127.0.0.1 prebid-server.rubiconproject.com
 127.0.0.1 predataclient.b-cdn.net
+127.0.0.1 prg.smartadserver.com
 127.0.0.1 pro.hit.gemius.pl
 127.0.0.1 pub-sdk-cfg.criteo.com
 127.0.0.1 pubads.g.doubleclick.net
@@ -479,6 +482,7 @@
 127.0.0.1 stats.vidyome.com
 127.0.0.1 stats.vk-portal.net
 127.0.0.1 stats.wp.com
+127.0.0.1 str.hit.gemius.pl.hit.gemius.pl
 127.0.0.1 storj.cloud
 127.0.0.1 svibeacon.onezapp.com
 127.0.0.1 sync.bfmio.com
