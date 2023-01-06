@@ -4,7 +4,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20230105
+# Version: 20230106
 # (Version also shows update date as YYYYMMDD)
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -59,6 +59,7 @@
 127.0.0.1 adservice.google.com
 127.0.0.1 adservice.google.com.tr
 127.0.0.1 adservice.google.gr
+127.0.0.1 adsninja.ca
 127.0.0.1 adsp.haberturk.com
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 adx.adform.net
@@ -392,6 +393,7 @@
 127.0.0.1 prebid-server.rubiconproject.com
 127.0.0.1 predataclient.b-cdn.net
 127.0.0.1 prg.smartadserver.com
+127.0.0.1 primis-d.openx.net
 127.0.0.1 pro.hit.gemius.pl
 127.0.0.1 pub-sdk-cfg.criteo.com
 127.0.0.1 pubads.g.doubleclick.net
@@ -511,6 +513,7 @@
 127.0.0.1 trk.storyly.io
 127.0.0.1 tru.am
 127.0.0.1 turkcell.api.useinsider.com
+127.0.0.1 u.openx.net
 127.0.0.1 u.startup.mobile.webvisor.com
 127.0.0.1 uk-script.dotmetrics.net
 127.0.0.1 ups.analytics.yahoo.com
