@@ -1,5 +1,6 @@
 # Title: Turkish Ad Hosts for Adblockers
 # Author: Ali Beyaz (avalibeyaz.com/github)
+# Author web page: avalibeyaz.com
 # Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
@@ -10,8 +11,7 @@
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
 # Wiki: https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki
 # JSON file: https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/Turkish-Ad-Hosts.json
-# Project start date: 17/11/2022
-# 
+# Project start date: 17/11/2022 
 #
 #
 
