@@ -5,7 +5,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20230106
+# Version: 20230107
 # (Version also shows update date as YYYYMMDD)
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -84,6 +84,7 @@
 127.0.0.1 api.sec.intl.miui.com
 127.0.0.1 api.segment.io
 127.0.0.1 api.storyly.io
+127.0.0.1 api.useinsider.com
 127.0.0.1 api-stg.ensonhaber.com
 127.0.0.1 api2.branch.io
 127.0.0.1 api3.siftscience.com
@@ -154,6 +155,7 @@
 127.0.0.1 ce.lijit.com
 127.0.0.1 certify-js.alexametrics.com
 127.0.0.1 champagne.futurecdn.net
+127.0.0.1 cimri.api.useinsider.com
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cm.mgid.com
 127.0.0.1 cnnturk.api.useinsider.com
@@ -183,6 +185,7 @@
 127.0.0.1 data.flurry.com
 127.0.0.1 data.mistat.intl.xiaomi.com
 127.0.0.1 datacollector-dre.dt.hicloud.com
+127.0.0.1 dcetr3.segmentify.com
 127.0.0.1 decide.mixpanel.com
 127.0.0.1 delivery.adrecover.com
 127.0.0.1 device-metrics-us.amazon.com
@@ -191,6 +194,7 @@
 127.0.0.1 di.rlcdn.com
 127.0.0.1 diken.xyz
 127.0.0.1 direct-events-collector.spot.im
+127.0.0.1 dis.eu.criteo.com
 127.0.0.1 dit.whatsapp.net
 127.0.0.1 dlsdk.appsflyer.com
 127.0.0.1 dmp.adform.net
@@ -292,6 +296,7 @@
 127.0.0.1 hepsiads-ui.hepsiburada.com
 127.0.0.1 hepsiburada01.webtrekk.net
 127.0.0.1 hepsiburada01.wt-eu02.net
+127.0.0.1 hit.api.useinsider.com
 127.0.0.1 hstats.hepsiburada.com
 127.0.0.1 htlb.casalemedia.com
 127.0.0.1 i.isnssdk.com
@@ -461,6 +466,7 @@
 127.0.0.1 srvr.dmvs-apac.com
 127.0.0.1 ssc-cms.33across.com
 127.0.0.1 ssl.google-analytics.com
+127.0.0.1 sslwidget.criteo.com
 127.0.0.1 ssp.programattik.com
 127.0.0.1 ssum-sec.casalemedia.com
 127.0.0.1 st-n.ads1-adnow.com
