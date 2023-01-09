@@ -5,7 +5,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20230107
+# Version: 20230109
 # (Version also shows update date as YYYYMMDD)
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -153,6 +153,7 @@
 127.0.0.1 cdn2.inner-active.mobi
 127.0.0.1 cdp.cloud.unity3d.com
 127.0.0.1 ce.lijit.com
+127.0.0.1 certify-amp.alexametrics.com
 127.0.0.1 certify-js.alexametrics.com
 127.0.0.1 champagne.futurecdn.net
 127.0.0.1 cimri.api.useinsider.com
@@ -176,6 +177,8 @@
 127.0.0.1 counter.yadro.ru
 127.0.0.1 countly.fibabanka.com.tr
 127.0.0.1 creativecdn.com
+127.0.0.1 csi.gstatic.com
+127.0.0.1 csp-reporting.cloudflare.com
 127.0.0.1 d.applovin.com
 127.0.0.1 d.applvn.com
 127.0.0.1 d.haberler.com
@@ -436,6 +439,7 @@
 127.0.0.1 s1.adform.net
 127.0.0.1 s2.adform.net
 127.0.0.1 s2s.adjust.com
+127.0.0.1 s7.addthis.com
 127.0.0.1 s8t.teads.tv
 127.0.0.1 samsungturkey.demdex.net
 127.0.0.1 sb.scorecardresearch.com
@@ -505,6 +509,7 @@
 127.0.0.1 targeting.unrulymedia.com
 127.0.0.1 td.doubleclick.net
 127.0.0.1 tempest.services.disqus.com
+127.0.0.1 tme.112.2o7.net
 127.0.0.1 top-fwz1.mail.ru
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 tps30.doubleverify.com
@@ -524,6 +529,7 @@
 127.0.0.1 uk-script.dotmetrics.net
 127.0.0.1 ups.analytics.yahoo.com
 127.0.0.1 us-u.openx.net
+127.0.0.1 vars.hotjar.com
 127.0.0.1 vidstat.taboola.com
 127.0.0.1 visitor.omnitagjs.com
 127.0.0.1 web.webpushs.com
