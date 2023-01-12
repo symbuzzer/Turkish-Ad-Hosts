@@ -5,7 +5,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20230110
+# Version: 20230112
 # (Version also shows update date as YYYYMMDD)
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -135,6 +135,7 @@
 127.0.0.1 cdn.id5-sync.com
 127.0.0.1 cdn.insurads.com
 127.0.0.1 cdn.makroo.com
+127.0.0.1 cdn.membrana.media
 127.0.0.1 cdn.medyanetads.com
 127.0.0.1 cdn.mookie1.com
 127.0.0.1 cdn.onesignal.com
@@ -161,6 +162,7 @@
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cm.mgid.com
 127.0.0.1 cnnturk.api.useinsider.com
+127.0.0.1 cnt.trvdp.com
 127.0.0.1 collect.dolap.com
 127.0.0.1 collect.trendyol.com
 127.0.0.1 collector.github.com
@@ -341,6 +343,7 @@
 127.0.0.1 mc.webvisor.org
 127.0.0.1 mc2tnzs73p3554cjc7h876m-gfm4.device.marketingcloudapis.com
 127.0.0.1 mcfk02nd3k8q7w75g9yxxcc6yj20.device.marketingcloudapis.com
+127.0.0.1 mcs-va.tiktokv.com
 127.0.0.1 me-client.eservice.emarsys.net
 127.0.0.1 med-api.admost.com
 127.0.0.1 metrics-logger.spot.im
@@ -352,6 +355,7 @@
 127.0.0.1 mobile-sdk-config.gservice.emarsys.net
 127.0.0.1 mon.isnssdk.com
 127.0.0.1 mon.tiktokv.com
+127.0.0.1 mon-va.byteoversea.com
 127.0.0.1 mon-va.tiktokv.com
 127.0.0.1 monorail-edge.shopifysvc.com
 127.0.0.1 motor1.push4site.com
@@ -421,6 +425,7 @@
 127.0.0.1 reklamup.com
 127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 rest.segmentify.com
+127.0.0.1 revenueflex.com
 127.0.0.1 review-rating.mncdn.com
 127.0.0.1 rosenberg.appmetrica.yandex.net
 127.0.0.1 rotarb.bid
@@ -510,6 +515,7 @@
 127.0.0.1 targeting.unrulymedia.com
 127.0.0.1 td.doubleclick.net
 127.0.0.1 tempest.services.disqus.com
+127.0.0.1 tg1.playstream.media
 127.0.0.1 tme.112.2o7.net
 127.0.0.1 top-fwz1.mail.ru
 127.0.0.1 tpc.googlesyndication.com
@@ -527,6 +533,7 @@
 127.0.0.1 turkcell.api.useinsider.com
 127.0.0.1 u.openx.net
 127.0.0.1 u.startup.mobile.webvisor.com
+127.0.0.1 udmserve.net
 127.0.0.1 uk-script.dotmetrics.net
 127.0.0.1 ups.analytics.yahoo.com
 127.0.0.1 us-u.openx.net
