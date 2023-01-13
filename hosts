@@ -5,7 +5,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 20230112
+# Version: 20230113
 # (Version also shows update date as YYYYMMDD)
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -56,6 +56,7 @@
 127.0.0.1 ads.stickyadstv.com
 127.0.0.1 ads.vidoomy.com
 127.0.0.1 ads-api.twitter.com
+127.0.0.1 adserve.donanimhaber.com
 127.0.0.1 adservice.google.com
 127.0.0.1 adservice.google.com.tr
 127.0.0.1 adservice.google.gr
@@ -65,12 +66,14 @@
 127.0.0.1 adx.adform.net
 127.0.0.1 aip-cdn.sozcu.com.tr
 127.0.0.1 aip2.sozcu.com.tr
+127.0.0.1 alb.reddit.com
 127.0.0.1 amer.hhkld.com
 127.0.0.1 an.yandex.ru
 127.0.0.1 analytics.halkbank.com.tr
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 analyticsb2c.com
 127.0.0.1 ap.lijit.com
+127.0.0.1 api.amplitude.com
 127.0.0.1 api.ad.intl.xiaomi.com
 127.0.0.1 api.dataroid.com
 127.0.0.1 api.instabug.com
@@ -81,6 +84,7 @@
 127.0.0.1 api.personaclick.com
 127.0.0.1 api.perzonalization.com
 127.0.0.1 api.rlcdn.com
+127.0.0.1 api.rudderlabs.com
 127.0.0.1 api.sec.intl.miui.com
 127.0.0.1 api.segment.io
 127.0.0.1 api.storyly.io
@@ -92,6 +96,7 @@
 127.0.0.1 app.adjust.net.in
 127.0.0.1 app.adjust.world
 127.0.0.1 app.gelirartisi.com
+127.0.0.1 app.intergient.com
 127.0.0.1 app.networkad.net
 127.0.0.1 app.tr.adjust.com
 127.0.0.1 app-analytics-v2.snapchat.com
@@ -113,6 +118,7 @@
 127.0.0.1 beacon-nf.rubiconproject.com
 127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 bidder.criteo.com
+127.0.0.1 bigrourg.net
 127.0.0.1 brightcombid.marphezis.com
 127.0.0.1 browser.events.data.microsoft.com
 127.0.0.1 browser-http-intake.logs.datadoghq.com
@@ -128,6 +134,8 @@
 127.0.0.1 cdn.adpushup.com
 127.0.0.1 cdn.adsafeprotected.com
 127.0.0.1 cdn.adtarget.com.tr
+127.0.0.1 cdn.bvmcdn.net
+127.0.0.1 cdn.carbonads.com
 127.0.0.1 cdn.cookielaw.org
 127.0.0.1 cdn.dimml.io
 127.0.0.1 cdn.efilli.com
@@ -138,8 +146,9 @@
 127.0.0.1 cdn.membrana.media
 127.0.0.1 cdn.medyanetads.com
 127.0.0.1 cdn.mookie1.com
-127.0.0.1 cdn.onesignal.com
 127.0.0.1 cdn.netmera-web.com
+127.0.0.1 cdn.onesignal.com
+127.0.0.1 cdn.rudderlabs.com
 127.0.0.1 cdn.scarabresearch.com
 127.0.0.1 cdn.segmenthub.com
 127.0.0.1 cdn.segmentify.com
@@ -166,6 +175,7 @@
 127.0.0.1 collect.dolap.com
 127.0.0.1 collect.trendyol.com
 127.0.0.1 collector.github.com
+127.0.0.1 commercialvalue.org
 127.0.0.1 config.uca.cloud.unity3d.com
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 configv2.unityads.unity3d.com
@@ -187,6 +197,7 @@
 127.0.0.1 d.haberler.com
 127.0.0.1 d.sondakika.com
 127.0.0.1 d15kdpgjg3unno.cloudfront.net
+127.0.0.1 d2v02itv0y9u9t.cloudfront.net
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 data.flurry.com
 127.0.0.1 data.mistat.intl.xiaomi.com
@@ -363,6 +374,7 @@
 127.0.0.1 ms.applvn.com
 127.0.0.1 mstm.motorsport.com
 127.0.0.1 mug.criteo.com
+127.0.0.1 munchkin.marketo.net
 127.0.0.1 nativespot.com
 127.0.0.1 netperform-is.vodafone.com.tr
 127.0.0.1 ntm.netmera-web.com
@@ -387,10 +399,13 @@
 127.0.0.1 pebed.dm-event.net
 127.0.0.1 per1.segmentify.com
 127.0.0.1 per2.segmentify.com
+127.0.0.1 perr.h-cdn.com
 127.0.0.1 pghub.io
+127.0.0.1 phicmune.net
 127.0.0.1 ping.chartbeat.net
 127.0.0.1 ping-meta-prd.jwpltx.com
 127.0.0.1 pisano.com.tr
+127.0.0.1 piwik.tapatalk.com
 127.0.0.1 pix.eu.criteo.net
 127.0.0.1 pix.spot.im
 127.0.0.1 pixel.adsafeprotected.com
@@ -409,6 +424,8 @@
 127.0.0.1 pro.hit.gemius.pl
 127.0.0.1 pub-sdk-cfg.criteo.com
 127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 punosy.best
+127.0.0.1 punosy.top
 127.0.0.1 purch-match.dotomi.com
 127.0.0.1 purch-sync.go.sonobi.com
 127.0.0.1 push.dengage.com
@@ -473,6 +490,7 @@
 127.0.0.1 signals.carrefoursa.com
 127.0.0.1 snap.licdn.com
 127.0.0.1 sommelier.futurehybrid.tech
+127.0.0.1 srv.buysellads.com
 127.0.0.1 srvr.dmvs-apac.com
 127.0.0.1 ssc-cms.33across.com
 127.0.0.1 ssl.google-analytics.com
@@ -536,6 +554,7 @@
 127.0.0.1 udmserve.net
 127.0.0.1 uk-script.dotmetrics.net
 127.0.0.1 ups.analytics.yahoo.com
+127.0.0.1 uptimecdn.com
 127.0.0.1 us-u.openx.net
 127.0.0.1 vars.hotjar.com
 127.0.0.1 vidstat.taboola.com
