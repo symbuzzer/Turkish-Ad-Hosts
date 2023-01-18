@@ -44,8 +44,7 @@ jobs:
 
       - name: Move zip to "temp" folder
         run:  |
-          mkdir temp
-          sudo mv Turkish-Ad-Hosts-Magisk-Module-v$NOW.zip temp
+          ls -a
         
       - name: Create release
         id: create_release
@@ -68,7 +67,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: /temp/Turkish-Ad-Hosts-Magisk-Module-v$NOW.zip
+          asset_path: /Turkish-Ad-Hosts-Magisk-Module-v$NOW.zip
           asset_name: Turkish-Ad-Hosts-Magisk-Module-v$NOW.zip
           asset_content_type: application/zip
         
