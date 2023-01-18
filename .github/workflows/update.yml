@@ -10,6 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
+      - name: First check
+        run:  |
+          ls -a
+      
       - name: Set current date as env variable
         run: echo "DATE=$(date +'%Y%m%d')" >> $GITHUB_ENV
 
@@ -104,8 +108,6 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      - name: Final cleanup
+      - name: Final check
         run:  |
-          ls -a
-          rm -rf magisk
           ls -a
