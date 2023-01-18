@@ -44,6 +44,7 @@ jobs:
           sudo cp update.json zip/
           unzip -o Turkish-Ad-Hosts-Magisk-Module-Template.zip -d zip/
           rm -rf Turkish-Ad-Hosts-Magisk-Module-Template.zip
+          ls -a
           
       - name: Creating module zip
         run:  |
@@ -57,6 +58,7 @@ jobs:
           description=Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
           updateJson=https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json" > module.prop
           zip -r Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip *
+          ls -a
         
       - name: Create release
         id: create_release
@@ -85,6 +87,7 @@ jobs:
           
       - name: Cleanup before commit and push changes to github
         run:  |
+          ls -a
           rm -rf zip
           rm -rf update.json
           
