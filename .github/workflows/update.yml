@@ -1,7 +1,6 @@
 name: update.json
 
 on:
-  push:
 
 jobs:
   build:
