@@ -25,18 +25,23 @@ jobs:
         uses: jsdaniell/create-json@v1.2.2
         with:
          name: "update.json"
-         json: '{"version": "v$NOW+", "versionCode": $NOW, "zipUrl": "https://github.com/symbuzzer/Turkish-Ad-Hosts/releases/download/v$NOW/Turkish-Ad-Hosts-Magisk-Module-v$NOW.zip", "changelog": "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/readme.md"}'
+         json: '{"version": "v$NOW", "versionCode": $NOW, "zipUrl": "https://github.com/symbuzzer/Turkish-Ad-Hosts/releases/download/v$NOW/Turkish-Ad-Hosts-Magisk-Module-v$NOW.zip", "changelog": "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/readme.md"}'
 
       - name: Move "update.json" to "update" folder
         run: mv update.json update
    
-      - name: Start building magisk module
+      - name: Downloading files
         run:  |
           cd downloads
           wget https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json
           wget https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
           wget https://github.com/symbuzzer/Turkish-Ad-Hosts/raw/main/magisk/Turkish-Ad-Hosts-Magisk-Module-Template.zip
-          unzip Turkish-Ad-Hosts-Magisk-Module-Template.zip 
+
+      - name: Unzip template
+        run: unzip Turkish-Ad-Hosts-Magisk-Module-Template.zip downloads
+
+      - name: Creating module zip
+        run:  |
           mv hosts system/etc/
           mv update.json /
           echo "id=Turkish-Ad-Hosts
