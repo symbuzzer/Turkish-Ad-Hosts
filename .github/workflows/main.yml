@@ -33,8 +33,7 @@ jobs:
 
       - name: Creating module zip
         run:  |
-          mv hosts system/etc/
-          mv update.json /
+          sudo mv hosts system/etc/
           echo "id=Turkish-Ad-Hosts
           name=Turkish-Ad-Hosts
           version=v$NOW
