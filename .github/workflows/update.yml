@@ -18,7 +18,7 @@ jobs:
     
       - name: File system check
         run:  |
-          ls -a
+          ls -R
       
       - name: Set current date as env variable
         run: echo "DATE=$(date +'%Y%m%d')" >> $GITHUB_ENV
@@ -56,7 +56,7 @@ jobs:
           sudo cp downloads/update.json zip/
           unzip -o downloads/Turkish-Ad-Hosts-Magisk-Module-Template.zip -d zip/
           rm -rf downloads/Turkish-Ad-Hosts-Magisk-Module-Template.zip
-          ls -a
+          ls -R
           
       - name: Creating module zip
         run:  |
@@ -70,7 +70,7 @@ jobs:
           description=Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
           updateJson=https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json" > module.prop
           sudo zip -r -m Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip *
-          ls -a
+          ls -R
         
       - name: Create release
         id: create_release
@@ -101,7 +101,7 @@ jobs:
         run:  |
           rm -rf zip
           rm -rd downloads
-          ls -a
+          ls -R
           
       - name: Commit and push changes
         uses: actions-js/push@master
@@ -110,4 +110,4 @@ jobs:
           
       - name: Final check file system
         run:  |
-          ls -a
+          ls -R
