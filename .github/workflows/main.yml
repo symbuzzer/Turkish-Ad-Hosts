@@ -29,6 +29,7 @@ jobs:
       - name: Unzip template
         run:  |
           unzip Turkish-Ad-Hosts-Magisk-Module-Template.zip
+          rm Turkish-Ad-Hosts-Magisk-Module-Template.zip
 
       - name: Creating module zip
         run:  |
@@ -42,7 +43,7 @@ jobs:
           updateJson=https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/magisk/update.json" > module.prop
           zip -r Turkish-Ad-Hosts-Magisk-Module-v$NOW.zip *
 
-      - name: Move zip to "temp" folder
+      - name: List all files
         run:  |
           ls -a
         
