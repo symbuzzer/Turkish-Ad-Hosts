@@ -10,6 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
+      - name: Checkout
+        uses: actions/checkout@main
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+    
       - name: File system check
         run:  |
           ls -a
@@ -95,12 +101,6 @@ jobs:
           rm -rf update.json
           ls -a
           
-      - name: Checkout diffs
-        uses: actions/checkout@main
-        with:
-          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
-          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
-
       - name: Commit and push changes
         uses: actions-js/push@master
         with:
