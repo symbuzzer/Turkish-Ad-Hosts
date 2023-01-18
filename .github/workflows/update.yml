@@ -6,7 +6,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-
+    
       - name: Set current date as env variable
         run: echo "DATE=$(date +'%Y%m%d')" >> $GITHUB_ENV
 
