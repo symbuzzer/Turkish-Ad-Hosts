@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
-      - name: First check
+      - name: File system check
         run:  |
           ls -a
       
@@ -94,8 +94,6 @@ jobs:
           rm -rf zip
           rm -rf update.json
           ls -a
-          cd magisk
-          ls -a
           
       - name: Checkout diffs
         uses: actions/checkout@main
@@ -108,6 +106,6 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      - name: Final check
+      - name: Final check file system
         run:  |
           ls -a
