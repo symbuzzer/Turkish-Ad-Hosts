@@ -29,7 +29,6 @@ jobs:
           value: ${{ env.DATE }}
 
       - name: Create A File
-        uses: actions/checkout@v2
         uses: 1arp/create-a-file-action@0.2
         with:
           path: 'magisk'
