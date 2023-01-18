@@ -45,7 +45,7 @@ jobs:
           versionCode=${{ env.DATE }}
           author=Ali Beyaz (avalibeyaz.com/github)
           description=Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
-          updateJson=https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/magisk/update.json" > module.prop
+          updateJson=https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json" > module.prop
           zip -r Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip *
           ls -a
         
