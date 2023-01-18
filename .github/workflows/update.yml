@@ -32,6 +32,11 @@ jobs:
           file: update.json
           field: versionCode
           value: ${{ env.DATE }}
+      
+      - name: Mpve to folder
+        run:  |
+          mkdir magisk
+          sudo mv update.json magisk/
          
       - name: Commit & Push changes
         uses: actions-js/push@master
