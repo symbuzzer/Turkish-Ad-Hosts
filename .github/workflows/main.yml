@@ -40,7 +40,7 @@ jobs:
           wget https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json
           wget https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
           wget https://github.com/symbuzzer/Turkish-Ad-Hosts/raw/main/magisk/Turkish-Ad-Hosts-Magisk-Module-Template.zip
-          unzip -d Turkish-Ad-Hosts-Magisk-Module-Template.zip
+          unzip -o Turkish-Ad-Hosts-Magisk-Module-Template.zip
           dir
           cp -u hosts ZIP/system/etc/
           cp -u update.json ZIP/
