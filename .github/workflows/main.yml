@@ -9,7 +9,7 @@ jobs:
     steps:
 
       - name: Set current date as env variable
-        run: echo "{DATE}={$(date +'%Y%m%d')}" >> $GITHUB_ENV
+        run: echo "DATE=$(date +'%Y%m%d')" >> $GITHUB_ENV
 
       - name: Test "env.DATE" environment variables
         run: echo ${{ env.DATE }}
