@@ -3,7 +3,7 @@ name: magisk
 on:
   push:
     branches: ['main']
-    paths: ['magisk/**']
+    paths: ['magisk/update.json']
 
 jobs:
   build:
