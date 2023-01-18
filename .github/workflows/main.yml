@@ -17,7 +17,7 @@ jobs:
     steps:
 
       - name: Set current date as env variable
-        run: echo "NOW=$(date +'%Y%m%dTS')" >> $GITHUB_ENV
+        run: echo "NOW=$(date +'%Y%m%d')" >> $GITHUB_ENV
 
       - name: run NOW
         run: echo $NOW
@@ -41,7 +41,6 @@ jobs:
           wget https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
           wget https://github.com/symbuzzer/Turkish-Ad-Hosts/raw/main/magisk/Turkish-Ad-Hosts-Magisk-Module-Template.zip
           unzip Turkish-Ad-Hosts-Magisk-Module-Template.zip
-          dir
           cp -u hosts /system/etc/
           cp -u update.json /
           cd ZIP
