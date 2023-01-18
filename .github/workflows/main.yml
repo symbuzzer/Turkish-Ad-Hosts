@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       NOW:
-        description: $(date +'%Y%m%d'     
+        default: $(date +'%Y%m%d')
         required: true
 
 jobs:
