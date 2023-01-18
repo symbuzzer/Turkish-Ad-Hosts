@@ -23,6 +23,11 @@ jobs:
           file: update.json
           field: version
           value: v${{ env.DATE }}
+
+      - name: Update update.json versionCode
+        uses: jossef/action-set-json-field@v2.1
+        with:
+          file: update.json
           field: versionCode
           value: ${{ env.DATE }}
 
