@@ -10,11 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
-      - uses: actions/checkout@master
-        with:
-          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
-          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
-    
       - name: Set current date as env variable
         run: echo "DATE=$(date +'%Y%m%d')" >> $GITHUB_ENV
 
@@ -37,28 +32,23 @@ jobs:
           file: update.json
           field: versionCode
           value: ${{ env.DATE }}
-      
+          
       - name: Copy "update.json" to "magisk" folder
         run:  |
           mkdir -p magisk
           sudo cp update.json magisk/
-         
-      - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Delete "magisk" folder
-        run: sudo rm -rf magisk
         
       - name: Unzip and remove module template
         run:  |
-          unzip -o Turkish-Ad-Hosts-Magisk-Module-Template.zip
-          rm Turkish-Ad-Hosts-Magisk-Module-Template.zip
+          mkdir -p zip
+          sudo cp update.json zip/
+          unzip -o Turkish-Ad-Hosts-Magisk-Module-Template.zip -d zip/
+          rm -rf Turkish-Ad-Hosts-Magisk-Module-Template.zip
           
       - name: Creating module zip
         run:  |
-          sudo mv hosts system/etc/
+          sudo mv hosts zip/system/etc/
+          cd zip
           echo "id=Turkish-Ad-Hosts
           name=Turkish-Ad-Hosts
           version=v${{ env.DATE }}
@@ -67,7 +57,7 @@ jobs:
           description=Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
           updateJson=https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json" > module.prop
           zip -r Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip *
-          ls -a
+          cd ..
         
       - name: Create release
         id: create_release
@@ -93,4 +83,23 @@ jobs:
           asset_path: Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip
           asset_name: Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip
           asset_content_type: application/zip
+          
+      - name: Cleanup before commit and push changes to github
+        run:  |
+          rm -rf zip
+          rm -rf Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip
+          rm -rf update.json
+          
+      - uses: actions/checkout@master
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
 
+      - name: Commit and ush changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Final cleanup
+        run:  |
+          rm -rf magisk
