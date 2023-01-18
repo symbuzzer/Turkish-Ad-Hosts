@@ -15,6 +15,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+
+      - name: Set current date as env variable
+        run: echo "NOW=$(date +'%Y%m%dTS')" >> $GITHUB_ENV
+
+      - name: Echo current date
+        run: echo $NOW
+
       - name: Create Temp Folder
         run:   |
           mkdir downloads
@@ -24,9 +31,9 @@ jobs:
         run:  |
           cd update
 	  echo "{
-          "version": "v${{date:YYYYMMDD}}",
-          "versionCode": ${{date:YYYYMMDD}},
-          "zipUrl": "https://github.com/symbuzzer/Turkish-Ad-Hosts/releases/download/v${{date:YYYYMMDD}}/Turkish-Ad-Hosts-Magisk-Module-v${{date:YYYYMMDD}}.zip",
+          "version": "v$NOW",
+          "versionCode": $NOW,
+          "zipUrl": "https://github.com/symbuzzer/Turkish-Ad-Hosts/releases/download/v$NOW/Turkish-Ad-Hosts-Magisk-Module-v$NOW.zip",
           "changelog": "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/readme.md"
           }" > update.json
 
@@ -54,15 +61,15 @@ jobs:
           cd ZIP
           echo "id=Turkish-Ad-Hosts
           name=Turkish-Ad-Hosts
-          version=v${{date:YYYYMMDD}}
-          versionCode=${{date:YYYYMMDD}}
+          version=v$NOW
+          versionCode=$NOW
           author=Ali Beyaz (avalibeyaz.com/github)
           description=Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
           updateJson=https://github.com/symbuzzer/Turkish-Ad-Hosts/releases/download/generic/update.json" > module.prop
           
-          zip -r Turkish-Ad-Hosts-Magisk-Module-v${{date:YYYYMMDD}}.zip *
+          zip -r Turkish-Ad-Hosts-Magisk-Module-v$NOW.zip *
           mkdir temp
-          mv Turkish-Ad-Hosts-Magisk-Module-v${{date:YYYYMMDD}}.zip temp
+          mv Turkish-Ad-Hosts-Magisk-Module-v$NOW.zip temp
           cd ..
         
       - name: Create Release
@@ -71,11 +78,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: v${{date:YYYYMMDD}}
-          release_name: v${{date:YYYYMMDD}}
+          tag_name: v$NOW
+          release_name: v$NOW
           body: |
             # Changelog
-            -Hosts file updated to v${{date:YYYYMMDD}}
+            -Hosts file updated to v$NOW
           draft: false
           prerelease: false
           
@@ -86,7 +93,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./downloads/ZIP/temp/Turkish-Ad-Hosts-Magisk-Module-v${{date:YYYYMMDD}}.zip
-          asset_name: Turkish-Ad-Hosts-Magisk-Module-v${{date:YYYYMMDD}}.zip
+          asset_path: ./downloads/ZIP/temp/Turkish-Ad-Hosts-Magisk-Module-v$NOW.zip
+          asset_name: Turkish-Ad-Hosts-Magisk-Module-v$NOW.zip
           asset_content_type: application/zip
         
