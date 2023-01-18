@@ -75,15 +75,3 @@ jobs:
           asset_path: Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip
           asset_name: Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip
           asset_content_type: application/zip
-        
-      - name: Pushes update.json file
-        uses: dmnemec/copy_file_to_another_repo_action@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          source_file: 'update.json'
-          destination_repo: 'symbuzzer/Turkish-Ad-Hosts'
-          destination_folder: 'magisk'
-          user_email: 'alipolatbeyaz@gmail.com'
-          user_name: 'symbuzzer'
-          commit_message: 'auto-update update.json'
