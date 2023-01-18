@@ -35,7 +35,7 @@ jobs:
       
       - name: Mpve to folder
         run:  |
-          mkdir magisk
+          mkdir -p magisk
           sudo mv update.json magisk/
          
       - name: Commit & Push changes
