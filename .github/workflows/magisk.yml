@@ -36,6 +36,7 @@ jobs:
         run:  |
           unzip Turkish-Ad-Hosts-Magisk-Module-Template.zip
           rm Turkish-Ad-Hosts-Magisk-Module-Template.zip
+          
       - name: Creating module zip
         run:  |
           sudo mv hosts system/etc/
