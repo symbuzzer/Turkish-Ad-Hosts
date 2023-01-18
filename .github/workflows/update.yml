@@ -30,6 +30,7 @@ jobs:
           
       - name: Copy file
         run: |
+          mkdir magisk
           cp "update.json" "./magisk/update.json"
           
       - name: Commit files
