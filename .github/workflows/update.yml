@@ -1,1 +1,14 @@
+name: magisk
 
+on:
+  push:
+    branches: ['main']
+    paths: ['hosts']
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: Check triggered or not
+        run: echo "Success!"
