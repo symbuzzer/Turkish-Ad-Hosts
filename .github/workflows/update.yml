@@ -53,7 +53,7 @@ jobs:
         
       - name: Unzip and remove module template
         run:  |
-          unzip Turkish-Ad-Hosts-Magisk-Module-Template.zip
+          unzip -o Turkish-Ad-Hosts-Magisk-Module-Template.zip
           rm Turkish-Ad-Hosts-Magisk-Module-Template.zip
           
       - name: Creating module zip
