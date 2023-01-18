@@ -79,13 +79,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip
+          asset_path: /zip/Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip
           asset_name: Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip
           asset_content_type: application/zip
           
       - name: Cleanup before commit and push changes to github
         run:  |
-          cd -
           rm -rf zip
           rm -rf update.json
           
