@@ -55,8 +55,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: v${{ env.DATE }}
-          release_name: v${{ env.DATE }}
+          tag_name: Magisk-Module-v${{ env.DATE }}
+          release_name: Magisk-Module-v${{ env.DATE }}
           body: |
             # Changelog
             -Hosts file updated to v${{ env.DATE }}
