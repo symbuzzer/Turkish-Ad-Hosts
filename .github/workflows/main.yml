@@ -38,7 +38,7 @@ jobs:
           wget https://github.com/symbuzzer/Turkish-Ad-Hosts/raw/main/magisk/Turkish-Ad-Hosts-Magisk-Module-Template.zip
 
       - name: Unzip template
-        run: unzip Turkish-Ad-Hosts-Magisk-Module-Template.zip downloads
+        run: unzip downloads/Turkish-Ad-Hosts-Magisk-Module-Template.zip downloads
 
       - name: Creating module zip
         run:  |
