@@ -69,19 +69,10 @@ jobs:
           tag_name: Magisk-Module-v${{ env.DATE }}
           release_name: Magisk-Module-v${{ env.DATE }}
           body: |
-            # Changelog
+            # Changelog:
             -Hosts file updated to v${{ env.DATE }}
           draft: false
           prerelease: false
-      
-      - name: Test files on root directory
-        run:  |
-          ls -a
-          
-      - name: Test files on "zip" directory
-        run:  |
-          cd zip
-          ls -a
           
       - name: Upload release asset
         id: upload-release-asset 
@@ -96,20 +87,21 @@ jobs:
           
       - name: Cleanup before commit and push changes to github
         run:  |
-          ls -a
           rm -rf zip
           rm -rf update.json
           
-      - uses: actions/checkout@master
+      - name: Checkout diffs
+        uses: actions/checkout@main
         with:
           persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
           fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
 
-      - name: Commit and ush changes
+      - name: Commit and push changes
         uses: actions-js/push@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Final cleanup
         run:  |
           rm -rf magisk
+          ls -a
