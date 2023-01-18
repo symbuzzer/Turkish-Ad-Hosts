@@ -1,4 +1,4 @@
-name: create-magisk-module
+name: magisk
 
 on: 
   workflow_dispatch:
