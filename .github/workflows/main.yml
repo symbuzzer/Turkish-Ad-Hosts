@@ -76,9 +76,11 @@ jobs:
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          push-branch: 'master'
+          repository: symbuzzer/Turkish-Ad-Hosts
+          push-branch: 'main'
           commit-message: 'auto-publish'
           force-add: 'true'
-          files: magisk/update.json
+          files: update.json
+          path: ./magisk/
           name: symbuzzer
           email: alipolatbeyaz@gmail.com 
