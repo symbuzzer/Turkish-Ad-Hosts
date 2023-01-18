@@ -32,17 +32,6 @@ jobs:
           file: update.json
           field: versionCode
           value: ${{ env.DATE }}
-          
-      - name: Copy file
-        run: |
-          mkdir magisk
-          cp "update.json" "./magisk/update.json"
-          
-      - name: Commit files
-        run: |
-         git config user.email "alipolatbeyaz@gmail.com"
-         git config user.name "GitHub Action"
-         git commit -m "Add changes" -a
          
       - name: Commit & Push changes
         uses: actions-js/push@master
