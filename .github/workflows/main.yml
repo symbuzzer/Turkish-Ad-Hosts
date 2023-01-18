@@ -33,18 +33,7 @@ jobs:
         with:
          name: "update.json"
          json: '{"version": "v$NOW", "versionCode": $NOW, "zipUrl": "https://github.com/symbuzzer/Turkish-Ad-Hosts/releases/download/v$NOW/Turkish-Ad-Hosts-Magisk-Module-v$NOW.zip", "changelog": "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/readme.md"}'
-
-      - name: Upload update.json
-        id: upload-release-asset 
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: https://github.com/symbuzzer/Turkish-Ad-Hosts/releases/tag/generic/
-          asset_path: ./update.json
-          asset_name: update.json
-          asset_content_type: application/json
-        
+   
       - name: Start Building Zip
         run:  |
           cd downloads
@@ -62,7 +51,7 @@ jobs:
           versionCode=$NOW
           author=Ali Beyaz (avalibeyaz.com/github)
           description=Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
-          updateJson=https://github.com/symbuzzer/Turkish-Ad-Hosts/releases/download/generic/update.json" > module.prop
+          updateJson=https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/magisk/update.json" > module.prop
           
           zip -r Turkish-Ad-Hosts-Magisk-Module-v$NOW.zip *
           mkdir temp
