@@ -1,6 +1,9 @@
 name: update.json
 
 on:
+  push:
+    branches: ['main']
+    paths: ['hosts']
 
 jobs:
   build:
