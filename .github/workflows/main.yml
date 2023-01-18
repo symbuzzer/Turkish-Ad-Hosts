@@ -11,15 +11,15 @@ jobs:
       - name: Set current date as env variable
         run: echo "{DATE}={$(date +'%Y%m%d')}" >> $GITHUB_ENV
 
-      - name: Test with environment variables
-        run: echo $DATE
+      - name: Test "env.DATE" environment variables
+        run: echo ${{ env.DATE }}
 
       - name: Start building "update.json"
         id: create-json
         uses: jsdaniell/create-json@v1.2.2
         with:
          name: "update.json"
-         json: '{"version": "v$DATE", "versionCode": $DATE, "zipUrl": "https://github.com/symbuzzer/Turkish-Ad-Hosts/releases/download/v$DATE/Turkish-Ad-Hosts-Magisk-Module-v$DATE.zip", "changelog": "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/readme.md"}'
+         json: '{"version": "v${{ env.DATE }}", "versionCode": ${{ env.DATE }}, "zipUrl": "https://github.com/symbuzzer/Turkish-Ad-Hosts/releases/download/v${{ env.DATE }}/Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip", "changelog": "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/readme.md"}'
    
       - name: Downloading files
         run:  |
@@ -36,12 +36,12 @@ jobs:
           sudo mv hosts system/etc/
           echo "id=Turkish-Ad-Hosts
           name=Turkish-Ad-Hosts
-          version=v$DATE
-          versionCode=$DATE
+          version=v${{ env.DATE }}
+          versionCode=${{ env.DATE }}
           author=Ali Beyaz (avalibeyaz.com/github)
           description=Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
           updateJson=https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/magisk/update.json" > module.prop
-          zip -r Turkish-Ad-Hosts-Magisk-Module-v$DATE.zip *
+          zip -r Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip *
           ls -a
         
       - name: Create release
@@ -50,11 +50,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: v$DATE
-          release_name: v$DATE
+          tag_name: v${{ env.DATE }}
+          release_name: v${{ env.DATE }}
           body: |
             # Changelog
-            -Hosts file updated to v$DATE
+            -Hosts file updated to v${{ env.DATE }}
           draft: false
           prerelease: false
           
@@ -65,7 +65,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: /Turkish-Ad-Hosts-Magisk-Module-v$DATE.zip
-          asset_name: Turkish-Ad-Hosts-Magisk-Module-v$DATE.zip
+          asset_path: /Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip
+          asset_name: Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip
           asset_content_type: application/zip
         
