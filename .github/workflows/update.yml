@@ -27,12 +27,3 @@ jobs:
           file: update.json
           field: versionCode
           value: ${{ env.DATE }}
-
-       - name: Create A File
-         uses: 1arp/create-a-file-action@0.2
-         with:
-           path: 'magisk'
-           file: 'update2.json'
-           content: |
-             Hello
-             World
