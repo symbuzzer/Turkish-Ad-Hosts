@@ -89,6 +89,9 @@ jobs:
         run:  |
           rm -rf zip
           rm -rf update.json
+          ls -a
+          cd magisk
+          ls -a
           
       - name: Checkout diffs
         uses: actions/checkout@main
@@ -103,5 +106,6 @@ jobs:
           
       - name: Final cleanup
         run:  |
+          ls -a
           rm -rf magisk
           ls -a
