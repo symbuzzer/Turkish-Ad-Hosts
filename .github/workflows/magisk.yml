@@ -1,6 +1,7 @@
 name: magisk
 
 on: 
+
   push:
     branches:
     - main
