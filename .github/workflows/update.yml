@@ -29,11 +29,6 @@ jobs:
           field: versionCode
           value: ${{ env.DATE }}
 
-      - name: Move to folder
-        run:  |
-          mkdir magisk
-          sudo mv update.json magisk/
-
       - name: Overwrite file
         uses: "DamianReeves/write-file-action@master"
         with:
