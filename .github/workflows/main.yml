@@ -5,10 +5,10 @@ on:
     inputs:
       versionLevel:
         description: 'Version Number'     
-        required: true
+        required: false
       changeLog:
         description: 'Changelog'
-        required: true
+        required: false
         default: 'Update'
 
 jobs:
