@@ -73,14 +73,15 @@ jobs:
           asset_content_type: application/zip
         
       - name: Pushes update.json file
-        uses: github-actions-x/commit@v2.9
+        uses: actions/checkout@v2
+        uses: ./
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          repository: symbuzzer/Turkish-Ad-Hosts
-          push-branch: 'main'
-          commit-message: 'auto-publish'
-          force-add: 'true'
-          files: update.json
-          path: ./magisk/
-          name: symbuzzer
-          email: alipolatbeyaz@gmail.com 
+          github-actor: symbuzzer
+          github-repository: symbuzzer/Turkish-Ad-Hosts
+          branch: main
+          source-dir: magisk
+          files-and-dirs: update.json
+          author-name: 'symbuzzer'
+          author-email: alipolatbeyaz@gmail.com
+          commit-message: 'auto-commit'
