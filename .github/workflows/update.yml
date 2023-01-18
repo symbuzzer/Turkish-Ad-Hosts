@@ -32,7 +32,7 @@ jobs:
       - name: Overwrite file
         uses: "DamianReeves/write-file-action@master"
         with:
-          path: ${{ env.home}}/magisk/update.json
+          path: ${{ env.home}}/update.json
           write-mode: overwrite
           contents: |
             console.log('some contents')
