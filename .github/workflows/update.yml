@@ -39,6 +39,8 @@ jobs:
         with:
           path: magisk/update.json
           write-mode: overwrite
+          contents: |
+            console.log('some contents')
             
       - name: Commit & Push
         uses: Andro999b/push@v1.3
