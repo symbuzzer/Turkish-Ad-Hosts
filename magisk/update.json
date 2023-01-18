@@ -1,6 +1,6 @@
 {
-  "version": "v1.0.0",
-  "versionCode": 100,
-  "zipUrl": "https://github.com/symbuzzer/Poco-Debloater-Magisk-Modules/releases/download/release/Turkish-Ad-Hosts-Magisk-Module.zip",
-  "changelog": "https://raw.githubusercontent.com/symbuzzer/Poco-Debloater-Magisk-Modules/main/changelog.md"
+  "version": "v${{ github.event.inputs.versionLevel }}",
+  "versionCode": ${{ github.event.inputs.versionLevel }},
+  "zipUrl": "https://github.com/symbuzzer/Turkish-Ad-Hosts/releases/download/v${{ github.event.inputs.versionLevel }}/Turkish-Ad-Hosts-Magisk-Module-v${{ github.event.inputs.versionLevel }}.zip",
+  "changelog": "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/readme.md"
 }
