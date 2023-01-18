@@ -2,13 +2,48 @@ name: update.json
 
 on:
   push:
-    branches: ['main']
-    paths: ['hosts']
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    
-      - name: Check triggered or not
-        run: echo "Success!"
+
+      - name: Set current date as env variable
+        run: echo "DATE=$(date +'%Y%m%d')" >> $GITHUB_ENV
+
+      - name: Downloading files
+        run:  |
+          wget https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json
+          
+      - name: Update update.json version
+        uses: jossef/action-set-json-field@v2.1
+        with:
+          file: update.json
+          field: version
+          value: v${{ env.DATE }}
+
+      - name: Update update.json versionCode
+        uses: jossef/action-set-json-field@v2.1
+        with:
+          file: update.json
+          field: versionCode
+          value: ${{ env.DATE }}
+
+      - name: Move to folder
+        run:  |
+          mkdir magisk
+          sudo mv update.json magisk/
+
+      - name: Overwrite file
+        uses: "DamianReeves/write-file-action@master"
+        with:
+          path: magisk/update.json
+          write-mode: overwrite
+            
+      - name: Commit & Push
+        uses: Andro999b/push@v1.3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true
+          message: 'Overwritten by Github Actions - ${date}'
