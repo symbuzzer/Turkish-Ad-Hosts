@@ -35,8 +35,8 @@ jobs:
           
       - name: Commit files
         run: |
-         git config --local user.email "alipolatbeyaz@gmail.com.com"
-         git config --local user.name "GitHub Action"
+         git config user.email "alipolatbeyaz@gmail.com.com"
+         git config user.name "GitHub Action"
          git commit -m "Add changes" -a
          
       - name: Push changes
