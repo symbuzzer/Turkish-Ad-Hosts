@@ -1,4 +1,4 @@
-name: magisk
+name: update.json
 
 on:
   push:
