@@ -36,7 +36,7 @@ jobs:
           field: versionCode
           value: ${{ env.DATE }}
       
-      - name: Mpve to folder
+      - name: Move to folder
         run:  |
           mkdir -p magisk
           sudo mv update.json magisk/
