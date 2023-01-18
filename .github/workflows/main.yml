@@ -73,13 +73,12 @@ jobs:
           asset_content_type: application/zip
         
       - name: Pushes update.json file
-        uses: dmnemec/copy_file_to_another_repo_action@main
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        uses: github-actions-x/commit@v2.9
         with:
-          source_file: 'update.json'
-          destination_repo: 'symbuzzer/Turkish-Ad-Hosts'
-          destination_folder: 'magisk'
-          user_email: 'alipolatbeyaz@gmail.com'
-          user_name: 'symbuzzer'
-          commit_message: 'auto-update update.json'
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: 'master'
+          commit-message: 'auto-publish'
+          force-add: 'true'
+          files: magisk/update.json
+          name: symbuzzer
+          email: alipolatbeyaz@gmail.com 
