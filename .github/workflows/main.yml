@@ -14,7 +14,7 @@ jobs:
       - name: Downloading files
         run:  |
           wget https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
-          wget https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/update.json
+          wget https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json
           wget https://github.com/symbuzzer/Turkish-Ad-Hosts/raw/main/magisk/Turkish-Ad-Hosts-Magisk-Module-Template.zip
 
       - name: Update update.json version
