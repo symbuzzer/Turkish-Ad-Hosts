@@ -19,8 +19,8 @@ jobs:
       - name: Set current date as env variable
         run: echo "NOW=$(date +'%Y%m%dTS')" >> $GITHUB_ENV
 
-      - name: Set update.json strings env variable
-        run: echo "UPDT=$(date +'%Y%m%dTS')" >> $GITHUB_ENV
+      - name: run NOW
+        run: echo $NOW
 
       - name: Create Temp Folder
         run:   |
@@ -40,7 +40,7 @@ jobs:
           wget https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json
           wget https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
           wget https://github.com/symbuzzer/Turkish-Ad-Hosts/raw/main/magisk/Turkish-Ad-Hosts-Magisk-Module-Template.zip
-          unzip -o Turkish-Ad-Hosts-Magisk-Module-Template.zip
+          unzip Turkish-Ad-Hosts-Magisk-Module-Template.zip
           dir
           cp -u hosts ZIP/system/etc/
           cp -u update.json ZIP/
