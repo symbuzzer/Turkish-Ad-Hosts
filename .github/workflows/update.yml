@@ -20,28 +20,77 @@ jobs:
 
       - name: Downloading files
         run:  |
+          wget https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
           wget https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json
+          wget https://github.com/symbuzzer/Turkish-Ad-Hosts/raw/main/magisk/Turkish-Ad-Hosts-Magisk-Module-Template.zip
           
-      - name: Update update.json version
+      - name: Update "update.json" version
         uses: jossef/action-set-json-field@v2.1
         with:
           file: update.json
           field: version
           value: v${{ env.DATE }}
 
-      - name: Update update.json versionCode
+      - name: Update "update.json" versionCode
         uses: jossef/action-set-json-field@v2.1
         with:
           file: update.json
           field: versionCode
           value: ${{ env.DATE }}
       
-      - name: Move to folder
+      - name: Copy "update.json" to "magisk" folder
         run:  |
           mkdir -p magisk
-          sudo mv update.json magisk/
+          sudo cp update.json magisk/
          
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Delete "magisk" folder
+        run: sudo rm -rf magisk
+        
+      - name: Unzip and remove module template
+        run:  |
+          unzip Turkish-Ad-Hosts-Magisk-Module-Template.zip
+          rm Turkish-Ad-Hosts-Magisk-Module-Template.zip
+          
+      - name: Creating module zip
+        run:  |
+          sudo mv hosts system/etc/
+          echo "id=Turkish-Ad-Hosts
+          name=Turkish-Ad-Hosts
+          version=v${{ env.DATE }}
+          versionCode=${{ env.DATE }}
+          author=Ali Beyaz (avalibeyaz.com/github)
+          description=Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
+          updateJson=https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json" > module.prop
+          zip -r Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip *
+          ls -a
+        
+      - name: Create release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: Magisk-Module-v${{ env.DATE }}
+          release_name: Magisk-Module-v${{ env.DATE }}
+          body: |
+            # Changelog
+            -Hosts file updated to v${{ env.DATE }}
+          draft: false
+          prerelease: false
+          
+      - name: Upload release asset
+        id: upload-release-asset 
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip
+          asset_name: Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip
+          asset_content_type: application/zip
+
