@@ -1,12 +1,9 @@
 name: magisk
 
-on: 
-
+on:
   push:
-    branches:
-    - main
-    paths:
-    - magisk
+    branches: ['main']
+    paths: ['magisk/**']
 
 jobs:
   build:
