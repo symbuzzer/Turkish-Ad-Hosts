@@ -75,7 +75,7 @@ jobs:
       - name: Pushes update.json file
         uses: dmnemec/copy_file_to_another_repo_action@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
           source_file: 'update.json'
           destination_repo: 'symbuzzer/Turkish-Ad-Hosts'
