@@ -28,18 +28,13 @@ jobs:
           field: versionCode
           value: ${{ env.DATE }}
 
-      - name: Create A File
-        uses: 1arp/create-a-file-action@0.2
-        with:
-          path: 'magisk'
-          file: 'update2.json'
-          content: |
-            Hello
-            World
-      - name: Commit & Push
-        uses: Andro999b/push@v1.3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
-          message: 'Overwritten by Github Actions - ${date}'
+       - name: Commit files
+         run: |
+           git config --local user.email "action@github.com"
+           git config --local user.name "GitHub Action"
+           git commit -m "Add changes" -a
+           
+       - name: Push changes
+         uses: ad-m/github-push-action@master
+         with:
+           github_token: ${{ secrets.GITHUB_TOKEN }}
