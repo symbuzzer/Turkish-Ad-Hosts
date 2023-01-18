@@ -42,6 +42,8 @@ jobs:
           description=Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
           updateJson=https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/magisk/update.json" > module.prop
           zip -r Turkish-Ad-Hosts-Magisk-Module-v$NOW.zip *
+          mkdir temp
+          sudo mv Turkish-Ad-Hosts-Magisk-Module-v$NOW.zip temp
         
       - name: Create release
         id: create_release
@@ -64,7 +66,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Turkish-Ad-Hosts-Magisk-Module-v$NOW.zip
+          asset_path: ./temp/Turkish-Ad-Hosts-Magisk-Module-v$NOW.zip
           asset_name: Turkish-Ad-Hosts-Magisk-Module-v$NOW.zip
           asset_content_type: application/zip
         
