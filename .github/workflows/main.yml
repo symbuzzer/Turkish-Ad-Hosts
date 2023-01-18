@@ -42,7 +42,7 @@ jobs:
           wget https://github.com/symbuzzer/Turkish-Ad-Hosts/raw/main/magisk/Turkish-Ad-Hosts-Magisk-Module-Template.zip
           unzip Turkish-Ad-Hosts-Magisk-Module-Template.zip
           dir
-          cp -u hosts system/etc/
+          cp -u hosts /system/etc/
           cp -u update.json /
           cd ZIP
           echo "id=Turkish-Ad-Hosts
