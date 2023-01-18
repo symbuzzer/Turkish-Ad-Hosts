@@ -25,6 +25,8 @@ jobs:
 
       - name: Downloading files
         run:  |
+          mkdir -p downloads
+          cd downloads
           wget https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
           wget https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json
           wget https://github.com/symbuzzer/Turkish-Ad-Hosts/raw/main/magisk/Turkish-Ad-Hosts-Magisk-Module-Template.zip
@@ -32,33 +34,33 @@ jobs:
       - name: Update "update.json" version
         uses: jossef/action-set-json-field@v2.1
         with:
-          file: update.json
+          file: downloads/update.json
           field: version
           value: v${{ env.DATE }}
 
       - name: Update "update.json" versionCode
         uses: jossef/action-set-json-field@v2.1
         with:
-          file: update.json
+          file: downloads/update.json
           field: versionCode
           value: ${{ env.DATE }}
           
       - name: Copy "update.json" to "magisk" folder
         run:  |
           mkdir -p magisk
-          sudo cp update.json magisk/
+          sudo cp downloads/update.json magisk/
         
       - name: Unzip and remove module template
         run:  |
           mkdir -p zip
-          sudo cp update.json zip/
-          unzip -o Turkish-Ad-Hosts-Magisk-Module-Template.zip -d zip/
-          rm -rf Turkish-Ad-Hosts-Magisk-Module-Template.zip
+          sudo cp downloads/update.json zip/
+          unzip -o downloads/Turkish-Ad-Hosts-Magisk-Module-Template.zip -d zip/
+          rm -rf downloads/Turkish-Ad-Hosts-Magisk-Module-Template.zip
           ls -a
           
       - name: Creating module zip
         run:  |
-          sudo mv hosts zip/system/etc/
+          sudo mv downloads/hosts zip/system/etc/
           cd zip
           echo "id=Turkish-Ad-Hosts
           name=Turkish-Ad-Hosts
@@ -98,7 +100,7 @@ jobs:
       - name: Cleanup before commit and push changes to github
         run:  |
           rm -rf zip
-          rm -rf update.json
+          rm -rd downloads
           ls -a
           
       - name: Commit and push changes
