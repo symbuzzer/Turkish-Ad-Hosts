@@ -1,6 +1,6 @@
 {
-  "version": "v${{ github.event.inputs.versionLevel }}",
-  "versionCode": ${{ github.event.inputs.versionLevel }},
+  "version": "v20230118",
+  "versionCode": 20230118,
   "zipUrl": "https://github.com/symbuzzer/Turkish-Ad-Hosts/releases/download/v${{ github.event.inputs.versionLevel }}/Turkish-Ad-Hosts-Magisk-Module-v${{ github.event.inputs.versionLevel }}.zip",
   "changelog": "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/readme.md"
 }
