@@ -74,7 +74,6 @@ jobs:
         
       - name: Pushes update.json file
         uses: actions/checkout@v2
-        uses: ./
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           github-actor: symbuzzer
