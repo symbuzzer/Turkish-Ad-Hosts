@@ -21,7 +21,7 @@ jobs:
           ls -R
       
       - name: Set current date as env variable
-        run: echo "DATE=$(date +'%Y%m%d')" >> $GITHUB_ENV
+        run: echo "DATE=$(date +'%y%m%d%H')" >> $GITHUB_ENV
 
       - name: Creating directories
         run:  |
