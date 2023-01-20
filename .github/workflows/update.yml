@@ -3,7 +3,7 @@ name: auto-update-magisk-module-release
 on:
   push:
     branches: ['main']
-    paths: ['hosts']
+    paths: ['debug']
 
 jobs:
   build:
@@ -21,7 +21,9 @@ jobs:
           ls -R
       
       - name: Set current date as env variable
-        run: echo "DATE=$(date +'%y%m%d%H')" >> $GITHUB_ENV
+        run:  |
+          echo "DATE=$(date +'%y%m%d%H%S')" >> $GITHUB_ENV
+          echo "DATE2=$(date +'%Y/%m/%d - %H:%S')" >> $GITHUB_ENV
 
       - name: Creating directories
         run:  |
@@ -63,7 +65,7 @@ jobs:
           name=Turkish-Ad-Hosts
           version=v${{ env.DATE }}
           versionCode=${{ env.DATE }}
-          author=Ali Beyaz (avalibeyaz.com/github)
+          author=Ali Beyaz
           description=https://github.com/symbuzzer/Turkish-Ad-Hosts
           updateJson=https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json" > module.prop
       
@@ -95,8 +97,8 @@ jobs:
           tag_name: Magisk-Module-v${{ env.DATE }}
           release_name: Magisk-Module-v${{ env.DATE }}
           body: |
-            # Changelog:
-            -Hosts file updated to v${{ env.DATE }}
+            # v${{ env.DATE }} Changelog:
+            -Hosts file updated to v${{ env.DATE2 }}
           draft: false
           prerelease: false
           
