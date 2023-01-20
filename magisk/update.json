@@ -1,6 +1,6 @@
 {
-  "version": "v23012016",
-  "versionCode": "23012016",
-  "zipUrl": "https://github.com/symbuzzer/Turkish-Ad-Hosts/releases/download/Magisk-Module-v23012016/Turkish-Ad-Hosts-Magisk-Module-v23012016.zip",
+  "version": "v23012018",
+  "versionCode": "23012018",
+  "zipUrl": "$REPO_URL/releases/download/Magisk-Module-v23012018/$MODULE_NAME-v23012018.zip",
   "changelog": "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/README.md"
 }
