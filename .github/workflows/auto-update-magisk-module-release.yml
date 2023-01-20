@@ -114,7 +114,7 @@ jobs:
           body: >
             Changelog:
             -Hosts file updated to ${{ env.DATE2 }}
-          files: zip/$MODULE_NAME-v${{ env.DATE }}.zip
+          files: zip/*.zip
           gzip: false
           draft: false
           prerelease: false
