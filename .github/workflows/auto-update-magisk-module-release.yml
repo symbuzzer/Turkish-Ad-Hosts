@@ -123,7 +123,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          asset_paths: '["./zip/$MODULE_NAME-v${{ env.DATE }}.zip"]'
+          asset_paths: '[zip/$MODULE_NAME-v${{ env.DATE }}.zip]'
           
       - name: Cleanup before commit and push changes to github
         run:  |
