@@ -11,7 +11,6 @@ env:  #ONLY CHANGE THESE
   AUTHOR: "Ali Beyaz" #EX: Ali Beyaz
   UPDATEJSON_RAW_URL: "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json" #EX: https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
   REPO_URL: "https://github.com/symbuzzer/Turkish-Ad-Hosts" #EX: https://github.com/symbuzzer/Turkish-Ad-Hosts
-  UPDATE_URL: $REPO_URL/releases/download/Magisk-Module-v${{ env.DATE }}/$MODULE_NAME-v${{ env.DATE }}.zip #Don't change!
 
 jobs:
   build:
@@ -72,7 +71,7 @@ jobs:
         with:
           file: downloads/update.json
           field: zipUrl
-          value: $UPDATE_URL
+          value: $REPO_URL/releases/download/Magisk-Module-v${{ env.DATE }}/$MODULE_NAME-v${{ env.DATE }}.zip
       
       - name: Create "module.prop" file
         run:  |
