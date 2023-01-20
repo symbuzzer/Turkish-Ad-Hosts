@@ -13,7 +13,7 @@ jobs:
           "versionCode": "23012018",
           "zipUrl": "$REPO_URL/releases/download/Magisk-Module-v23012018/$MODULE_NAME-v23012018.zip",
           "changelog": "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/README.md"
-          } > module.prop
+          }" > module.prop
           
       - name: Create and upload release asset
         uses: meeDamian/github-release@2.0
