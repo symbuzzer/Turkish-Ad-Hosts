@@ -3,7 +3,7 @@ name: auto-update-magisk-module-release
 on:
   push:
     branches: ['main']
-    paths: ['hosts']
+    paths: ['debug']
 
 jobs:
   build:
@@ -16,27 +16,37 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
     
-      - name: File system check
-        run:  |
-          ls -R
-      
-      - name: Set current date as env variable
-        run:  |
+      - name: Set variables
           echo "DATE=$(date +'%y%m%d%H')" >> $GITHUB_ENV
           echo "DATE2=$(date +'%Y/%m/%d - %H:%S')" >> $GITHUB_ENV
+          echo "MODULENAME=Turkish-Ad-Hosts-Magisk-Module" >> $GITHUB_ENV
+          echo ${{ env.MODULENAME }}
 
       - name: Creating directories
         run:  |
           mkdir -p downloads
           mkdir -p magisk
-          mkdir -p zip
+          mkdir -p zip/system/etc
+          mkdir -p zip/common
+          mkdir -p zip/META-INF/com/google/android
+          ls -R
+          
+      - name: Downloading "Zackptg5/MMT-Extended" template files
+        run:  |
+          cd downloads
+          wget https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/uninstall.sh
+          wget https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/customize.sh
+          wget https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/LICENSE
+          wget https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/common/functions.sh
+          wget https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/common/install.sh
+          wget https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/META-INF/com/google/android/update-binary
+          wget https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/META-INF/com/google/android/updater-script
 
-      - name: Downloading files
+      - name: Downloading other files
         run:  |
           cd downloads
           wget https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
           wget https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json
-          wget https://github.com/symbuzzer/Turkish-Ad-Hosts/raw/main/magisk/Turkish-Ad-Hosts-Magisk-Module-Template.zip
           
       - name: Update "update.json" version
         uses: jossef/action-set-json-field@v2.1
@@ -69,21 +79,23 @@ jobs:
           description=https://github.com/symbuzzer/Turkish-Ad-Hosts
           updateJson=https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json" > module.prop
       
-      - name: Copy "update.json" and "module.prop" to "magisk" and "zip" folders
+      - name: Copyin files to necessary dirs
         run:  |
           sudo cp downloads/update.json magisk/
+          sudo cp downloads/hosts zip/system/etc/
           sudo cp magisk/update.json zip/
           sudo mv module.prop zip/
-        
-      - name: Unzip and remove module template
-        run:  |
-          unzip -o downloads/Turkish-Ad-Hosts-Magisk-Module-Template.zip -d zip/
-          rm -rf downloads/Turkish-Ad-Hosts-Magisk-Module-Template.zip
+          sudo cp downloads/uninstall.sh zip/
+          sudo cp downloads/customize.sh zip/
+          sudo cp downloads/LICENSE zip/
+          sudo cp downloads/functions.sh zip/common
+          sudo cp downloads/install.sh zip/common
+          sudo cp downloads/update-binary zip/META-INF/com/google/android
+          sudo cp downloads/updater-script zip/META-INF/com/google/android
           ls -R
           
       - name: Creating module zip
         run:  |
-          sudo mv downloads/hosts zip/system/etc/
           cd zip
           sudo zip -r -m Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip *
           ls -R
