@@ -59,10 +59,15 @@ jobs:
       
       - name: Create "module.prop" file
         run:  |
-          
-          
+          echo "id=Turkish-Ad-Hosts
+          name=Turkish-Ad-Hosts
+          version=v${{ env.DATE }}
+          versionCode=${{ env.DATE }}
+          author=Ali Beyaz (avalibeyaz.com/github)
+          description=Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey
+          updateJson=https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json" > module.prop
       
-      - name: Copy "update.json" to "magisk" and "zip" folder
+      - name: Copy "update.json" and "module.prop" to "magisk" and "zip" folders
         run:  |
           sudo cp downloads/update.json magisk/
           sudo mv module.prop magisk/
