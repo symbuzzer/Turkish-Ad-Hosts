@@ -119,9 +119,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           tag: Magisk-Module-v${{ env.DATE }}
           name: Magisk-Module-v${{ env.DATE }}
-          body: >
-            Changelog:  
-            -Hosts file updated to ${{ env.DATE2 }}
+          body: -Hosts file updated to ${{ env.DATE2 }}
           files: zip/*.zip
           gzip: false
           draft: false
