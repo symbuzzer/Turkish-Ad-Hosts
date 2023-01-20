@@ -106,7 +106,6 @@ jobs:
           ls -R
         
       - name: Create release
-        id: create_release
         uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -120,16 +119,11 @@ jobs:
           prerelease: false
           
       - name: Upload release asset
-        id: upload-release-asset 
-        uses: actions/upload-release-asset@v1
-        run: cd zip
+        uses: alexellis/upload-assets@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: $MODULE_NAME-v${{ env.DATE }}.zip
-          asset_name: $MODULE_NAME-v${{ env.DATE }}.zip
-          asset_content_type: application/zip
+          asset_paths: '["./zip/$MODULE_NAME-v${{ env.DATE }}.zip"]'
           
       - name: Cleanup before commit and push changes to github
         run:  |
