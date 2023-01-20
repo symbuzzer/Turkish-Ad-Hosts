@@ -115,7 +115,6 @@ jobs:
             Changelog:
             -Hosts file updated to ${{ env.DATE2 }}
           files: zip/
-          gzip: folders
           draft: false
           prerelease: false
           
