@@ -119,10 +119,9 @@ jobs:
           prerelease: false
       
       - name: Dirty-fix for asset_paths bug
-        env:
-          ASSET_FIX: zip/$MODULE_NAME-v${{ env.DATE }}.zip
         run:  |
           echo zip/$MODULE_NAME-v${{ env.DATE }}.zip
+          echo "ASSET_FIX=$(zip/$MODULE_NAME-v${{ env.DATE }}.zip)" >> $GITHUB_ENV
           echo $ASSET_FIX
           
       - name: Upload release asset
