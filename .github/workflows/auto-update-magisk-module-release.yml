@@ -3,7 +3,7 @@ name: auto-update-magisk-module-release
 on:
   push:
     branches: ['main']
-    paths: ['debug']
+    paths: ['hosts']
 
 env:  #ONLY CHANGE THESE 
   MODULE_NAME: "Turkish-Ad-Hosts-Magisk-Module" #EX: Turkish-Ad-Hosts-Magisk-Module
@@ -120,7 +120,7 @@ jobs:
           tag: Magisk-Module-v${{ env.DATE }}
           name: Magisk-Module-v${{ env.DATE }}
           body: >
-            Changelog:
+            Changelog:  
             -Hosts file updated to ${{ env.DATE2 }}
           files: zip/*.zip
           gzip: false
