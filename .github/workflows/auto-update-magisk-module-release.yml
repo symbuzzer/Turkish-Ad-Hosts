@@ -80,7 +80,7 @@ jobs:
           description=https://github.com/symbuzzer/Turkish-Ad-Hosts
           updateJson=https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json" > module.prop
       
-      - name: Copyin files to necessary dirs
+      - name: Copying files to necessary dirs
         run:  |
           sudo cp downloads/update.json magisk/
           sudo cp downloads/hosts zip/system/etc/
