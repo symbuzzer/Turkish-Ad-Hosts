@@ -73,7 +73,7 @@ jobs:
         run:  |
           sudo cp downloads/update.json magisk/
           sudo cp magisk/update.json zip/
-          sudo mv magisk/module.prop zip/
+          sudo mv module.prop zip/
         
       - name: Unzip and remove module template
         run:  |
