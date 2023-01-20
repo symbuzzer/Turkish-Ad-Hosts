@@ -22,7 +22,7 @@ jobs:
       
       - name: Set current date as env variable
         run:  |
-          echo "DATE=$(date +'%y%m%d%H%S')" >> $GITHUB_ENV
+          echo "DATE=$(date +'%y%m%d%H')" >> $GITHUB_ENV
           echo "DATE2=$(date +'%Y/%m/%d - %H:%S')" >> $GITHUB_ENV
 
       - name: Creating directories
@@ -98,7 +98,7 @@ jobs:
           release_name: Magisk-Module-v${{ env.DATE }}
           body: |
             # v${{ env.DATE }} Changelog:
-            -Hosts file updated to v${{ env.DATE2 }}
+            -Hosts file updated to ${{ env.DATE2 }}
           draft: false
           prerelease: false
           
