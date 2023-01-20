@@ -3,7 +3,7 @@ name: auto-update-magisk-module-release
 on:
   push:
     branches: ['main']
-    paths: ['debug']
+    paths: ['hosts']
 
 jobs:
   build:
@@ -97,7 +97,7 @@ jobs:
           tag_name: Magisk-Module-v${{ env.DATE }}
           release_name: Magisk-Module-v${{ env.DATE }}
           body: |
-            # v${{ env.DATE }} Changelog:
+            Changelog:
             -Hosts file updated to ${{ env.DATE2 }}
           draft: false
           prerelease: false
