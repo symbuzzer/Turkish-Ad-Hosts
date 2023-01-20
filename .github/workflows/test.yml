@@ -10,4 +10,4 @@ jobs:
         run:  |
           echo "DATE=$(date +'%y%m%d%H')" >> $GITHUB_ENV
           echo "MODULENAME=Turkish-Ad-Hosts-Magisk-Module" >> $GITHUB_ENV
-          echo ${{ env.MODULENAME }}
+          echo $env.MODULENAME
