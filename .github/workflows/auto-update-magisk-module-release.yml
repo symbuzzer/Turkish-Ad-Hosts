@@ -118,16 +118,19 @@ jobs:
           draft: false
           prerelease: false
       
-      - name: test
+      - name: Dirty-fix for asset_paths bug
+        env:
+          ASSET_FIX: zip/$MODULE_NAME-v${{ env.DATE }}.zip
         run:  |
           echo zip/$MODULE_NAME-v${{ env.DATE }}.zip
+          echo $ASSET_FIX
           
       - name: Upload release asset
         uses: alexellis/upload-assets@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          asset_paths: '[zip/$MODULE_NAME-v${{ env.DATE }}.zip]'
+          asset_paths: '[$ASSET_FIX]'
           
       - name: Cleanup before commit and push changes to github
         run:  |
