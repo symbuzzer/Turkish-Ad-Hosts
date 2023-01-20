@@ -104,26 +104,19 @@ jobs:
           cd zip
           sudo zip -r -m $MODULE_NAME-v${{ env.DATE }}.zip *
           ls -R
-        
-      - name: Create release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Create and upload release asset
+        uses: meeDamian/github-release@2.0
         with:
-          tag_name: Magisk-Module-v${{ env.DATE }}
-          release_name: Magisk-Module-v${{ env.DATE }}
-          body: |
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: Magisk-Module-v${{ env.DATE }}
+          name: Magisk-Module-v${{ env.DATE }}
+          body: >
             Changelog:
             -Hosts file updated to ${{ env.DATE2 }}
+          files: zip/
           draft: false
           prerelease: false
-          
-      - name: Upload release asset
-        uses: Roang-zero1/github-upload-release-artifacts-action@v2
-        with:
-          args: "zip/"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Cleanup before commit and push changes to github
         run:  |
