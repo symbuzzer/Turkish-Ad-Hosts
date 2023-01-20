@@ -45,6 +45,13 @@ jobs:
           field: versionCode
           value: ${{ env.DATE }}
           
+      - name: Update "update.json" zipUrl
+        uses: jossef/action-set-json-field@v2.1
+        with:
+          file: downloads/update.json
+          field: zipUrl
+          value: https://github.com/symbuzzer/Turkish-Ad-Hosts/releases/download/v${{ env.DATE }}/Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip"
+          
       - name: Copy "update.json" to "magisk" folder
         run:  |
           mkdir -p magisk
