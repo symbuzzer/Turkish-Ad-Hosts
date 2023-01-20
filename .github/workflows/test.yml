@@ -6,8 +6,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
-      - name: Set variables
-        env:
-          MODULENAME: "Turkish-Ad-Hosts-Magisk-Module"
+      - name: Create "module.prop" file
         run:  |
-          echo $MODULENAME
+          echo "{
+          "version": "v23012018",
+          "versionCode": "23012018",
+          "zipUrl": "$REPO_URL/releases/download/Magisk-Module-v23012018/$MODULE_NAME-v23012018.zip",
+          "changelog": "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/README.md"
+          } > module.prop
+          
+      - name: Create and upload release asset
+        uses: meeDamian/github-release@2.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: test
+          name: test
+          body: test
+          files: module.prop
+          gzip: false
+          draft: false
+          prerelease: false
