@@ -9,7 +9,6 @@ env:  #ONLY CHANGE THESE
   MODULE_NAME: "Turkish-Ad-Hosts-Magisk-Module" #EX: Turkish-Ad-Hosts-Magisk-Module
   HOSTS_NAME: "Turkish-Ad-Hosts" #EX: Turkish-Ad-Hosts
   AUTHOR: "Ali Beyaz" #EX: Ali Beyaz
-  HOSTS_RAW_URL: "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts" #EX: https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
   UPDATEJSON_RAW_URL: "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json" #EX: https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
   REPO_URL: "https://github.com/symbuzzer/Turkish-Ad-Hosts" #EX: https://github.com/symbuzzer/Turkish-Ad-Hosts
 
@@ -49,10 +48,9 @@ jobs:
           wget https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/META-INF/com/google/android/update-binary
           wget https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/META-INF/com/google/android/updater-script
 
-      - name: Downloading other files
+      - name: Downloading "update.json" file
         run:  |
           cd downloads
-          wget $HOSTS_RAW_URL
           wget $UPDATEJSON_RAW_URL
           
       - name: Update "update.json" version
@@ -89,7 +87,7 @@ jobs:
       - name: Copying files to necessary dirs
         run:  |
           sudo cp downloads/update.json magisk/
-          sudo cp downloads/hosts zip/system/etc/
+          sudo cp hosts zip/system/etc/
           sudo cp magisk/update.json zip/
           sudo mv module.prop zip/
           sudo cp downloads/uninstall.sh zip/
@@ -128,7 +126,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: zip/$MODULE_NAME-v${{ env.DATE }}.zip
+          asset_path: zip/*.zip
           asset_name: $MODULE_NAME-v${{ env.DATE }}.zip
           asset_content_type: application/zip
           
