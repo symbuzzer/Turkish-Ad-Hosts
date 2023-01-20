@@ -18,9 +18,16 @@ jobs:
     steps:
     
       - name: Set variables
+        env:
+          DIRTY_PATH: "/releases/download/Magisk-Module-v"
+          DIRTY_SLASH: "/"
+          DIRTY_VER: -v
+          DIRTY_ZIP: ".zip"
         run:  |
           echo "DATE=$(date +'%y%m%d%H')" >> $GITHUB_ENV
           echo "DATE2=$(date +'%Y/%m/%d - %H:%S')" >> $GITHUB_ENV
+          echo "ZIPURL=${{env.REPO_URL}}${{env.DIRTY_PATH}}${{ env.DATE }}${{ env.DIRTY_SLASH }}${{ MODULE_NAME }}${{ env.DIRTY_VER }}${{ env.DATE }}${{ env.DIRTY_ZIP }}" >> $GITHUB_ENV
+          echo "ZIPURL=${{env.REPO_URL}}${{env.DIRTY_PATH}}${{ env.DATE }}${{ env.DIRTY_SLASH }}${{ MODULE_NAME }}${{ env.DIRTY_VER }}${{ env.DATE }}${{ env.DIRTY_ZIP }}"
     
       - name: Checkout
         uses: actions/checkout@main
@@ -71,7 +78,7 @@ jobs:
         with:
           file: downloads/update.json
           field: zipUrl
-          value: $REPO_URL/releases/download/Magisk-Module-v${{ env.DATE }}/$MODULE_NAME-v${{ env.DATE }}.zip
+          value: ${{ env.ZIP_URL }}
       
       - name: Create "module.prop" file
         run:  |
