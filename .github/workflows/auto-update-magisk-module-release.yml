@@ -35,7 +35,6 @@ jobs:
           mkdir -p zip/system/etc
           mkdir -p zip/common
           mkdir -p zip/META-INF/com/google/android
-          ls -R
           
       - name: Downloading "Zackptg5/MMT-Extended" template files
         run:  |
@@ -103,7 +102,6 @@ jobs:
         run:  |
           cd zip
           sudo zip -r -m $MODULE_NAME-v${{ env.DATE }}.zip *
-          ls -R
           
       - name: Create and upload release asset
         uses: meeDamian/github-release@2.0
@@ -129,7 +127,3 @@ jobs:
         uses: actions-js/push@master
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Final check file system
-        run:  |
-          ls -R
