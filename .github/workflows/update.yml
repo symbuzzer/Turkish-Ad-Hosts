@@ -70,9 +70,8 @@ jobs:
       - name: Copy "update.json" and "module.prop" to "magisk" and "zip" folders
         run:  |
           sudo cp downloads/update.json magisk/
-          sudo mv module.prop magisk/
           sudo cp magisk/update.json zip/
-          sudo cp magisk/module.prop zip/
+          sudo mv magisk/module.prop zip/
         
       - name: Unzip and remove module template
         run:  |
