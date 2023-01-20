@@ -1,7 +1,7 @@
 id=Turkish-Ad-Hosts
 name=Turkish-Ad-Hosts
-version=v202301201347
-versionCode=202301201347
+version=v1.0.0
+versionCode=100
 author=Ali Beyaz (avalibeyaz.com/github)
 description=Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey
 updateJson=https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json
