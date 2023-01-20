@@ -17,6 +17,7 @@ jobs:
           fetch-depth: 0
     
       - name: Set variables
+        run:  |
           echo "DATE=$(date +'%y%m%d%H')" >> $GITHUB_ENV
           echo "DATE2=$(date +'%Y/%m/%d - %H:%S')" >> $GITHUB_ENV
           echo "MODULENAME=Turkish-Ad-Hosts-Magisk-Module" >> $GITHUB_ENV
