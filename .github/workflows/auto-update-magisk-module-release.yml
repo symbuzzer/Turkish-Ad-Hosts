@@ -10,19 +10,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
+      - name: Set variables #ONLY CHANGE THESE 
+        env:
+          MODULE_NAME: "Turkish-Ad-Hosts-Magisk-Module" #EX: Turkish-Ad-Hosts-Magisk-Module
+          HOSTS_NAME: "Turkish-Ad-Hosts" #EX: Turkish-Ad-Hosts
+          AUTHOR: "Ali Beyaz" #EX: Ali Beyaz
+          HOSTS_RAW_URL: "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts" #EX: https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
+          UPDATEJSON_RAW_URL: "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json" #EX: https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
+          REPO_URL: "https://github.com/symbuzzer/Turkish-Ad-Hosts" #EX: https://github.com/symbuzzer/Turkish-Ad-Hosts
+        run:  |
+          echo "DATE=$(date +'%y%m%d%H')" >> $GITHUB_ENV
+          echo "DATE2=$(date +'%Y/%m/%d - %H:%S')" >> $GITHUB_ENV
+    
       - name: Checkout
         uses: actions/checkout@main
         with:
           persist-credentials: false
           fetch-depth: 0
-    
-      - name: Set variables
-        run:  |
-          echo "DATE=$(date +'%y%m%d%H')" >> $GITHUB_ENV
-          echo "DATE2=$(date +'%Y/%m/%d - %H:%S')" >> $GITHUB_ENV
-          echo "MODULENAME=Turkish-Ad-Hosts-Magisk-Module" >> $GITHUB_ENV
-          echo ${{ env.MODULENAME }}
-
+          
       - name: Creating directories
         run:  |
           mkdir -p downloads
@@ -46,8 +51,8 @@ jobs:
       - name: Downloading other files
         run:  |
           cd downloads
-          wget https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
-          wget https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json
+          wget $HOSTS_RAW_URL
+          wget $UPDATEJSON_RAW_URL
           
       - name: Update "update.json" version
         uses: jossef/action-set-json-field@v2.1
@@ -68,17 +73,17 @@ jobs:
         with:
           file: downloads/update.json
           field: zipUrl
-          value: https://github.com/symbuzzer/Turkish-Ad-Hosts/releases/download/Magisk-Module-v${{ env.DATE }}/Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip
+          value: $REPO_URL/releases/download/Magisk-Module-v${{ env.DATE }}/$MODULE_NAME-v${{ env.DATE }}.zip
       
       - name: Create "module.prop" file
         run:  |
-          echo "id=Turkish-Ad-Hosts
-          name=Turkish-Ad-Hosts
+          echo "id=$HOSTS_NAME
+          name=$HOSTS_NAME
           version=v${{ env.DATE }}
           versionCode=${{ env.DATE }}
-          author=Ali Beyaz
-          description=https://github.com/symbuzzer/Turkish-Ad-Hosts
-          updateJson=https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json" > module.prop
+          author=$AUTHOR
+          description=$REPO_URL
+          updateJson=$UPDATEJSON_RAW_URL" > module.prop
       
       - name: Copying files to necessary dirs
         run:  |
@@ -98,7 +103,7 @@ jobs:
       - name: Creating module zip
         run:  |
           cd zip
-          sudo zip -r -m Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip *
+          sudo zip -r -m $MODULE_NAME-v${{ env.DATE }}.zip *
           ls -R
         
       - name: Create release
@@ -122,8 +127,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: zip/Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip
-          asset_name: Turkish-Ad-Hosts-Magisk-Module-v${{ env.DATE }}.zip
+          asset_path: zip/$MODULE_NAME-v${{ env.DATE }}.zip
+          asset_name: $MODULE_NAME-v${{ env.DATE }}.zip
           asset_content_type: application/zip
           
       - name: Cleanup before commit and push changes to github
