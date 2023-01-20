@@ -18,15 +18,18 @@ jobs:
     steps:
     
       - name: Set variables
+        run:  |
+          echo "DATE=$(date +'%y%m%d%H')" >> $GITHUB_ENV
+          echo "DATE2=$(date +'%Y/%m/%d - %H:%S')" >> $GITHUB_ENV
+          
+      - name: Hacking variables ;)
         env:
           DIRTY_PATH: "/releases/download/Magisk-Module-v"
           DIRTY_SLASH: "/"
           DIRTY_VER: -v
           DIRTY_ZIP: ".zip"
         run:  |
-          echo "DATE=$(date +'%y%m%d%H')" >> $GITHUB_ENV
-          echo "DATE2=$(date +'%Y/%m/%d - %H:%S')" >> $GITHUB_ENV
-          echo "ZIPURL=${{env.REPO_URL}}${{env.DIRTY_PATH}}${{env.DATE}}${{Env.DIRTY_SLASH}}${{env.MODULE_NAME}}${{env.DIRTY_VER}}${{env.DATE}}${{env.DIRTY_ZIP}}" >> $GITHUB_ENV
+          echo "ZIP_URL=${{env.REPO_URL}}${{env.DIRTY_PATH}}${{env.DATE}}${{Env.DIRTY_SLASH}}${{env.MODULE_NAME}}${{env.DIRTY_VER}}${{env.DATE}}${{env.DIRTY_ZIP}}" >> $GITHUB_ENV
           echo ${{env.ZIP_URL}}
     
       - name: Checkout
