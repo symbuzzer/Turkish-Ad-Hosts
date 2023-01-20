@@ -3,7 +3,7 @@ name: update.json
 on:
   push:
     branches: ['main']
-    paths: ['hosts']
+    paths: ['debug']
 
 jobs:
   build:
