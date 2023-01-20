@@ -120,16 +120,14 @@ jobs:
       
       - name: test
         run:  |
-          echo ${MODULE_NAME}
-          echo ${ MODULE_NAME }
-          echo ${{ MODULE_NAME }}
+          echo zip/$MODULE_NAME-v${{ env.DATE }}.zip
           
       - name: Upload release asset
         uses: alexellis/upload-assets@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          asset_paths: '["${MODULE_NAME}-v${{ env.DATE }}.zip"]'
+          asset_paths: '[zip/$MODULE_NAME-v${{ env.DATE }}.zip]'
           
       - name: Cleanup before commit and push changes to github
         run:  |
