@@ -1,3 +1,9 @@
+# you should have "magisk" folder on root of your git.
+# magisk folder should include "update.json" and "changelog.md" at least.
+# your "hosts" file should be in root directory of your git.
+# only change "MODULE_NAME", "HOSTS_NAME", "AUTHOR", "UPDATEJSON_RAW_URL" and "REPO_URL" variables of this file.
+# example project: https://github.com/symbuzzer/Turkish-Ad-Hosts/
+
 name: auto-update-magisk-module-release
 
 on:
