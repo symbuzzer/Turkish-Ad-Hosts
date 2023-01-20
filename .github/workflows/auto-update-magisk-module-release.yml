@@ -118,20 +118,18 @@ jobs:
           draft: false
           prerelease: false
       
-      - name: dirty-fix for release asset filename bug
-        env:  #ONLY CHANGE THESE 
-          ASSET_NAME: zip/$MODULE_NAME-v${{ env.DATE }}.zip
-          ASSET_NAME_2: "$ASSET_NAME"
+      - name: test
         run:  |
-          echo $ASSET_NAME
-          echo $ASSET_NAME_2
+          echo ${MODULE_NAME}
+          echo ${ MODULE_NAME }
+          echo ${{ MODULE_NAME }}
           
       - name: Upload release asset
         uses: alexellis/upload-assets@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          asset_paths: '[$ASSET_NAME]'
+          asset_paths: '["${MODULE_NAME}-v${{ env.DATE }}.zip"]'
           
       - name: Cleanup before commit and push changes to github
         run:  |
