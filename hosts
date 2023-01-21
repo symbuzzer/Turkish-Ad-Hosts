@@ -50,6 +50,7 @@
 127.0.0.1 ads.adthrive.com
 127.0.0.1 ads.avocet.io
 127.0.0.1 ads.dygdigital.com
+127.0.0.1 ads.google.com
 127.0.0.1 ads.pro-market.net
 127.0.0.1 ads.pubmatic.com
 127.0.0.1 ads.servebom.com
@@ -57,21 +58,29 @@
 127.0.0.1 ads.vidoomy.com
 127.0.0.1 ads-api.twitter.com
 127.0.0.1 adserve.donanimhaber.com
+127.0.0.1 adservetx.media.net
 127.0.0.1 adservice.google.com
 127.0.0.1 adservice.google.com.tr
 127.0.0.1 adservice.google.gr
 127.0.0.1 adsninja.ca
 127.0.0.1 adsp.haberturk.com
+127.0.0.1 adtago.s3.amazonaws.com
 127.0.0.1 adv.sec.intl.miui.com
+127.0.0.1 advertising-api-eu.amazon.com
+127.0.0.1 advice-ads.s3.amazonaws.com
 127.0.0.1 adx.adform.net
+127.0.0.1 affiliationjs.s3.amazonaws.com
 127.0.0.1 aip-cdn.sozcu.com.tr
 127.0.0.1 aip2.sozcu.com.tr
 127.0.0.1 alb.reddit.com
+127.0.0.1 amazonaax.com
+127.0.0.1 amazonclix.com
 127.0.0.1 amer.hhkld.com
 127.0.0.1 an.yandex.ru
 127.0.0.1 analytics.halkbank.com.tr
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 analyticsb2c.com
+127.0.0.1 analyticsengine.s3.amazonaws.com
 127.0.0.1 ap.lijit.com
 127.0.0.1 api.amplitude.com
 127.0.0.1 api.ad.intl.xiaomi.com
@@ -217,6 +226,7 @@
 127.0.0.1 dmp.adform.net
 127.0.0.1 dmx.districtm.io
 127.0.0.1 dmxleo.dailymotion.com
+127.0.0.1 doubleclick.net
 127.0.0.1 dpm.demdex.net
 127.0.0.1 dt.adsafeprotected.com
 127.0.0.1 dtm-dre.platform.dbankcloud.cn
@@ -302,6 +312,7 @@
 127.0.0.1 go.ezodn.com
 127.0.0.1 google-analytics.com
 127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 googleadservices.com
 127.0.0.1 grs.dbankcloud.asia
 127.0.0.1 grs.dbankcloud.cn
 127.0.0.1 grs.dbankcloud.com
@@ -345,6 +356,7 @@
 127.0.0.1 logger.virgul.com
 127.0.0.1 logsink.zedge.net
 127.0.0.1 ls.hit.gemius.pl
+127.0.0.1 m.doubleclick.net
 127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 manager.smartlook.com
 127.0.0.1 match.adsrvr.org
@@ -357,6 +369,9 @@
 127.0.0.1 mcs-va.tiktokv.com
 127.0.0.1 me-client.eservice.emarsys.net
 127.0.0.1 med-api.admost.com
+127.0.0.1 media.net
+127.0.0.1 media.fastclick.net
+127.0.0.1 mediavisor.doubleclick.net
 127.0.0.1 metrics-logger.spot.im
 127.0.0.1 metrics.fitanalytics.com
 127.0.0.1 mobile.eum-appdynamics.com
@@ -391,6 +406,7 @@
 127.0.0.1 ow.pubmatic.com
 127.0.0.1 p11.techlab-cdn.com
 127.0.0.1 pad-v3.presage.io
+127.0.0.1 pagead2.googleadservices.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 panel.afyads.com
 127.0.0.1 parkingridiculous.com
@@ -510,6 +526,7 @@
 127.0.0.1 static.fd-api.com
 127.0.0.1 static.hotjar.com
 127.0.0.1 static.lcwaikiki.com
+127.0.0.1 static.media.net
 127.0.0.1 static.onedio.com
 127.0.0.1 statics.olx.com.tr
 127.0.0.1 statistics.daktilo.com
