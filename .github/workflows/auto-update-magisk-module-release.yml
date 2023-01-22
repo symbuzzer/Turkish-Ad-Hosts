@@ -120,7 +120,9 @@ jobs:
         run:  |
           cd zip
           sudo zip -r -m $MODULE_NAME-v${{ env.DATE }}.zip *
-          sudo cp $MODULE_NAME-v${{ env.DATE }}.zip release/
+      
+      - name: Copy module zip to "release" folder
+          sudo cp zip/$MODULE_NAME-v${{ env.DATE }}.zip release/
           
       - name: Create and upload release asset
         uses: meeDamian/github-release@2.0
