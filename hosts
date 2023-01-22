@@ -130,6 +130,7 @@
 127.0.0.1 app.adjust.com
 127.0.0.1 app.adjust.net.in
 127.0.0.1 app.adjust.world
+127.0.0.1 app.chat.xiaomi.net
 127.0.0.1 app.gelirartisi.com
 127.0.0.1 app.intergient.com
 127.0.0.1 app.networkad.net
@@ -139,6 +140,7 @@
 127.0.0.1 appmetrica.yandex.com
 127.0.0.1 assets.a-mo.net
 127.0.0.1 assets.ubembed.com
+127.0.0.1 assoc-amazon.com
 127.0.0.1 athena-event-provider.n11.com
 127.0.0.1 attr.appsflyer.com
 127.0.0.1 authbe.sec.intl.miui.com
@@ -167,6 +169,7 @@
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 c2.taboola.com
 127.0.0.1 c3.taboola.com
+127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 cdn.adhouse.pro
 127.0.0.1 cdn.adpushup.com
 127.0.0.1 cdn.adsafeprotected.com
@@ -177,6 +180,7 @@
 127.0.0.1 cdn.dimml.io
 127.0.0.1 cdn.efilli.com
 127.0.0.1 cdn.eksiup.com
+127.0.0.1 cdn.fastclick.net
 127.0.0.1 cdn.id5-sync.com
 127.0.0.1 cdn.insurads.com
 127.0.0.1 cdn.luckyorange.com
@@ -207,6 +211,7 @@
 127.0.0.1 champagne.futurecdn.net
 127.0.0.1 cimri.api.useinsider.com
 127.0.0.1 clarity.ms
+127.0.0.1 click.oneplus.cn
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cm.mgid.com
 127.0.0.1 cnnturk.api.useinsider.com
@@ -335,6 +340,7 @@
 127.0.0.1 expo.io
 127.0.0.1 extmaps-api.yandex.net
 127.0.0.1 ezojs.com
+127.0.0.1 fastclick.net
 127.0.0.1 firebase-settings.crashlytics.com
 127.0.0.1 fls-na.amazon.com
 127.0.0.1 fra1-ib.adnxs.com
@@ -423,6 +429,7 @@
 127.0.0.1 media.fastclick.net
 127.0.0.1 mediavisor.doubleclick.net
 127.0.0.1 medyanative.com
+127.0.0.1 metrics.apple.com
 127.0.0.1 metrics.data.hicloud.com
 127.0.0.1 metrics.fitanalytics.com
 127.0.0.1 metrics.icloud.com
@@ -453,6 +460,7 @@
 127.0.0.1 munchkin.marketo.net
 127.0.0.1 nativespot.com
 127.0.0.1 netperform-is.vodafone.com.tr
+127.0.0.1 nmetrics.samsung.com
 127.0.0.1 ntm.netmera-web.com
 127.0.0.1 ntv.api.useinsider.com
 127.0.0.1 ntvsporweb.api.useinsider.com
@@ -464,6 +472,7 @@
 127.0.0.1 o1142666.ingest.sentry.io
 127.0.0.1 o1277943.ingest.sentry.io
 127.0.0.1 offer.slgnt.eu
+127.0.0.1 open.oneplus.net
 127.0.0.1 ow.pubmatic.com
 127.0.0.1 p11.techlab-cdn.com
 127.0.0.1 pad-v3.presage.io
@@ -668,4 +677,5 @@
 127.0.0.1 wzrkt.com
 127.0.0.1 x.bidswitch.net
 127.0.0.1 yandexadexchange.net
+127.0.0.1 youtube.cleverads.vn
 # --- [ END ] --- #
