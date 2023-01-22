@@ -22,7 +22,7 @@ echo installing, please wait...
 if errorlevel 1 (goto exit) else (goto checkfirstinstall)
 
 :checkfirstinstall
-if not exist "%workingdir%\version" (goto firstinstall) else (goto getversiongithub)
+if not exist "%workingdir%\version" (goto start) else (goto getversiongithub)
 
 :getversiongithub
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/version' -OutFile '%workingdir%\version2'" >> %temp%\getversiongithub.bat
@@ -34,16 +34,12 @@ set /p installedversion=<"%workingdir%\version"
 set /p githubversion=<"%workingdir%\version2"
 if %githubversion% gtr %installedversion% (goto start) else (goto exit)
 
-:firstinstall
-set installorupdate=install
-echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/version' -OutFile '%workingdir%\version'" >> %temp%\firstinstall.bat
-powershell -Command Start-Process -windowstyle hidden -Wait -FilePath '%temp%\firstinstall.bat'
-goto start
-
 :exit
 exit
 
 :start
+cls
+echo started to install, please wait...
 echo x=msgbox("Need Admin Rights for installing and updating Turkish Ad Hosts" + vbNewLine + " " + vbNewLine + "Note: If you don't want to see this on every boot just delete '%file%' file in '%startup%' folder" ,0, "%title%") > %temp%\%filename%.vbs
 cscript %temp%\%filename%.vbs
 echo set startup=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup >> %temp%\%filename%.bat
