@@ -4,12 +4,12 @@
 # only change "MODULE_NAME", "HOSTS_NAME", "AUTHOR", "UPDATEJSON_RAW_URL" and "REPO_URL" variables of this file.
 # example project: https://github.com/symbuzzer/Turkish-Ad-Hosts/
 
-name: auto-update-magisk-module-release
+name: auto-update-release
 
 on:
   push:
     branches: ['main']
-    paths: ['debug']
+    paths: ['hosts']
 
 env:  #ONLY CHANGE THESE 
   MODULE_NAME: "Turkish-Ad-Hosts-Magisk-Module" #EX: Turkish-Ad-Hosts-Magisk-Module
@@ -120,7 +120,10 @@ jobs:
         run:  |
           cd zip
           sudo zip -r -m $MODULE_NAME-v${{ env.DATE }}.zip *
-          sudo cp $MODULE_NAME-v${{ env.DATE }}.zip release/
+      
+      - name: Copy module zip to "release" folder
+        run:  |
+            sudo cp zip/*.zip release/
           
       - name: Create and upload release asset
         uses: meeDamian/github-release@2.0
@@ -133,6 +136,10 @@ jobs:
           gzip: false
           draft: false
           prerelease: false
+          
+      - name: Create "version" file
+        run:  |
+          echo ${{ env.DATE }} > version
           
       - name: Cleanup before commit and push changes to github
         run:  |
