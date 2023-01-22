@@ -5,7 +5,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230120
+# Version: 230122
 # (Version also shows update date as YYMMDD)
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -31,6 +31,7 @@
 127.0.0.1 8065991.fls.doubleclick.net
 127.0.0.1 9145021.fls.doubleclick.net
 127.0.0.1 a.ad.gt
+127.0.0.1 a.mouseflow.com
 127.0.0.1 a.pub.network
 127.0.0.1 a.teads.tv
 127.0.0.1 aax-eu.amazon.com.tr
@@ -39,6 +40,7 @@
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.medyanetads.com
 127.0.0.1 ad.plus
+127.0.0.1 ad.samsungadhub.com
 127.0.0.1 ad-cdn.bilgin.pro
 127.0.0.1 ad01.tmgrup.com.tr
 127.0.0.1 ade.googlesyndication.com
@@ -50,13 +52,25 @@
 127.0.0.1 ads.adthrive.com
 127.0.0.1 ads.avocet.io
 127.0.0.1 ads.dygdigital.com
+127.0.0.1 ads.facebook.com
 127.0.0.1 ads.google.com
+127.0.0.1 ads.linkedin.com
+127.0.0.1 ads.pinterest.com
 127.0.0.1 ads.pro-market.net
 127.0.0.1 ads.pubmatic.com
+127.0.0.1 ads.reddit.com
 127.0.0.1 ads.servebom.com
 127.0.0.1 ads.stickyadstv.com
+127.0.0.1 ads.tiktok.com
 127.0.0.1 ads.vidoomy.com
+127.0.0.1 ads.yahoo.com
+127.0.0.1 ads.yap.yahoo.com
+127.0.0.1 ads.youtube.com
 127.0.0.1 ads-api.twitter.com
+127.0.0.1 ads-dev.pinterest.com
+127.0.0.1 ads-sg.tiktok.com
+127.0.0.1 ads-twitter.com
+127.0.0.1 adsdk.yandex.ru
 127.0.0.1 adserve.donanimhaber.com
 127.0.0.1 adservetx.media.net
 127.0.0.1 adservice.google.com
@@ -66,9 +80,11 @@
 127.0.0.1 adsp.haberturk.com
 127.0.0.1 adtago.s3.amazonaws.com
 127.0.0.1 adv.sec.intl.miui.com
+127.0.0.1 advertising.twitter.com
 127.0.0.1 advertising-api-eu.amazon.com
 127.0.0.1 advice-ads.s3.amazonaws.com
 127.0.0.1 adx.adform.net
+127.0.0.1 affiliatepro.it
 127.0.0.1 affiliationjs.s3.amazonaws.com
 127.0.0.1 aip-cdn.sozcu.com.tr
 127.0.0.1 aip2.sozcu.com.tr
@@ -76,14 +92,24 @@
 127.0.0.1 amazonaax.com
 127.0.0.1 amazonclix.com
 127.0.0.1 amer.hhkld.com
+127.0.0.1 an.facebook.com
 127.0.0.1 an.yandex.ru
+127.0.0.1 analytics.facebook.com
 127.0.0.1 analytics.halkbank.com.tr
+127.0.0.1 analytics.mobile.yandex.net
+127.0.0.1 analytics.pinterest.com
+127.0.0.1 analytics.pointdrive.linkedin.com
+127.0.0.1 analytics.samsungknox.com
 127.0.0.1 analytics.tiktok.com
+127.0.0.1 analytics.yahoo.com
+127.0.0.1 analytics-api.samsunghealthcn.com
+127.0.0.1 analytics-sg.tiktok.com
 127.0.0.1 analyticsb2c.com
 127.0.0.1 analyticsengine.s3.amazonaws.com
 127.0.0.1 ap.lijit.com
 127.0.0.1 api.amplitude.com
 127.0.0.1 api.ad.intl.xiaomi.com
+127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 api.dataroid.com
 127.0.0.1 api.instabug.com
 127.0.0.1 api.leanplum.com
@@ -110,6 +136,7 @@
 127.0.0.1 app.tr.adjust.com
 127.0.0.1 app-analytics-v2.snapchat.com
 127.0.0.1 app-measurement.com
+127.0.0.1 appmetrica.yandex.com
 127.0.0.1 assets.a-mo.net
 127.0.0.1 assets.ubembed.com
 127.0.0.1 athena-event-provider.n11.com
@@ -135,6 +162,7 @@
 127.0.0.1 browser-update.org
 127.0.0.1 bs.serving-sys.com
 127.0.0.1 btloader.com
+127.0.0.1 business.samsungusa.com
 127.0.0.1 c.aaxads.com
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 c2.taboola.com
@@ -151,6 +179,7 @@
 127.0.0.1 cdn.eksiup.com
 127.0.0.1 cdn.id5-sync.com
 127.0.0.1 cdn.insurads.com
+127.0.0.1 cdn.luckyorange.com
 127.0.0.1 cdn.makroo.com
 127.0.0.1 cdn.membrana.media
 127.0.0.1 cdn.medyanetads.com
@@ -177,6 +206,7 @@
 127.0.0.1 certify-js.alexametrics.com
 127.0.0.1 champagne.futurecdn.net
 127.0.0.1 cimri.api.useinsider.com
+127.0.0.1 clarity.ms
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cm.mgid.com
 127.0.0.1 cnnturk.api.useinsider.com
@@ -185,6 +215,7 @@
 127.0.0.1 collect.trendyol.com
 127.0.0.1 collector.github.com
 127.0.0.1 commercialvalue.org
+127.0.0.1 config.samsungads.com
 127.0.0.1 config.uca.cloud.unity3d.com
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 configv2.unityads.unity3d.com
@@ -199,17 +230,22 @@
 127.0.0.1 counter.yadro.ru
 127.0.0.1 countly.fibabanka.com.tr
 127.0.0.1 creativecdn.com
+127.0.0.1 cs.luckyorange.net
 127.0.0.1 csi.gstatic.com
 127.0.0.1 csp-reporting.cloudflare.com
 127.0.0.1 d.applovin.com
 127.0.0.1 d.applvn.com
 127.0.0.1 d.haberler.com
+127.0.0.1 d.reddit.com
 127.0.0.1 d.sondakika.com
 127.0.0.1 d15kdpgjg3unno.cloudfront.net
 127.0.0.1 d2v02itv0y9u9t.cloudfront.net
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 data.flurry.com
+127.0.0.1 data.mistat.india.xiaomi.com
 127.0.0.1 data.mistat.intl.xiaomi.com
+127.0.0.1 data.mistat.rus.xiaomi.com
+127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 datacollector-dre.dt.hicloud.com
 127.0.0.1 dcetr3.segmentify.com
 127.0.0.1 decide.mixpanel.com
@@ -294,11 +330,15 @@
 127.0.0.1 eum.instana.io
 127.0.0.1 eus.rubiconproject.com
 127.0.0.1 event-collector.analytics.onedio.com
+127.0.0.1 events.redditmedia.com
 127.0.0.1 evs.data.ciceksepeti.com
 127.0.0.1 expo.io
+127.0.0.1 extmaps-api.yandex.net
+127.0.0.1 ezojs.com
 127.0.0.1 firebase-settings.crashlytics.com
 127.0.0.1 fls-na.amazon.com
 127.0.0.1 fra1-ib.adnxs.com
+127.0.0.1 freshmarketer.com
 127.0.0.1 g2.gumgum.com
 127.0.0.1 garantibbva.api.dataroid.com
 127.0.0.1 gatr.hit.gemius.pl
@@ -309,10 +349,14 @@
 127.0.0.1 get.s-onetag.com
 127.0.0.1 ghb.adtelligent.com
 127.0.0.1 ghb.spotim.market
+127.0.0.1 global.adserver.yahoo.com
+127.0.0.1 globalapi.ad.xiaomi.com
 127.0.0.1 go.ezodn.com
 127.0.0.1 google-analytics.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleadservices.com
+127.0.0.1 googleoptimize.com
+127.0.0.1 googletagmanager.com
 127.0.0.1 grs.dbankcloud.asia
 127.0.0.1 grs.dbankcloud.cn
 127.0.0.1 grs.dbankcloud.com
@@ -325,6 +369,7 @@
 127.0.0.1 hepsiburada01.webtrekk.net
 127.0.0.1 hepsiburada01.wt-eu02.net
 127.0.0.1 hit.api.useinsider.com
+127.0.0.1 hotjar.com
 127.0.0.1 hstats.hepsiburada.com
 127.0.0.1 htlb.casalemedia.com
 127.0.0.1 i.isnssdk.com
@@ -352,10 +397,15 @@
 127.0.0.1 lgr.visilabs.net
 127.0.0.1 live.demand.supply
 127.0.0.1 log.haberturk.com
+127.0.0.1 log.pinterest.com
 127.0.0.1 log-va.tiktokv.com
+127.0.0.1 logbak.hicloud.com
 127.0.0.1 logger.virgul.com
+127.0.0.1 logservice.hicloud.com
+127.0.0.1 logservice1.hicloud.com
 127.0.0.1 logsink.zedge.net
 127.0.0.1 ls.hit.gemius.pl
+127.0.0.1 luckyorange.com
 127.0.0.1 m.doubleclick.net
 127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 manager.smartlook.com
@@ -372,8 +422,18 @@
 127.0.0.1 media.net
 127.0.0.1 media.fastclick.net
 127.0.0.1 mediavisor.doubleclick.net
-127.0.0.1 metrics-logger.spot.im
+127.0.0.1 medyanative.com
+127.0.0.1 metrics.data.hicloud.com
 127.0.0.1 metrics.fitanalytics.com
+127.0.0.1 metrics.icloud.com
+127.0.0.1 metrics.mzstatic.com
+127.0.0.1 metrics-dra.dt.hicloud.com
+127.0.0.1 metrics-logger.spot.im
+127.0.0.1 metrics1.data.hicloud.com
+127.0.0.1 metrics2.data.hicloud.com
+127.0.0.1 metrics3.data.hicloud.com
+127.0.0.1 metrics4.data.hicloud.com
+127.0.0.1 metrics5.data.hicloud.com
 127.0.0.1 mobile.eum-appdynamics.com
 127.0.0.1 mobile.useinsider.com
 127.0.0.1 mobile.yandexadexchange.net
@@ -385,6 +445,7 @@
 127.0.0.1 mon-va.tiktokv.com
 127.0.0.1 monorail-edge.shopifysvc.com
 127.0.0.1 motor1.push4site.com
+127.0.0.1 mouseflow.com
 127.0.0.1 ms.applovin.com
 127.0.0.1 ms.applvn.com
 127.0.0.1 mstm.motorsport.com
@@ -426,6 +487,7 @@
 127.0.0.1 pix.spot.im
 127.0.0.1 pixel.adsafeprotected.com
 127.0.0.1 pixel.advertising.com
+127.0.0.1 pixel.facebook.com
 127.0.0.1 pixel.wp.com
 127.0.0.1 platform-api.sharethis.com
 127.0.0.1 player.adtelligent.com
@@ -457,6 +519,7 @@
 127.0.0.1 register.appsflyer.com
 127.0.0.1 reklamup.com
 127.0.0.1 report.appmetrica.yandex.net
+127.0.0.1 rereddit.com
 127.0.0.1 rest.segmentify.com
 127.0.0.1 revenueflex.com
 127.0.0.1 review-rating.mncdn.com
@@ -479,6 +542,9 @@
 127.0.0.1 s2s.adjust.com
 127.0.0.1 s7.addthis.com
 127.0.0.1 s8t.teads.tv
+127.0.0.1 samsung-com.112.2o7.net
+127.0.0.1 samsungadhub.com
+127.0.0.1 samsungads.com
 127.0.0.1 samsungturkey.demdex.net
 127.0.0.1 sb.scorecardresearch.com
 127.0.0.1 scarfsmash.com
@@ -496,6 +562,7 @@
 127.0.0.1 secure.quantserve.com
 127.0.0.1 secure-assets.rubiconproject.com
 127.0.0.1 secureads.g.doubleclick.net
+127.0.0.1 securemetrics.apple.com
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 seg.ad.gt
 127.0.0.1 sentry.io
@@ -503,7 +570,9 @@
 127.0.0.1 servicer.idealmedia.io
 127.0.0.1 services.vlitag.com
 127.0.0.1 settings.crashlytics.com
+127.0.0.1 settings.luckyorange.net
 127.0.0.1 signals.carrefoursa.com
+127.0.0.1 smetrics.samsung.com
 127.0.0.1 snap.licdn.com
 127.0.0.1 sommelier.futurehybrid.tech
 127.0.0.1 srv.buysellads.com
@@ -517,6 +586,7 @@
 127.0.0.1 stags.bluekai.com
 127.0.0.1 startup.mobile.webvisor.com
 127.0.0.1 startup.mobile.yandex.net
+127.0.0.1 statcounter.com
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 static.adsafeprotected.com
 127.0.0.1 static.chartbeat.com
@@ -537,6 +607,7 @@
 127.0.0.1 stats.wp.com
 127.0.0.1 str.hit.gemius.pl.hit.gemius.pl
 127.0.0.1 storj.cloud
+127.0.0.1 supportmetrics.apple.com
 127.0.0.1 svibeacon.onezapp.com
 127.0.0.1 sync.bfmio.com
 127.0.0.1 sync.go.sonobi.com
@@ -552,6 +623,7 @@
 127.0.0.1 tempest.services.disqus.com
 127.0.0.1 tg1.playstream.media
 127.0.0.1 tme.112.2o7.net
+127.0.0.1 tns-counter.ru
 127.0.0.1 top-fwz1.mail.ru
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 tps30.doubleverify.com
@@ -562,7 +634,11 @@
 127.0.0.1 track.wattpad.com
 127.0.0.1 track1.aniview.com
 127.0.0.1 tracking.olx-st.com
+127.0.0.1 tracking.india.miui.com
 127.0.0.1 tracking.intl.miui.com
+127.0.0.1 tracking.miui.com
+127.0.0.1 tracking.rus.miui.com
+127.0.0.1 trk.pinterest.com
 127.0.0.1 trk.storyly.io
 127.0.0.1 tru.am
 127.0.0.1 turkcell.api.useinsider.com
@@ -570,31 +646,26 @@
 127.0.0.1 u.startup.mobile.webvisor.com
 127.0.0.1 udmserve.net
 127.0.0.1 uk-script.dotmetrics.net
+127.0.0.1 upload.luckyorange.net
 127.0.0.1 ups.analytics.yahoo.com
 127.0.0.1 uptimecdn.com
 127.0.0.1 us-u.openx.net
 127.0.0.1 vars.hotjar.com
 127.0.0.1 vidstat.taboola.com
 127.0.0.1 visitor.omnitagjs.com
+127.0.0.1 w1.luckyorange.com
 127.0.0.1 web.webpushs.com
 127.0.0.1 widget.cdn.vidyome.com
 127.0.0.1 widget.criteo.com
 127.0.0.1 widget.engageya.com
 127.0.0.1 widget.perfectmarket.com
+127.0.0.1 widgets.pinterest.com
 127.0.0.1 widgets.engageya.com
 127.0.0.1 widgets.outbrain.com
 127.0.0.1 ws.batch.com
 127.0.0.1 ws.sahibinden.com
-127.0.0.1 www.affiliatepro.it
-127.0.0.1 www.clarity.ms
-127.0.0.1 www.ezojs.com
-127.0.0.1 www.google-analytics.com
-127.0.0.1 www.googleadservices.com
-127.0.0.1 www.googletagmanager.com
-127.0.0.1 www.googleoptimize.com
-127.0.0.1 www.medyanative.com
-127.0.0.1 www.statcounter.com
-127.0.0.1 www.tns-counter.ru
+127.0.0.1 ezojs.com
 127.0.0.1 wzrkt.com
 127.0.0.1 x.bidswitch.net
+127.0.0.1 yandexadexchange.net
 # --- [ END ] --- #
