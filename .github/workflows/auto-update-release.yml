@@ -123,7 +123,7 @@ jobs:
       
       - name: Copy module zip to "release" folder
         run:  |
-            sudo cp *.zip release/
+            sudo cp zip/*.zip release/
           
       - name: Create and upload release asset
         uses: meeDamian/github-release@2.0
