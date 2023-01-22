@@ -16,6 +16,6 @@ cscript %temp%\%filename%.vbs
 
 echo mode con:cols=18 lines=2 > %temp%\%filename%.bat
 echo set startup=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup >> %temp%\%filename%.bat
-echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts' -OutFile 'C:\Windows\System32\drivers\etc\hosts'" >> %temp%\%filename%.bat
+echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts' -OutFile '%WinDir%\System32\drivers\etc\hosts'" >> %temp%\%filename%.bat
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/windows/turkish-ad-hosts-windows.bat' -OutFile '%startup%\turkish-ad-hosts-windows.bat'" >> %temp%\%filename%.bat
 powershell -Command "Start-Process -Verb runAs -FilePath '%temp%\%filename%.bat'"
