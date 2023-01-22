@@ -1,0 +1,35 @@
+name: auto-hosts-release
+
+on:
+  push:
+    branches: ['main']
+    paths: ['debug']
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: Set variables
+        run:  |
+          echo "DATE=$(date +'%y%m%d%H')" >> $GITHUB_ENV
+          echo "DATE2=$(date +'%Y/%m/%d - %H:%S')" >> $GITHUB_ENV
+             
+      - name: Checkout
+        uses: actions/checkout@main
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Create and upload release asset
+        uses: meeDamian/github-release@2.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: hosts-v${{ env.DATE }}
+          name: hosts-v${{ env.DATE }}
+          body: -Hosts file updated to ${{ env.DATE2 }}
+          files: hosts
+          gzip: false
+          draft: false
+          prerelease: false
+
