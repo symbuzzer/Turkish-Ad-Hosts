@@ -9,7 +9,7 @@ name: auto-update-magisk-module-release
 on:
   push:
     branches: ['main']
-    paths: ['hosts']
+    paths: ['debug']
 
 env:  #ONLY CHANGE THESE 
   MODULE_NAME: "Turkish-Ad-Hosts-Magisk-Module" #EX: Turkish-Ad-Hosts-Magisk-Module
@@ -30,7 +30,7 @@ jobs:
           
       - name: Hacking variables ;)
         env:
-          DIRTY_PATH: "/releases/download/Magisk-Module-v"
+          DIRTY_PATH: "/releases/download/v"
           DIRTY_SLASH: "/"
           DIRTY_VER: -v
           DIRTY_ZIP: ".zip"
@@ -48,6 +48,7 @@ jobs:
         run:  |
           mkdir -p downloads
           mkdir -p magisk
+          mkdir -p release
           mkdir -p zip/system/etc
           mkdir -p zip/common
           mkdir -p zip/META-INF/com/google/android
@@ -102,6 +103,7 @@ jobs:
       - name: Copying files to necessary dirs
         run:  |
           sudo cp downloads/update.json magisk/
+          sudo cp hosts release/
           sudo cp hosts zip/system/etc/
           sudo cp magisk/update.json zip/
           sudo mv module.prop zip/
@@ -118,15 +120,16 @@ jobs:
         run:  |
           cd zip
           sudo zip -r -m $MODULE_NAME-v${{ env.DATE }}.zip *
+          sudo cp $MODULE_NAME-v${{ env.DATE }}.zip release/
           
       - name: Create and upload release asset
         uses: meeDamian/github-release@2.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          tag: Magisk-Module-v${{ env.DATE }}
-          name: Magisk-Module-v${{ env.DATE }}
+          tag: v${{ env.DATE }}
+          name: v${{ env.DATE }}
           body: -Hosts file updated to ${{ env.DATE2 }}
-          files: zip/*.zip
+          files: release/*
           gzip: false
           draft: false
           prerelease: false
@@ -134,7 +137,8 @@ jobs:
       - name: Cleanup before commit and push changes to github
         run:  |
           rm -rf zip
-          rm -rd downloads
+          rm -rf downloads
+          rm -rf release
           ls -R
           
       - name: Commit and push changes
