@@ -18,6 +18,7 @@ goto checkping
 :checkping
 ping www.google.com -n 1 -w 1000
 cls
+echo installing, please wait...
 if errorlevel 1 (goto exit) else (goto checkfirstinstall)
 
 :checkfirstinstall
@@ -34,8 +35,9 @@ set /p githubversion=<"%workingdir%\version2"
 if %githubversion% gtr %installedversion% (goto start) else (goto exit)
 
 :start
-if not exist "%workingdir%\version" (set message=Need Admin Rights for installing Turkish Ad Hosts) else (set message=New v%githubversion% update found! Need Admin Rights for updating Turkish Ad Hosts)
-echo x=msgbox("%message%" + vbNewLine + " " + vbNewLine + " " ,0, "%title%") > %temp%\%filename%.vbs
+cls
+if not exist "%workingdir%\version" (set message=Welcome to Turkish Ad Hosts) else (set message=New v%githubversion% update found!)
+echo x=msgbox("%message%" + vbNewLine + " " + vbNewLine + "Need Admin Rights for installation process" ,0, "%title%") > %temp%\%filename%.vbs
 cscript %temp%\%filename%.vbs
 echo set startup=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup >> %temp%\%filename%.bat
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts' -OutFile '%WinDir%\System32\drivers\etc\hosts'" >> %temp%\%filename%.bat
