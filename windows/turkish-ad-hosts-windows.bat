@@ -2,7 +2,7 @@
 setlocal EnableDelayedExpansion
 cls
 mode con:cols=18 lines=2
-set ver=1.0.0
+set ver=1.0.1
 set name=Turkish Ad Hosts
 set title=%name% v%ver%
 set file=%~f0
