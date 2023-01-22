@@ -17,11 +17,10 @@ goto checkping
 
 :checkping
 ping www.google.com -n 1 -w 1000
+cls
 if errorlevel 1 (goto exit) else (goto checkfirstinstall)
 
 :checkfirstinstall
-cls
-echo installing, please wait...
 if not exist "%workingdir%\version" (goto start) else (goto getversiongithub)
 
 :getversiongithub
@@ -35,8 +34,6 @@ set /p githubversion=<"%workingdir%\version2"
 if %githubversion% gtr %installedversion% (goto start) else (goto exit)
 
 :start
-cls
-echo installing, please wait...
 if not exist "%workingdir%\version" (set message=Need Admin Rights for installing Turkish Ad Hosts) else (set message=New v%githubversion% update found! Need Admin Rights for updating Turkish Ad Hosts)
 echo x=msgbox("%message%" + vbNewLine + " " + vbNewLine + " " ,0, "%title%") > %temp%\%filename%.vbs
 cscript %temp%\%filename%.vbs
@@ -47,7 +44,6 @@ echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/version' -OutFile '%workingdir%\version'" >> %temp%\%filename%.bat
 powershell -Command Start-Process -Verb runAs -windowstyle hidden -Wait -FilePath '%temp%\%filename%.bat'
 cls
-echo installed!
 goto exit
 
 :exit
