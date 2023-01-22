@@ -9,7 +9,7 @@ name: auto-update-release
 on:
   push:
     branches: ['main']
-    paths: ['debug']
+    paths: ['hosts']
 
 env:  #ONLY CHANGE THESE 
   MODULE_NAME: "Turkish-Ad-Hosts-Magisk-Module" #EX: Turkish-Ad-Hosts-Magisk-Module
