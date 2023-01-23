@@ -139,11 +139,13 @@
 127.0.0.1 app-measurement.com
 127.0.0.1 appmetrica.yandex.com
 127.0.0.1 assets.a-mo.net
+127.0.0.1 assets.api.useinsider.com
 127.0.0.1 assets.ubembed.com
 127.0.0.1 assoc-amazon.com
 127.0.0.1 athena-event-provider.n11.com
 127.0.0.1 attr.appsflyer.com
 127.0.0.1 authbe.sec.intl.miui.com
+127.0.0.1 avhtaapxml.com
 127.0.0.1 b-code.liadm.com
 127.0.0.1 baltar.dimml.io
 127.0.0.1 beacons.gvt2.com
@@ -174,6 +176,7 @@
 127.0.0.1 cdn.adpushup.com
 127.0.0.1 cdn.adsafeprotected.com
 127.0.0.1 cdn.adtarget.com.tr
+127.0.0.1 cdn.bannersnack.com
 127.0.0.1 cdn.bvmcdn.net
 127.0.0.1 cdn.carbonads.com
 127.0.0.1 cdn.cookielaw.org
@@ -256,6 +259,7 @@
 127.0.0.1 dcetr3.segmentify.com
 127.0.0.1 decide.mixpanel.com
 127.0.0.1 delivery.adrecover.com
+127.0.0.1 deploy.mopinion.com
 127.0.0.1 device-metrics-us.amazon.com
 127.0.0.1 device-metrics-us-2.amazon.com
 127.0.0.1 devices.carnivalmobile.com
@@ -359,6 +363,7 @@
 127.0.0.1 global.adserver.yahoo.com
 127.0.0.1 globalapi.ad.xiaomi.com
 127.0.0.1 go.ezodn.com
+127.0.0.1 godpvqnszo.com
 127.0.0.1 google-analytics.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleadservices.com
@@ -402,6 +407,7 @@
 127.0.0.1 laquesis.data.olxcdn.com
 127.0.0.1 launches.appsflyer.com
 127.0.0.1 lgr.visilabs.net
+127.0.0.1 limurol.com
 127.0.0.1 live.demand.supply
 127.0.0.1 log.haberturk.com
 127.0.0.1 log.pinterest.com
@@ -499,6 +505,9 @@
 127.0.0.1 pixel.advertising.com
 127.0.0.1 pixel.facebook.com
 127.0.0.1 pixel.wp.com
+127.0.0.1 pl15371971.highcpmrevenuenetwork.com
+127.0.0.1 pl15373403.highcpmrevenuenetwork.com
+127.0.0.1 pl15413159.highcpmrevenuenetwork.com
 127.0.0.1 platform-api.sharethis.com
 127.0.0.1 player.adtelligent.com
 127.0.0.1 player.aniview.com
@@ -520,6 +529,7 @@
 127.0.0.1 pushs.euromsg.com
 127.0.0.1 px-conf.perimeterx.net
 127.0.0.1 qds0l.publishers.tremorhub.com
+127.0.0.1 qgxbluhsgad.com
 127.0.0.1 radar.cedexis.com
 127.0.0.1 recs.engageya.com
 127.0.0.1 referrer.disqus.com
@@ -541,6 +551,7 @@
 127.0.0.1 rt.visilabs.net
 127.0.0.1 rumcdn.geoedge.be
 127.0.0.1 run.admost.com
+127.0.0.1 rxeosevsso.com
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 s.ntv.io
 127.0.0.1 s.go-mpulse.net
@@ -593,6 +604,7 @@
 127.0.0.1 ssp.programattik.com
 127.0.0.1 ssum-sec.casalemedia.com
 127.0.0.1 st-n.ads1-adnow.com
+127.0.0.1 stagepopkek.com
 127.0.0.1 stags.bluekai.com
 127.0.0.1 startup.mobile.webvisor.com
 127.0.0.1 startup.mobile.yandex.net
@@ -610,11 +622,13 @@
 127.0.0.1 static.onedio.com
 127.0.0.1 statics.olx.com.tr
 127.0.0.1 statistics.daktilo.com
+127.0.0.1 stats.bannersnack.com
 127.0.0.1 stats.birgun.net
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 stats.vidyome.com
 127.0.0.1 stats.vk-portal.net
 127.0.0.1 stats.wp.com
+127.0.0.1 steadfastsystem.com
 127.0.0.1 str.hit.gemius.pl.hit.gemius.pl
 127.0.0.1 storj.cloud
 127.0.0.1 supportmetrics.apple.com
@@ -675,9 +689,13 @@
 127.0.0.1 ws.batch.com
 127.0.0.1 ws.sahibinden.com
 127.0.0.1 www.cdn.ad.xiaomi.com
+127.0.0.1 www.effectivecreativeformat.com
+127.0.0.1 www.google-analytics.com
+127.0.0.1 wyhifdpatl.com
 127.0.0.1 ezojs.com
 127.0.0.1 wzrkt.com
 127.0.0.1 x.bidswitch.net
 127.0.0.1 yandexadexchange.net
 127.0.0.1 youtube.cleverads.vn
+127.0.0.1 z-na.amazon-adsystem.com
 # --- [ END ] --- #
