@@ -1,16 +1,14 @@
 @echo off
 setlocal EnableDelayedExpansion
+mode con:cols=50 lines=2
 cls
-set ver=1.1.0
+set ver=1.1.1
 set name=Turkish Ad Hosts
 set title=%name% v%ver%
 title %title%
-mode con:cols=50 lines=2
-set workingdir=%UserProfile%\tah
-set file=%~f0
-set startup=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
-title %title%
 color 0a
+set workingdir=%UserProfile%\tah
+set startup=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
 set filename=%RANDOM%
 if not exist "%workingdir%" mkdir "%workingdir%"
 goto checkping
