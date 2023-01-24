@@ -100,6 +100,7 @@
 127.0.0.1 an.facebook.com
 127.0.0.1 an.yandex.ru
 127.0.0.1 analytics.facebook.com
+127.0.0.1 analytics.google.com
 127.0.0.1 analytics.halkbank.com.tr
 127.0.0.1 analytics.mobile.yandex.net
 127.0.0.1 analytics.pinterest.com
@@ -184,6 +185,7 @@
 127.0.0.1 cdn.adsafeprotected.com
 127.0.0.1 cdn.adtarget.com.tr
 127.0.0.1 cdn.bannersnack.com
+127.0.0.1 cdn.bizible.com
 127.0.0.1 cdn.bvmcdn.net
 127.0.0.1 cdn.carbonads.com
 127.0.0.1 cdn.cookielaw.org
@@ -202,6 +204,7 @@
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 cdn.rudderlabs.com
 127.0.0.1 cdn.scarabresearch.com
+127.0.0.1 cdn.segment.com
 127.0.0.1 cdn.segmenthub.com
 127.0.0.1 cdn.segmentify.com
 127.0.0.1 cdn.serve.admatic.com.tr
@@ -336,6 +339,11 @@
 127.0.0.1 e2c49.gcp.gvt2.com
 127.0.0.1 e2c50.gcp.gvt2.com
 127.0.0.1 e2c51.gcp.gvt2.com
+127.0.0.1 e2c52.gcp.gvt2.com
+127.0.0.1 e2c53.gcp.gvt2.com
+127.0.0.1 e2c54.gcp.gvt2.com
+127.0.0.1 e2cs12.gcp.gvt2.com
+127.0.0.1 e2cs26.gcp.gvt2.com
 127.0.0.1 e2cs40.gcp.gvt2.com
 127.0.0.1 e2cs43.gcp.gvt2.com
 127.0.0.1 e2cs45.gcp.gvt2.com
@@ -390,6 +398,7 @@
 127.0.0.1 hepsiads-ui.hepsiburada.com
 127.0.0.1 hepsiburada01.webtrekk.net
 127.0.0.1 hepsiburada01.wt-eu02.net
+127.0.0.1 hexagon-analytics.com
 127.0.0.1 hit.api.useinsider.com
 127.0.0.1 hotjar.com
 127.0.0.1 hstats.hepsiburada.com
@@ -706,6 +715,7 @@
 127.0.0.1 widgets.pinterest.com
 127.0.0.1 widgets.engageya.com
 127.0.0.1 widgets.outbrain.com
+127.0.0.1 wikihow-com.videoplayerhub.com
 127.0.0.1 ws.batch.com
 127.0.0.1 ws.sahibinden.com
 127.0.0.1 www.cdn.ad.xiaomi.com
