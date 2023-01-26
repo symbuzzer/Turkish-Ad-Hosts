@@ -1,4 +1,7 @@
 # Script changelog:  
+v1.1.2  
+- Change ping check address from "www.google.com" to "www.avalibeyaz.com" which is my personel web site.  
+  
 v1.1.1  
 - Cleanup codes  
   
