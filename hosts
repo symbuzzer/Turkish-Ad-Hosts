@@ -89,6 +89,7 @@
 127.0.0.1 advice-ads.s3.amazonaws.com
 127.0.0.1 adx.adform.net
 127.0.0.1 ae.mmstat.com
+127.0.0.1 affiliate.migros.com.tr
 127.0.0.1 affiliatepro.it
 127.0.0.1 affiliationjs.s3.amazonaws.com
 127.0.0.1 aip-cdn.sozcu.com.tr
@@ -100,12 +101,14 @@
 127.0.0.1 amprtc.media.net
 127.0.0.1 an.facebook.com
 127.0.0.1 an.yandex.ru
+127.0.0.1 analytics.dugun.com
 127.0.0.1 analytics.facebook.com
 127.0.0.1 analytics.google.com
 127.0.0.1 analytics.halkbank.com.tr
 127.0.0.1 analytics.mobile.yandex.net
 127.0.0.1 analytics.pinterest.com
 127.0.0.1 analytics.pointdrive.linkedin.com
+127.0.0.1 analytics.rasyotek.com.tr
 127.0.0.1 analytics.samsungknox.com
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 analytics.yahoo.com
@@ -202,6 +205,7 @@
 127.0.0.1 cdn.medyanetads.com
 127.0.0.1 cdn.mookie1.com
 127.0.0.1 cdn.netmera-web.com
+127.0.0.1 cdn-netmeraprod.turktelekom.com.tr
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 cdn.rudderlabs.com
 127.0.0.1 cdn.scarabresearch.com
@@ -228,6 +232,7 @@
 127.0.0.1 clarity.ms
 127.0.0.1 click.oneplus.cn
 127.0.0.1 click.oneplus.com
+127.0.0.1 clicks.hurriyet.com.tr
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cm.mgid.com
 127.0.0.1 cnnturk.api.useinsider.com
@@ -235,6 +240,7 @@
 127.0.0.1 collect.dolap.com
 127.0.0.1 collect.trendyol.com
 127.0.0.1 collector.github.com
+127.0.0.1 collector.puhutv.com
 127.0.0.1 commercialvalue.org
 127.0.0.1 config.samsungads.com
 127.0.0.1 config.uca.cloud.unity3d.com
@@ -250,6 +256,7 @@
 127.0.0.1 core-waw-1.wildcard.dns.army
 127.0.0.1 counter.yadro.ru
 127.0.0.1 countly.fibabanka.com.tr
+127.0.0.1 countly.iyzico.com
 127.0.0.1 creativecdn.com
 127.0.0.1 cs.luckyorange.net
 127.0.0.1 csi.gstatic.com
@@ -260,6 +267,7 @@
 127.0.0.1 d.reddit.com
 127.0.0.1 d.sondakika.com
 127.0.0.1 d15kdpgjg3unno.cloudfront.net
+127.0.0.1 d2r1yp2w7bby2u.cloudfront.net
 127.0.0.1 d2v02itv0y9u9t.cloudfront.net
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 data.flurry.com
@@ -267,6 +275,7 @@
 127.0.0.1 data.mistat.intl.xiaomi.com
 127.0.0.1 data.mistat.rus.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 datacollection.beymen.com
 127.0.0.1 datacollector-dre.dt.hicloud.com
 127.0.0.1 dcetr3.segmentify.com
 127.0.0.1 decide.mixpanel.com
@@ -406,11 +415,15 @@
 127.0.0.1 eb2.3lift.com
 127.0.0.1 ecdn.analysis.fi
 127.0.0.1 ecdn.firstimpression.io
+127.0.0.1 edge-sentry-box.otelz.com
 127.0.0.1 emea.hhkld.com
 127.0.0.1 eturkcell.netmera.com
 127.0.0.1 eum.instana.io
 127.0.0.1 eus.rubiconproject.com
 127.0.0.1 event-collector.analytics.onedio.com
+127.0.0.1 events.bitaksi.com
+127.0.0.1 events.getirapi.com
+127.0.0.1 events.jotform.com
 127.0.0.1 events.redditmedia.com
 127.0.0.1 evs.data.ciceksepeti.com
 127.0.0.1 expo.io
@@ -429,6 +442,8 @@
 127.0.0.1 gatr.hit.gemius.pl
 127.0.0.1 gcdn.2mdn.net
 127.0.0.1 gdetr.hit.gemius.pl
+127.0.0.1 geoim.bloomberght.com
+127.0.0.1 geoim.hurriyet.com
 127.0.0.1 geoloc.hurriyet.com.tr
 127.0.0.1 geolocation.onetrust.com
 127.0.0.1 get.s-onetag.com
@@ -448,12 +463,15 @@
 127.0.0.1 grs.dbankcloud.com
 127.0.0.1 grs.dbankcloud.eu
 127.0.0.1 grs.platform.dbankcloud.ru
+127.0.0.1 gtm.flo.com.tr
+127.0.0.1 gtm.lidyana.com
 127.0.0.1 gtrk.s3.amazonaws.com
 127.0.0.1 gum.criteo.com
 127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 hepsiads-ui.hepsiburada.com
 127.0.0.1 hepsiburada01.webtrekk.net
 127.0.0.1 hepsiburada01.wt-eu02.net
+127.0.0.1 hepsipay-sentry.hepsipay.com
 127.0.0.1 hexagon-analytics.com
 127.0.0.1 hit.api.useinsider.com
 127.0.0.1 hotjar.com
@@ -545,6 +563,7 @@
 127.0.0.1 nativespot.com
 127.0.0.1 netperform-is.vodafone.com.tr
 127.0.0.1 ninja.akamaized.net
+127.0.0.1 ninja.data.olxcdn.com
 127.0.0.1 nmetrics.samsung.com
 127.0.0.1 ntm.netmera-web.com
 127.0.0.1 ntv.api.useinsider.com
@@ -674,6 +693,7 @@
 127.0.0.1 services.vlitag.com
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 settings.luckyorange.net
+127.0.0.1 sgtm.sefamerve.com
 127.0.0.1 signals.carrefoursa.com
 127.0.0.1 smetrics.samsung.com
 127.0.0.1 snap.licdn.com
@@ -747,11 +767,13 @@
 127.0.0.1 tracking.india.miui.com
 127.0.0.1 tracking.intl.miui.com
 127.0.0.1 tracking.miui.com
+127.0.0.1 tracking.mubi.com
 127.0.0.1 tracking.rus.miui.com
 127.0.0.1 trk.pinterest.com
 127.0.0.1 trk.storyly.io
 127.0.0.1 tru.am
 127.0.0.1 turkcell.api.useinsider.com
+127.0.0.1 tx.n11.com
 127.0.0.1 u.openx.net
 127.0.0.1 u.startup.mobile.webvisor.com
 127.0.0.1 udmserve.net
