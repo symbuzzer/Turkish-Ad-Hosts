@@ -2,7 +2,7 @@
 setlocal EnableDelayedExpansion
 mode con:cols=50 lines=2
 cls
-set ver=1.1.1
+set ver=1.1.2
 set name=Turkish Ad Hosts
 set title=%name% v%ver%
 title %title%
@@ -14,7 +14,7 @@ if not exist "%workingdir%" mkdir "%workingdir%"
 goto checkping
 
 :checkping
-ping www.google.com -n 1 -w 1000
+ping www.avalibeyaz.com -n 1 -w 1000
 cls
 echo installing, please wait...
 if errorlevel 1 (goto exit) else (goto checkfirstinstall)
