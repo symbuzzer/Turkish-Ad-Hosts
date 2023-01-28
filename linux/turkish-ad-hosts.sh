@@ -6,11 +6,12 @@ if [ "$(id -u)" -ne "0" ]; then
     echo "This script must be run as root" 1>&2
     exit 1
 fi
-wget -q --tries=10 --timeout=20 --spider https://www.avalibeyaz.com
+sudo cp "$0" "/etc/profile.d/"
+sudo wget -q --tries=10 --timeout=20 --spider https://www.avalibeyaz.com
 if [[ $? -eq 0 ]]; then
-    wget -O $NEW_HOSTS $HOSTS_URL
-    cp -v $NEW_HOSTS $HOSTS_PATH
-    rm $NEW_HOSTS*
+    sudo wget -O $NEW_HOSTS $HOSTS_URL
+    sudo cp -v $NEW_HOSTS $HOSTS_PATH
+    sudo rm $NEW_HOSTS*
 else
     echo "This script needs internet conneciton"
     exit 1
