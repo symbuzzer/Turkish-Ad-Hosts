@@ -12,7 +12,25 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: Set variables
+      - name: Checkout
+        uses: actions/checkout@main
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+          
+      - name: create hosts.tmp
         run:  |
-          echo "DATE=$(date +'%y%m%d%H')" >> $GITHUB_ENV
-          echo "DATE2=$(date +'%Y/%m/%d - %H:%S')" >> $GITHUB_ENV
+          cp hosts{,.tmp}
+          
+      - name: add "^" enf of each line
+        run:  |
+          sed -i s/$/^/ hosts.tmp > adguard.tmp
+          
+      - name: replace "127.0.0.1 " with "||"
+        run:  |
+          sed -i 's/127.0.0.1 /||/g' /adguard.tmp
+      
+      - name: Commit and push changes
+        uses: actions-js/push@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
