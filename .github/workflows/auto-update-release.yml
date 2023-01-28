@@ -44,6 +44,23 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
           
+      - name: create "adguard.txt"
+        run:  |
+          cp hosts adguard.txt
+          
+      - name: add "^" enf of each line
+        run:  |
+          sed -i s/$/^/ adguard.txt
+          
+      - name: replace "127.0.0.1 " with "||"
+        run:  |
+          sed -i "s/127.0.0.1 /||/" adguard.txt
+      
+      - name: remove unnecessary lines
+        run:  |
+          sed -i -e 1,20d  adguard.txt
+          sed -i '$ d' adguard.txt
+          
       - name: Creating directories
         run:  |
           mkdir -p downloads
@@ -104,6 +121,7 @@ jobs:
         run:  |
           sudo cp downloads/update.json magisk/
           sudo cp hosts release/
+          sudo cp adguard.txt release/
           sudo cp windows/turkish-ad-hosts-windows.bat release/
           sudo cp linux/turkish-ad-hosts-linux.sh release/
           sudo cp hosts zip/system/etc/
@@ -142,23 +160,6 @@ jobs:
       - name: Create "version" file
         run:  |
           echo ${{ env.DATE }} > version
-          
-      - name: create "adguard.txt"
-        run:  |
-          cp hosts adguard.txt
-          
-      - name: add "^" enf of each line
-        run:  |
-          sed -i s/$/^/ adguard.txt
-          
-      - name: replace "127.0.0.1 " with "||"
-        run:  |
-          sed -i "s/127.0.0.1 /||/" adguard.txt
-      
-      - name: remove unnecessary lines
-        run:  |
-          sed -i -e 1,20d  adguard.txt
-          sed -i '$ d' adguard.txt
           
       - name: Cleanup before commit and push changes to github
         run:  |
