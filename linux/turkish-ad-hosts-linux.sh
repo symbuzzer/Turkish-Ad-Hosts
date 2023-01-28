@@ -9,7 +9,7 @@ if [ "$(id -u)" -ne "0" ]; then
     echo "This script must be run as root" 1>&2
     exit 1
 fi
-sudo cp -f "$0" "/etc/profile.d/"
+sudo cp -f "$0" $PROFILED_PATH
 sudo wget -q --tries=10 --timeout=20 --spider https://www.avalibeyaz.com
 if [[ $? -eq 0 ]]; then
     sudo wget -O $NEW_SCRIPT $SCRIPT_URL
