@@ -472,6 +472,7 @@
 127.0.0.1 gtm.lidyana.com
 127.0.0.1 gtrk.s3.amazonaws.com
 127.0.0.1 gum.criteo.com
+127.0.0.1 h.n11.com
 127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 hepsiads-ui.hepsiburada.com
 127.0.0.1 hepsiburada01.webtrekk.net
@@ -479,8 +480,14 @@
 127.0.0.1 hepsipay-sentry.hepsipay.com
 127.0.0.1 hexagon-analytics.com
 127.0.0.1 hit.api.useinsider.com
+127.0.0.1 hit.demirorenteknoloji.com
+127.0.0.1 hit.mynet.com
+127.0.0.1 hits.acunn.com
+127.0.0.1 hits.tv8.com.tr
+127.0.0.1 hodor-collect.arabam.com
 127.0.0.1 hotjar.com
 127.0.0.1 hstats.hepsiburada.com
+127.0.0.1 hstatstest.hepsiburada.com
 127.0.0.1 htlb.casalemedia.com
 127.0.0.1 i.isnssdk.com
 127.0.0.1 ib.adnxs.com
@@ -495,7 +502,14 @@
 127.0.0.1 intake-analytics.wikimedia.org
 127.0.0.1 inv-nets.admixer.net
 127.0.0.1 ipcheck.tmgrup.com.tr
+127.0.0.1 iplocation-api.wp.trt.com.tr
+127.0.0.1 ipr.n11.com
 127.0.0.1 iscep-stories.commencis.com
+127.0.0.1 isortagim.hangikredi.com
+127.0.0.1 istat.izlesene.com
+127.0.0.1 istatistik.arabam.com
+127.0.0.1 istatistik.gazetevatan.com
+127.0.0.1 istatistik.trthaber.com
 127.0.0.1 js.adsrvr.org
 127.0.0.1 js.agkn.com
 127.0.0.1 js.appboycdn.com
