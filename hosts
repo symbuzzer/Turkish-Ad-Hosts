@@ -5,7 +5,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230125
+# Version: 230128
 # (Version also shows update date as YYMMDD)
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -20,6 +20,7 @@
 # --- [ START ] --- #
 127.0.0.1 061353efff4748e1a51974616704a9cc.js.ubembed.com
 127.0.0.1 10138642.fls.doubleclick.net
+127.0.0.1 10726361.fls.doubleclick.net
 127.0.0.1 10776882.fls.doubleclick.net
 127.0.0.1 10978247.fls.doubleclick.net
 127.0.0.1 10978658.fls.doubleclick.net
@@ -204,9 +205,11 @@
 127.0.0.1 cdn.membrana.media
 127.0.0.1 cdn.medyanetads.com
 127.0.0.1 cdn.mookie1.com
+127.0.0.1 cdn.mouseflow.com
 127.0.0.1 cdn.netmera-web.com
 127.0.0.1 cdn-netmeraprod.turktelekom.com.tr
 127.0.0.1 cdn.onesignal.com
+127.0.0.1 cdn.oremark.com
 127.0.0.1 cdn.rudderlabs.com
 127.0.0.1 cdn.scarabresearch.com
 127.0.0.1 cdn.segment.com
@@ -298,6 +301,7 @@
 127.0.0.1 dt.adsafeprotected.com
 127.0.0.1 dtm-dre.platform.dbankcloud.cn
 127.0.0.1 dygassets.dygdigital.com
+127.0.0.1 dynamic.criteo.com
 127.0.0.1 e2c1.gcp.gvt2.com
 127.0.0.1 e2c2.gcp.gvt2.com
 127.0.0.1 e2c3.gcp.gvt2.com
@@ -424,6 +428,7 @@
 127.0.0.1 events.bitaksi.com
 127.0.0.1 events.getirapi.com
 127.0.0.1 events.jotform.com
+127.0.0.1 events.reddit.com
 127.0.0.1 events.redditmedia.com
 127.0.0.1 evs.data.ciceksepeti.com
 127.0.0.1 expo.io
@@ -487,9 +492,11 @@
 127.0.0.1 in.appcenter.ms
 127.0.0.1 inapps.appsflyer.com
 127.0.0.1 instant.page
+127.0.0.1 intake-analytics.wikimedia.org
 127.0.0.1 inv-nets.admixer.net
 127.0.0.1 ipcheck.tmgrup.com.tr
 127.0.0.1 iscep-stories.commencis.com
+127.0.0.1 js.adsrvr.org
 127.0.0.1 js.agkn.com
 127.0.0.1 js.appboycdn.com
 127.0.0.1 js.tagon.co
@@ -514,6 +521,7 @@
 127.0.0.1 ls.hit.gemius.pl
 127.0.0.1 luckyorange.com
 127.0.0.1 m.doubleclick.net
+127.0.0.1 macro.adnami.io
 127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 manager.smartlook.com
 127.0.0.1 match.adsrvr.org
@@ -619,6 +627,7 @@
 127.0.0.1 prg.smartadserver.com
 127.0.0.1 primis-d.openx.net
 127.0.0.1 pro.hit.gemius.pl
+127.0.0.1 ps.eyeota.net
 127.0.0.1 pub-sdk-cfg.criteo.com
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 punosy.best
@@ -672,6 +681,7 @@
 127.0.0.1 script.4dex.io
 127.0.0.1 script.crazyegg.com
 127.0.0.1 scripts.kiosked.com
+127.0.0.1 scripts.webcontentassessor.com
 127.0.0.1 sdk.iad-01.braze.com
 127.0.0.1 sdk.iad-06.braze.com
 127.0.0.1 sdk.fra-01.braze.eu
@@ -698,6 +708,7 @@
 127.0.0.1 smetrics.samsung.com
 127.0.0.1 snap.licdn.com
 127.0.0.1 sommelier.futurehybrid.tech
+127.0.0.1 spl.zeotap.com
 127.0.0.1 srv.buysellads.com
 127.0.0.1 srvr.dmvs-apac.com
 127.0.0.1 ssc-cms.33across.com
@@ -739,9 +750,11 @@
 127.0.0.1 sync.bfmio.com
 127.0.0.1 sync.go.sonobi.com
 127.0.0.1 sync.search.spotxchange.com
+127.0.0.1 t.contentsquare.net
 127.0.0.1 tag.1rx.io
 127.0.0.1 tag.crsspxl.com
 127.0.0.1 tag.durationmedia.net
+127.0.0.1 tag.rmp.rakuten.com
 127.0.0.1 tagan.adlightning.com
 127.0.0.1 tags.bluekai.com
 127.0.0.1 tags.bkrtx.com
@@ -806,6 +819,7 @@
 127.0.0.1 www.ezojs.com
 127.0.0.1 www.fastly-insights.com
 127.0.0.1 www.google-analytics.com
+127.0.0.1 www.googleoptimize.com
 127.0.0.1 wyhifdpatl.com
 127.0.0.1 ezojs.com
 127.0.0.1 wzrkt.com
