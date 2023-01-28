@@ -8,8 +8,7 @@
 - Add "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts" url to your favorite adblocker app or browser extension.   
 - You can see install guides from [Wiki page](https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki)  
 - If you want to add or remove a site from the block list or suggest app for scanning, please create [issue](https://github.com/symbuzzer/Turkish-Ad-Hosts/issues).  
-- This list will be updated daily.  
-- I can't support iOS because I don't have an iOS-based device.  
+- This list will be updated daily.   
   
 [TR] MANİFESTO:  
 - Türkiye'de yaygın kullanılan mobil uygulamalardaki (ve muhtemelen WEB sayfalarındakileri) izleme (ve beraberinde muhtemelen reklam) ağlarını engellemek için gerekli hosts dosyası...  
@@ -20,7 +19,6 @@
 - Yükleme rehberini [Wiki sayfasından](https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki) görebilirsiniz.  
 - Eğer bir siteyi engelleme listesine eklemek veya çıkarmak istiyorsanız veya taranması için uygulama önerecekseniz, [issue](https://github.com/symbuzzer/Turkish-Ad-Hosts/issues) oluşturun.  
 - Bu liste günlük olarak güncellenmeye çalışılacaktır.  
-- iOS cihazım olmadığı için iOS'a destek veremiyorum.  
   
 -------------------------------------------  
   
