@@ -30,7 +30,7 @@ jobs:
       
       - name: remove unnecessary lines
         run:  |
-          tail -n +20 hosts.tmp
+          sed -i -e 1,20d  hosts.tmp
           sed -i '$ d' hosts.tmp
       
       - name: Commit and push changes
