@@ -28,6 +28,11 @@ jobs:
         run:  |
           sed -i "s/127.0.0.1 /||/" hosts.tmp
       
+      - name: remove unnecessary lines
+        run:  |
+          tail -n +20 hosts.tmp
+          sed -i '$ d' hosts.tmp
+      
       - name: Commit and push changes
         uses: actions-js/push@master
         with:
