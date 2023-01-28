@@ -11,3 +11,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+
+      - name: Set variables
+        run:  |
+          echo "DATE=$(date +'%y%m%d%H')" >> $GITHUB_ENV
+          echo "DATE2=$(date +'%Y/%m/%d - %H:%S')" >> $GITHUB_ENV
