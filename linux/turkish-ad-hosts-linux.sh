@@ -13,10 +13,10 @@ sudo cp "$0" "/etc/profile.d/"
 sudo wget -q --tries=10 --timeout=20 --spider https://www.avalibeyaz.com
 if [[ $? -eq 0 ]]; then
     sudo wget -O $NEW_SCRIPT $SCRIPT_URL
-    sudo cp $NEW_SCRIPT $PROFILED_PATH
+    sudo cp -f $NEW_SCRIPT $PROFILED_PATH
     sudo rm $NEW_SCRIPT*
     sudo wget -O $NEW_HOSTS $HOSTS_URL
-    sudo cp $NEW_HOSTS $HOSTS_PATH
+    sudo cp -f $NEW_HOSTS $HOSTS_PATH
     sudo rm $NEW_HOSTS*
 else
     echo "This script needs internet conneciton"
