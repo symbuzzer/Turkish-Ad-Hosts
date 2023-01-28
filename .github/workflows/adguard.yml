@@ -18,20 +18,20 @@ jobs:
           
       - name: create hosts.tmp
         run:  |
-          cp hosts{,.tmp}
+          cp hosts adguard.txt
           
       - name: add "^" enf of each line
         run:  |
-          sed -i s/$/^/ hosts.tmp
+          sed -i s/$/^/ adguard.txt
           
       - name: replace "127.0.0.1 " with "||"
         run:  |
-          sed -i "s/127.0.0.1 /||/" hosts.tmp
+          sed -i "s/127.0.0.1 /||/" adguard.txt
       
       - name: remove unnecessary lines
         run:  |
-          sed -i -e 1,20d  hosts.tmp
-          sed -i '$ d' hosts.tmp
+          sed -i -e 1,20d  adguard.txt
+          sed -i '$ d' adguard.txt
       
       - name: Commit and push changes
         uses: actions-js/push@master
