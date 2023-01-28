@@ -22,11 +22,11 @@ jobs:
           
       - name: add "^" enf of each line
         run:  |
-          sed -i s/$/^/ hosts.tmp > adguard.tmp
+          sed -i s/$/^/ hosts.tmp
           
       - name: replace "127.0.0.1 " with "||"
         run:  |
-          sed -i 's/127.0.0.1 /||/g' adguard.tmp
+          sed -i "s/127.0.0.1 /||/" hosts.tmp
       
       - name: Commit and push changes
         uses: actions-js/push@master
