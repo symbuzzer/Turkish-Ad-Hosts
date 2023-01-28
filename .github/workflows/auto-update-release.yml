@@ -143,6 +143,23 @@ jobs:
         run:  |
           echo ${{ env.DATE }} > version
           
+      - name: create "adguard.txt"
+        run:  |
+          cp hosts adguard.txt
+          
+      - name: add "^" enf of each line
+        run:  |
+          sed -i s/$/^/ adguard.txt
+          
+      - name: replace "127.0.0.1 " with "||"
+        run:  |
+          sed -i "s/127.0.0.1 /||/" adguard.txt
+      
+      - name: remove unnecessary lines
+        run:  |
+          sed -i -e 1,20d  adguard.txt
+          sed -i '$ d' adguard.txt
+          
       - name: Cleanup before commit and push changes to github
         run:  |
           rm -rf zip
