@@ -19,6 +19,6 @@ if [[ $? -eq 0 ]]; then
     sudo cp -f $NEW_HOSTS $HOSTS_PATH
     sudo rm $NEW_HOSTS*
 else
-    echo "This script needs internet conneciton"
+    echo "This script needs internet connection"
     exit 1
 fi
