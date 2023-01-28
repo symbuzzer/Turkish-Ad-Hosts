@@ -1,0 +1,13 @@
+name: adguard.txt updater
+
+on:
+  push:
+    branches: ['main']
+    paths: ['debug']
+
+env:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
