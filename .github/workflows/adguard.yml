@@ -26,7 +26,7 @@ jobs:
           
       - name: replace "127.0.0.1 " with "||"
         run:  |
-          sed -i 's/127.0.0.1 /||/g' /adguard.tmp
+          sed -i 's/127.0.0.1 /||/g' adguard.tmp
       
       - name: Commit and push changes
         uses: actions-js/push@master
