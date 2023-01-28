@@ -129,6 +129,7 @@
 ||app-analytics-v2.snapchat.com^
 ||app-measurement.com^
 ||appmetrica.yandex.com^
+||arabam.api.useinsider.com^
 ||assets.a-mo.net^
 ||assets.api.useinsider.com^
 ||assets.ubembed.com^
@@ -164,6 +165,7 @@
 ||c2.taboola.com^
 ||c3.taboola.com^
 ||cacheorcheck.mopinion.com^
+||cafemedia-com.videoplayerhub.com^
 ||cdn.ad.xiaomi.com^
 ||cdn.adhouse.pro^
 ||cdn.adpushup.com^
@@ -252,6 +254,7 @@
 ||d15kdpgjg3unno.cloudfront.net^
 ||d2r1yp2w7bby2u.cloudfront.net^
 ||d2v02itv0y9u9t.cloudfront.net^
+||d2wy8f7a9ursnm.cloudfront.net^
 ||d31qbv1cthcecs.cloudfront.net^
 ||data.flurry.com^
 ||data.mistat.india.xiaomi.com^
@@ -280,6 +283,7 @@
 ||dpm.demdex.net^
 ||dt.adsafeprotected.com^
 ||dtm-dre.platform.dbankcloud.cn^
+||dwin1.com^
 ||dygassets.dygdigital.com^
 ||dynamic.criteo.com^
 ||e2c1.gcp.gvt2.com^
@@ -336,6 +340,15 @@
 ||e2c52.gcp.gvt2.com^
 ||e2c53.gcp.gvt2.com^
 ||e2c54.gcp.gvt2.com^
+||e2cs01.gcp.gvt2.com^
+||e2cs02.gcp.gvt2.com^
+||e2cs03.gcp.gvt2.com^
+||e2cs04.gcp.gvt2.com^
+||e2cs05.gcp.gvt2.com^
+||e2cs06.gcp.gvt2.com^
+||e2cs07.gcp.gvt2.com^
+||e2cs08.gcp.gvt2.com^
+||e2cs09.gcp.gvt2.com^
 ||e2cs1.gcp.gvt2.com^
 ||e2cs2.gcp.gvt2.com^
 ||e2cs3.gcp.gvt2.com^
@@ -402,6 +415,7 @@
 ||edge-sentry-box.otelz.com^
 ||emea.hhkld.com^
 ||eturkcell.netmera.com^
+||eu-mobile.events.data.microsoft.com^
 ||eum.instana.io^
 ||eus.rubiconproject.com^
 ||event-collector.analytics.onedio.com^
@@ -493,6 +507,7 @@
 ||js.adsrvr.org^
 ||js.agkn.com^
 ||js.appboycdn.com^
+||js.hs-scripts.com^
 ||js.tagon.co^
 ||js-agent.newrelic.com^
 ||js-sec.indexww.com^
@@ -504,11 +519,13 @@
 ||lgr.visilabs.net^
 ||limurol.com^
 ||live.demand.supply^
+||load.sumo.com^
 ||log.haberturk.com^
 ||log.pinterest.com^
 ||log-va.tiktokv.com^
 ||logbak.hicloud.com^
 ||logger.virgul.com^
+||logs.browser-intake-datadoghq.com^
 ||logservice.hicloud.com^
 ||logservice1.hicloud.com^
 ||logsink.zedge.net^
@@ -692,6 +709,7 @@
 ||securepubads.g.doubleclick.net^
 ||seg.ad.gt^
 ||sentry.io^
+||serve.nrich.ai^
 ||servedbyadbutler.com^
 ||servicer.idealmedia.io^
 ||services.vlitag.com^
@@ -787,6 +805,7 @@
 ||uip.semasio.net^
 ||uk-script.dotmetrics.net^
 ||unagi.amazon.com^
+||untropiuson.com^
 ||upload.luckyorange.net^
 ||ups.analytics.yahoo.com^
 ||uptimecdn.com^
@@ -794,6 +813,7 @@
 ||vars.hotjar.com^
 ||vidstat.taboola.com^
 ||visitor.omnitagjs.com^
+||w.usabilla.com^
 ||w1.luckyorange.com^
 ||web.webpushs.com^
 ||widget.cdn.vidyome.com^
@@ -807,8 +827,10 @@
 ||ws.batch.com^
 ||ws.sahibinden.com^
 ||www.cdn.ad.xiaomi.com^
+||www.clarity.ms^
 ||www.datadoghq-browser-agent.com^
 ||www.doubleclick.net^
+||www.dwin1.com^
 ||www.effectivecreativeformat.com^
 ||www.ezojs.com^
 ||www.fastly-insights.com^
