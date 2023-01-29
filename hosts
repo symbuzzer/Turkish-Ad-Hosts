@@ -444,6 +444,7 @@
 127.0.0.1 events.jotform.com
 127.0.0.1 events.reddit.com
 127.0.0.1 events.redditmedia.com
+127.0.0.1 events.release.narrativ.com
 127.0.0.1 evs.data.ciceksepeti.com
 127.0.0.1 expo.io
 127.0.0.1 extmaps-api.yandex.net
@@ -532,6 +533,7 @@
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 js-sec.indexww.com
 127.0.0.1 jsc.idealmedia.io
+127.0.0.1 jsonip.com
 127.0.0.1 k.intellitxt.com
 127.0.0.1 krk.kargo.com
 127.0.0.1 laquesis.data.olxcdn.com
@@ -554,6 +556,7 @@
 127.0.0.1 m.doubleclick.net
 127.0.0.1 macro.adnami.io
 127.0.0.1 mads.amazon-adsystem.com
+127.0.0.1 mail-ads.google.com
 127.0.0.1 manager.smartlook.com
 127.0.0.1 match.adsrvr.org
 127.0.0.1 match.sharethrough.com
@@ -581,6 +584,7 @@
 127.0.0.1 metrics3.data.hicloud.com
 127.0.0.1 metrics4.data.hicloud.com
 127.0.0.1 metrics5.data.hicloud.com
+127.0.0.1 ml314.com
 127.0.0.1 mobile.eum-appdynamics.com
 127.0.0.1 mobile.useinsider.com
 127.0.0.1 mobile.yandexadexchange.net
@@ -831,6 +835,7 @@
 127.0.0.1 uptimecdn.com
 127.0.0.1 us-u.openx.net
 127.0.0.1 vars.hotjar.com
+127.0.0.1 vi.ml314.com
 127.0.0.1 vidstat.taboola.com
 127.0.0.1 visitor.omnitagjs.com
 127.0.0.1 w.usabilla.com
@@ -857,7 +862,6 @@
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googleoptimize.com
 127.0.0.1 wyhifdpatl.com
-127.0.0.1 ezojs.com
 127.0.0.1 wzrkt.com
 127.0.0.1 x.bidswitch.net
 127.0.0.1 yandexadexchange.net
