@@ -424,6 +424,7 @@
 ||events.jotform.com^
 ||events.reddit.com^
 ||events.redditmedia.com^
+||events.release.narrativ.com^
 ||evs.data.ciceksepeti.com^
 ||expo.io^
 ||extmaps-api.yandex.net^
@@ -512,6 +513,7 @@
 ||js-agent.newrelic.com^
 ||js-sec.indexww.com^
 ||jsc.idealmedia.io^
+||jsonip.com^
 ||k.intellitxt.com^
 ||krk.kargo.com^
 ||laquesis.data.olxcdn.com^
@@ -534,6 +536,7 @@
 ||m.doubleclick.net^
 ||macro.adnami.io^
 ||mads.amazon-adsystem.com^
+||mail-ads.google.com^
 ||manager.smartlook.com^
 ||match.adsrvr.org^
 ||match.sharethrough.com^
@@ -561,6 +564,7 @@
 ||metrics3.data.hicloud.com^
 ||metrics4.data.hicloud.com^
 ||metrics5.data.hicloud.com^
+||ml314.com^
 ||mobile.eum-appdynamics.com^
 ||mobile.useinsider.com^
 ||mobile.yandexadexchange.net^
@@ -811,6 +815,7 @@
 ||uptimecdn.com^
 ||us-u.openx.net^
 ||vars.hotjar.com^
+||vi.ml314.com^
 ||vidstat.taboola.com^
 ||visitor.omnitagjs.com^
 ||w.usabilla.com^
@@ -837,7 +842,6 @@
 ||www.google-analytics.com^
 ||www.googleoptimize.com^
 ||wyhifdpatl.com^
-||ezojs.com^
 ||wzrkt.com^
 ||x.bidswitch.net^
 ||yandexadexchange.net^
