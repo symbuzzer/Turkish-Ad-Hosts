@@ -16,6 +16,7 @@
 ||a.ad.gt^
 ||a.mouseflow.com^
 ||a.pub.network^
+||a.realsrv.com^
 ||a.teads.tv^
 ||aax.amazon-adsystem.com^
 ||aax-dtb-cf.amazon-adsystem.com^
@@ -141,6 +142,7 @@
 ||attr.appsflyer.com^
 ||authbe.sec.intl.miui.com^
 ||avhtaapxml.com^
+||avlsh.visilabs.net^
 ||b-code.liadm.com^
 ||baltar.dimml.io^
 ||beacon.wikia-services.com^
@@ -207,6 +209,7 @@
 ||cdn.siftscience.com^
 ||cdn.taboola.com^
 ||cdn.unblockia.com^
+||cdn.yourwebbars.com^
 ||cdn-api.admost.com^
 ||cdn-settings.appsflyersdk.com^
 ||cdn-settings.segment.com^
@@ -445,6 +448,7 @@
 ||fonts.mopinion.com^
 ||fra1-ib.adnxs.com^
 ||freshmarketer.com^
+||friendshipmale.com^
 ||g2.gumgum.com^
 ||garantibbva.api.dataroid.com^
 ||gatr.hit.gemius.pl^
@@ -558,6 +562,7 @@
 ||mbid.marfeelrev.com^
 ||mbls.visilabs.net^
 ||mc.webvisor.org^
+||mc.yandex.ru^
 ||mc2tnzs73p3554cjc7h876m-gfm4.device.marketingcloudapis.com^
 ||mcfk02nd3k8q7w75g9yxxcc6yj20.device.marketingcloudapis.com^
 ||mcs-va.tiktokv.com^
@@ -653,6 +658,7 @@
 ||player.aniview.com^
 ||pnsdkapi.turktelekom.com.tr^
 ||pornhdr.cf^
+||poweredby.jads.co^
 ||prd.jwpltx.com^
 ||prd-collector-anon.ex.co^
 ||prebid.media.net^
@@ -742,6 +748,7 @@
 ||settings.luckyorange.net^
 ||sgtm.sefamerve.com^
 ||signals.carrefoursa.com^
+||simplewebanalysis.com^
 ||smetrics.samsung.com^
 ||snap.licdn.com^
 ||sommelier.futurehybrid.tech^
