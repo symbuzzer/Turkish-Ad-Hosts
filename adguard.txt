@@ -7,15 +7,18 @@
 ||209176.hit.gemius.pl^
 ||4431932.fls.doubleclick.net^
 ||5371908.fls.doubleclick.net^
+||595tuchuang.com^
 ||6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app^
 ||6371800.collect.igodigital.com^
 ||8065991.fls.doubleclick.net^
+||8881img.com^
 ||9145021.fls.doubleclick.net^
 ||a.ad.gt^
 ||a.mouseflow.com^
 ||a.pub.network^
 ||a.teads.tv^
 ||aax.amazon-adsystem.com^
+||aax-dtb-cf.amazon-adsystem.com^
 ||aax-eu.amazon.com.tr^
 ||aax-eu.amazon-adsystem.com^
 ||aax-us.amazon-adsystem.com^
@@ -159,6 +162,7 @@
 ||browser-update.org^
 ||bs.serving-sys.com^
 ||btloader.com^
+||btlr.sharethrough.com^
 ||business.samsungusa.com^
 ||c.aaxads.com^
 ||c.amazon-adsystem.com^
@@ -166,6 +170,7 @@
 ||c3.taboola.com^
 ||cacheorcheck.mopinion.com^
 ||cafemedia-com.videoplayerhub.com^
+||carvecakes.com^
 ||cdn.ad.xiaomi.com^
 ||cdn.adhouse.pro^
 ||cdn.adpushup.com^
@@ -215,6 +220,7 @@
 ||champagne.futurecdn.net^
 ||cimri.api.useinsider.com^
 ||clarity.ms^
+||clbanners9.com^
 ||click.oneplus.cn^
 ||click.oneplus.com^
 ||clicks.hurriyet.com.tr^
@@ -256,6 +262,7 @@
 ||d2v02itv0y9u9t.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
 ||d31qbv1cthcecs.cloudfront.net^
+||d3j3yrurxcqogk.cloudfront.net^
 ||data.flurry.com^
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.intl.xiaomi.com^
@@ -422,6 +429,7 @@
 ||events.bitaksi.com^
 ||events.getirapi.com^
 ||events.jotform.com^
+||events.newsroom.bi^
 ||events.reddit.com^
 ||events.redditmedia.com^
 ||events.release.narrativ.com^
@@ -479,6 +487,7 @@
 ||hit.mynet.com^
 ||hits.acunn.com^
 ||hits.tv8.com.tr^
+||hm.baidu.com^
 ||hodor-collect.arabam.com^
 ||hotjar.com^
 ||hstats.hepsiburada.com^
@@ -486,10 +495,12 @@
 ||htlb.casalemedia.com^
 ||i.isnssdk.com^
 ||ib.adnxs.com^
+||ice.360yield.com^
 ||id.crwdcntrl.net^
 ||id.rlcdn.com^
 ||id5-sync.com^
 ||imasdk.googleapis.com^
+||img.3633a.com^
 ||img.ekstat.com^
 ||in.appcenter.ms^
 ||inapps.appsflyer.com^
@@ -512,13 +523,16 @@
 ||js.tagon.co^
 ||js-agent.newrelic.com^
 ||js-sec.indexww.com^
+||jsc.adskeeper.com^
 ||jsc.idealmedia.io^
 ||jsonip.com^
 ||k.intellitxt.com^
 ||krk.kargo.com^
+||kvezz.com^
 ||laquesis.data.olxcdn.com^
 ||launches.appsflyer.com^
 ||lgr.visilabs.net^
+||lider90.com^
 ||limurol.com^
 ||live.demand.supply^
 ||load.sumo.com^
@@ -538,6 +552,7 @@
 ||mads.amazon-adsystem.com^
 ||mail-ads.google.com^
 ||manager.smartlook.com^
+||marfeel-d.openx.net^
 ||match.adsrvr.org^
 ||match.sharethrough.com^
 ||mbid.marfeelrev.com^
@@ -583,6 +598,7 @@
 ||mug.criteo.com^
 ||munchkin.marketo.net^
 ||mweb-hb.presage.io^
+||n0633.com^
 ||nativespot.com^
 ||netperform-is.vodafone.com.tr^
 ||ninja.akamaized.net^
@@ -591,6 +607,7 @@
 ||ntm.netmera-web.com^
 ||ntv.api.useinsider.com^
 ||ntvsporweb.api.useinsider.com^
+||o.gez.io^
 ||o33249.ingest.sentry.io^
 ||o64293.ingest.sentry.io^
 ||o109294.ingest.sentry.io^
@@ -631,11 +648,13 @@
 ||pl15373403.highcpmrevenuenetwork.com^
 ||pl15413159.highcpmrevenuenetwork.com^
 ||platform-api.sharethis.com^
+||playbuzzltd-d.openx.net^
 ||player.adtelligent.com^
 ||player.aniview.com^
 ||pnsdkapi.turktelekom.com.tr^
 ||pornhdr.cf^
 ||prd.jwpltx.com^
+||prd-collector-anon.ex.co^
 ||prebid.media.net^
 ||prebid-server.rubiconproject.com^
 ||predataclient.b-cdn.net^
@@ -679,10 +698,12 @@
 ||s.amazon-adsystem.com^
 ||s.ntv.io^
 ||s.go-mpulse.net^
+||s.seedtag.com^
 ||s.visilabs.net^
 ||s-img.idealmedia.io^
 ||s0.2mdn.net^
 ||s1.adform.net^
+||s10.histats.com^
 ||s2.adform.net^
 ||s2s.adjust.com^
 ||s7.addthis.com^
@@ -789,6 +810,7 @@
 ||tr.hit.gemius.pl^
 ||tr.lib.dengage.com^
 ||tr.snapchat.com^
+||track.adform.net^
 ||track.mailerlite.com^
 ||track.wattpad.com^
 ||track1.aniview.com^
@@ -805,6 +827,7 @@
 ||tx.n11.com^
 ||u.openx.net^
 ||u.startup.mobile.webvisor.com^
+||u1102.com^
 ||udmserve.net^
 ||uip.semasio.net^
 ||uk-script.dotmetrics.net^
@@ -814,6 +837,7 @@
 ||ups.analytics.yahoo.com^
 ||uptimecdn.com^
 ||us-u.openx.net^
+||us.creativecdn.com^
 ||vars.hotjar.com^
 ||vi.ml314.com^
 ||vidstat.taboola.com^
