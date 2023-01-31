@@ -3,7 +3,7 @@ name: adguard-hostlistcompiler
 on:
   push:
     branches: ['main']
-    paths: ['adguard/debug']
+    paths: ['hosts']
 
 jobs:
   build:
