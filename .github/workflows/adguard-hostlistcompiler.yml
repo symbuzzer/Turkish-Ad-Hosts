@@ -21,7 +21,7 @@ jobs:
           mkdir -p adguard
           cd adguard
           npm i -g @adguard/hostlist-compiler
-          hostlist-compiler -c config.json -o adguard-hsotlist.txt
+          hostlist-compiler -c config.json -o adguard-hostlist.txt
           
       - name: Commit and push changes
         uses: actions-js/push@master
