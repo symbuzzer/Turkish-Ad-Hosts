@@ -1,0 +1,42 @@
+name: adguard-hostlistcompiler
+
+on:
+  push:
+    branches: ['main']
+    paths: ['debug']
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: Checkout
+        uses: actions/checkout@main
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+          
+      - name: Run adguard-hostliscompiler
+        uses: adguard/hostlist-compiler@v1.0.16 
+        Configuration: {                                                                                                                                           
+          "name": "Blocklist",
+          "uses": [
+            {
+              "source": "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts",
+              "type": "hosts"
+            }
+          ],
+          "transformations": [
+          "RemoveComments",
+          "Deduplicate",
+          "Compress",
+          "Validate",
+          "TrimLines",
+          "InsertFinalNewLine"
+          ]
+        }
+          
+      - name: Commit and push changes
+        uses: actions-js/push@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
