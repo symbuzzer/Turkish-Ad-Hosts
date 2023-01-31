@@ -18,23 +18,10 @@ jobs:
           
       - name: Run adguard-hostliscompiler
         uses: adguard/hostlist-compiler@v1.0.16 
-        with: {                                                                                                                                           
-          "name": "Blocklist",
-          "uses": [
-            {
-              "source": "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts",
-              "type": "hosts"
-            }
-          ],
-          "transformations": [
-          "RemoveComments",
-          "Deduplicate",
-          "Compress",
-          "Validate",
-          "TrimLines",
-          "InsertFinalNewLine"
-          ]
-        }
+        with:                                                                                                                                          
+          source: https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
+          type: hosts
+          output: output.txt
           
       - name: Commit and push changes
         uses: actions-js/push@master
