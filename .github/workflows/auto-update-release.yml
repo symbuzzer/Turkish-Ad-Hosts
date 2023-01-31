@@ -60,15 +60,23 @@ jobs:
         run:  |
           sed -i -e 1,20d  adguard.txt
           sed -i '$ d' adguard.txt
-          
+            
       - name: Creating directories
         run:  |
+          mkdir -p adguard
           mkdir -p downloads
           mkdir -p magisk
           mkdir -p release
           mkdir -p zip/system/etc
           mkdir -p zip/common
           mkdir -p zip/META-INF/com/google/android
+          
+      - name: Run  @adguard/hostlist-compiler
+        run:  |
+          cd adguard
+          npm i -g @adguard/hostlist-compiler
+          hostlist-compiler -c config.json -o adguard-hostlist.txt          
+        
           
       - name: Downloading "Zackptg5/MMT-Extended" template files
         run:  |
