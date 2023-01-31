@@ -479,6 +479,7 @@
 ||gtm.lidyana.com^
 ||gtrk.s3.amazonaws.com^
 ||gum.criteo.com^
+||gvt2.com^
 ||h.n11.com^
 ||hbopenbid.pubmatic.com^
 ||hepsiads-ui.hepsiburada.com^
