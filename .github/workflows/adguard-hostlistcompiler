@@ -20,7 +20,7 @@ jobs:
         uses: adguard/hostlist-compiler@v1.0.16 
         Configuration: {                                                                                                                                           
           "name": "Blocklist",
-          "sources": [
+          "uses": [
             {
               "source": "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts",
               "type": "hosts"
