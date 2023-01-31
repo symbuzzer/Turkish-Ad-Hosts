@@ -19,7 +19,7 @@ jobs:
       - name: Run  @adguard/hostlist-compiler
         run:  |
           npm i -g @adguard/hostlist-compiler
-          hostlist-compiler -i https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts -o output.txt
+          hostlist-compiler -c config.json -o output.txt
           
       - name: Commit and push changes
         uses: actions-js/push@master
