@@ -10,5 +10,5 @@
       "type": "hosts"
     }
   ],
-  "transformations": ["RemoveComments", "Deduplicate", "Compress", "Validate", "TrimLines", "InsertFinalNewLine"],
+  "transformations": ["RemoveComments", "Deduplicate", "Compress", "Validate", "TrimLines", "InsertFinalNewLine"]
 }
