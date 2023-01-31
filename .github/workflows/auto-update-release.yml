@@ -128,9 +128,9 @@ jobs:
           hostlist-compiler -c config.json -o adguard-hostlist.txt
           rm -rf hosts
       
-      - name: copy and rename adguard-hostlist.txt to releases/adguard.txt
+      - name: copy adguard-hostlist.txt to releases
         run:  |
-          sudo cp adguard/adguard-hostlist.txt releases/adguard.txt
+          sudo cp adguard/adguard-hostlist.txt releases
           
       - name: Creating module zip
         run:  |
