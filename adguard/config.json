@@ -7,6 +7,6 @@
     {
       "source": "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts",
       "type": "adblock",
+      "transformations": ["RemoveComments", "Deduplicate", "Compress", "Validate", "TrimLines", "InsertFinalNewLine"],
     },
-  "transformations": ["RemoveComments", "Deduplicate", "Compress", "Validate", "TrimLines", "InsertFinalNewLine"],
 }
