@@ -18,8 +18,10 @@ jobs:
           
       - name: Run  @adguard/hostlist-compiler
         run:  |
+          mkdir -p adguard
+          cd adguard
           npm i -g @adguard/hostlist-compiler
-          hostlist-compiler -c config.json -o output.txt
+          hostlist-compiler -c config.json -o adguard-hsotlist.txt
           
       - name: Commit and push changes
         uses: actions-js/push@master
