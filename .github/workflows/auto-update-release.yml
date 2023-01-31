@@ -69,13 +69,7 @@ jobs:
           mkdir -p release
           mkdir -p zip/system/etc
           mkdir -p zip/common
-          mkdir -p zip/META-INF/com/google/android
-          
-      - name: Run  @adguard/hostlist-compiler
-        run:  |
-          cd adguard
-          npm i -g @adguard/hostlist-compiler
-          hostlist-compiler -c config.json -o adguard-hostlist.txt          
+          mkdir -p zip/META-INF/com/google/android        
         
           
       - name: Downloading "Zackptg5/MMT-Extended" template files
@@ -129,6 +123,7 @@ jobs:
         run:  |
           sudo cp downloads/update.json magisk/
           sudo cp hosts release/
+          sudo cp hosts adguard/
           sudo cp adguard.txt release/
           sudo cp windows/turkish-ad-hosts-windows.bat release/
           sudo cp linux/turkish-ad-hosts-linux.sh release/
@@ -143,6 +138,14 @@ jobs:
           sudo cp downloads/update-binary zip/META-INF/com/google/android
           sudo cp downloads/updater-script zip/META-INF/com/google/android
           ls -R
+          
+                    
+      - name: Run  @adguard/hostlist-compiler
+        run:  |
+          cd adguard
+          npm i -g @adguard/hostlist-compiler
+          hostlist-compiler -c config.json -o adguard-hostlist.txt
+          rm -rf adguard/hosts
           
       - name: Creating module zip
         run:  |
