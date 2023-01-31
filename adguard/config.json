@@ -1,17 +1,12 @@
-{                                                                                                                                             00:54:43
-    "name": "Blocklist",
-    "sources": [
-        {
-            "source": "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts",
-            "type": "hosts"
-        }
-    ],
-    "transformations": [
-        "RemoveComments",
-        "Deduplicate",
-        "Compress",
-        "Validate",
-        "TrimLines",
-        "InsertFinalNewLine"
-    ]
+{
+  "name": "Turkish-Ad-Hosts",
+  "description": "Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...",
+  "homepage": "https://github.com/symbuzzer/Turkish-Ad-Hosts",
+  "license": "GPLv3",
+  "sources": [
+    {
+      "source": "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts",
+      "type": "adblock",
+    },
+  "transformations": ["RemoveComments", "Deduplicate", "Compress", "Validate", "TrimLines", "InsertFinalNewLine"],
 }
