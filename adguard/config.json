@@ -8,7 +8,7 @@
       "name": "Turkish-Ad-Hosts",
       "source": "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts",
       "type": "hosts",
-    },
+    }
   ],
   "transformations": ["RemoveComments", "Deduplicate", "Compress", "Validate", "TrimLines", "InsertFinalNewLine"],
 }
