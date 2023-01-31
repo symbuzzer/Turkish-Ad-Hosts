@@ -43,23 +43,6 @@ jobs:
         with:
           persist-credentials: false
           fetch-depth: 0
-          
-      - name: create "adguard.txt"
-        run:  |
-          cp hosts adguard.txt
-          
-      - name: add "^" enf of each line
-        run:  |
-          sed -i s/$/^/ adguard.txt
-          
-      - name: replace "127.0.0.1 " with "||"
-        run:  |
-          sed -i "s/127.0.0.1 /||/" adguard.txt
-      
-      - name: remove unnecessary lines
-        run:  |
-          sed -i -e 1,20d  adguard.txt
-          sed -i '$ d' adguard.txt
             
       - name: Creating directories
         run:  |
@@ -69,8 +52,7 @@ jobs:
           mkdir -p release
           mkdir -p zip/system/etc
           mkdir -p zip/common
-          mkdir -p zip/META-INF/com/google/android        
-        
+          mkdir -p zip/META-INF/com/google/android          
           
       - name: Downloading "Zackptg5/MMT-Extended" template files
         run:  |
@@ -124,7 +106,6 @@ jobs:
           sudo cp downloads/update.json magisk/
           sudo cp hosts release/
           sudo cp hosts adguard/
-          sudo cp adguard.txt release/
           sudo cp windows/turkish-ad-hosts-windows.bat release/
           sudo cp linux/turkish-ad-hosts-linux.sh release/
           sudo cp hosts zip/system/etc/
@@ -146,6 +127,10 @@ jobs:
           npm i -g @adguard/hostlist-compiler
           hostlist-compiler -c config.json -o adguard-hostlist.txt
           rm -rf hosts
+      
+      - name: copy and rename adguard-hostlist.txt to releases/adguard.txt
+        run:  |
+          sudo cp adguard/adguard-hostlist.txt releases/adguard.txt
           
       - name: Creating module zip
         run:  |
