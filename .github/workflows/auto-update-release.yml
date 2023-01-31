@@ -145,7 +145,7 @@ jobs:
           cd adguard
           npm i -g @adguard/hostlist-compiler
           hostlist-compiler -c config.json -o adguard-hostlist.txt
-          rm -rf adguard/hosts
+          rm -rf hosts
           
       - name: Creating module zip
         run:  |
