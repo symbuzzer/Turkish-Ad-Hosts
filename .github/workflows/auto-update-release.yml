@@ -119,18 +119,17 @@ jobs:
           sudo cp downloads/update-binary zip/META-INF/com/google/android/
           sudo cp downloads/updater-script zip/META-INF/com/google/android/
           ls -R
-          
                     
       - name: Run  @adguard/hostlist-compiler
         run:  |
           cd adguard
           npm i -g @adguard/hostlist-compiler
-          hostlist-compiler -c config.json -o adguard-hostlist.txt
+          hostlist-compiler -c configuration.json -o filter.txt
           rm -rf hosts
       
-      - name: copy adguard-hostlist.txt to releases
+      - name: copy filter.txt to releases
         run:  |
-          sudo cp adguard/adguard-hostlist.txt release/
+          sudo cp filter.txt release/
           
       - name: Creating module zip
         run:  |
