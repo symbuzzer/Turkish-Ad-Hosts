@@ -6,7 +6,7 @@
   "sources": [
     {
       "name": "Turkish-Ad-Hosts",
-      "source": "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts",
+      "source": "hosts",
       "type": "hosts"
     }
   ],
