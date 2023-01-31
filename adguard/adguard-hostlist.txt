@@ -3,13 +3,15 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-01-31T09:30:57.347Z
+! Last modified: 2023-01-31T17:11:02.163Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.16
 !
 
 ||061353efff4748e1a51974616704a9cc.js.ubembed.com^
+||0b1ebd324d574f37b3516c9a1b33b66d-eb42afa9716f.cdn.forter.com^
 ||209176.hit.gemius.pl^
+||510002161.collect.igodigital.com^
 ||595tuchuang.com^
 ||6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app^
 ||6371800.collect.igodigital.com^
@@ -24,6 +26,8 @@
 ||aax-eu.amazon-adsystem.com^
 ||aax-us.amazon-adsystem.com^
 ||acdn.adnxs.com^
+||ad.360yield.com^
+||ad.a-ads.com^
 ||ad.medyanetads.com^
 ||ad.plus^
 ||ad-cdn.bilgin.pro^
@@ -51,6 +55,7 @@
 ||ads.vidoomy.com^
 ||ads.yahoo.com^
 ||ads.yap.yahoo.com^
+||ads.yieldmo.com^
 ||ads.youtube.com^
 ||ads-api.twitter.com^
 ||ads-dev.pinterest.com^
@@ -79,6 +84,7 @@
 ||amazonaax.com^
 ||amazonclix.com^
 ||amer.hhkld.com^
+||amplify.outbrain.com^
 ||an.facebook.com^
 ||an.yandex.ru^
 ||analytics.dugun.com^
@@ -128,6 +134,8 @@
 ||app-analytics-v2.snapchat.com^
 ||app-measurement.com^
 ||appmetrica.yandex.com^
+||artfut.com^
+||ascendeum-d.openx.net^
 ||assets.a-mo.net^
 ||assets.ubembed.com^
 ||assoc-amazon.com^
@@ -138,6 +146,7 @@
 ||avlsh.visilabs.net^
 ||b-code.liadm.com^
 ||baltar.dimml.io^
+||beacon.riskified.com^
 ||beacon.wikia-services.com^
 ||beacon-nf.rubiconproject.com^
 ||beacons5.gvt3.com^
@@ -173,6 +182,7 @@
 ||cdn.efilli.com^
 ||cdn.eksiup.com^
 ||cdn.insurads.com^
+||cdn.intergient.com^
 ||cdn.makroo.com^
 ||cdn.membrana.media^
 ||cdn.medyanetads.com^
@@ -181,6 +191,7 @@
 ||cdn-netmeraprod.turktelekom.com.tr^
 ||cdn.onesignal.com^
 ||cdn.oremark.com^
+||cdn.personaclick.com^
 ||cdn.rudderlabs.com^
 ||cdn.scarabresearch.com^
 ||cdn.segment.com^
@@ -189,7 +200,9 @@
 ||cdn.serve.admatic.com.tr^
 ||cdn.sift.com^
 ||cdn.siftscience.com^
+||cdn.snigelweb.com^
 ||cdn.taboola.com^
+||cdn.thequin.ai^
 ||cdn.unblockia.com^
 ||cdn.yourwebbars.com^
 ||cdn-api.admost.com^
@@ -198,11 +211,13 @@
 ||cdn2.admatic.com.tr^
 ||cdn2.bildirt.com^
 ||cdn2.inner-active.mobi^
+||cdn9.forter.com^
 ||cdp.cloud.unity3d.com^
 ||ce.lijit.com^
 ||certify-amp.alexametrics.com^
 ||certify-js.alexametrics.com^
 ||champagne.futurecdn.net^
+||cl.qualaroo.com^
 ||clarity.ms^
 ||clbanners9.com^
 ||click.oneplus.cn^
@@ -233,6 +248,7 @@
 ||cs.luckyorange.net^
 ||csi.gstatic.com^
 ||csp-reporting.cloudflare.com^
+||csync.loopme.me^
 ||d.applovin.com^
 ||d.applvn.com^
 ||d.haberler.com^
@@ -243,6 +259,7 @@
 ||d2v02itv0y9u9t.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
 ||d31qbv1cthcecs.cloudfront.net^
+||d35u1vg1q28b3w.cloudfront.net^
 ||d3j3yrurxcqogk.cloudfront.net^
 ||data.flurry.com^
 ||data.mistat.india.xiaomi.com^
@@ -274,6 +291,7 @@
 ||dygassets.dygdigital.com^
 ||dynamic.criteo.com^
 ||eb2.3lift.com^
+||eb42afa9716f.cdn4.forter.com^
 ||ecdn.analysis.fi^
 ||ecdn.firstimpression.io^
 ||edge-sentry-box.otelz.com^
@@ -291,6 +309,7 @@
 ||events.redditmedia.com^
 ||events.release.narrativ.com^
 ||evs.data.ciceksepeti.com^
+||exchange.postrelease.com^
 ||expo.io^
 ||extmaps-api.yandex.net^
 ||ezojs.com^
@@ -304,6 +323,7 @@
 ||freshmarketer.com^
 ||friendshipmale.com^
 ||g2.gumgum.com^
+||g792337340.co^
 ||gatr.hit.gemius.pl^
 ||gcdn.2mdn.net^
 ||gdetr.hit.gemius.pl^
@@ -322,6 +342,7 @@
 ||googleadservices.com^
 ||googleoptimize.com^
 ||googletagmanager.com^
+||grid.bidswitch.net^
 ||grs.dbankcloud.asia^
 ||grs.dbankcloud.cn^
 ||grs.dbankcloud.com^
@@ -355,6 +376,7 @@
 ||id.crwdcntrl.net^
 ||id.rlcdn.com^
 ||id5-sync.com^
+||image8.pubmatic.com^
 ||imasdk.googleapis.com^
 ||img.3633a.com^
 ||img.ekstat.com^
@@ -381,6 +403,7 @@
 ||js-sec.indexww.com^
 ||jsc.adskeeper.com^
 ||jsc.idealmedia.io^
+||json.geoiplookup.io^
 ||jsonip.com^
 ||k.intellitxt.com^
 ||krk.kargo.com^
@@ -403,6 +426,7 @@
 ||logsink.zedge.net^
 ||ls.hit.gemius.pl^
 ||luckyorange.com^
+||m.addthis.com^
 ||macro.adnami.io^
 ||mads.amazon-adsystem.com^
 ||mail-ads.google.com^
@@ -417,6 +441,7 @@
 ||mc2tnzs73p3554cjc7h876m-gfm4.device.marketingcloudapis.com^
 ||mcfk02nd3k8q7w75g9yxxcc6yj20.device.marketingcloudapis.com^
 ||mcs-va.tiktokv.com^
+||mczbf.com^
 ||me-client.eservice.emarsys.net^
 ||med-api.admost.com^
 ||media.net^
@@ -445,6 +470,7 @@
 ||monorail-edge.shopifysvc.com^
 ||motor1.push4site.com^
 ||mouseflow.com^
+||mp.4dex.io^
 ||ms.applovin.com^
 ||ms.applvn.com^
 ||mstm.motorsport.com^
@@ -460,8 +486,12 @@
 ||ntm.netmera-web.com^
 ||o.gez.io^
 ||offer.slgnt.eu^
+||omclyzyapf.com^
+||onetag-sys.com^
 ||open.oneplus.net^
+||openfpcdn.io^
 ||ow.pubmatic.com^
+||owlcarousel2.github.io^
 ||p11.techlab-cdn.com^
 ||pad-v3.presage.io^
 ||pagead2.googlesyndication.com^
@@ -498,11 +528,13 @@
 ||poweredby.jads.co^
 ||prd.jwpltx.com^
 ||prd-collector-anon.ex.co^
+||prebid.a-mo.net^
 ||prebid-server.rubiconproject.com^
 ||predataclient.b-cdn.net^
 ||prg.smartadserver.com^
 ||primis-d.openx.net^
 ||pro.hit.gemius.pl^
+||www.profitabledisplaycontent.com^
 ||ps.eyeota.net^
 ||pub-sdk-cfg.criteo.com^
 ||punosy.best^
@@ -529,6 +561,7 @@
 ||rt.applovin.com^
 ||rt.applvn.com^
 ||rt.visilabs.net^
+||rtb.openx.net^
 ||rules.quantcount.com^
 ||rumcdn.geoedge.be^
 ||run.admost.com^
@@ -575,6 +608,7 @@
 ||settings.crashlytics.com^
 ||settings.luckyorange.net^
 ||sgtm.sefamerve.com^
+||shb.richaudience.com^
 ||signals.carrefoursa.com^
 ||simplewebanalysis.com^
 ||smetrics.samsung.com^
@@ -586,6 +620,7 @@
 ||ssc-cms.33across.com^
 ||sslwidget.criteo.com^
 ||ssp.programattik.com^
+||ssum.casalemedia.com^
 ||ssum-sec.casalemedia.com^
 ||st-n.ads1-adnow.com^
 ||stagepopkek.com^
@@ -614,10 +649,13 @@
 ||supportmetrics.apple.com^
 ||svibeacon.onezapp.com^
 ||sync.bfmio.com^
+||sync.colossusssp.com^
 ||sync.go.sonobi.com^
+||sync.richaudience.com^
 ||sync.search.spotxchange.com^
 ||t.contentsquare.net^
 ||tag.1rx.io^
+||tag.clearbitscripts.com^
 ||tag.crsspxl.com^
 ||tag.durationmedia.net^
 ||tag.rmp.rakuten.com^
@@ -663,8 +701,10 @@
 ||us-u.openx.net^
 ||vidstat.taboola.com^
 ||visitor.omnitagjs.com^
+||vsh.visilabs.net^
 ||w.usabilla.com^
 ||web.webpushs.com^
+||whos.amung.us^
 ||widget.cdn.vidyome.com^
 ||widget.criteo.com^
 ||widget.engageya.com^
@@ -675,6 +715,7 @@
 ||wikihow-com.videoplayerhub.com^
 ||ws.batch.com^
 ||ws.sahibinden.com^
+||wuzbhjpvsf.com^
 ||www.datadoghq-browser-agent.com^
 ||www.effectivecreativeformat.com^
 ||www.fastly-insights.com^
