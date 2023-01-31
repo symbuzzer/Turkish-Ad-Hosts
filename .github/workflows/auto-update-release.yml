@@ -114,10 +114,10 @@ jobs:
           sudo cp downloads/uninstall.sh zip/
           sudo cp downloads/customize.sh zip/
           sudo cp downloads/LICENSE zip/
-          sudo cp downloads/functions.sh zip/common
-          sudo cp downloads/install.sh zip/common
-          sudo cp downloads/update-binary zip/META-INF/com/google/android
-          sudo cp downloads/updater-script zip/META-INF/com/google/android
+          sudo cp downloads/functions.sh zip/common/
+          sudo cp downloads/install.sh zip/common/
+          sudo cp downloads/update-binary zip/META-INF/com/google/android/
+          sudo cp downloads/updater-script zip/META-INF/com/google/android/
           ls -R
           
                     
@@ -130,7 +130,7 @@ jobs:
       
       - name: copy adguard-hostlist.txt to releases
         run:  |
-          sudo cp adguard/adguard-hostlist.txt releases
+          sudo cp adguard/adguard-hostlist.txt release/
           
       - name: Creating module zip
         run:  |
