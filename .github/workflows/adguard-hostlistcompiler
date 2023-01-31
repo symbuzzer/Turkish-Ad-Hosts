@@ -34,7 +34,7 @@ jobs:
           "TrimLines",
           "InsertFinalNewLine"
           ]
-       }
+        }
           
       - name: Commit and push changes
         uses: actions-js/push@master
