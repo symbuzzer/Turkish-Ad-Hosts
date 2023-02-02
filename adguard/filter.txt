@@ -3,14 +3,13 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-01-31T17:11:02.163Z
+! Last modified: 2023-02-02T19:16:34.506Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.16
 !
 
 ||061353efff4748e1a51974616704a9cc.js.ubembed.com^
 ||0b1ebd324d574f37b3516c9a1b33b66d-eb42afa9716f.cdn.forter.com^
-||209176.hit.gemius.pl^
 ||510002161.collect.igodigital.com^
 ||595tuchuang.com^
 ||6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app^
@@ -97,6 +96,7 @@
 ||analytics.rasyotek.com.tr^
 ||analytics.samsungknox.com^
 ||analytics.tiktok.com^
+||analytics.webgains.io^
 ||analytics.yahoo.com^
 ||analytics-api.samsunghealthcn.com^
 ||analytics-sg.tiktok.com^
@@ -168,11 +168,14 @@
 ||cacheorcheck.mopinion.com^
 ||cafemedia-com.videoplayerhub.com^
 ||carvecakes.com^
+||cbox.im^
+||cbox.ws^
 ||cdn.ad.xiaomi.com^
 ||cdn.adhouse.pro^
 ||cdn.adpushup.com^
 ||cdn.adsafeprotected.com^
 ||cdn.adtarget.com.tr^
+||cdn.avmws.com^
 ||cdn.bannersnack.com^
 ||cdn.bizible.com^
 ||cdn.bvmcdn.net^
@@ -225,6 +228,7 @@
 ||clicks.hurriyet.com.tr^
 ||cm.mgid.com^
 ||cnt.trvdp.com^
+||code.jivosite.com^
 ||collect.dolap.com^
 ||collect.trendyol.com^
 ||collector.github.com^
@@ -287,6 +291,7 @@
 ||dpm.demdex.net^
 ||dt.adsafeprotected.com^
 ||dtm-dre.platform.dbankcloud.cn^
+||dttrk.com^
 ||dwin1.com^
 ||dygassets.dygdigital.com^
 ||dynamic.criteo.com^
@@ -324,9 +329,7 @@
 ||friendshipmale.com^
 ||g2.gumgum.com^
 ||g792337340.co^
-||gatr.hit.gemius.pl^
 ||gcdn.2mdn.net^
-||gdetr.hit.gemius.pl^
 ||geoim.bloomberght.com^
 ||geoim.hurriyet.com^
 ||geoloc.hurriyet.com.tr^
@@ -361,6 +364,7 @@
 ||hepsipay-sentry.hepsipay.com^
 ||hexagon-analytics.com^
 ||hit.demirorenteknoloji.com^
+||hit.gemius.pl^
 ||hit.mynet.com^
 ||hits.acunn.com^
 ||hits.tv8.com.tr^
@@ -398,6 +402,7 @@
 ||js.agkn.com^
 ||js.appboycdn.com^
 ||js.hs-scripts.com^
+||js.rfp.fout.jp^
 ||js.tagon.co^
 ||js-agent.newrelic.com^
 ||js-sec.indexww.com^
@@ -413,6 +418,7 @@
 ||lgr.visilabs.net^
 ||lider90.com^
 ||limurol.com^
+||linkconnector.com^
 ||live.demand.supply^
 ||load.sumo.com^
 ||log.haberturk.com^
@@ -424,7 +430,6 @@
 ||logservice.hicloud.com^
 ||logservice1.hicloud.com^
 ||logsink.zedge.net^
-||ls.hit.gemius.pl^
 ||luckyorange.com^
 ||m.addthis.com^
 ||macro.adnami.io^
@@ -533,8 +538,7 @@
 ||predataclient.b-cdn.net^
 ||prg.smartadserver.com^
 ||primis-d.openx.net^
-||pro.hit.gemius.pl^
-||www.profitabledisplaycontent.com^
+||profitabledisplaycontent.com^
 ||ps.eyeota.net^
 ||pub-sdk-cfg.criteo.com^
 ||punosy.best^
@@ -569,6 +573,7 @@
 ||s.amazon-adsystem.com^
 ||s.ntv.io^
 ||s.go-mpulse.net^
+||s.perzonalization.com^
 ||s.seedtag.com^
 ||s.visilabs.net^
 ||s-img.idealmedia.io^
@@ -586,6 +591,7 @@
 ||script.4dex.io^
 ||script.crazyegg.com^
 ||scripts.kiosked.com^
+||scripts.mediavine.com^
 ||scripts.webcontentassessor.com^
 ||sdk.iad-01.braze.com^
 ||sdk.iad-06.braze.com^
@@ -616,6 +622,7 @@
 ||sommelier.futurehybrid.tech^
 ||spl.zeotap.com^
 ||srv.buysellads.com^
+||srvccc.fish91826twenty.ga^
 ||srvr.dmvs-apac.com^
 ||ssc-cms.33across.com^
 ||sslwidget.criteo.com^
@@ -644,7 +651,7 @@
 ||stats.vk-portal.net^
 ||stats.wp.com^
 ||steadfastsystem.com^
-||str.hit.gemius.pl.hit.gemius.pl^
+||strmrdrfrokd.site^
 ||storj.cloud^
 ||supportmetrics.apple.com^
 ||svibeacon.onezapp.com^
@@ -673,7 +680,6 @@
 ||tpc.googlesyndication.com^
 ||tps30.doubleverify.com^
 ||tpx.tesseradigital.com^
-||tr.hit.gemius.pl^
 ||tr.lib.dengage.com^
 ||tr.snapchat.com^
 ||track.mailerlite.com^
@@ -685,6 +691,7 @@
 ||tracking.miui.com^
 ||tracking.mubi.com^
 ||tracking.rus.miui.com^
+||trk.indoleads.com^
 ||trk.pinterest.com^
 ||trk.storyly.io^
 ||tru.am^
@@ -695,10 +702,12 @@
 ||uip.semasio.net^
 ||uk-script.dotmetrics.net^
 ||unagi.amazon.com^
+||uno.rub88677win.xyz^
 ||untropiuson.com^
 ||upload.luckyorange.net^
 ||uptimecdn.com^
 ||us-u.openx.net^
+||utt.impactcdn.com^
 ||vidstat.taboola.com^
 ||visitor.omnitagjs.com^
 ||vsh.visilabs.net^
