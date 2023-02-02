@@ -1,4 +1,8 @@
 # Script changelog:  
+v1.2.0  
+- Added compatibility for Start Menu shortcut  
+- Added "launcher" integration for future releases  
+   
 v1.1.2  
 - Change ping check address from "www.google.com" to "www.avalibeyaz.com" which is my personel web site.  
   
