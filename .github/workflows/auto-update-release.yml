@@ -127,9 +127,9 @@ jobs:
           hostlist-compiler -c configuration.json -o filter.txt
           rm -rf hosts
       
-      - name: copy filter.txt to releases
+      - name: copy adguard/filter.txt to releases
         run:  |
-          sudo cp filter.txt release/
+          sudo cp adguard/filter.txt release/
           
       - name: Creating module zip
         run:  |
