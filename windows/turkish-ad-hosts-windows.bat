@@ -2,19 +2,20 @@
 setlocal EnableDelayedExpansion
 mode con:cols=50 lines=2
 cls
-set ver=1.1.2
+set ver=1.2.0
 set name=Turkish Ad Hosts
 set title=%name% v%ver%
 title %title%
 color 0a
 set workingdir=%UserProfile%\tah
 set startup=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
+set startmenu=%APPDATA%\Microsoft\Windows\Start Menu\Programs
 set filename=%RANDOM%
 if not exist "%workingdir%" mkdir "%workingdir%"
 goto checkping
 
 :checkping
-ping www.avalibeyaz.com -n 1 -w 1000
+ping www.avalibeyaz.com -n 1 -w 1000 >nul
 cls
 echo installing, please wait...
 if errorlevel 1 (goto exit) else (goto checkfirstinstall)
@@ -41,6 +42,7 @@ echo set startup=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup >> %tem
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts' -OutFile '%WinDir%\System32\drivers\etc\hosts'" >> %temp%\%filename%.bat
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/windows/turkish-ad-hosts-windows.bat' -OutFile '%workingdir%\turkish-ad-hosts-windows.bat'" >> %temp%\%filename%.bat
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/windows/startup.bat' -OutFile '%startup%\startup.bat'" >> %temp%\%filename%.bat
+echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/windows/Turkish-Ad-Hosts.bat' -OutFile '%workingdir%\Turkish-Ad-Hosts.bat'" >> %temp%\%filename%.bat
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/version' -OutFile '%workingdir%\version'" >> %temp%\%filename%.bat
 powershell -Command Start-Process -Verb runAs -windowstyle hidden -Wait -FilePath '%temp%\%filename%.bat'
 cls
