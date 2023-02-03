@@ -190,6 +190,7 @@
 127.0.0.1 beacons5.gvt3.com
 127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 bidder.criteo.com
+127.0.0.1 biddr.brealtime.com
 127.0.0.1 bigrourg.net
 127.0.0.1 brightcombid.marphezis.com
 127.0.0.1 browser.events.data.microsoft.com
@@ -693,6 +694,7 @@
 127.0.0.1 openfpcdn.io
 127.0.0.1 ow.pubmatic.com
 127.0.0.1 owlcarousel2.github.io
+127.0.0.1 p.typekit.net
 127.0.0.1 p11.techlab-cdn.com
 127.0.0.1 pad-v3.presage.io
 127.0.0.1 pagead2.googleadservices.com
@@ -764,6 +766,7 @@
 127.0.0.1 rereddit.com
 127.0.0.1 rest.segmentify.com
 127.0.0.1 revenueflex.com
+127.0.0.1 revotrack.revotas.com
 127.0.0.1 rosenberg.appmetrica.yandex.net
 127.0.0.1 rotarb.bid
 127.0.0.1 router.miwifi.com
@@ -882,6 +885,7 @@
 127.0.0.1 tag.clearbitscripts.com
 127.0.0.1 tag.crsspxl.com
 127.0.0.1 tag.durationmedia.net
+127.0.0.1 tag.oko.net
 127.0.0.1 tag.rmp.rakuten.com
 127.0.0.1 tagan.adlightning.com
 127.0.0.1 tags.bluekai.com
@@ -894,7 +898,9 @@
 127.0.0.1 tlx.3lift.com
 127.0.0.1 tme.112.2o7.net
 127.0.0.1 tns-counter.ru
+127.0.0.1 to.getnitropack.com
 127.0.0.1 top-fwz1.mail.ru
+127.0.0.1 toyota.api.useinsider.com
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 tps30.doubleverify.com
 127.0.0.1 tpx.tesseradigital.com
