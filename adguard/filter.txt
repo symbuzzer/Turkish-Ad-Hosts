@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-02-02T19:16:34.506Z
+! Last modified: 2023-02-03T07:51:11.217Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.16
 !
@@ -151,6 +151,7 @@
 ||beacon-nf.rubiconproject.com^
 ||beacons5.gvt3.com^
 ||bidder.criteo.com^
+||biddr.brealtime.com^
 ||bigrourg.net^
 ||brightcombid.marphezis.com^
 ||browser.events.data.microsoft.com^
@@ -497,6 +498,7 @@
 ||openfpcdn.io^
 ||ow.pubmatic.com^
 ||owlcarousel2.github.io^
+||p.typekit.net^
 ||p11.techlab-cdn.com^
 ||pad-v3.presage.io^
 ||pagead2.googlesyndication.com^
@@ -559,6 +561,7 @@
 ||rereddit.com^
 ||rest.segmentify.com^
 ||revenueflex.com^
+||revotrack.revotas.com^
 ||rosenberg.appmetrica.yandex.net^
 ||rotarb.bid^
 ||router.miwifi.com^
@@ -665,6 +668,7 @@
 ||tag.clearbitscripts.com^
 ||tag.crsspxl.com^
 ||tag.durationmedia.net^
+||tag.oko.net^
 ||tag.rmp.rakuten.com^
 ||tagan.adlightning.com^
 ||tags.bluekai.com^
@@ -676,6 +680,7 @@
 ||tlx.3lift.com^
 ||tme.112.2o7.net^
 ||tns-counter.ru^
+||to.getnitropack.com^
 ||top-fwz1.mail.ru^
 ||tpc.googlesyndication.com^
 ||tps30.doubleverify.com^
