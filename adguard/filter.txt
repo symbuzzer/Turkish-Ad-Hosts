@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-02-03T07:51:11.217Z
+! Last modified: 2023-02-04T15:30:41.561Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.16
 !
@@ -86,6 +86,7 @@
 ||amplify.outbrain.com^
 ||an.facebook.com^
 ||an.yandex.ru^
+||analytics.archive.org^
 ||analytics.dugun.com^
 ||analytics.facebook.com^
 ||analytics.google.com^
@@ -179,6 +180,7 @@
 ||cdn.avmws.com^
 ||cdn.bannersnack.com^
 ||cdn.bizible.com^
+||cdn.browsiprod.com^
 ||cdn.bvmcdn.net^
 ||cdn.carbonads.com^
 ||cdn.cookielaw.org^
@@ -196,6 +198,7 @@
 ||cdn.onesignal.com^
 ||cdn.oremark.com^
 ||cdn.personaclick.com^
+||cdn.preciso.net^
 ||cdn.rudderlabs.com^
 ||cdn.scarabresearch.com^
 ||cdn.segment.com^
@@ -205,6 +208,7 @@
 ||cdn.sift.com^
 ||cdn.siftscience.com^
 ||cdn.snigelweb.com^
+||cdn.speedcurve.com^
 ||cdn.taboola.com^
 ||cdn.thequin.ai^
 ||cdn.unblockia.com^
@@ -296,6 +300,7 @@
 ||dwin1.com^
 ||dygassets.dygdigital.com^
 ||dynamic.criteo.com^
+||e.deployads.com^
 ||eb2.3lift.com^
 ||eb42afa9716f.cdn4.forter.com^
 ||ecdn.analysis.fi^
@@ -325,6 +330,7 @@
 ||fls-na.amazon.com^
 ||fourier.taobao.com^
 ||fonts.mopinion.com^
+||futureplc-com.videoplayerhub.com^
 ||fra1-ib.adnxs.com^
 ||freshmarketer.com^
 ||friendshipmale.com^
@@ -498,6 +504,7 @@
 ||openfpcdn.io^
 ||ow.pubmatic.com^
 ||owlcarousel2.github.io^
+||p.cpx.to^
 ||p.typekit.net^
 ||p11.techlab-cdn.com^
 ||pad-v3.presage.io^
@@ -654,6 +661,7 @@
 ||stats.vk-portal.net^
 ||stats.wp.com^
 ||steadfastsystem.com^
+||steepsquirrel.com^
 ||strmrdrfrokd.site^
 ||storj.cloud^
 ||supportmetrics.apple.com^
@@ -674,6 +682,7 @@
 ||tags.bluekai.com^
 ||tags.bkrtx.com^
 ||tags.tiqcdn.com^
+||tags-cdn.deployads.com^
 ||targeting.unrulymedia.com^
 ||tempest.services.disqus.com^
 ||tg1.playstream.media^
