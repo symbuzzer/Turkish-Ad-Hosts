@@ -116,6 +116,7 @@
 127.0.0.1 ams.creativecdn.com
 127.0.0.1 an.facebook.com
 127.0.0.1 an.yandex.ru
+127.0.0.1 analytics.archive.org
 127.0.0.1 analytics.dugun.com
 127.0.0.1 analytics.facebook.com
 127.0.0.1 analytics.google.com
@@ -218,6 +219,7 @@
 127.0.0.1 cdn.avmws.com
 127.0.0.1 cdn.bannersnack.com
 127.0.0.1 cdn.bizible.com
+127.0.0.1 cdn.browsiprod.com
 127.0.0.1 cdn.bvmcdn.net
 127.0.0.1 cdn.carbonads.com
 127.0.0.1 cdn.cookielaw.org
@@ -239,6 +241,7 @@
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 cdn.oremark.com
 127.0.0.1 cdn.personaclick.com
+127.0.0.1 cdn.preciso.net
 127.0.0.1 cdn.rudderlabs.com
 127.0.0.1 cdn.scarabresearch.com
 127.0.0.1 cdn.segment.com
@@ -248,6 +251,7 @@
 127.0.0.1 cdn.sift.com
 127.0.0.1 cdn.siftscience.com
 127.0.0.1 cdn.snigelweb.com
+127.0.0.1 cdn.speedcurve.com
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.thequin.ai
 127.0.0.1 cdn.unblockia.com
@@ -344,6 +348,7 @@
 127.0.0.1 dwin1.com
 127.0.0.1 dygassets.dygdigital.com
 127.0.0.1 dynamic.criteo.com
+127.0.0.1 e.deployads.com
 127.0.0.1 e2c1.gcp.gvt2.com
 127.0.0.1 e2c2.gcp.gvt2.com
 127.0.0.1 e2c3.gcp.gvt2.com
@@ -496,6 +501,7 @@
 127.0.0.1 fls-na.amazon.com
 127.0.0.1 fourier.taobao.com
 127.0.0.1 fonts.mopinion.com
+127.0.0.1 futureplc-com.videoplayerhub.com
 127.0.0.1 fra1-ib.adnxs.com
 127.0.0.1 freshmarketer.com
 127.0.0.1 friendshipmale.com
@@ -694,6 +700,7 @@
 127.0.0.1 openfpcdn.io
 127.0.0.1 ow.pubmatic.com
 127.0.0.1 owlcarousel2.github.io
+127.0.0.1 p.cpx.to
 127.0.0.1 p.typekit.net
 127.0.0.1 p11.techlab-cdn.com
 127.0.0.1 pad-v3.presage.io
@@ -870,6 +877,7 @@
 127.0.0.1 stats.vk-portal.net
 127.0.0.1 stats.wp.com
 127.0.0.1 steadfastsystem.com
+127.0.0.1 steepsquirrel.com
 127.0.0.1 str.hit.gemius.pl.hit.gemius.pl
 127.0.0.1 strmrdrfrokd.site
 127.0.0.1 storj.cloud
@@ -891,6 +899,7 @@
 127.0.0.1 tags.bluekai.com
 127.0.0.1 tags.bkrtx.com
 127.0.0.1 tags.tiqcdn.com
+127.0.0.1 tags-cdn.deployads.com
 127.0.0.1 targeting.unrulymedia.com
 127.0.0.1 td.doubleclick.net
 127.0.0.1 tempest.services.disqus.com
