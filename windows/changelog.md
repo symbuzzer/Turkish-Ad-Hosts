@@ -1,6 +1,9 @@
-# Script changelog:  
+# turkish-ad-hosts-windows:  
+v1.2.2  
+- Added uninstall shortcut to Start Menu  
+  
 v1.2.1  
-- Add shortcut to Windows Start Menu: Turkish-Ad-Hosts. So you can manually update hosts file whenever you want.  
+- Added shortcut to Windows Start Menu: Turkish-Ad-Hosts. So you can manually update hosts file whenever you want.  
   
 v1.2.0  
 - Added compatibility for Start Menu shortcut  
@@ -17,3 +20,19 @@ v1.1.0
   
 v1.0.0  
 - Initial release
+  
+------------------------------  
+# startup:  
+v1.0.0  
+- Initial release  
+   
+------------------------------  
+# launcher:  
+v1.0.0  
+- Initial release  
+  
+------------------------------  
+# uninstaller:  
+v1.0.0  
+- Initial release  
+   
