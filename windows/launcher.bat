@@ -40,7 +40,6 @@ pause
 exit
 
 :neterror
-echo.
 echo.need internet connection :(
 pause
 exit
