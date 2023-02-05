@@ -1,4 +1,7 @@
 # Script changelog:  
+v1.2.1  
+- Add shortcut to Windows Start Menu: Turkish-Ad-Hosts. So you can manually update hosts file whenever you want.  
+  
 v1.2.0  
 - Added compatibility for Start Menu shortcut  
 - Added "launcher" integration for future releases  
