@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-02-04T15:30:41.561Z
+! Last modified: 2023-02-05T08:20:16.886Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.16
 !
@@ -147,6 +147,7 @@
 ||avlsh.visilabs.net^
 ||b-code.liadm.com^
 ||baltar.dimml.io^
+||basher.ezodn.com^
 ||beacon.riskified.com^
 ||beacon.wikia-services.com^
 ||beacon-nf.rubiconproject.com^
@@ -169,14 +170,17 @@
 ||c3.taboola.com^
 ||cacheorcheck.mopinion.com^
 ||cafemedia-com.videoplayerhub.com^
+||capi.connatix.com^
 ||carvecakes.com^
 ||cbox.im^
 ||cbox.ws^
+||cd.connatix.com^
 ||cdn.ad.xiaomi.com^
 ||cdn.adhouse.pro^
 ||cdn.adpushup.com^
 ||cdn.adsafeprotected.com^
 ||cdn.adtarget.com.tr^
+||cdn.amplitude.com^
 ||cdn.avmws.com^
 ||cdn.bannersnack.com^
 ||cdn.bizible.com^
@@ -611,6 +615,7 @@
 ||sdkapi.netmera.com^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
+||sdks.automizely-analytics.com^
 ||secure.adnxs.com^
 ||secure.quantserve.com^
 ||secure-assets.rubiconproject.com^
