@@ -179,6 +179,7 @@
 127.0.0.1 avlsh.visilabs.net
 127.0.0.1 b-code.liadm.com
 127.0.0.1 baltar.dimml.io
+127.0.0.1 basher.ezodn.com
 127.0.0.1 beacon.riskified.com
 127.0.0.1 beacon.wikia-services.com
 127.0.0.1 beacon-nf.rubiconproject.com
@@ -208,14 +209,17 @@
 127.0.0.1 c3.taboola.com
 127.0.0.1 cacheorcheck.mopinion.com
 127.0.0.1 cafemedia-com.videoplayerhub.com
+127.0.0.1 capi.connatix.com
 127.0.0.1 carvecakes.com
 127.0.0.1 cbox.im
 127.0.0.1 cbox.ws
+127.0.0.1 cd.connatix.com
 127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 cdn.adhouse.pro
 127.0.0.1 cdn.adpushup.com
 127.0.0.1 cdn.adsafeprotected.com
 127.0.0.1 cdn.adtarget.com.tr
+127.0.0.1 cdn.amplitude.com
 127.0.0.1 cdn.avmws.com
 127.0.0.1 cdn.bannersnack.com
 127.0.0.1 cdn.bizible.com
@@ -818,6 +822,7 @@
 127.0.0.1 sdkapi.netmera.com
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 sdks.automizely-analytics.com
 127.0.0.1 secure.adnxs.com
 127.0.0.1 secure.quantserve.com
 127.0.0.1 secure-assets.rubiconproject.com
