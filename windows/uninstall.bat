@@ -23,7 +23,7 @@ for %%f in (*) do (
     del "%%f"
   )
 )
-powershell -Command -Verb runAs "Remove-Item '${env:WinDir}\System32\drivers\etc\hosts' -ErrorAction SilentlyContinue"
+start powershell -Verb runAs -ArgumentList "-Command `"Remove-Item '${env:WinDir}\System32\drivers\etc\hosts' -ErrorAction SilentlyContinue""
 goto exit
 
 :exit
