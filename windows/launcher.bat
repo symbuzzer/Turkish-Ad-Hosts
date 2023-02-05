@@ -2,13 +2,14 @@
 setlocal EnableDelayedExpansion
 mode con:cols=70 lines=10
 cls
-set ver=1.0.0
+set ver=1.0.1
 set name=Turkish Ad Hosts launcher
 set title=%name% v%ver%
 title %title%
 color 0a
 set workingdir=%UserProfile%\tah\
 echo.welcome to %name% v%ver%
+goto checkping
 
 
 :checkping
