@@ -10,6 +10,7 @@ color 0a
 set workingdir=%UserProfile%\tah
 set startupfile="%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\startup.bat"
 set shortcutfolder="%APPDATA%\Microsoft\Windows\Start Menu\Programs\Turkish-Ad-Hosts"
+set filename=%RANDOM%
 echo.welcome to %name% v%ver%
 goto delete
 
@@ -23,7 +24,8 @@ for %%f in (*) do (
     del "%%f"
   )
 )
-start powershell -Verb runAs -ArgumentList "-Command `"Remove-Item '${env:WinDir}\System32\drivers\etc\hosts' -ErrorAction SilentlyContinue""
+echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/windows/defaulthosts' -OutFile '%WinDir%\System32\drivers\etc\hosts'" >> %temp%\%filename%.bat
+powershell -Command Start-Process -Verb runAs -windowstyle hidden -Wait -FilePath '%temp%\%filename%.bat'
 goto exit
 
 :exit
