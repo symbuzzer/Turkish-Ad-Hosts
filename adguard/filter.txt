@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-02-05T08:20:16.886Z
+! Last modified: 2023-02-16T17:41:14.579Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.16
 !
@@ -29,6 +29,7 @@
 ||ad.a-ads.com^
 ||ad.medyanetads.com^
 ||ad.plus^
+||ad.vidverto.io^
 ||ad-cdn.bilgin.pro^
 ||ad01.tmgrup.com.tr^
 ||ade.googlesyndication.com^
@@ -70,6 +71,7 @@
 ||adsp.haberturk.com^
 ||adtago.s3.amazonaws.com^
 ||adv.sec.intl.miui.com^
+||adv.sec.miui.com^
 ||advertising.twitter.com^
 ||advertising-api-eu.amazon.com^
 ||advice-ads.s3.amazonaws.com^
@@ -79,6 +81,7 @@
 ||affiliationjs.s3.amazonaws.com^
 ||aip-cdn.sozcu.com.tr^
 ||aip2.sozcu.com.tr^
+||ak.sail-horizon.com^
 ||alb.reddit.com^
 ||amazonaax.com^
 ||amazonclix.com^
@@ -96,6 +99,8 @@
 ||analytics.pointdrive.linkedin.com^
 ||analytics.rasyotek.com.tr^
 ||analytics.samsungknox.com^
+||analytics.slashdotmedia.com^
+||analytics.tebilisim.com^
 ||analytics.tiktok.com^
 ||analytics.webgains.io^
 ||analytics.yahoo.com^
@@ -107,6 +112,7 @@
 ||api.amplitude.com^
 ||api.ad.intl.xiaomi.com^
 ||api.ad.xiaomi.com^
+||api.brs.intl.miui.com^
 ||api.dataroid.com^
 ||api.instabug.com^
 ||api.leanplum.com^
@@ -118,8 +124,10 @@
 ||api.rlcdn.com^
 ||api.rudderlabs.com^
 ||api.sec.intl.miui.com^
+||api.sec.miui.com^
 ||api.segment.io^
 ||api.storyly.io^
+||api.tw06.xlmc.sec.miui.com^
 ||api.useinsider.com^
 ||api-stg.ensonhaber.com^
 ||api2.branch.io^
@@ -138,6 +146,7 @@
 ||artfut.com^
 ||ascendeum-d.openx.net^
 ||assets.a-mo.net^
+||assets.revcontent.com^
 ||assets.ubembed.com^
 ||assoc-amazon.com^
 ||athena-event-provider.n11.com^
@@ -147,7 +156,7 @@
 ||avlsh.visilabs.net^
 ||b-code.liadm.com^
 ||baltar.dimml.io^
-||basher.ezodn.com^
+||bcp.crwdcntrl.net^
 ||beacon.riskified.com^
 ||beacon.wikia-services.com^
 ||beacon-nf.rubiconproject.com^
@@ -166,6 +175,7 @@
 ||business.samsungusa.com^
 ||c.aaxads.com^
 ||c.amazon-adsystem.com^
+||c.go-mpulse.net^
 ||c2.taboola.com^
 ||c3.taboola.com^
 ||cacheorcheck.mopinion.com^
@@ -218,6 +228,8 @@
 ||cdn.unblockia.com^
 ||cdn.yourwebbars.com^
 ||cdn-api.admost.com^
+||cdn-header-bidding.snack-media.com^
+||cdn-magiclinks.trackonomics.net^
 ||cdn-settings.appsflyersdk.com^
 ||cdn-settings.segment.com^
 ||cdn2.admatic.com.tr^
@@ -296,6 +308,7 @@
 ||dlsdk.appsflyer.com^
 ||dmx.districtm.io^
 ||dmxleo.dailymotion.com^
+||dogus-ads-cdn.dygdigital.com^
 ||doubleclick.net^
 ||dpm.demdex.net^
 ||dt.adsafeprotected.com^
@@ -311,6 +324,8 @@
 ||ecdn.firstimpression.io^
 ||edge-sentry-box.otelz.com^
 ||emea.hhkld.com^
+||etahub.com^
+||etl-xlmc-ssl.sandai.net^
 ||eturkcell.netmera.com^
 ||eu-mobile.events.data.microsoft.com^
 ||eum.instana.io^
@@ -327,6 +342,7 @@
 ||exchange.postrelease.com^
 ||expo.io^
 ||extmaps-api.yandex.net^
+||ezodn.com^
 ||ezojs.com^
 ||fastclick.net^
 ||fastlane.rubiconproject.com^
@@ -350,7 +366,6 @@
 ||ghb.spotim.market^
 ||global.adserver.yahoo.com^
 ||globalapi.ad.xiaomi.com^
-||go.ezodn.com^
 ||godpvqnszo.com^
 ||google-analytics.com^
 ||googleadservices.com^
@@ -397,6 +412,7 @@
 ||img.ekstat.com^
 ||in.appcenter.ms^
 ||inapps.appsflyer.com^
+||insights.algolia.io^
 ||instant.page^
 ||intake-analytics.wikimedia.org^
 ||inv-nets.admixer.net^
@@ -570,6 +586,7 @@
 ||reklamup.com^
 ||report.appmetrica.yandex.net^
 ||rereddit.com^
+||resolver.msg.xiaomi.net^
 ||rest.segmentify.com^
 ||revenueflex.com^
 ||revotrack.revotas.com^
@@ -581,6 +598,7 @@
 ||rt.visilabs.net^
 ||rtb.openx.net^
 ||rules.quantcount.com^
+||rum.browser-intake-datadoghq.com^
 ||rumcdn.geoedge.be^
 ||run.admost.com^
 ||rxeosevsso.com^
@@ -634,6 +652,7 @@
 ||simplewebanalysis.com^
 ||smetrics.samsung.com^
 ||snap.licdn.com^
+||snippet.affilimate.io^
 ||sommelier.futurehybrid.tech^
 ||spl.zeotap.com^
 ||srv.buysellads.com^
@@ -657,6 +676,7 @@
 ||static.fd-api.com^
 ||static.lcwaikiki.com^
 ||static.onedio.com^
+||static.trafficjunky.com^
 ||static.virgul.com^
 ||statics.olx.com.tr^
 ||statistics.daktilo.com^
@@ -704,11 +724,12 @@
 ||track.mailerlite.com^
 ||track.wattpad.com^
 ||track1.aniview.com^
-||tracking.olx-st.com^
+||tracking.ensonhaber.com^
 ||tracking.india.miui.com^
 ||tracking.intl.miui.com^
 ||tracking.miui.com^
 ||tracking.mubi.com^
+||tracking.olx-st.com^
 ||tracking.rus.miui.com^
 ||trk.indoleads.com^
 ||trk.pinterest.com^
@@ -720,6 +741,8 @@
 ||udmserve.net^
 ||uip.semasio.net^
 ||uk-script.dotmetrics.net^
+||ulogs.umeng.com^
+||ulogs.umengcloud.com^
 ||unagi.amazon.com^
 ||uno.rub88677win.xyz^
 ||untropiuson.com^
