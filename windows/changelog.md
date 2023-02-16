@@ -28,6 +28,12 @@
    
 ------------------------------  
 # launcher:  
+>v1.0.2  
+>- Improved net connection checking and error handling  
+  
+>v1.0.1  
+>- Ghost release for beta testing some features  
+  
 >v1.0.0  
 >- Initial release  
   
