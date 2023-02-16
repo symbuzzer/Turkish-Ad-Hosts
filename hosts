@@ -55,6 +55,7 @@
 127.0.0.1 ad.medyanetads.com
 127.0.0.1 ad.plus
 127.0.0.1 ad.samsungadhub.com
+127.0.0.1 ad.vidverto.io
 127.0.0.1 ad-cdn.bilgin.pro
 127.0.0.1 ad01.tmgrup.com.tr
 127.0.0.1 ade.googlesyndication.com
@@ -97,6 +98,7 @@
 127.0.0.1 adsp.haberturk.com
 127.0.0.1 adtago.s3.amazonaws.com
 127.0.0.1 adv.sec.intl.miui.com
+127.0.0.1 adv.sec.miui.com
 127.0.0.1 advertising.twitter.com
 127.0.0.1 advertising-api-eu.amazon.com
 127.0.0.1 advice-ads.s3.amazonaws.com
@@ -107,6 +109,7 @@
 127.0.0.1 affiliationjs.s3.amazonaws.com
 127.0.0.1 aip-cdn.sozcu.com.tr
 127.0.0.1 aip2.sozcu.com.tr
+127.0.0.1 ak.sail-horizon.com
 127.0.0.1 alb.reddit.com
 127.0.0.1 amazonaax.com
 127.0.0.1 amazonclix.com
@@ -126,6 +129,8 @@
 127.0.0.1 analytics.pointdrive.linkedin.com
 127.0.0.1 analytics.rasyotek.com.tr
 127.0.0.1 analytics.samsungknox.com
+127.0.0.1 analytics.slashdotmedia.com
+127.0.0.1 analytics.tebilisim.com
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 analytics.webgains.io
 127.0.0.1 analytics.yahoo.com
@@ -137,6 +142,7 @@
 127.0.0.1 api.amplitude.com
 127.0.0.1 api.ad.intl.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 api.brs.intl.miui.com
 127.0.0.1 api.dataroid.com
 127.0.0.1 api.instabug.com
 127.0.0.1 api.leanplum.com
@@ -148,8 +154,10 @@
 127.0.0.1 api.rlcdn.com
 127.0.0.1 api.rudderlabs.com
 127.0.0.1 api.sec.intl.miui.com
+127.0.0.1 api.sec.miui.com
 127.0.0.1 api.segment.io
 127.0.0.1 api.storyly.io
+127.0.0.1 api.tw06.xlmc.sec.miui.com
 127.0.0.1 api.useinsider.com
 127.0.0.1 api-stg.ensonhaber.com
 127.0.0.1 api2.branch.io
@@ -170,6 +178,7 @@
 127.0.0.1 ascendeum-d.openx.net
 127.0.0.1 assets.a-mo.net
 127.0.0.1 assets.api.useinsider.com
+127.0.0.1 assets.revcontent.com
 127.0.0.1 assets.ubembed.com
 127.0.0.1 assoc-amazon.com
 127.0.0.1 athena-event-provider.n11.com
@@ -180,6 +189,7 @@
 127.0.0.1 b-code.liadm.com
 127.0.0.1 baltar.dimml.io
 127.0.0.1 basher.ezodn.com
+127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 beacon.riskified.com
 127.0.0.1 beacon.wikia-services.com
 127.0.0.1 beacon-nf.rubiconproject.com
@@ -205,6 +215,7 @@
 127.0.0.1 business.samsungusa.com
 127.0.0.1 c.aaxads.com
 127.0.0.1 c.amazon-adsystem.com
+127.0.0.1 c.go-mpulse.net
 127.0.0.1 c2.taboola.com
 127.0.0.1 c3.taboola.com
 127.0.0.1 cacheorcheck.mopinion.com
@@ -261,6 +272,8 @@
 127.0.0.1 cdn.unblockia.com
 127.0.0.1 cdn.yourwebbars.com
 127.0.0.1 cdn-api.admost.com
+127.0.0.1 cdn-header-bidding.snack-media.com
+127.0.0.1 cdn-magiclinks.trackonomics.net
 127.0.0.1 cdn-settings.appsflyersdk.com
 127.0.0.1 cdn-settings.segment.com
 127.0.0.1 cdn2.admatic.com.tr
@@ -281,6 +294,7 @@
 127.0.0.1 clicks.hurriyet.com.tr
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cm.mgid.com
+127.0.0.1 cn.app.chat.xiaomi.net
 127.0.0.1 cnnturk.api.useinsider.com
 127.0.0.1 cnt.trvdp.com
 127.0.0.1 code.jivosite.com
@@ -344,6 +358,7 @@
 127.0.0.1 dmp.adform.net
 127.0.0.1 dmx.districtm.io
 127.0.0.1 dmxleo.dailymotion.com
+127.0.0.1 dogus-ads-cdn.dygdigital.com
 127.0.0.1 doubleclick.net
 127.0.0.1 dpm.demdex.net
 127.0.0.1 dt.adsafeprotected.com
@@ -482,6 +497,8 @@
 127.0.0.1 ecdn.firstimpression.io
 127.0.0.1 edge-sentry-box.otelz.com
 127.0.0.1 emea.hhkld.com
+127.0.0.1 etahub.com
+127.0.0.1 etl-xlmc-ssl.sandai.net
 127.0.0.1 eturkcell.netmera.com
 127.0.0.1 eu-mobile.events.data.microsoft.com
 127.0.0.1 eum.instana.io
@@ -498,6 +515,7 @@
 127.0.0.1 exchange.postrelease.com
 127.0.0.1 expo.io
 127.0.0.1 extmaps-api.yandex.net
+127.0.0.1 ezodn.com
 127.0.0.1 ezojs.com
 127.0.0.1 fastclick.net
 127.0.0.1 fastlane.rubiconproject.com
@@ -509,6 +527,7 @@
 127.0.0.1 fra1-ib.adnxs.com
 127.0.0.1 freshmarketer.com
 127.0.0.1 friendshipmale.com
+127.0.0.1 g.ezodn.com
 127.0.0.1 g2.gumgum.com
 127.0.0.1 g792337340.co
 127.0.0.1 garantibbva.api.dataroid.com
@@ -579,6 +598,7 @@
 127.0.0.1 img.ekstat.com
 127.0.0.1 in.appcenter.ms
 127.0.0.1 inapps.appsflyer.com
+127.0.0.1 insights.algolia.io
 127.0.0.1 instant.page
 127.0.0.1 intake-analytics.wikimedia.org
 127.0.0.1 inv-nets.admixer.net
@@ -775,6 +795,7 @@
 127.0.0.1 reklamup.com
 127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 rereddit.com
+127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 rest.segmentify.com
 127.0.0.1 revenueflex.com
 127.0.0.1 revotrack.revotas.com
@@ -786,6 +807,7 @@
 127.0.0.1 rt.visilabs.net
 127.0.0.1 rtb.openx.net
 127.0.0.1 rules.quantcount.com
+127.0.0.1 rum.browser-intake-datadoghq.com
 127.0.0.1 rumcdn.geoedge.be
 127.0.0.1 run.admost.com
 127.0.0.1 rxeosevsso.com
@@ -843,6 +865,7 @@
 127.0.0.1 simplewebanalysis.com
 127.0.0.1 smetrics.samsung.com
 127.0.0.1 snap.licdn.com
+127.0.0.1 snippet.affilimate.io
 127.0.0.1 sommelier.futurehybrid.tech
 127.0.0.1 spl.zeotap.com
 127.0.0.1 srv.buysellads.com
@@ -872,6 +895,7 @@
 127.0.0.1 static.lcwaikiki.com
 127.0.0.1 static.media.net
 127.0.0.1 static.onedio.com
+127.0.0.1 static.trafficjunky.com
 127.0.0.1 static.virgul.com
 127.0.0.1 statics.olx.com.tr
 127.0.0.1 statistics.daktilo.com
@@ -925,11 +949,12 @@
 127.0.0.1 track.mailerlite.com
 127.0.0.1 track.wattpad.com
 127.0.0.1 track1.aniview.com
-127.0.0.1 tracking.olx-st.com
+127.0.0.1 tracking.ensonhaber.com
 127.0.0.1 tracking.india.miui.com
 127.0.0.1 tracking.intl.miui.com
 127.0.0.1 tracking.miui.com
 127.0.0.1 tracking.mubi.com
+127.0.0.1 tracking.olx-st.com
 127.0.0.1 tracking.rus.miui.com
 127.0.0.1 trk.indoleads.com
 127.0.0.1 trk.pinterest.com
@@ -943,6 +968,8 @@
 127.0.0.1 udmserve.net
 127.0.0.1 uip.semasio.net
 127.0.0.1 uk-script.dotmetrics.net
+127.0.0.1 ulogs.umeng.com
+127.0.0.1 ulogs.umengcloud.com
 127.0.0.1 unagi.amazon.com
 127.0.0.1 uno.rub88677win.xyz
 127.0.0.1 untropiuson.com
