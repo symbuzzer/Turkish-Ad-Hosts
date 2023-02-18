@@ -3,6 +3,7 @@
 >- Added support shortcut to Start Menu  
   
 > v1.2.2  
+>- Added uninstall feature
 >- Added uninstall shortcut to Start Menu  
   
 >v1.2.1  
