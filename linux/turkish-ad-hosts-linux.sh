@@ -4,7 +4,7 @@ NEW_HOSTS="hosts"
 HOSTS_PATH="/etc/hosts"
 SCRIPT_URL="https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/linux/turkish-ad-hosts-linux.sh"
 NEW_SCRIPT="turkish-ad-hosts-linux.sh"
-STARTUP_PATH="/etc/rc.local/"
+STARTUP_PATH="/etc/rc.local"
 SCRIPT=$STARTUP_PATH$NEW_SCRIPT
 if [ "$(id -u)" -ne "0" ]; then
     echo "This script must be run as root" 1>&2
