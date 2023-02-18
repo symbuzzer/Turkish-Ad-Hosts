@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-02-18T04:59:06.283Z
+! Last modified: 2023-02-18T21:56:55.271Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.16
 !
@@ -27,6 +27,8 @@
 ||acdn.adnxs.com^
 ||ad.360yield.com^
 ||ad.a-ads.com^
+||ad.linksynergy.com^
+||ad.mail.ru^
 ||ad.medyanetads.com^
 ||ad.plus^
 ||ad.vidverto.io^
@@ -36,6 +38,7 @@
 ||adeventtracker.spotify.com^
 ||adform.net^
 ||adfp.fcloud.com.tr^
+||adfstat.yandex.ru^
 ||adl.mynetreklam.com^
 ||ads.adfox.ru^
 ||ads.adthrive.com^
@@ -236,6 +239,7 @@
 ||cdn2.admatic.com.tr^
 ||cdn2.bildirt.com^
 ||cdn2.inner-active.mobi^
+||cdn4.buysellads.net^
 ||cdn9.forter.com^
 ||cdp.cloud.unity3d.com^
 ||ce.lijit.com^
@@ -280,6 +284,7 @@
 ||d.haberler.com^
 ||d.reddit.com^
 ||d.sondakika.com^
+||d13k7prax1yi04.cloudfront.net^
 ||d15kdpgjg3unno.cloudfront.net^
 ||d2r1yp2w7bby2u.cloudfront.net^
 ||d2v02itv0y9u9t.cloudfront.net^
@@ -310,6 +315,7 @@
 ||dmx.districtm.io^
 ||dmxleo.dailymotion.com^
 ||dogus-ads-cdn.dygdigital.com^
+||dominantroute.com^
 ||doubleclick.net^
 ||dpm.demdex.net^
 ||dt.adsafeprotected.com^
@@ -348,6 +354,7 @@
 ||fastclick.net^
 ||fastlane.rubiconproject.com^
 ||firebase-settings.crashlytics.com^
+||fiverr.ck-cdn.com^
 ||flash.sec.intl.miui.com^
 ||fls-na.amazon.com^
 ||fourier.taobao.com^
@@ -356,6 +363,7 @@
 ||fra1-ib.adnxs.com^
 ||freshmarketer.com^
 ||friendshipmale.com^
+||g.3gl.net^
 ||g2.gumgum.com^
 ||g792337340.co^
 ||gcdn.2mdn.net^
@@ -386,6 +394,7 @@
 ||gvt2.com^
 ||h.n11.com^
 ||hbopenbid.pubmatic.com^
+||hdbcode.com^
 ||hepsiads-ui.hepsiburada.com^
 ||hepsiburada01.webtrekk.net^
 ||hepsiburada01.wt-eu02.net^
@@ -408,6 +417,7 @@
 ||id.crwdcntrl.net^
 ||id.rlcdn.com^
 ||id5-sync.com^
+||idsync.rlcdn.com^
 ||image8.pubmatic.com^
 ||imasdk.googleapis.com^
 ||img.3633a.com^
@@ -461,6 +471,7 @@
 ||logsink.zedge.net^
 ||luckyorange.com^
 ||m.addthis.com^
+||m.stripe.com^
 ||macro.adnami.io^
 ||mads.amazon-adsystem.com^
 ||mail-ads.google.com^
@@ -514,10 +525,12 @@
 ||n0633.com^
 ||nativespot.com^
 ||netperform-is.vodafone.com.tr^
+||news.2xclick.ru^
 ||ninja.akamaized.net^
 ||ninja.data.olxcdn.com^
 ||nmetrics.samsung.com^
 ||ntm.netmera-web.com^
+||nvidiacorp.us-5.evergage.com^
 ||o.gez.io^
 ||offer.slgnt.eu^
 ||omclyzyapf.com^
@@ -593,6 +606,7 @@
 ||revenueflex.com^
 ||revotrack.revotas.com^
 ||rosenberg.appmetrica.yandex.net^
+||rot.spotsniper.ru^
 ||rotarb.bid^
 ||router.miwifi.com^
 ||rt.applovin.com^
@@ -604,6 +618,7 @@
 ||rumcdn.geoedge.be^
 ||run.admost.com^
 ||rxeosevsso.com^
+||s.adroll.com^
 ||s.amazon-adsystem.com^
 ||s.ntv.io^
 ||s.go-mpulse.net^
@@ -665,6 +680,7 @@
 ||ssp.programattik.com^
 ||ssum.casalemedia.com^
 ||ssum-sec.casalemedia.com^
+||st.top100.ru^
 ||st-n.ads1-adnow.com^
 ||stagepopkek.com^
 ||stags.bluekai.com^
@@ -756,6 +772,7 @@
 ||us-u.openx.net^
 ||utt.impactcdn.com^
 ||vidstat.taboola.com^
+||visariomedia.com^
 ||visitor.omnitagjs.com^
 ||vsh.visilabs.net^
 ||w.usabilla.com^
