@@ -22,3 +22,7 @@
 -------------------------------------------  
   
 [Problematic apps / Sorunlu uygulamalar](https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22)  
+
+-------------------------------------------  
+
+[Patreon](avalibeyaz.com/patreon)
