@@ -17,6 +17,7 @@
 - Yükleme rehberini [Wiki sayfasından](https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki) görebilirsiniz.  
 - Eğer bir siteyi engelleme listesine eklemek veya çıkarmak istiyorsanız veya taranması için uygulama önerecekseniz, [issue](https://github.com/symbuzzer/Turkish-Ad-Hosts/issues) oluşturun.  
 - Bu liste günlük olarak güncellenmeye çalışılacaktır.  
+- Resmi ekşisözlük başlığı: [turkish-ad-hosts projesi](https://eksisozluk.com/turkish-ad-hosts-projesi--7473699)
   
 -------------------------------------------  
   
