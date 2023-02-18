@@ -5,7 +5,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230218
+# Version: 230219
 # (Version also shows update date as YYMMDD)
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -52,6 +52,8 @@
 127.0.0.1 ad.360yield.com
 127.0.0.1 ad.a-ads.com
 127.0.0.1 ad.doubleclick.net
+127.0.0.1 ad.linksynergy.com
+127.0.0.1 ad.mail.ru
 127.0.0.1 ad.medyanetads.com
 127.0.0.1 ad.plus
 127.0.0.1 ad.samsungadhub.com
@@ -62,6 +64,7 @@
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 adform.net
 127.0.0.1 adfp.fcloud.com.tr
+127.0.0.1 adfstat.yandex.ru
 127.0.0.1 adl.mynetreklam.com
 127.0.0.1 ads.adfox.ru
 127.0.0.1 ads.adthrive.com
@@ -280,6 +283,7 @@
 127.0.0.1 cdn2.admatic.com.tr
 127.0.0.1 cdn2.bildirt.com
 127.0.0.1 cdn2.inner-active.mobi
+127.0.0.1 cdn4.buysellads.net
 127.0.0.1 cdn9.forter.com
 127.0.0.1 cdp.cloud.unity3d.com
 127.0.0.1 ce.lijit.com
@@ -329,6 +333,7 @@
 127.0.0.1 d.haberler.com
 127.0.0.1 d.reddit.com
 127.0.0.1 d.sondakika.com
+127.0.0.1 d13k7prax1yi04.cloudfront.net
 127.0.0.1 d15kdpgjg3unno.cloudfront.net
 127.0.0.1 d2r1yp2w7bby2u.cloudfront.net
 127.0.0.1 d2v02itv0y9u9t.cloudfront.net
@@ -360,6 +365,7 @@
 127.0.0.1 dmx.districtm.io
 127.0.0.1 dmxleo.dailymotion.com
 127.0.0.1 dogus-ads-cdn.dygdigital.com
+127.0.0.1 dominantroute.com
 127.0.0.1 doubleclick.net
 127.0.0.1 dpm.demdex.net
 127.0.0.1 dt.adsafeprotected.com
@@ -521,6 +527,7 @@
 127.0.0.1 fastclick.net
 127.0.0.1 fastlane.rubiconproject.com
 127.0.0.1 firebase-settings.crashlytics.com
+127.0.0.1 fiverr.ck-cdn.com
 127.0.0.1 flash.sec.intl.miui.com
 127.0.0.1 fls-na.amazon.com
 127.0.0.1 fourier.taobao.com
@@ -529,6 +536,7 @@
 127.0.0.1 fra1-ib.adnxs.com
 127.0.0.1 freshmarketer.com
 127.0.0.1 friendshipmale.com
+127.0.0.1 g.3gl.net
 127.0.0.1 g.ezodn.com
 127.0.0.1 g2.gumgum.com
 127.0.0.1 g792337340.co
@@ -565,6 +573,7 @@
 127.0.0.1 gvt2.com
 127.0.0.1 h.n11.com
 127.0.0.1 hbopenbid.pubmatic.com
+127.0.0.1 hdbcode.com
 127.0.0.1 hepsiads-ui.hepsiburada.com
 127.0.0.1 hepsiburada01.webtrekk.net
 127.0.0.1 hepsiburada01.wt-eu02.net
@@ -592,6 +601,7 @@
 127.0.0.1 id.rlcdn.com
 127.0.0.1 id.strmrdrfrokd.site
 127.0.0.1 id5-sync.com
+127.0.0.1 idsync.rlcdn.com
 127.0.0.1 iframeri.strmrdrfrokd.site
 127.0.0.1 iframeria.strmrdrfrokd.site
 127.0.0.1 image8.pubmatic.com
@@ -649,6 +659,7 @@
 127.0.0.1 luckyorange.com
 127.0.0.1 m.addthis.com
 127.0.0.1 m.doubleclick.net
+127.0.0.1 m.stripe.com
 127.0.0.1 macro.adnami.io
 127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 mail-ads.google.com
@@ -705,12 +716,14 @@
 127.0.0.1 n0633.com
 127.0.0.1 nativespot.com
 127.0.0.1 netperform-is.vodafone.com.tr
+127.0.0.1 news.2xclick.ru
 127.0.0.1 ninja.akamaized.net
 127.0.0.1 ninja.data.olxcdn.com
 127.0.0.1 nmetrics.samsung.com
 127.0.0.1 ntm.netmera-web.com
 127.0.0.1 ntv.api.useinsider.com
 127.0.0.1 ntvsporweb.api.useinsider.com
+127.0.0.1 nvidiacorp.us-5.evergage.com
 127.0.0.1 o.gez.io
 127.0.0.1 o33249.ingest.sentry.io
 127.0.0.1 o64293.ingest.sentry.io
@@ -802,6 +815,7 @@
 127.0.0.1 revenueflex.com
 127.0.0.1 revotrack.revotas.com
 127.0.0.1 rosenberg.appmetrica.yandex.net
+127.0.0.1 rot.spotsniper.ru
 127.0.0.1 rotarb.bid
 127.0.0.1 router.miwifi.com
 127.0.0.1 rt.applovin.com
@@ -813,6 +827,7 @@
 127.0.0.1 rumcdn.geoedge.be
 127.0.0.1 run.admost.com
 127.0.0.1 rxeosevsso.com
+127.0.0.1 s.adroll.com
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 s.ntv.io
 127.0.0.1 s.go-mpulse.net
@@ -879,6 +894,7 @@
 127.0.0.1 ssp.programattik.com
 127.0.0.1 ssum.casalemedia.com
 127.0.0.1 ssum-sec.casalemedia.com
+127.0.0.1 st.top100.ru
 127.0.0.1 st-n.ads1-adnow.com
 127.0.0.1 stagepopkek.com
 127.0.0.1 stags.bluekai.com
@@ -987,6 +1003,7 @@
 127.0.0.1 vars.hotjar.com
 127.0.0.1 vi.ml314.com
 127.0.0.1 vidstat.taboola.com
+127.0.0.1 visariomedia.com
 127.0.0.1 visitor.omnitagjs.com
 127.0.0.1 vsh.visilabs.net
 127.0.0.1 w.usabilla.com
@@ -1019,6 +1036,7 @@
 127.0.0.1 www.linkconnector.com
 127.0.0.1 www.mczbf.com
 127.0.0.1 www.profitabledisplaycontent.com
+127.0.0.1 www.visariomedia.com
 127.0.0.1 wyhifdpatl.com
 127.0.0.1 wzrkt.com
 127.0.0.1 x.bidswitch.net
