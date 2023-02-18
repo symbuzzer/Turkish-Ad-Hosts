@@ -12,7 +12,7 @@ if [ "$(id -u)" -ne "0" ]; then
 fi
 sudo cp -f "$0" $STARTUP_PATH
 chmod +x $SCRIPT
-sudo wget -q --tries=10 --timeout=20 --spider https://www.avalibeyaz.com
+sudo wget -q --tries=5 --timeout=10 --spider https://www.avalibeyaz.com
 if [[ $? -eq 0 ]]; then
     sudo wget -O $NEW_SCRIPT $SCRIPT_URL
     sudo cp -f $NEW_SCRIPT $STARTUP_PATH
