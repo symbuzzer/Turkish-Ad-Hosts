@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-02-16T17:41:14.579Z
+! Last modified: 2023-02-18T04:59:06.283Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.16
 !
@@ -211,6 +211,7 @@
 ||cdn-netmeraprod.turktelekom.com.tr^
 ||cdn.onesignal.com^
 ||cdn.oremark.com^
+||cdn.pendo.io^
 ||cdn.personaclick.com^
 ||cdn.preciso.net^
 ||cdn.rudderlabs.com^
@@ -347,6 +348,7 @@
 ||fastclick.net^
 ||fastlane.rubiconproject.com^
 ||firebase-settings.crashlytics.com^
+||flash.sec.intl.miui.com^
 ||fls-na.amazon.com^
 ||fourier.taobao.com^
 ||fonts.mopinion.com^
@@ -739,6 +741,9 @@
 ||u.openx.net^
 ||u1102.com^
 ||udmserve.net^
+||unagi.amazon.com.tr^
+||unagi-eu.amazon.com^
+||unagi-na.amazon.com^
 ||uip.semasio.net^
 ||uk-script.dotmetrics.net^
 ||ulogs.umeng.com^
