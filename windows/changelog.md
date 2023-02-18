@@ -31,6 +31,9 @@
    
 ------------------------------  
 # launcher:  
+>v1.0.3  
+>- Fixed critical bug    
+  
 >v1.0.2  
 >- Improved net connection checking and error handling  
   
@@ -45,3 +48,7 @@
 >v1.0.0  
 >- Initial release  
    
+------------------------------ 
+# support launcher:
+>v1.0.0
+>- Initial release
