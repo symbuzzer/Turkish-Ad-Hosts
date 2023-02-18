@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 HOSTS_URL="https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts"
 NEW_HOSTS="hosts"
-HOSTS_PATH="/etc/hosts"
+HOSTS_PATH="/etc"
 SCRIPT_URL="https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/linux/turkish-ad-hosts-linux.sh"
 NEW_SCRIPT="turkish-ad-hosts-linux.sh"
 STARTUP_PATH="/etc/rc.local"
