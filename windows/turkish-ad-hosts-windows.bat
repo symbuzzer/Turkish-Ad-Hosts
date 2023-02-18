@@ -58,10 +58,7 @@ cls
 goto checkfirstinstalled
 
 :checkfirstinstalled
-if not exist "%workingdir%\version" (goto exit) else (goto checkshortcut)
-
-:checkshortcut
-if not exist "%shortcutfile%" (goto createshortcut) else (goto exit)
+if not exist "%workingdir%\version" (goto exit) else (goto createshortcut)
 
 :createshortcut
 echo Set oWS = WScript.CreateObject("WScript.Shell") > %temp%\%filename3%.vbs
