@@ -120,12 +120,11 @@ jobs:
           sudo cp downloads/updater-script zip/META-INF/com/google/android/
           ls -R
                     
-      - name: Run  @adguard/hostlist-compiler
+      - name: Run @adguard/hostlist-compiler
         run:  |
           cd adguard
           npm i -g @adguard/hostlist-compiler
           hostlist-compiler -c configuration.json -o filter.txt
-          rm -rf hosts
       
       - name: copy adguard/filter.txt to releases
         run:  |
@@ -161,6 +160,7 @@ jobs:
           rm -rf zip
           rm -rf downloads
           rm -rf release
+          rm -rf adguard/hosts
           ls -R
           
       - name: Commit and push changes
