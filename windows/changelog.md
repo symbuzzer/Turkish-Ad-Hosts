@@ -1,4 +1,7 @@
 # turkish-ad-hosts-windows:  
+> v1.2.3  
+>- Added support shortcut to Start Menu  
+  
 > v1.2.2  
 >- Added uninstall shortcut to Start Menu  
   
