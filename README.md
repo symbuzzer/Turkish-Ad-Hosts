@@ -25,4 +25,4 @@
 
 -------------------------------------------  
 
-[Patreon](avalibeyaz.com/patreon)
+[Patreon](HTTPS://avalibeyaz.com/patreon)
