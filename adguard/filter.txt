@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-02-23T06:11:36.651Z
+! Last modified: 2023-03-05T06:56:14.967Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -68,6 +68,7 @@
 ||adserve.donanimhaber.com^
 ||adservice.google.com^
 ||adservice.google.com.tr^
+||adservice.google.de^
 ||adservice.google.gr^
 ||adservice.google.nl^
 ||adsninja.ca^
@@ -84,6 +85,7 @@
 ||affiliationjs.s3.amazonaws.com^
 ||aip-cdn.sozcu.com.tr^
 ||aip2.sozcu.com.tr^
+||aj2550.bid^
 ||ak.sail-horizon.com^
 ||alb.reddit.com^
 ||amazonaax.com^
@@ -164,6 +166,7 @@
 ||beacon.wikia-services.com^
 ||beacon-nf.rubiconproject.com^
 ||beacons5.gvt3.com^
+||bid.underdog.media^
 ||bidder.criteo.com^
 ||biddr.brealtime.com^
 ||bigrourg.net^
@@ -241,6 +244,7 @@
 ||cdn2.inner-active.mobi^
 ||cdn4.buysellads.net^
 ||cdn9.forter.com^
+||cdnads.geeksforgeeks.org^
 ||cdp.cloud.unity3d.com^
 ||ce.lijit.com^
 ||certify-amp.alexametrics.com^
@@ -253,6 +257,7 @@
 ||click.oneplus.com^
 ||clicks.hurriyet.com.tr^
 ||cm.mgid.com^
+||cmp.uniconsent.com^
 ||cnt.trvdp.com^
 ||code.jivosite.com^
 ||collect.dolap.com^
@@ -277,6 +282,7 @@
 ||creativecdn.com^
 ||cs.luckyorange.net^
 ||csi.gstatic.com^
+||csm.nl3.eu.criteo.net^
 ||csp-reporting.cloudflare.com^
 ||csync.loopme.me^
 ||d.applovin.com^
@@ -326,6 +332,7 @@
 ||dygassets.dygdigital.com^
 ||dynamic.criteo.com^
 ||e.deployads.com^
+||e3.adpushup.com^
 ||eb2.3lift.com^
 ||eb42afa9716f.cdn4.forter.com^
 ||ecdn.analysis.fi^
@@ -428,6 +435,7 @@
 ||insights.algolia.io^
 ||instant.page^
 ||intake-analytics.wikimedia.org^
+||intake-logging.wikimedia.org^
 ||inv-nets.admixer.net^
 ||ipcheck.tmgrup.com.tr^
 ||iplocation-api.wp.trt.com.tr^
@@ -606,6 +614,7 @@
 ||rest.segmentify.com^
 ||revenueflex.com^
 ||revotrack.revotas.com^
+||richinfo.co^
 ||rosenberg.appmetrica.yandex.net^
 ||rot.spotsniper.ru^
 ||rotarb.bid^
@@ -616,6 +625,7 @@
 ||rtb.openx.net^
 ||rules.quantcount.com^
 ||rum.browser-intake-datadoghq.com^
+||rum.cronitor.io^
 ||rumcdn.geoedge.be^
 ||run.admost.com^
 ||rxeosevsso.com^
@@ -640,6 +650,7 @@
 ||scarfsmash.com^
 ||script.4dex.io^
 ||script.crazyegg.com^
+||scripts.cleverwebserver.com^
 ||scripts.kiosked.com^
 ||scripts.mediavine.com^
 ||scripts.webcontentassessor.com^
@@ -658,6 +669,7 @@
 ||securemetrics.apple.com^
 ||seg.ad.gt^
 ||sentry.io^
+||serv.nspot.co^
 ||serve.nrich.ai^
 ||servedbyadbutler.com^
 ||servicer.idealmedia.io^
