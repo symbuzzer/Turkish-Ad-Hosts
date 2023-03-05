@@ -126,7 +126,7 @@ jobs:
           npm i -g @adguard/hostlist-compiler
           hostlist-compiler -c configuration.json -o filter.txt
       
-      - name: copy adguard/filter.txt to releases
+      - name: Copy adguard/filter.txt to releases
         run:  |
           sudo cp adguard/filter.txt release/
           
