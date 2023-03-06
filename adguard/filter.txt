@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-03-05T06:56:14.967Z
+! Last modified: 2023-03-06T16:21:19.662Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -188,6 +188,7 @@
 ||cafemedia-com.videoplayerhub.com^
 ||capi.connatix.com^
 ||carvecakes.com^
+||cas.avalon.perfdrive.com^
 ||cbox.im^
 ||cbox.ws^
 ||cd.connatix.com^
@@ -281,6 +282,7 @@
 ||countly.iyzico.com^
 ||creativecdn.com^
 ||cs.luckyorange.net^
+||cs.ns1p.net^
 ||csi.gstatic.com^
 ||csm.nl3.eu.criteo.net^
 ||csp-reporting.cloudflare.com^
@@ -290,6 +292,7 @@
 ||d.haberler.com^
 ||d.reddit.com^
 ||d.sondakika.com^
+||d.turn.com^
 ||d13k7prax1yi04.cloudfront.net^
 ||d15kdpgjg3unno.cloudfront.net^
 ||d2r1yp2w7bby2u.cloudfront.net^
@@ -401,6 +404,7 @@
 ||gum.criteo.com^
 ||gvt2.com^
 ||h.n11.com^
+||h.online-metrix.net^
 ||hbopenbid.pubmatic.com^
 ||hdbcode.com^
 ||hepsiads-ui.hepsiburada.com^
@@ -426,6 +430,7 @@
 ||id.rlcdn.com^
 ||id5-sync.com^
 ||idsync.rlcdn.com^
+||image6.pubmatic.com^
 ||image8.pubmatic.com^
 ||imasdk.googleapis.com^
 ||img.3633a.com^
@@ -574,6 +579,7 @@
 ||pixel.quantcount.com^
 ||pixel.quantserve.com^
 ||pixel.wp.com^
+||pixel-us-west.rubiconproject.com^
 ||pl15371971.highcpmrevenuenetwork.com^
 ||pl15373403.highcpmrevenuenetwork.com^
 ||pl15413159.highcpmrevenuenetwork.com^
@@ -691,6 +697,7 @@
 ||ssc-cms.33across.com^
 ||sslwidget.criteo.com^
 ||ssp.programattik.com^
+||ssp-sync.criteo.com^
 ||ssum.casalemedia.com^
 ||ssum-sec.casalemedia.com^
 ||st.top100.ru^
