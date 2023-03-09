@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-03-06T17:06:15.864Z
+! Last modified: 2023-03-09T09:36:24.345Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -19,6 +19,7 @@
 ||a.pub.network^
 ||a.realsrv.com^
 ||a.teads.tv^
+||a.tribalfusion.com^
 ||aax.amazon-adsystem.com^
 ||aax-dtb-cf.amazon-adsystem.com^
 ||aax-eu.amazon.com.tr^
@@ -27,6 +28,7 @@
 ||acdn.adnxs.com^
 ||ad.360yield.com^
 ||ad.a-ads.com^
+||ad.donanimhaber.com^
 ||ad.linksynergy.com^
 ||ad.mail.ru^
 ||ad.medyanetads.com^
@@ -186,6 +188,7 @@
 ||cacheorcheck.mopinion.com^
 ||cafemedia-com.videoplayerhub.com^
 ||capi.connatix.com^
+||capture.trackjs.com^
 ||carvecakes.com^
 ||cas.avalon.perfdrive.com^
 ||cbox.im^
@@ -209,6 +212,7 @@
 ||cdn.eksiup.com^
 ||cdn.insurads.com^
 ||cdn.intergient.com^
+||cdn.krxd.net^
 ||cdn.makroo.com^
 ||cdn.membrana.media^
 ||cdn.medyanetads.com^
@@ -256,6 +260,7 @@
 ||click.oneplus.cn^
 ||click.oneplus.com^
 ||clicks.hurriyet.com.tr^
+||clickserv.sitescout.com^
 ||cm.mgid.com^
 ||cmp.uniconsent.com^
 ||cnt.trvdp.com^
@@ -264,6 +269,7 @@
 ||collect.trendyol.com^
 ||collector.github.com^
 ||collector.puhutv.com^
+||collector-1054.tvsquared.com^
 ||commercialvalue.org^
 ||config.uca.cloud.unity3d.com^
 ||config.unityads.unity3d.com^
@@ -339,6 +345,7 @@
 ||eb42afa9716f.cdn4.forter.com^
 ||ecdn.analysis.fi^
 ||ecdn.firstimpression.io^
+||edge.fullstory.com^
 ||edge-sentry-box.otelz.com^
 ||emea.hhkld.com^
 ||etahub.com^
@@ -355,6 +362,7 @@
 ||events.reddit.com^
 ||events.redditmedia.com^
 ||events.release.narrativ.com^
+||events.split.io^
 ||evs.data.ciceksepeti.com^
 ||exchange.postrelease.com^
 ||expo.io^
@@ -422,7 +430,9 @@
 ||hstats.hepsiburada.com^
 ||hstatstest.hepsiburada.com^
 ||htlb.casalemedia.com^
+||i.ctnsnet.com^
 ||i.isnssdk.com^
+||i.loopme.me^
 ||ib.adnxs.com^
 ||ice.360yield.com^
 ||id.crwdcntrl.net^
@@ -441,6 +451,7 @@
 ||intake-analytics.wikimedia.org^
 ||intake-logging.wikimedia.org^
 ||inv-nets.admixer.net^
+||ipac.ctnsnet.com^
 ||ipcheck.tmgrup.com.tr^
 ||iplocation-api.wp.trt.com.tr^
 ||ipr.n11.com^
@@ -453,6 +464,7 @@
 ||js.adsrvr.org^
 ||js.agkn.com^
 ||js.appboycdn.com^
+||js.go2sdk.com^
 ||js.hs-scripts.com^
 ||js.rfp.fout.jp^
 ||js.tagon.co^
@@ -577,6 +589,7 @@
 ||pixel.facebook.com^
 ||pixel.quantcount.com^
 ||pixel.quantserve.com^
+||pixel.sitescout.com^
 ||pixel.wp.com^
 ||pixel-us-west.rubiconproject.com^
 ||pl15371971.highcpmrevenuenetwork.com^
@@ -644,6 +657,7 @@
 ||s-img.idealmedia.io^
 ||s0.2mdn.net^
 ||s10.histats.com^
+||s2.go-mpulse.net^
 ||s2s.adjust.com^
 ||s7.addthis.com^
 ||s8t.teads.tv^
@@ -652,6 +666,7 @@
 ||samsungads.com^
 ||samsungturkey.demdex.net^
 ||sb.scorecardresearch.com^
+||sc-static.net^
 ||scarfsmash.com^
 ||script.4dex.io^
 ||script.crazyegg.com^
@@ -789,10 +804,12 @@
 ||upload.luckyorange.net^
 ||uptimecdn.com^
 ||us-u.openx.net^
+||usage.trackjs.com^
 ||utt.impactcdn.com^
 ||vidstat.taboola.com^
 ||visariomedia.com^
 ||visitor.omnitagjs.com^
+||vitals.vercel-insights.com^
 ||vsh.visilabs.net^
 ||w.usabilla.com^
 ||web.webpushs.com^
