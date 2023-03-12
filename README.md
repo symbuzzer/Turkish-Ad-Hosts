@@ -1,6 +1,6 @@
 # Turkish Ad Hosts for Adblockers  
   
-[EN] THE MANIFEST:  
+## [EN] THE MANIFEST:  
 - Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...  
 - I also try to add foreign applications and WEB pages that are popularly used in Turkey as much as possible.  
 - Prepared for my own personal use. Use at your own risk.  
@@ -9,7 +9,7 @@
 - If you want to add or remove a site from the block list or suggest app for scanning, please create [issue](https://github.com/symbuzzer/Turkish-Ad-Hosts/issues).  
 - This list will be updated daily.   
   
-[TR] MANİFESTO:  
+## [TR] MANİFESTO:  
 - Türkiye'de yaygın kullanılan mobil uygulamalardaki (ve muhtemelen WEB sayfalarındakileri) izleme (ve beraberinde muhtemelen reklam) ağlarını engellemek için gerekli hosts dosyası...  
 - Ayrıca Türkiye'de popüler olarak kullanılan yabancı uygulamalar ve WEB sayfalarını da olabildiğince eklemeye çalışıyorum.  
 - Kendi şahsi kullanımım için hazırlanmıştır. Kullanmak kendi sorumluluğunuzdadır.  
