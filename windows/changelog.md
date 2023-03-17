@@ -1,4 +1,7 @@
 # turkish-ad-hosts-windows:  
+>v1.2.5  
+>- Cleanup codes  
+  
 >v1.2.4  
 >- Changed ping check address from "www.avalibeyaz.com" to "www.google.com"  
   
