@@ -2,7 +2,7 @@
 setlocal EnableDelayedExpansion
 mode con:cols=70 lines=10
 cls
-set ver=1.0.3
+set ver=1.0.4
 set name=Turkish Ad Hosts launcher
 set title=%name% v%ver%
 title %title%
@@ -15,9 +15,8 @@ goto checkversionfile
 if exist "%workingdir%\version" (goto checkping) else (goto runinstall)
 
 :checkping
-ping www.avalibeyaz.com -n 1 -w 100 >nul
+ping www.google.com -n 1 -w 100 >nul
 echo.Checking connection, please wait...
-echo.Error=%errorlevel%
 if errorlevel 1 (goto neterror) else (goto getversiongithub)
 
 :getversiongithub
