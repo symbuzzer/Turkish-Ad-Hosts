@@ -77,8 +77,5 @@ echo oLink.Save >> %temp%\%filename3%.vbs
 cscript %temp%\%filename3%.vbs
 goto exit
 
-:noconnection
-goto exit
-
 :exit
 exit
