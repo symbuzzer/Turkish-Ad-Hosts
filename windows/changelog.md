@@ -1,5 +1,8 @@
 # turkish-ad-hosts-windows:  
-> v1.2.3  
+>v1.2.4  
+>- Changed ping check address from "www.avalibeyaz.com" to "www.google.com"  
+  
+>v1.2.3  
 >- Added support shortcut to Start Menu  
   
 > v1.2.2  
@@ -14,7 +17,7 @@
 >- Added "launcher" integration for future releases  
    
 >v1.1.2  
->- Change ping check address from "www.google.com" to "www.avalibeyaz.com" which is my personel web site.  
+>- Changed ping check address from "www.google.com" to "www.avalibeyaz.com" which is my personel web site.  
   
 >v1.1.1  
 >- Cleanup codes  
@@ -32,6 +35,9 @@
    
 ------------------------------  
 # launcher:  
+>v1.0.4  
+>- Changed ping check address from "www.avalibeyaz.com" to "www.google.com"  
+  
 >v1.0.3  
 >- Fixed critical bug    
   
