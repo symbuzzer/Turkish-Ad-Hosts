@@ -9,6 +9,7 @@
 - If you want to add or remove a site from the block list or suggest app for scanning, please create [issue](https://github.com/symbuzzer/Turkish-Ad-Hosts/issues).  
 - This list will be updated daily.   
   
+---------------
 ## [TR] MANİFESTO:  
 - Türkiye'de yaygın kullanılan mobil uygulamalardaki (ve muhtemelen WEB sayfalarındakileri) izleme (ve beraberinde muhtemelen reklam) ağlarını engellemek için gerekli hosts dosyası...  
 - Ayrıca Türkiye'de popüler olarak kullanılan yabancı uygulamalar ve WEB sayfalarını da olabildiğince eklemeye çalışıyorum.  
