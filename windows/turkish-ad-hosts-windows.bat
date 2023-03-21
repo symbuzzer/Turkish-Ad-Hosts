@@ -1,6 +1,6 @@
 @echo off
 setlocal EnableDelayedExpansion
-mode con:cols=55 lines=7
+mode con:cols=55 lines=8
 cls
 set ver=2.0.0
 set name=Turkish Ad Hosts
