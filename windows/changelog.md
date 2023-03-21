@@ -1,4 +1,7 @@
 # turkish-ad-hosts-windows:  
+>v2.0.0 
+>- All scripts combined into one file. The others are no longer needed.  
+  
 >v1.2.5  
 >- Cleanup codes  
   
@@ -33,32 +36,8 @@
   
 ------------------------------  
 # startup:  
->v1.0.0  
->- Initial release  
-   
-------------------------------  
-# launcher:  
->v1.0.4  
->- Changed ping check address from "www.avalibeyaz.com" to "www.google.com"  
-  
->v1.0.3  
->- Fixed critical bug    
-  
->v1.0.2  
->- Improved net connection checking and error handling  
-  
->v1.0.1  
->- Ghost release for beta testing some features  
+>v1.1.0  
+>- Added the ability to obtain admin authority    
   
 >v1.0.0  
 >- Initial release  
-  
-------------------------------  
-# uninstaller:  
->v1.0.0  
->- Initial release  
-   
------------------------------- 
-# support launcher:
->v1.0.0
->- Initial release
