@@ -5,7 +5,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230320
+# Version: 230321
 # (Version also shows update date as YYMMDD)
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -134,6 +134,7 @@
 127.0.0.1 analytics.google.com
 127.0.0.1 analytics.halkbank.com.tr
 127.0.0.1 analytics.mobile.yandex.net
+127.0.0.1 analytics.onedio.com
 127.0.0.1 analytics.pinterest.com
 127.0.0.1 analytics.pointdrive.linkedin.com
 127.0.0.1 analytics.rasyotek.com.tr
@@ -602,6 +603,7 @@
 127.0.0.1 h.online-metrix.net
 127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 hdbcode.com
+127.0.0.1 hellosmpl.com
 127.0.0.1 hepsiads-ui.hepsiburada.com
 127.0.0.1 hepsiburada01.webtrekk.net
 127.0.0.1 hepsiburada01.wt-eu02.net
@@ -1002,6 +1004,7 @@
 127.0.0.1 to.getnitropack.com
 127.0.0.1 top-fwz1.mail.ru
 127.0.0.1 toyota.api.useinsider.com
+127.0.0.1 toyotaeuropetoyglobaldev.112.2o7.net
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 tps30.doubleverify.com
 127.0.0.1 tpx.tesseradigital.com
@@ -1089,6 +1092,7 @@
 127.0.0.1 wzrkt.com
 127.0.0.1 x.bidswitch.net
 127.0.0.1 yandexadexchange.net
+127.0.0.1 ymetrica1.com
 127.0.0.1 youtube.cleverads.vn
 127.0.0.1 z-na.amazon-adsystem.com
 # --- [ END ] --- #
