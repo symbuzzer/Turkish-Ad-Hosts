@@ -2,17 +2,18 @@
 setlocal EnableDelayedExpansion
 mode con:cols=55 lines=8
 cls
-set ver=2.0.0
+set ver=2.0.1
 set name=Turkish Ad Hosts
 set title=%name% v%ver%
 title %title%
 color 0a
 set workingdir=%UserProfile%\tah
+if not exist "%workingdir%" mkdir "%workingdir%"
 mkdir "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Turkish-Ad-Hosts"
 set startup=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
-set startupfile="%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\startup.bat"
+set startupfile=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\startup.bat
 set mainfile=%UserProfile%\tah\turkish-ad-hosts-windows.bat
-set shortcutfolder="%APPDATA%\Microsoft\Windows\Start Menu\Programs\Turkish-Ad-Hosts"
+set shortcutfolder=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Turkish-Ad-Hosts
 set shortcutfile=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Turkish-Ad-Hosts\Turkish-Ad-Hosts.lnk
 set supportshortcutfile=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Turkish-Ad-Hosts\Support.lnk
 set uninstallshortcutfile=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Turkish-Ad-Hosts\Uninstall.lnk
@@ -20,9 +21,8 @@ set filename=%RANDOM%
 set filename2=%RANDOM%
 set filename3=%RANDOM%
 set filename4=%RANDOM%
-if not exist "%workingdir%" mkdir "%workingdir%"
-set versionfile="%workingdir%\version"
-set version2file="%workingdir%\version2"
+set versionfile=%workingdir%\version
+set version2file=%workingdir%\version2
 goto maintask
 
 :maintask
@@ -67,7 +67,7 @@ ping www.google.com -n 1 -w 1000 >nul
 if errorlevel 1 (goto nointernet) else (goto checkfirstinstall)
 
 :checkfirstinstall
-if not exist %versionfile% (goto start) else (goto getversiongithub)
+if not exist "%versionfile%" (goto start) else (goto getversiongithub)
 
 :getversiongithub
 echo.checking update...
@@ -76,8 +76,8 @@ powershell -Command Start-Process -windowstyle hidden -Wait -FilePath '%temp%\%f
 goto compare
 
 :compare
-set /p installedversion=<%versionfile%
-set /p githubversion=<%version2file%
+set /p installedversion=<"%versionfile%"
+set /p githubversion=<"%version2file%"
 if %githubversion% gtr %installedversion% (goto start) else (goto noupdatefound)
 
 :start
@@ -91,7 +91,7 @@ echo.installed succesfully
 goto checkfirstinstalled
 
 :checkfirstinstalled
-if not exist %versionfile% (goto exit) else (goto createshortcut)
+if not exist "%versionfile%" (goto exit) else (goto createshortcut)
 
 :createshortcut
 echo Set oWS = WScript.CreateObject("WScript.Shell") > %temp%\%filename3%.vbs
@@ -119,10 +119,10 @@ goto directexit
 
 :uninstall
 echo.starting uninstalling...
-del /f /q %startupfile% > nul 2> nul
-rmdir /s /q %shortcutfolder% > nul 2> nul
-if exist %versionfile% del /f /q %versionfile%
-if exist %version2file% del /f /q %version2file%
+del /f /q "%startupfile%" > nul 2> nul
+rmdir /s /q "%shortcutfolder%" > nul 2> nul
+if exist "%versionfile%" del /f /q "%versionfile%"
+if exist "%version2file%" del /f /q "%version2file%"
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/windows/defaulthosts' -OutFile '%WinDir%\System32\drivers\etc\hosts'" >> %temp%\%filename4%.bat
 powershell -Command Start-Process -Verb runAs -windowstyle hidden -Wait -FilePath '%temp%\%filename4%.bat' > nul 2> nul
 echo.uninstalled succesfully
