@@ -1,4 +1,7 @@
 # turkish-ad-hosts-windows:  
+>v2.0.1 
+>- Provided unity between variables.    
+  
 >v2.0.0 
 >- All scripts combined into one file. The others are no longer needed.  
   
