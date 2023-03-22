@@ -4,6 +4,7 @@
 >- Added silent patching feature for patching anything on-the-go  
 >- Replaced some strings  
 >- Added remove old and unnecessary script files  
+>- Added auto-exit feature  
   
 >v2.0.1 
 >- Provided unity between variables.    
