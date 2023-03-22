@@ -67,7 +67,7 @@ if not exist "%versionfile%" (goto start) else (goto getversiongithub)
 :getversiongithub
 echo.checking update...
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/version' -OutFile '%version2file%'" >> %temp%\%filename2%.bat
-echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/windows/patch.bat' -OutFile '%workingdir%\patch.bat'" >> %temp%\%filename%.bat
+echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/windows/patch.bat' -OutFile '%workingdir%\patch.bat'" >> %temp%\%filename2%.bat
 powershell -Command Start-Process -windowstyle hidden -Wait -FilePath '%temp%\%filename2%.bat'
 goto compare
 
