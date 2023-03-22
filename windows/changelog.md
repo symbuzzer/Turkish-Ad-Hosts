@@ -1,4 +1,10 @@
 # turkish-ad-hosts-windows:  
+>v2.1.0 
+>- Startup script replaced with startup shortcut  
+>- Added silent patching feature for patching anything on-the-go  
+>- Replaced some strings  
+>- Added remove old and unnecessary script files  
+  
 >v2.0.1 
 >- Provided unity between variables.    
   
