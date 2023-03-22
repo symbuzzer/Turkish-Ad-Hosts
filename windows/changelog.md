@@ -43,11 +43,3 @@
   
 >v1.0.0  
 >- Initial release
-  
-------------------------------  
-# startup:  
->v1.1.0  
->- Added the ability to obtain admin authority    
-  
->v1.0.0  
->- Initial release  
