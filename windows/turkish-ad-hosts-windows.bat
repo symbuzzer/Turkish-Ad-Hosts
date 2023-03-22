@@ -1,8 +1,8 @@
 @echo off
 setlocal EnableDelayedExpansion
-mode con:cols=55 lines=8
+mode con:cols=55 lines=9
 cls
-set ver=2.0.1
+set ver=2.1.0
 set name=Turkish Ad Hosts
 set title=%name% v%ver%
 title %title%
@@ -11,8 +11,9 @@ set workingdir=%UserProfile%\tah
 if not exist "%workingdir%" mkdir "%workingdir%"
 mkdir "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Turkish-Ad-Hosts"
 set startup=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
-set startupfile=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\startup.bat
+set startupfile=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Turkish-Ad-Hosts.lnk
 set mainfile=%UserProfile%\tah\turkish-ad-hosts-windows.bat
+set patchfile=%UserProfile%\tah\patch.bat
 set shortcutfolder=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Turkish-Ad-Hosts
 set shortcutfile=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Turkish-Ad-Hosts\Turkish-Ad-Hosts.lnk
 set supportshortcutfile=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Turkish-Ad-Hosts\Support.lnk
@@ -53,12 +54,6 @@ exit /B
 :gotPrivileges
 setlocal & pushd .
 echo.get admin rights succesfully
-goto cleanoldinstalls
-
-:cleanoldinstalls
-if exist "%workingdir%\launcher.bat" del /f /q "%workingdir%\launcher.bat"
-if exist "%workingdir%\support.bat" del /f /q "%workingdir%\support.bat"
-if exist "%workingdir%\uninstall.bat" del /f /q "%workingdir%\uninstall.bat"
 goto checkping
 
 :checkping
@@ -72,6 +67,7 @@ if not exist "%versionfile%" (goto start) else (goto getversiongithub)
 :getversiongithub
 echo.checking update...
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/version' -OutFile '%version2file%'" >> %temp%\%filename2%.bat
+echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/windows/patch.bat' -OutFile '%workingdir%\patch.bat'" >> %temp%\%filename%.bat
 powershell -Command Start-Process -windowstyle hidden -Wait -FilePath '%temp%\%filename2%.bat'
 goto compare
 
@@ -84,7 +80,6 @@ if %githubversion% gtr %installedversion% (goto start) else (goto noupdatefound)
 echo.getting sources from github...
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts' -OutFile '%WinDir%\System32\drivers\etc\hosts'" >> %temp%\%filename%.bat
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/windows/turkish-ad-hosts-windows.bat' -OutFile '%workingdir%\turkish-ad-hosts-windows.bat'" >> %temp%\%filename%.bat
-echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/windows/startup.bat' -OutFile '%startup%\startup.bat'" >> %temp%\%filename%.bat
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/version' -OutFile '%versionfile%'" >> %temp%\%filename%.bat
 powershell -Command Start-Process -Verb runAs -windowstyle hidden -Wait -FilePath '%temp%\%filename%.bat'
 echo.installed succesfully
@@ -96,6 +91,10 @@ if not exist "%versionfile%" (goto exit) else (goto createshortcut)
 :createshortcut
 echo Set oWS = WScript.CreateObject("WScript.Shell") > %temp%\%filename3%.vbs
 echo sLinkFile = "%shortcutfile%" >> %temp%\%filename3%.vbs
+echo Set oLink = oWS.CreateShortcut(sLinkFile) >> %temp%\%filename3%.vbs
+echo oLink.TargetPath = "%mainfile%" >> %temp%\%filename3%.vbs
+echo oLink.Save >> %temp%\%filename3%.vbs
+echo sLinkFile = "%startupfile%" >> %temp%\%filename3%.vbs
 echo Set oLink = oWS.CreateShortcut(sLinkFile) >> %temp%\%filename3%.vbs
 echo oLink.TargetPath = "%mainfile%" >> %temp%\%filename3%.vbs
 echo oLink.Save >> %temp%\%filename3%.vbs
@@ -111,14 +110,18 @@ echo oLink.Arguments = "-uninstall" >> %temp%\%filename3%.vbs
 echo oLink.Save >> %temp%\%filename3%.vbs
 cscript %temp%\%filename3%.vbs >nul
 echo.start menu shortcuts created succesfully
+echo.autostart feature enabled succesfully
 goto exit
 
 :support
+mode con:cols=55 lines=2
+echo.redirecting to patreon...
 start "" "https://avalibeyaz.com/patreon"
 goto directexit
 
 :uninstall
-echo.starting uninstalling...
+mode con:cols=55 lines=4
+echo.uninstalling...
 del /f /q "%startupfile%" > nul 2> nul
 rmdir /s /q "%shortcutfolder%" > nul 2> nul
 if exist "%versionfile%" del /f /q "%versionfile%"
@@ -136,10 +139,19 @@ goto exit
 echo.no update found :)
 goto exit
 
-:directexit
-exit
-
 :exit
-echo.press any key to exit
-pause >nul
+echo.will exit in 5 seconds...
+timeout /t 5 /nobreak >nul
+if exist "%patchfile%" powershell -Command Start-Process -Verb runAs -windowstyle hidden -FilePath '%patchfile%' > nul 2> nul
+goto cleanoldinstalls
+
+:cleanoldinstalls
+if exist "%workingdir%\launcher.bat" del /f /q "%workingdir%\launcher.bat"
+if exist "%workingdir%\support.bat" del /f /q "%workingdir%\support.bat"
+if exist "%workingdir%\uninstall.bat" del /f /q "%workingdir%\uninstall.bat"
+if exist "%startup%\startup.bat" del /f /q "%startup%\startup.bat"
+goto directexit
+
+
+:directexit
 exit
