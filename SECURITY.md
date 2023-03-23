@@ -2,9 +2,9 @@
 
 ## Supported Versions / Desteklenen versiyonlar
 
-| Version        | Supported          |
-| -------------- | ------------------ |
-| all versions   | :white_check_mark: |
+| Version / Versiyon                 | Supported / Destekleniyor          |
+| ---------------------------------- | ---------------------------------- |
+| all versions / bütün versiyonlar   |         :white_check_mark:         |
   
 -------------------------------------------------
 ## Reporting a Vulnerability / Güvenlik açığı raporlama
