@@ -2,7 +2,7 @@
 name: Report false positive / Hatalı site raporla
 about: False positive reporting / Hatalı site raporlama
 title: "#only write site url there / buraya sadece site adresini ekleyin"
-labels: False positive /  Hatalı site
+labels: False positive /  Hatalı site, Suspicious network / Şüpheli ağ
 assignees: ''
 
 ---
