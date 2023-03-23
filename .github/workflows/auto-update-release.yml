@@ -57,13 +57,13 @@ jobs:
       - name: Downloading "Zackptg5/MMT-Extended" template files
         run:  |
           cd downloads
-          wget https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/uninstall.sh
-          wget https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/customize.sh
-          wget https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/LICENSE
-          wget https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/common/functions.sh
-          wget https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/common/install.sh
-          wget https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/META-INF/com/google/android/update-binary
-          wget https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/META-INF/com/google/android/updater-script
+          wget https://raw.githubusercontent.com/symbuzzer/fork-MMT-Extended/master/uninstall.sh
+          wget https://raw.githubusercontent.com/symbuzzer/fork-MMT-Extended/master/customize.sh
+          wget https://raw.githubusercontent.com/symbuzzer/fork-MMT-Extended/master/LICENSE
+          wget https://raw.githubusercontent.com/symbuzzer/fork-MMT-Extended/master/common/functions.sh
+          wget https://raw.githubusercontent.com/symbuzzer/fork-MMT-Extended/master/common/install.sh
+          wget https://raw.githubusercontent.com/symbuzzer/fork-MMT-Extended/master/META-INF/com/google/android/update-binary
+          wget https://raw.githubusercontent.com/symbuzzer/fork-MMT-Extended/master/META-INF/com/google/android/updater-script
 
       - name: Downloading "update.json" file
         run:  |
