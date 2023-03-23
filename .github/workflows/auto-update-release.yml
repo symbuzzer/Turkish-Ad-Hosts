@@ -39,7 +39,7 @@ jobs:
           echo ${{env.ZIP_URL}}
     
       - name: Checkout
-        uses: actions/checkout@main
+        uses: symbuzzer/fork-checkout-repo@main
         with:
           persist-credentials: false
           fetch-depth: 0
@@ -71,21 +71,21 @@ jobs:
           wget $UPDATEJSON_RAW_URL
           
       - name: Update "update.json" version
-        uses: jossef/action-set-json-field@v2.1
+        uses: symbuzzer/fork-action-set-json-field@master
         with:
           file: downloads/update.json
           field: version
           value: v${{ env.DATE }}
 
       - name: Update "update.json" versionCode
-        uses: jossef/action-set-json-field@v2.1
+        uses: symbuzzer/fork-action-set-json-field@master
         with:
           file: downloads/update.json
           field: versionCode
           value: ${{ env.DATE }}
           
       - name: Update "update.json" zipUrl
-        uses: jossef/action-set-json-field@v2.1
+        uses: symbuzzer/fork-action-set-json-field@master
         with:
           file: downloads/update.json
           field: zipUrl
@@ -140,7 +140,7 @@ jobs:
             sudo cp zip/*.zip release/
           
       - name: Create and upload release asset
-        uses: meeDamian/github-release@2.0
+        uses: symbuzzer/fork-github-release@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           tag: v${{ env.DATE }}
@@ -164,6 +164,6 @@ jobs:
           ls -R
           
       - name: Commit and push changes
-        uses: actions-js/push@master
+        uses: symbuzzer/fork-push-changes@master
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
