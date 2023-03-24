@@ -1,15 +1,16 @@
 @echo off
 setlocal EnableDelayedExpansion
+chcp 1254
 mode con:cols=55 lines=9
 cls
-set ver=2.1.0
+set ver=2.1.1
 set name=Turkish Ad Hosts
 set title=%name% v%ver%
 title %title%
 color 0a
 set workingdir=%UserProfile%\tah
 if not exist "%workingdir%" mkdir "%workingdir%"
-mkdir "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Turkish-Ad-Hosts"
+if not exist "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Turkish-Ad-Hosts" mkdir "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Turkish-Ad-Hosts"
 set startup=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
 set startupfile=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Turkish-Ad-Hosts.lnk
 set mainfile=%UserProfile%\tah\turkish-ad-hosts-windows.bat
@@ -44,10 +45,10 @@ if '%errorlevel%' == '0' ( goto gotPrivileges ) else ( goto getPrivileges )
 :getPrivileges
 if '%1'=='ELEV' (shift & goto gotPrivileges)
 setlocal DisableDelayedExpansion
-set "batchPath=%~0"
+set vbsPath=%~0
 setlocal EnableDelayedExpansion
 ECHO Set UAC = CreateObject^("Shell.Application"^) > "%temp%\OEgetPrivileges.vbs"
-ECHO UAC.ShellExecute "!batchPath!", "ELEV", "", "runas", 1 >> "%temp%\OEgetPrivileges.vbs"
+ECHO UAC.ShellExecute "%vbsPath%", "ELEV", "", "runas", 1 >> "%temp%\OEgetPrivileges.vbs"
 "%temp%\OEgetPrivileges.vbs"
 exit /B
 
@@ -66,6 +67,7 @@ if not exist "%versionfile%" (goto start) else (goto getversiongithub)
 
 :getversiongithub
 echo.checking update...
+echo chcp 1254 >> %temp%\%filename2%.bat
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/version' -OutFile '%version2file%'" >> %temp%\%filename2%.bat
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/windows/patch.bat' -OutFile '%workingdir%\patch.bat'" >> %temp%\%filename2%.bat
 powershell -Command Start-Process -windowstyle hidden -Wait -FilePath '%temp%\%filename2%.bat'
@@ -78,6 +80,7 @@ if %githubversion% gtr %installedversion% (goto start) else (goto noupdatefound)
 
 :start
 echo.getting sources from github...
+echo chcp 1254 >> %temp%\%filename%.bat
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts' -OutFile '%WinDir%\System32\drivers\etc\hosts'" >> %temp%\%filename%.bat
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/windows/turkish-ad-hosts-windows.bat' -OutFile '%workingdir%\turkish-ad-hosts-windows.bat'" >> %temp%\%filename%.bat
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/version' -OutFile '%versionfile%'" >> %temp%\%filename%.bat
@@ -126,6 +129,7 @@ del /f /q "%startupfile%" > nul 2> nul
 rmdir /s /q "%shortcutfolder%" > nul 2> nul
 if exist "%versionfile%" del /f /q "%versionfile%"
 if exist "%version2file%" del /f /q "%version2file%"
+echo chcp 1254 >> %temp%\%filename4%.bat
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/windows/defaulthosts' -OutFile '%WinDir%\System32\drivers\etc\hosts'" >> %temp%\%filename4%.bat
 powershell -Command Start-Process -Verb runAs -windowstyle hidden -Wait -FilePath '%temp%\%filename4%.bat' > nul 2> nul
 echo.uninstalled succesfully
