@@ -1,4 +1,7 @@
 # turkish-ad-hosts-windows:  
+>v2.1.1 
+>- Fixed non-unicode charecter bug    
+  
 >v2.1.0 
 >- Startup script replaced with startup shortcut  
 >- Added silent patching feature for patching anything on-the-go  
