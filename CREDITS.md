@@ -1,4 +1,4 @@
-# CREDITS:
+## CREDITS:
 - [meeDamian](https://github.com/meeDamian) for [github-release](https://github.com/meeDamian/github-release)  
 - [jossef](https://github.com/jossef) for [action-set-json-field](https://github.com/jossef/action-set-json-field)  
 - [Zackptg5](https://github.com/Zackptg5) for [MMT-Extended](https://github.com/Zackptg5/MMT-Extended)  
