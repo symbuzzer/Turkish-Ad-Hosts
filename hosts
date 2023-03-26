@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230324
+# Version: 230326
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022 
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
@@ -33,6 +33,7 @@
 127.0.0.1 4431932.fls.doubleclick.net
 127.0.0.1 510002161.collect.igodigital.com
 127.0.0.1 5371908.fls.doubleclick.net
+127.0.0.1 5548155.fls.doubleclick.net
 127.0.0.1 595tuchuang.com
 127.0.0.1 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 127.0.0.1 6371800.collect.igodigital.com
@@ -40,6 +41,7 @@
 127.0.0.1 8415160.fls.doubleclick.net
 127.0.0.1 8735967.fls.doubleclick.net
 127.0.0.1 8881img.com
+127.0.0.1 9012846.fls.doubleclick.net
 127.0.0.1 9145021.fls.doubleclick.net
 127.0.0.1 9790515.fls.doubleclick.net
 127.0.0.1 a.ad.gt
@@ -257,6 +259,7 @@
 127.0.0.1 cdn.bvmcdn.net
 127.0.0.1 cdn.carbonads.com
 127.0.0.1 cdn.cookielaw.org
+127.0.0.1 cdn.dataroid.com
 127.0.0.1 cdn.dimml.io
 127.0.0.1 cdn.efilli.com
 127.0.0.1 cdn.eksiup.com
@@ -333,6 +336,7 @@
 127.0.0.1 collect.trendyol.com
 127.0.0.1 collector.github.com
 127.0.0.1 collector.puhutv.com
+127.0.0.1 collector.wawlabs.com
 127.0.0.1 collector-1054.tvsquared.com
 127.0.0.1 commercialvalue.org
 127.0.0.1 config.samsungads.com
@@ -574,6 +578,7 @@
 127.0.0.1 fourier.taobao.com
 127.0.0.1 fonts.mopinion.com
 127.0.0.1 formulaonedigitalmedia.germany-2.evergage.com
+127.0.0.1 fpnpmcdn.net
 127.0.0.1 fra1-ib.adnxs.com
 127.0.0.1 freshmarketer.com
 127.0.0.1 friendshipmale.com
@@ -841,6 +846,7 @@
 127.0.0.1 prg.smartadserver.com
 127.0.0.1 primis-d.openx.net
 127.0.0.1 pro.hit.gemius.pl
+127.0.0.1 prod.flixgvid.flix360.io
 127.0.0.1 profitabledisplaycontent.com
 127.0.0.1 ps.eyeota.net
 127.0.0.1 pub-sdk-cfg.criteo.com
@@ -877,6 +883,7 @@
 127.0.0.1 router.miwifi.com
 127.0.0.1 rt.applovin.com
 127.0.0.1 rt.applvn.com
+127.0.0.1 rt.flix360.com
 127.0.0.1 rt.visilabs.net
 127.0.0.1 rtb.openx.net
 127.0.0.1 rules.quantcount.com
@@ -942,6 +949,7 @@
 127.0.0.1 sgtm.sefamerve.com
 127.0.0.1 shb.richaudience.com
 127.0.0.1 signals.carrefoursa.com
+127.0.0.1 signals.teknosa.com
 127.0.0.1 simplewebanalysis.com
 127.0.0.1 smetrics.samsung.com
 127.0.0.1 snap.licdn.com
@@ -1014,6 +1022,7 @@
 127.0.0.1 tags-cdn.deployads.com
 127.0.0.1 targeting.unrulymedia.com
 127.0.0.1 td.doubleclick.net
+127.0.0.1 teknosa.api.useinsider.com
 127.0.0.1 tempest.services.disqus.com
 127.0.0.1 tg1.playstream.media
 127.0.0.1 tlx.3lift.com
