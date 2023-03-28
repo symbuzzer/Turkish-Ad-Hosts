@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230326
+# Version: 230328
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022 
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
@@ -332,6 +332,7 @@
 127.0.0.1 cnnturk.api.useinsider.com
 127.0.0.1 cnt.trvdp.com
 127.0.0.1 code.jivosite.com
+127.0.0.1 col.eum-appdynamics.com
 127.0.0.1 collect.dolap.com
 127.0.0.1 collect.trendyol.com
 127.0.0.1 collector.github.com
@@ -931,6 +932,7 @@
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 sdks.automizely-analytics.com
+127.0.0.1 seal.globalsign.com
 127.0.0.1 secure.adnxs.com
 127.0.0.1 secure.quantserve.com
 127.0.0.1 secure-assets.rubiconproject.com
@@ -1035,6 +1037,7 @@
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 tps30.doubleverify.com
 127.0.0.1 tpx.tesseradigital.com
+127.0.0.1 tr.rdrtr.com
 127.0.0.1 tr.hit.gemius.pl
 127.0.0.1 tr.lib.dengage.com
 127.0.0.1 tr.snapchat.com
@@ -1078,6 +1081,7 @@
 127.0.0.1 utt.impactcdn.com
 127.0.0.1 vars.hotjar.com
 127.0.0.1 vi.ml314.com
+127.0.0.1 videosvc.ezoic.com
 127.0.0.1 vidstat.taboola.com
 127.0.0.1 visariomedia.com
 127.0.0.1 visitor.omnitagjs.com
