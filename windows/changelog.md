@@ -1,4 +1,7 @@
 # turkish-ad-hosts-windows:  
+>v2.1.2 
+>- Fixed uninstall process  
+  
 >v2.1.1 
 >- Fixed non-unicode charecter bug    
   
