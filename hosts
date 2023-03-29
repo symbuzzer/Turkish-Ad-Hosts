@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230328
+# Version: 230329
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022 
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
@@ -38,6 +38,7 @@
 127.0.0.1 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 127.0.0.1 6371800.collect.igodigital.com
 127.0.0.1 8065991.fls.doubleclick.net
+127.0.0.1 8236901.fls.doubleclick.net
 127.0.0.1 8415160.fls.doubleclick.net
 127.0.0.1 8735967.fls.doubleclick.net
 127.0.0.1 8881img.com
@@ -146,6 +147,7 @@
 127.0.0.1 analytics.pointdrive.linkedin.com
 127.0.0.1 analytics.rasyotek.com.tr
 127.0.0.1 analytics.samsungknox.com
+127.0.0.1 analytics.skyscanner.net
 127.0.0.1 analytics.slashdotmedia.com
 127.0.0.1 analytics.tebilisim.com
 127.0.0.1 analytics.tiktok.com
@@ -316,6 +318,7 @@
 127.0.0.1 certify-amp.alexametrics.com
 127.0.0.1 certify-js.alexametrics.com
 127.0.0.1 champagne.futurecdn.net
+127.0.0.1 childlikeform.com
 127.0.0.1 cimri.api.useinsider.com
 127.0.0.1 cl.qualaroo.com
 127.0.0.1 clarity.ms
@@ -325,6 +328,7 @@
 127.0.0.1 clicks.hurriyet.com.tr
 127.0.0.1 clickserv.sitescout.com
 127.0.0.1 cloudfront-labs.amazonaws.com
+127.0.0.1 cm.adform.net
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cm.mgid.com
 127.0.0.1 cmp.uniconsent.com
@@ -358,7 +362,9 @@
 127.0.0.1 countly.iyzico.com
 127.0.0.1 cp.pushwoosh.com
 127.0.0.1 creativecdn.com
+127.0.0.1 cs.admanmedia.com
 127.0.0.1 cs.luckyorange.net
+127.0.0.1 cs.media.net
 127.0.0.1 cs.ns1p.net
 127.0.0.1 csi.gstatic.com
 127.0.0.1 csm.nl3.eu.criteo.net
@@ -391,6 +397,7 @@
 127.0.0.1 dc.ads.linkedin.com
 127.0.0.1 dcetr3.segmentify.com
 127.0.0.1 decide.mixpanel.com
+127.0.0.1 delivery-ci360.flypgs.com
 127.0.0.1 delivery.adrecover.com
 127.0.0.1 demo.criteo.com
 127.0.0.1 depart.trinitymedia.ai
@@ -411,6 +418,7 @@
 127.0.0.1 dominantroute.com
 127.0.0.1 doubleclick.net
 127.0.0.1 dpm.demdex.net
+127.0.0.1 dr6.biz
 127.0.0.1 dt.adsafeprotected.com
 127.0.0.1 dtm-dre.platform.dbankcloud.cn
 127.0.0.1 dttrk.com
@@ -596,6 +604,7 @@
 127.0.0.1 geoim.hurriyet.com
 127.0.0.1 geoloc.hurriyet.com.tr
 127.0.0.1 geolocation.onetrust.com
+127.0.0.1 get.optad360.io
 127.0.0.1 get.s-onetag.com
 127.0.0.1 ghb.adtelligent.com
 127.0.0.1 ghb.spotim.market
@@ -679,6 +688,7 @@
 127.0.0.1 istatistik.arabam.com
 127.0.0.1 istatistik.gazetevatan.com
 127.0.0.1 istatistik.trthaber.com
+127.0.0.1 js.adara.com
 127.0.0.1 js.adsrvr.org
 127.0.0.1 js.agkn.com
 127.0.0.1 js.appboycdn.com
@@ -697,6 +707,7 @@
 127.0.0.1 kvezz.com
 127.0.0.1 laquesis.data.olxcdn.com
 127.0.0.1 launches.appsflyer.com
+127.0.0.1 lexicon.33across.com
 127.0.0.1 lgr.visilabs.net
 127.0.0.1 lider90.com
 127.0.0.1 limurol.com
@@ -724,6 +735,7 @@
 127.0.0.1 marfeel-d.openx.net
 127.0.0.1 match.adsrvr.org
 127.0.0.1 match.sharethrough.com
+127.0.0.1 mb9eo.publishers.tremorhub.com
 127.0.0.1 mbid.marfeelrev.com
 127.0.0.1 mbls.visilabs.net
 127.0.0.1 mc.webvisor.org
@@ -808,6 +820,7 @@
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 pcdn.dengage.com
 127.0.0.1 pebed.dm-event.net
+127.0.0.1 pegasus.api.useinsider.com
 127.0.0.1 per1.segmentify.com
 127.0.0.1 per2.segmentify.com
 127.0.0.1 perr.h-cdn.com
@@ -824,6 +837,7 @@
 127.0.0.1 pixel.facebook.com
 127.0.0.1 pixel.quantcount.com
 127.0.0.1 pixel.quantserve.com
+127.0.0.1 pixel.rubiconproject.com
 127.0.0.1 pixel.sitescout.com
 127.0.0.1 pixel.wp.com
 127.0.0.1 pixel-us-west.rubiconproject.com
@@ -1010,6 +1024,7 @@
 127.0.0.1 sync.go.sonobi.com
 127.0.0.1 sync.richaudience.com
 127.0.0.1 sync.search.spotxchange.com
+127.0.0.1 sync.smartadserver.com
 127.0.0.1 t.contentsquare.net
 127.0.0.1 tag.1rx.io
 127.0.0.1 tag.clearbitscripts.com
