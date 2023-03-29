@@ -3,7 +3,7 @@ setlocal EnableDelayedExpansion
 chcp 1254
 mode con:cols=55 lines=9
 cls
-set ver=2.1.1
+set ver=2.1.2
 set name=Turkish Ad Hosts
 set title=%name% v%ver%
 title %title%
@@ -125,14 +125,14 @@ goto directexit
 :uninstall
 mode con:cols=55 lines=4
 echo.uninstalling...
-del /f /q "%startupfile%" > nul 2> nul
-rmdir /s /q "%shortcutfolder%" > nul 2> nul
-if exist "%versionfile%" del /f /q "%versionfile%"
-if exist "%version2file%" del /f /q "%version2file%"
-echo chcp 1254 >> %temp%\%filename4%.bat
+echo chcp 1254 >> %temp%\%filename4%.bat >> %temp%\%filename4%.bat
+echo del /f /q "%startupfile%"  >> %temp%\%filename4%.bat
+echo rmdir /s /q "%shortcutfolder%" >> %temp%\%filename4%.bat
+echo if exist "%versionfile%" del /f /q "%versionfile%" >> %temp%\%filename4%.bat
+echo if exist "%version2file%" del /f /q "%version2file%" >> %temp%\%filename4%.bat
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/windows/defaulthosts' -OutFile '%WinDir%\System32\drivers\etc\hosts'" >> %temp%\%filename4%.bat
+echo echo.uninstalled succesfully  >> %temp%\%filename4%.bat
 powershell -Command Start-Process -Verb runAs -windowstyle hidden -Wait -FilePath '%temp%\%filename4%.bat' > nul 2> nul
-echo.uninstalled succesfully
 goto exit
 
 :nointernet
