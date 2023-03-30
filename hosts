@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230329
+# Version: 230330
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022 
 # Tested apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/README.md
@@ -308,6 +308,7 @@
 127.0.0.1 cdn-settings.segment.com
 127.0.0.1 cdn2.admatic.com.tr
 127.0.0.1 cdn2.bildirt.com
+127.0.0.1 cdn2.gbqofs.com
 127.0.0.1 cdn2.inner-active.mobi
 127.0.0.1 cdn4.buysellads.net
 127.0.0.1 cdn77.aj2550.bid
@@ -873,6 +874,7 @@
 127.0.0.1 push.dengage.com
 127.0.0.1 pushs.euromsg.com
 127.0.0.1 px.ads.linkedin.com
+127.0.0.1 px.airpr.com
 127.0.0.1 px-conf.perimeterx.net
 127.0.0.1 qds0l.publishers.tremorhub.com
 127.0.0.1 qgxbluhsgad.com
@@ -1105,6 +1107,7 @@
 127.0.0.1 w.usabilla.com
 127.0.0.1 w1.luckyorange.com
 127.0.0.1 web.webpushs.com
+127.0.0.1 webanalytics.logitechg.com
 127.0.0.1 whos.amung.us
 127.0.0.1 widget.cdn.vidyome.com
 127.0.0.1 widget.criteo.com
@@ -1126,6 +1129,7 @@
 127.0.0.1 www.doubleclick.net
 127.0.0.1 www.dwin1.com
 127.0.0.1 www.effectivecreativeformat.com
+127.0.0.1 www.everestjs.net
 127.0.0.1 www.ezojs.com
 127.0.0.1 www.fastly-insights.com
 127.0.0.1 www.google-analytics.com
