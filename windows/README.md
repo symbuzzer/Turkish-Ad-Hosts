@@ -4,6 +4,7 @@
 - Windows Installer & Updater Script of [Turkish-Ad-Hosts](https://github.com/symbuzzer/Turkish-Ad-Hosts) filter...  
 - When you run the script (turkish-ad-hosts-windows.bat) for the first time, it downloads the latest [hosts](https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/hosts) file on Github to your computer and copies it to the required location.  
 - After the first run, the script automatically performs the necessary updates every time you run Windows.  
+- You can also run or remove it from the shortcut in the start menu at any time.  
 - You can see install and uninstall guide from [Wiki page](https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki)  
   
 ----------------
@@ -11,6 +12,7 @@
 - [Turkish-Ad-Hosts](https://github.com/symbuzzer/Turkish-Ad-Hosts) filtresinin Windows yükleme ve güncelleme modülü...  
 - Scripti (turkish-ad-hosts-windows.bat) ilk çalıştırdığınızda Github'taki en güncel [hosts](https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/hosts) dosyasını bilgisayarınıza indirip gerekli yere kopyalar.  
 - İlk çalıştırmadan sonra, Windows'u her çalıştırdığınızda script otomatik olarak gerekli güncellemeleri gerçekleştirir.  
+- İstediğiniz zaman başlat menüsündeki kısayoldan da çalıştırabilir veya kaldırabilirsiniz.  
 - Yükleme ve kaldırma rehberini [Wiki sayfasından](https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki) görebilirsiniz.
   
 [DOWNLOAD / İNDİR](https://github.com/symbuzzer/Turkish-Ad-Hosts/releases)
