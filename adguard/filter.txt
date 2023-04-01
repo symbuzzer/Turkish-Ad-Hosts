@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-03-31T06:30:00.356Z
+! Last modified: 2023-04-01T14:52:59.405Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -16,6 +16,7 @@
 ||6371800.collect.igodigital.com^
 ||8881img.com^
 ||a.ad.gt^
+||a.omappapi.com^
 ||a.pub.network^
 ||a.quora.com^
 ||a.realsrv.com^
@@ -115,6 +116,7 @@
 ||analytics.webgains.io^
 ||analytics.yahoo.com^
 ||analytics-api.samsunghealthcn.com^
+||analytics-dev.bettermeter.com^
 ||analytics-sg.tiktok.com^
 ||analyticsb2c.com^
 ||analyticsengine.s3.amazonaws.com^
@@ -216,14 +218,18 @@
 ||cdn.dimml.io^
 ||cdn.efilli.com^
 ||cdn.eksiup.com^
+||cdn.firstpromoter.com^
 ||cdn.heapanalytics.com^
 ||cdn.insurads.com^
 ||cdn.intergient.com^
 ||cdn.krxd.net^
+||cdn.lr-in.com^
 ||cdn.makroo.com^
+||cdn.matomo.cloud^
 ||cdn.membrana.media^
 ||cdn.medyanetads.com^
 ||cdn.mookie1.com^
+||cdn.mxpnl.com^
 ||cdn.netmera-web.com^
 ||cdn-netmeraprod.turktelekom.com.tr^
 ||cdn.onesignal.com^
@@ -379,6 +385,7 @@
 ||eus.rubiconproject.com^
 ||events.bitaksi.com^
 ||events.getirapi.com^
+||events.getsitectrl.com^
 ||events.jotform.com^
 ||events.newsroom.bi^
 ||events.reddit.com^
@@ -419,6 +426,7 @@
 ||ghb.spotim.market^
 ||global.adserver.yahoo.com^
 ||global.ketchcdn.com^
+||global.proper.io^
 ||globalapi.ad.xiaomi.com^
 ||godpvqnszo.com^
 ||google-analytics.com^
@@ -431,6 +439,7 @@
 ||grs.dbankcloud.com^
 ||grs.dbankcloud.eu^
 ||grs.platform.dbankcloud.ru^
+||grsm.io^
 ||gtm.flo.com.tr^
 ||gtm.lidyana.com^
 ||gtrk.s3.amazonaws.com^
@@ -451,6 +460,7 @@
 ||hit.mynet.com^
 ||hits.acunn.com^
 ||hits.tv8.com.tr^
+||hits-i.iubenda.com^
 ||hm.baidu.com^
 ||hodor-collect.arabam.com^
 ||hotjar.com^
@@ -478,6 +488,7 @@
 ||intake-analytics.wikimedia.org^
 ||intake-logging.wikimedia.org^
 ||inv-nets.admixer.net^
+||io.innertrends.com^
 ||ipac.ctnsnet.com^
 ||ipcheck.tmgrup.com.tr^
 ||iplocation-api.wp.trt.com.tr^
@@ -493,6 +504,7 @@
 ||js.agkn.com^
 ||js.appboycdn.com^
 ||js.go2sdk.com^
+||js.hs-analytics.net^
 ||js.hs-scripts.com^
 ||js.rfp.fout.jp^
 ||js.tagon.co^
@@ -602,6 +614,7 @@
 ||pagead2.googlesyndication.com^
 ||panel.afyads.com^
 ||parkingridiculous.com^
+||partnerlinks.io^
 ||pcdn.dengage.com^
 ||pebed.dm-event.net^
 ||per1.segmentify.com^
@@ -656,6 +669,7 @@
 ||qds0l.publishers.tremorhub.com^
 ||qgxbluhsgad.com^
 ||qsearch-a.akamaihd.net^
+||r.stripe.com^
 ||radar.cedexis.com^
 ||recs.engageya.com^
 ||referrer.disqus.com^
@@ -706,6 +720,7 @@
 ||scarfsmash.com^
 ||script.4dex.io^
 ||script.crazyegg.com^
+||script.tapfiliate.com^
 ||scripts.cleverwebserver.com^
 ||scripts.kiosked.com^
 ||scripts.mediavine.com^
@@ -770,6 +785,7 @@
 ||static.onedio.com^
 ||static.trafficjunky.com^
 ||static.virgul.com^
+||statics.esputnik.com^
 ||statics.olx.com.tr^
 ||statistics.daktilo.com^
 ||stats.bannersnack.com^
@@ -777,6 +793,7 @@
 ||stats.vidyome.com^
 ||stats.vk-portal.net^
 ||stats.wp.com^
+||statsigapi.net^
 ||steadfastsystem.com^
 ||steepsquirrel.com^
 ||strmrdrfrokd.site^
