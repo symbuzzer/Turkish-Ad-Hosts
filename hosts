@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230331
+# Version: 230401
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022 
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -21,6 +21,7 @@
 127.0.0.1 061353efff4748e1a51974616704a9cc.js.ubembed.com
 127.0.0.1 0b1ebd324d574f37b3516c9a1b33b66d-eb42afa9716f.cdn.forter.com
 127.0.0.1 10138642.fls.doubleclick.net
+127.0.0.1 10276905.fls.doubleclick.net
 127.0.0.1 10726361.fls.doubleclick.net
 127.0.0.1 10776882.fls.doubleclick.net
 127.0.0.1 10978247.fls.doubleclick.net
@@ -47,6 +48,7 @@
 127.0.0.1 9790515.fls.doubleclick.net
 127.0.0.1 a.ad.gt
 127.0.0.1 a.mouseflow.com
+127.0.0.1 a.omappapi.com
 127.0.0.1 a.pub.network
 127.0.0.1 a.quora.com
 127.0.0.1 a.realsrv.com
@@ -154,6 +156,7 @@
 127.0.0.1 analytics.webgains.io
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 analytics-api.samsunghealthcn.com
+127.0.0.1 analytics-dev.bettermeter.com
 127.0.0.1 analytics-sg.tiktok.com
 127.0.0.1 analyticsb2c.com
 127.0.0.1 analyticsengine.s3.amazonaws.com
@@ -266,17 +269,21 @@
 127.0.0.1 cdn.efilli.com
 127.0.0.1 cdn.eksiup.com
 127.0.0.1 cdn.fastclick.net
+127.0.0.1 cdn.firstpromoter.com
 127.0.0.1 cdn.heapanalytics.com
 127.0.0.1 cdn.id5-sync.com
 127.0.0.1 cdn.insurads.com
 127.0.0.1 cdn.intergient.com
 127.0.0.1 cdn.krxd.net
+127.0.0.1 cdn.lr-in.com
 127.0.0.1 cdn.luckyorange.com
 127.0.0.1 cdn.makroo.com
+127.0.0.1 cdn.matomo.cloud
 127.0.0.1 cdn.membrana.media
 127.0.0.1 cdn.medyanetads.com
 127.0.0.1 cdn.mookie1.com
 127.0.0.1 cdn.mouseflow.com
+127.0.0.1 cdn.mxpnl.com
 127.0.0.1 cdn.netmera-web.com
 127.0.0.1 cdn-netmeraprod.turktelekom.com.tr
 127.0.0.1 cdn.onesignal.com
@@ -567,12 +574,14 @@
 127.0.0.1 event-collector.analytics.onedio.com
 127.0.0.1 events.bitaksi.com
 127.0.0.1 events.getirapi.com
+127.0.0.1 events.getsitectrl.com
 127.0.0.1 events.jotform.com
 127.0.0.1 events.newsroom.bi
 127.0.0.1 events.reddit.com
 127.0.0.1 events.redditmedia.com
 127.0.0.1 events.release.narrativ.com
 127.0.0.1 events.split.io
+127.0.0.1 events.statsigapi.net
 127.0.0.1 evs.data.ciceksepeti.com
 127.0.0.1 exchange.postrelease.com
 127.0.0.1 expo.io
@@ -611,6 +620,7 @@
 127.0.0.1 ghb.spotim.market
 127.0.0.1 global.adserver.yahoo.com
 127.0.0.1 global.ketchcdn.com
+127.0.0.1 global.proper.io
 127.0.0.1 globalapi.ad.xiaomi.com
 127.0.0.1 go.ezodn.com
 127.0.0.1 godpvqnszo.com
@@ -625,6 +635,7 @@
 127.0.0.1 grs.dbankcloud.com
 127.0.0.1 grs.dbankcloud.eu
 127.0.0.1 grs.platform.dbankcloud.ru
+127.0.0.1 grsm.io
 127.0.0.1 gtm.flo.com.tr
 127.0.0.1 gtm.lidyana.com
 127.0.0.1 gtrk.s3.amazonaws.com
@@ -646,6 +657,7 @@
 127.0.0.1 hit.mynet.com
 127.0.0.1 hits.acunn.com
 127.0.0.1 hits.tv8.com.tr
+127.0.0.1 hits-i.iubenda.com
 127.0.0.1 hm.baidu.com
 127.0.0.1 hodor-collect.arabam.com
 127.0.0.1 hotjar.com
@@ -679,6 +691,7 @@
 127.0.0.1 intake-analytics.wikimedia.org
 127.0.0.1 intake-logging.wikimedia.org
 127.0.0.1 inv-nets.admixer.net
+127.0.0.1 io.innertrends.com
 127.0.0.1 ipac.ctnsnet.com
 127.0.0.1 ipcheck.tmgrup.com.tr
 127.0.0.1 iplocation-api.wp.trt.com.tr
@@ -694,6 +707,7 @@
 127.0.0.1 js.agkn.com
 127.0.0.1 js.appboycdn.com
 127.0.0.1 js.go2sdk.com
+127.0.0.1 js.hs-analytics.net
 127.0.0.1 js.hs-scripts.com
 127.0.0.1 js.rfp.fout.jp
 127.0.0.1 js.tagon.co
@@ -819,6 +833,7 @@
 127.0.0.1 panel.afyads.com
 127.0.0.1 parkingridiculous.com
 127.0.0.1 partner.googleadservices.com
+127.0.0.1 partnerlinks.io
 127.0.0.1 pcdn.dengage.com
 127.0.0.1 pebed.dm-event.net
 127.0.0.1 pegasus.api.useinsider.com
@@ -879,6 +894,7 @@
 127.0.0.1 qds0l.publishers.tremorhub.com
 127.0.0.1 qgxbluhsgad.com
 127.0.0.1 qsearch-a.akamaihd.net
+127.0.0.1 r.stripe.com
 127.0.0.1 radar.cedexis.com
 127.0.0.1 recs.engageya.com
 127.0.0.1 referrer.disqus.com
@@ -934,6 +950,7 @@
 127.0.0.1 scarfsmash.com
 127.0.0.1 script.4dex.io
 127.0.0.1 script.crazyegg.com
+127.0.0.1 script.tapfiliate.com
 127.0.0.1 scripts.cleverwebserver.com
 127.0.0.1 scripts.kiosked.com
 127.0.0.1 scripts.mediavine.com
@@ -1006,6 +1023,7 @@
 127.0.0.1 static.onedio.com
 127.0.0.1 static.trafficjunky.com
 127.0.0.1 static.virgul.com
+127.0.0.1 statics.esputnik.com
 127.0.0.1 statics.olx.com.tr
 127.0.0.1 statistics.daktilo.com
 127.0.0.1 stats.bannersnack.com
@@ -1014,6 +1032,7 @@
 127.0.0.1 stats.vidyome.com
 127.0.0.1 stats.vk-portal.net
 127.0.0.1 stats.wp.com
+127.0.0.1 statsigapi.net
 127.0.0.1 steadfastsystem.com
 127.0.0.1 steepsquirrel.com
 127.0.0.1 str.hit.gemius.pl.hit.gemius.pl
