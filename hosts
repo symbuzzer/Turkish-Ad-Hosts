@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230401
+# Version: 230402
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022 
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -153,6 +153,7 @@
 127.0.0.1 analytics.slashdotmedia.com
 127.0.0.1 analytics.tebilisim.com
 127.0.0.1 analytics.tiktok.com
+127.0.0.1 analytics.ubports.com
 127.0.0.1 analytics.webgains.io
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 analytics-api.samsunghealthcn.com
@@ -335,6 +336,7 @@
 127.0.0.1 click.oneplus.com
 127.0.0.1 clicks.hurriyet.com.tr
 127.0.0.1 clickserv.sitescout.com
+127.0.0.1 client-registry.mutinycdn.com
 127.0.0.1 cloudfront-labs.amazonaws.com
 127.0.0.1 cm.adform.net
 127.0.0.1 cm.g.doubleclick.net
@@ -378,6 +380,7 @@
 127.0.0.1 csm.nl3.eu.criteo.net
 127.0.0.1 csp-reporting.cloudflare.com
 127.0.0.1 csync.loopme.me
+127.0.0.1 d.agkn.com
 127.0.0.1 d.applovin.com
 127.0.0.1 d.applvn.com
 127.0.0.1 d.email.forbes.com
@@ -385,6 +388,7 @@
 127.0.0.1 d.reddit.com
 127.0.0.1 d.sondakika.com
 127.0.0.1 d.turn.com
+127.0.0.1 d1upt0rqzff34l.cloudfront.net
 127.0.0.1 d13k7prax1yi04.cloudfront.net
 127.0.0.1 d15kdpgjg3unno.cloudfront.net
 127.0.0.1 d2r1yp2w7bby2u.cloudfront.net
@@ -702,6 +706,7 @@
 127.0.0.1 istatistik.arabam.com
 127.0.0.1 istatistik.gazetevatan.com
 127.0.0.1 istatistik.trthaber.com
+127.0.0.1 j.6sc.co
 127.0.0.1 js.adara.com
 127.0.0.1 js.adsrvr.org
 127.0.0.1 js.agkn.com
@@ -739,6 +744,7 @@
 127.0.0.1 logservice1.hicloud.com
 127.0.0.1 logsink.zedge.net
 127.0.0.1 ls.hit.gemius.pl
+127.0.0.1 lu9xve2c97l898gjjxv4.ballercap.com
 127.0.0.1 luckyorange.com
 127.0.0.1 m.addthis.com
 127.0.0.1 m.doubleclick.net
@@ -990,6 +996,7 @@
 127.0.0.1 snap.licdn.com
 127.0.0.1 snippet.affilimate.io
 127.0.0.1 sommelier.futurehybrid.tech
+127.0.0.1 sp.analytics.yahoo.com
 127.0.0.1 spl.zeotap.com
 127.0.0.1 srv.buysellads.com
 127.0.0.1 srvccc.fish91826twenty.ga
@@ -1031,6 +1038,7 @@
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 stats.vidyome.com
 127.0.0.1 stats.vk-portal.net
+127.0.0.1 stats.vlitag.com
 127.0.0.1 stats.wp.com
 127.0.0.1 statsigapi.net
 127.0.0.1 steadfastsystem.com
@@ -1050,6 +1058,7 @@
 127.0.0.1 tag.1rx.io
 127.0.0.1 tag.clearbitscripts.com
 127.0.0.1 tag.crsspxl.com
+127.0.0.1 tag.demandbase.com
 127.0.0.1 tag.durationmedia.net
 127.0.0.1 tag.oko.net
 127.0.0.1 tag.rmp.rakuten.com
@@ -1081,6 +1090,7 @@
 127.0.0.1 track.mailerlite.com
 127.0.0.1 track.wattpad.com
 127.0.0.1 track1.aniview.com
+127.0.0.1 tracker-be-prod.pubplus.com
 127.0.0.1 tracking.ensonhaber.com
 127.0.0.1 tracking.india.miui.com
 127.0.0.1 tracking.intl.miui.com
@@ -1091,6 +1101,7 @@
 127.0.0.1 trk.indoleads.com
 127.0.0.1 trk.pinterest.com
 127.0.0.1 trk.storyly.io
+127.0.0.1 trk.techtarget.com
 127.0.0.1 tru.am
 127.0.0.1 turkcell.api.useinsider.com
 127.0.0.1 tx.n11.com
