@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-04-02T13:29:56.269Z
+! Last modified: 2023-04-04T09:17:04.964Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -214,6 +214,7 @@
 ||cdn.browsiprod.com^
 ||cdn.bvmcdn.net^
 ||cdn.carbonads.com^
+||cdn.confiant-integrations.net^
 ||cdn.cookielaw.org^
 ||cdn.dataroid.com^
 ||cdn.dimml.io^
@@ -451,6 +452,7 @@
 ||gvt2.com^
 ||h.n11.com^
 ||h.online-metrix.net^
+||hb.vntsm.com^
 ||hbopenbid.pubmatic.com^
 ||hdbcode.com^
 ||hellosmpl.com^
@@ -662,6 +664,7 @@
 ||primis-d.openx.net^
 ||prod.flixgvid.flix360.io^
 ||profitabledisplaycontent.com^
+||protagcdn.com^
 ||ps.eyeota.net^
 ||pub-sdk-cfg.criteo.com^
 ||punosy.best^
