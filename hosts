@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230402
+# Version: 230404
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022 
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -264,6 +264,7 @@
 127.0.0.1 cdn.browsiprod.com
 127.0.0.1 cdn.bvmcdn.net
 127.0.0.1 cdn.carbonads.com
+127.0.0.1 cdn.confiant-integrations.net
 127.0.0.1 cdn.cookielaw.org
 127.0.0.1 cdn.dataroid.com
 127.0.0.1 cdn.dimml.io
@@ -647,6 +648,7 @@
 127.0.0.1 gvt2.com
 127.0.0.1 h.n11.com
 127.0.0.1 h.online-metrix.net
+127.0.0.1 hb.vntsm.com
 127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 hdbcode.com
 127.0.0.1 hellosmpl.com
@@ -885,6 +887,7 @@
 127.0.0.1 pro.hit.gemius.pl
 127.0.0.1 prod.flixgvid.flix360.io
 127.0.0.1 profitabledisplaycontent.com
+127.0.0.1 protagcdn.com
 127.0.0.1 ps.eyeota.net
 127.0.0.1 pub-sdk-cfg.criteo.com
 127.0.0.1 pubads.g.doubleclick.net
