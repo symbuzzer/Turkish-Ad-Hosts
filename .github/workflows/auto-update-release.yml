@@ -14,7 +14,7 @@ on:
 env:  #ONLY CHANGE THESE 
   MODULE_NAME: "Turkish-Ad-Hosts-Magisk-Module" #EX: Turkish-Ad-Hosts-Magisk-Module
   HOSTS_NAME: "Turkish-Ad-Hosts" #EX: Turkish-Ad-Hosts
-  MODULE_VER: "v1.0.1" #EX: v1.0.0
+  MODULE_VER: "1.0.1" #EX: 1.0.0
   AUTHOR: "Ali Beyaz" #EX: Ali Beyaz
   UPDATEJSON_RAW_URL: "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json" #EX: https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
   REPO_URL: "https://github.com/symbuzzer/Turkish-Ad-Hosts" #EX: https://github.com/symbuzzer/Turkish-Ad-Hosts
