@@ -17,7 +17,7 @@ env:  #ONLY CHANGE THESE
   AUTHOR: "Ali Beyaz" #EX: Ali Beyaz
   UPDATEJSON_RAW_URL: "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json" #EX: https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
   REPO_URL: "https://github.com/symbuzzer/Turkish-Ad-Hosts" #EX: https://github.com/symbuzzer/Turkish-Ad-Hosts
-
+  REPO_DESC: "Türkiye'de yaygın kullanılan mobil uygulamalardaki (ve muhtemelen WEB sayfalarındakileri) izleme (ve beraberinde muhtemelen reklam) ağlarını engellemek için gerekli hosts dosyası"
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -98,7 +98,7 @@ jobs:
           version=v${{ env.DATE }}
           versionCode=${{ env.DATE }}
           author=$AUTHOR
-          description=$REPO_URL
+          description=$REPO_DESC
           updateJson=$UPDATEJSON_RAW_URL" > module.prop
       
       - name: Copying files to necessary dirs
