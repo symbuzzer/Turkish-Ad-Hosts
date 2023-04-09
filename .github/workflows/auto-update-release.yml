@@ -95,7 +95,7 @@ jobs:
       - name: Create "module.prop" file
         run:  |
           echo "id=$HOSTS_NAME
-          name=$HOSTS_NAME - v$HOSTS_VER
+          name=$HOSTS_NAME - v$MODULE_VER
           version=v${{ env.DATE }}
           versionCode=${{ env.DATE }}
           author=$AUTHOR
