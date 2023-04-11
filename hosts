@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230410 
+# Version: 230411 
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022 
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -215,6 +215,7 @@
 127.0.0.1 authbe.sec.intl.miui.com
 127.0.0.1 avhtaapxml.com
 127.0.0.1 avlsh.visilabs.net
+127.0.0.1 b.stats.paypal.com
 127.0.0.1 b-code.liadm.com
 127.0.0.1 baltar.dimml.io
 127.0.0.1 basher.ezodn.com
@@ -843,6 +844,7 @@
 127.0.0.1 ow.pubmatic.com
 127.0.0.1 owlcarousel2.github.io
 127.0.0.1 p.cpx.to
+127.0.0.1 p.imgur.com
 127.0.0.1 p.typekit.net
 127.0.0.1 p11.techlab-cdn.com
 127.0.0.1 pad-v3.presage.io
@@ -1018,6 +1020,7 @@
 127.0.0.1 srv.buysellads.com
 127.0.0.1 srvccc.fish91826twenty.ga
 127.0.0.1 srvr.dmvs-apac.com
+127.0.0.1 ssbsync-global.smartadserver.com
 127.0.0.1 ssc-cms.33across.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 sslwidget.criteo.com
@@ -1061,6 +1064,7 @@
 127.0.0.1 steadfastsystem.com
 127.0.0.1 steepsquirrel.com
 127.0.0.1 str.hit.gemius.pl.hit.gemius.pl
+127.0.0.1 stretchsquirrel.com
 127.0.0.1 strmrdrfrokd.site
 127.0.0.1 storj.cloud
 127.0.0.1 sunlightmetrics.b-cdn.net
@@ -1073,6 +1077,7 @@
 127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 sync.smartadserver.com
 127.0.0.1 t.contentsquare.net
+127.0.0.1 t.imgur.com
 127.0.0.1 tag.1rx.io
 127.0.0.1 tag.clearbitscripts.com
 127.0.0.1 tag.crsspxl.com
