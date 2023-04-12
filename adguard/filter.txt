@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-04-11T06:56:05.600Z
+! Last modified: 2023-04-12T06:14:04.045Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -83,6 +83,7 @@
 ||adtago.s3.amazonaws.com^
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
+||advertising.a2z.com^
 ||advertising.twitter.com^
 ||advertising-api-eu.amazon.com^
 ||advice-ads.s3.amazonaws.com^
@@ -121,6 +122,7 @@
 ||analytics.yahoo.com^
 ||analytics-api.samsunghealthcn.com^
 ||analytics-dev.bettermeter.com^
+||analytics-ingress-global.bitmovin.com^
 ||analytics-sg.tiktok.com^
 ||analyticsb2c.com^
 ||analyticsengine.s3.amazonaws.com^
@@ -212,6 +214,7 @@
 ||cdn.adpushup.com^
 ||cdn.adsafeprotected.com^
 ||cdn.adtarget.com.tr^
+||cdn.afp.ai^
 ||cdn.amplitude.com^
 ||cdn.avmws.com^
 ||cdn.bannersnack.com^
@@ -364,6 +367,7 @@
 ||diken.xyz^
 ||direct-events-collector.spot.im^
 ||dis.eu.criteo.com^
+||disploot.com^
 ||dit.whatsapp.net^
 ||dlsdk.appsflyer.com^
 ||dmx.districtm.io^
@@ -418,6 +422,7 @@
 ||fourier.taobao.com^
 ||fonts.mopinion.com^
 ||formulaonedigitalmedia.germany-2.evergage.com^
+||foxpush.com^
 ||fpnpmcdn.net^
 ||fra1-ib.adnxs.com^
 ||freshmarketer.com^
