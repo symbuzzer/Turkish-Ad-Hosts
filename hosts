@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230411 
+# Version: 230412 
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022 
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -120,6 +120,7 @@
 127.0.0.1 adtago.s3.amazonaws.com
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 adv.sec.miui.com
+127.0.0.1 advertising.a2z.com
 127.0.0.1 advertising.twitter.com
 127.0.0.1 advertising-api-eu.amazon.com
 127.0.0.1 advice-ads.s3.amazonaws.com
@@ -162,6 +163,7 @@
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 analytics-api.samsunghealthcn.com
 127.0.0.1 analytics-dev.bettermeter.com
+127.0.0.1 analytics-ingress-global.bitmovin.com
 127.0.0.1 analytics-sg.tiktok.com
 127.0.0.1 analyticsb2c.com
 127.0.0.1 analyticsengine.s3.amazonaws.com
@@ -263,6 +265,7 @@
 127.0.0.1 cdn.adpushup.com
 127.0.0.1 cdn.adsafeprotected.com
 127.0.0.1 cdn.adtarget.com.tr
+127.0.0.1 cdn.afp.ai
 127.0.0.1 cdn.amplitude.com
 127.0.0.1 cdn.avmws.com
 127.0.0.1 cdn.bannersnack.com
@@ -429,6 +432,7 @@
 127.0.0.1 diken.xyz
 127.0.0.1 direct-events-collector.spot.im
 127.0.0.1 dis.eu.criteo.com
+127.0.0.1 disploot.com
 127.0.0.1 dit.whatsapp.net
 127.0.0.1 dlsdk.appsflyer.com
 127.0.0.1 dmp.adform.net
@@ -610,6 +614,7 @@
 127.0.0.1 fourier.taobao.com
 127.0.0.1 fonts.mopinion.com
 127.0.0.1 formulaonedigitalmedia.germany-2.evergage.com
+127.0.0.1 foxpush.com
 127.0.0.1 fpnpmcdn.net
 127.0.0.1 fra1-ib.adnxs.com
 127.0.0.1 freshmarketer.com
@@ -1180,12 +1185,14 @@
 127.0.0.1 www.cdn.ad.xiaomi.com
 127.0.0.1 www.clarity.ms
 127.0.0.1 www.datadoghq-browser-agent.com
+127.0.0.1 www.disploot.com
 127.0.0.1 www.doubleclick.net
 127.0.0.1 www.dwin1.com
 127.0.0.1 www.effectivecreativeformat.com
 127.0.0.1 www.everestjs.net
 127.0.0.1 www.ezojs.com
 127.0.0.1 www.fastly-insights.com
+127.0.0.1 www.foxpush.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googleoptimize.com
 127.0.0.1 www.howmanyview.com
