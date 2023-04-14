@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230412 
+# Version: 230414 
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022 
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -48,6 +48,8 @@
 127.0.0.1 9145021.fls.doubleclick.net
 127.0.0.1 9790515.fls.doubleclick.net
 127.0.0.1 a.ad.gt
+127.0.0.1 a.appbaqend.com
+127.0.0.1 a.applovin.com
 127.0.0.1 a.doganburda.com
 127.0.0.1 a.mouseflow.com
 127.0.0.1 a.omappapi.com
@@ -607,6 +609,7 @@
 127.0.0.1 ezojs.com
 127.0.0.1 fastclick.net
 127.0.0.1 fastlane.rubiconproject.com
+127.0.0.1 fcg-api.exponea.com
 127.0.0.1 firebase-settings.crashlytics.com
 127.0.0.1 fiverr.ck-cdn.com
 127.0.0.1 flash.sec.intl.miui.com
@@ -957,8 +960,9 @@
 127.0.0.1 rxeosevsso.com
 127.0.0.1 s.adroll.com
 127.0.0.1 s.amazon-adsystem.com
-127.0.0.1 s.ntv.io
+127.0.0.1 s.btstatic.com
 127.0.0.1 s.go-mpulse.net
+127.0.0.1 s.ntv.io
 127.0.0.1 s.perzonalization.com
 127.0.0.1 s.seedtag.com
 127.0.0.1 s.visilabs.net
@@ -1003,6 +1007,7 @@
 127.0.0.1 securemetrics.apple.com
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 seg.ad.gt
+127.0.0.1 sentry.appodeal.com
 127.0.0.1 sentry.io
 127.0.0.1 serv.nspot.co
 127.0.0.1 serve.nrich.ai
@@ -1068,6 +1073,7 @@
 127.0.0.1 statsigapi.net
 127.0.0.1 steadfastsystem.com
 127.0.0.1 steepsquirrel.com
+127.0.0.1 stpd.cloud
 127.0.0.1 str.hit.gemius.pl.hit.gemius.pl
 127.0.0.1 stretchsquirrel.com
 127.0.0.1 strmrdrfrokd.site
@@ -1203,6 +1209,7 @@
 127.0.0.1 wyhifdpatl.com
 127.0.0.1 wzrkt.com
 127.0.0.1 x.bidswitch.net
+127.0.0.1 x.everestop.io
 127.0.0.1 yandexadexchange.net
 127.0.0.1 ymetrica1.com
 127.0.0.1 youtube.cleverads.vn
