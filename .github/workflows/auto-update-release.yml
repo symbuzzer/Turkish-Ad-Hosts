@@ -152,6 +152,7 @@ jobs:
           gzip: false
           draft: false
           prerelease: false
+          allow_override: true
           
       - name: Create "version" file
         run:  |
