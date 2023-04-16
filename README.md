@@ -11,7 +11,7 @@
   
 ---------------
 ## [TR] MANİFESTO:  
-- Türkiye'de yaygın kullanılan mobil uygulamalardaki (ve muhtemelen WEB sayfalarındakileri) izleme (ve beraberinde muhtemelen reklam) ağlarını engellemek için gerekli hosts dosyası...  
+- Türkiye'de yaygın kullanılan mobil uygulamalardaki (ve muhtemelen WEB sayfalarındaki) izleme (ve beraberinde muhtemelen reklam) ağlarını engellemek için gerekli hosts dosyası...  
 - Ayrıca Türkiye'de popüler olarak kullanılan yabancı uygulamalar ve WEB sayfalarını da olabildiğince eklemeye çalışıyorum.  
 - Kendi şahsi kullanımım için hazırlanmıştır. Kullanmak kendi sorumluluğunuzdadır.  
 - Bu liste, bütün uygulamalar tek tek denenerek ortaya çıkan DNS adreslerinin MITM ve başkaca metotlarla incelenmesiyle oluşturulmuştur.  
