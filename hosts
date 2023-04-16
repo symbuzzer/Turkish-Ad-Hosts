@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230415 
+# Version: 230416 
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022 
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -64,7 +64,9 @@
 127.0.0.1 aax-eu.amazon.sa
 127.0.0.1 aax-eu.amazon-adsystem.com
 127.0.0.1 aax-us.amazon-adsystem.com
+127.0.0.1 accounts.doubleclick.net
 127.0.0.1 acdn.adnxs.com
+127.0.0.1 acint.net
 127.0.0.1 ad.360yield.com
 127.0.0.1 ad.a-ads.com
 127.0.0.1 ad.donanimhaber.com
@@ -86,6 +88,7 @@
 127.0.0.1 ads.adfox.ru
 127.0.0.1 ads.adthrive.com
 127.0.0.1 ads.avocet.io
+127.0.0.1 ads.betweendigital.com
 127.0.0.1 ads.dygdigital.com
 127.0.0.1 ads.facebook.com
 127.0.0.1 ads.google.com
@@ -110,6 +113,7 @@
 127.0.0.1 adsby.io
 127.0.0.1 adsdk.yandex.ru
 127.0.0.1 adserve.donanimhaber.com
+127.0.0.1 adserver.adtech.advertising.com
 127.0.0.1 adservetx.media.net
 127.0.0.1 adservex.media.net
 127.0.0.1 adservice.google.com
@@ -147,6 +151,7 @@
 127.0.0.1 an.facebook.com
 127.0.0.1 an.yandex.ru
 127.0.0.1 analytics.archive.org
+127.0.0.1 analytics.callbell.eu
 127.0.0.1 analytics.dugun.com
 127.0.0.1 analytics.facebook.com
 127.0.0.1 analytics.google.com
@@ -176,6 +181,7 @@
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 api.brs.intl.miui.com
 127.0.0.1 api.dataroid.com
+127.0.0.1 api.fouanalytics.com
 127.0.0.1 api.instabug.com
 127.0.0.1 api.leanplum.com
 127.0.0.1 api.miui.security.xiaomi.com
@@ -358,6 +364,7 @@
 127.0.0.1 cm.adform.net
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cm.mgid.com
+127.0.0.1 cm.tns-counter.ru
 127.0.0.1 cmp.uniconsent.com
 127.0.0.1 cn.app.chat.xiaomi.net
 127.0.0.1 cnnturk.api.useinsider.com
@@ -442,6 +449,8 @@
 127.0.0.1 disploot.com
 127.0.0.1 dit.whatsapp.net
 127.0.0.1 dlsdk.appsflyer.com
+127.0.0.1 dm.hybrid.ai
+127.0.0.1 dmg.digitaltarget.ru
 127.0.0.1 dmp.adform.net
 127.0.0.1 dmx.districtm.io
 127.0.0.1 dmxleo.dailymotion.com
@@ -454,6 +463,7 @@
 127.0.0.1 dtm-dre.platform.dbankcloud.cn
 127.0.0.1 dttrk.com
 127.0.0.1 dwin1.com
+127.0.0.1 dx.mountain.com
 127.0.0.1 dygassets.dygdigital.com
 127.0.0.1 dynamic.criteo.com
 127.0.0.1 e.deployads.com
@@ -596,6 +606,7 @@
 127.0.0.1 eu-mobile.events.data.microsoft.com
 127.0.0.1 eum.instana.io
 127.0.0.1 eus.rubiconproject.com
+127.0.0.1 euw-ice.360yield.com
 127.0.0.1 event-collector.analytics.onedio.com
 127.0.0.1 events.bitaksi.com
 127.0.0.1 events.getirapi.com
@@ -608,6 +619,7 @@
 127.0.0.1 events.split.io
 127.0.0.1 events.statsigapi.net
 127.0.0.1 evs.data.ciceksepeti.com
+127.0.0.1 exchange.buzzoola.com
 127.0.0.1 exchange.postrelease.com
 127.0.0.1 expo.io
 127.0.0.1 extmaps-api.yandex.net
@@ -751,9 +763,11 @@
 127.0.0.1 json.geoiplookup.io
 127.0.0.1 jsonip.com
 127.0.0.1 k.intellitxt.com
+127.0.0.1 kimberlite.io
 127.0.0.1 kinja-com.videoplayerhub.com
 127.0.0.1 krk.kargo.com
 127.0.0.1 kvezz.com
+127.0.0.1 l.sharethis.com
 127.0.0.1 laquesis.data.olxcdn.com
 127.0.0.1 launches.appsflyer.com
 127.0.0.1 lexicon.33across.com
@@ -778,11 +792,13 @@
 127.0.0.1 m.addthis.com
 127.0.0.1 m.doubleclick.net
 127.0.0.1 m.stripe.com
+127.0.0.1 ml314.com
 127.0.0.1 macro.adnami.io
 127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 mail-ads.google.com
 127.0.0.1 manager.smartlook.com
 127.0.0.1 marfeel-d.openx.net
+127.0.0.1 match.360yield.com
 127.0.0.1 match.adsrvr.org
 127.0.0.1 match.sharethrough.com
 127.0.0.1 mb9eo.publishers.tremorhub.com
@@ -800,6 +816,7 @@
 127.0.0.1 media.fastclick.net
 127.0.0.1 mediavisor.doubleclick.net
 127.0.0.1 medyanative.com
+127.0.0.1 medyanet-com-tr.videoplayerhub.com
 127.0.0.1 metrics.apple.com
 127.0.0.1 metrics.data.hicloud.com
 127.0.0.1 metrics.fitanalytics.com
@@ -812,7 +829,7 @@
 127.0.0.1 metrics3.data.hicloud.com
 127.0.0.1 metrics4.data.hicloud.com
 127.0.0.1 metrics5.data.hicloud.com
-127.0.0.1 ml314.com
+127.0.0.1 mitdmp.whiteboxdigital.ru
 127.0.0.1 mobile.eum-appdynamics.com
 127.0.0.1 mobile.pipe.aria.microsoft.com
 127.0.0.1 mobile.useinsider.com
@@ -827,6 +844,7 @@
 127.0.0.1 motor1.push4site.com
 127.0.0.1 mouseflow.com
 127.0.0.1 mp.4dex.io
+127.0.0.1 mp.subservis.com
 127.0.0.1 ms.applovin.com
 127.0.0.1 ms.applvn.com
 127.0.0.1 mstm.motorsport.com
@@ -928,8 +946,10 @@
 127.0.0.1 purch-sync.go.sonobi.com
 127.0.0.1 push.dengage.com
 127.0.0.1 pushs.euromsg.com
+127.0.0.1 px.adhigh.net
 127.0.0.1 px.ads.linkedin.com
 127.0.0.1 px.airpr.com
+127.0.0.1 px.arcspire.io
 127.0.0.1 px-conf.perimeterx.net
 127.0.0.1 qds0l.publishers.tremorhub.com
 127.0.0.1 qgxbluhsgad.com
@@ -938,6 +958,7 @@
 127.0.0.1 radar.cedexis.com
 127.0.0.1 recommendation-api.analytics.onedio.com
 127.0.0.1 recs.engageya.com
+127.0.0.1 redirect.frontend.weborama.fr
 127.0.0.1 referrer.disqus.com
 127.0.0.1 region1.analytics.google.com
 127.0.0.1 region1.app-measurement.com
@@ -962,6 +983,7 @@
 127.0.0.1 rt.flix360.com
 127.0.0.1 rt.visilabs.net
 127.0.0.1 rtb.openx.net
+127.0.0.1 rtb.programattik.com
 127.0.0.1 rules.quantcount.com
 127.0.0.1 rum.browser-intake-datadoghq.com
 127.0.0.1 rum.cronitor.io
@@ -975,6 +997,7 @@
 127.0.0.1 s.ntv.io
 127.0.0.1 s.perzonalization.com
 127.0.0.1 s.seedtag.com
+127.0.0.1 s.uuidksinc.net
 127.0.0.1 s.visilabs.net
 127.0.0.1 s-img.idealmedia.io
 127.0.0.1 s0.2mdn.net
@@ -1008,6 +1031,7 @@
 127.0.0.1 sdkapi.netmera.com
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 sdki.truepush.com
 127.0.0.1 sdks.automizely-analytics.com
 127.0.0.1 seal.globalsign.com
 127.0.0.1 secure.adnxs.com
@@ -1031,10 +1055,12 @@
 127.0.0.1 signals.carrefoursa.com
 127.0.0.1 signals.teknosa.com
 127.0.0.1 simplewebanalysis.com
+127.0.0.1 sm.rtb.mts.ru
 127.0.0.1 smetrics.samsung.com
 127.0.0.1 snap.licdn.com
 127.0.0.1 snippet.affilimate.io
 127.0.0.1 sommelier.futurehybrid.tech
+127.0.0.1 sonar.semantiqo.com
 127.0.0.1 sp.analytics.yahoo.com
 127.0.0.1 spl.zeotap.com
 127.0.0.1 srv.buysellads.com
@@ -1091,12 +1117,17 @@
 127.0.0.1 sunlightmetrics.b-cdn.net
 127.0.0.1 supportmetrics.apple.com
 127.0.0.1 svibeacon.onezapp.com
+127.0.0.1 sync.1dmp.io
 127.0.0.1 sync.bfmio.com
+127.0.0.1 sync.bumlam.com
 127.0.0.1 sync.colossusssp.com
+127.0.0.1 sync.dmp.otm-r.com
 127.0.0.1 sync.go.sonobi.com
 127.0.0.1 sync.richaudience.com
 127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 sync.smartadserver.com
+127.0.0.1 sync.upravel.com
+127.0.0.1 t.adx.opera.com
 127.0.0.1 t.contentsquare.net
 127.0.0.1 t.imgur.com
 127.0.0.1 tag.1rx.io
@@ -1227,6 +1258,9 @@
 127.0.0.1 x.bidswitch.net
 127.0.0.1 x.clearbitjs.com
 127.0.0.1 x.everestop.io
+127.0.0.1 x01.aidata.io
+127.0.0.1 yandex-dmp-sync.rutarget.ru
+127.0.0.1 yandex-sync.rutarget.ru
 127.0.0.1 yandexadexchange.net
 127.0.0.1 ymetrica1.com
 127.0.0.1 youtube.cleverads.vn
