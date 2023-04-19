@@ -1,4 +1,4 @@
-# Turkish Ad Hosts for Adblockers  
+#Turkish Ad Hosts for Adblockers  
   
 ## [EN] THE MANIFEST:  
 - Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...  
