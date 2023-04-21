@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230420
+# Version: 230421
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -32,6 +32,8 @@
 127.0.0.1 12730450.fls.doubleclick.net
 127.0.0.1 209176.hit.gemius.pl
 127.0.0.1 2542116.fls.doubleclick.net
+127.0.0.1 3p-geo.yahoo.com
+127.0.0.1 3p-udc.yahoo.com
 127.0.0.1 4431932.fls.doubleclick.net
 127.0.0.1 510002161.collect.igodigital.com
 127.0.0.1 5371908.fls.doubleclick.net
@@ -142,6 +144,7 @@
 127.0.0.1 ak.sail-horizon.com
 127.0.0.1 aksigorta.api.useinsider.com
 127.0.0.1 alb.reddit.com
+127.0.0.1 aloofvest.com
 127.0.0.1 amazonaax.com
 127.0.0.1 amazonclix.com
 127.0.0.1 amer.hhkld.com
@@ -181,6 +184,8 @@
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 api.brs.intl.miui.com
 127.0.0.1 api.dataroid.com
+127.0.0.1 api.eu1.exponea.com
+127.0.0.1 api.exponea.com
 127.0.0.1 api.fouanalytics.com
 127.0.0.1 api.instabug.com
 127.0.0.1 api.leanplum.com
@@ -231,6 +236,7 @@
 127.0.0.1 b-code.liadm.com
 127.0.0.1 baltar.dimml.io
 127.0.0.1 basher.ezodn.com
+127.0.0.1 bats.video.yahoo.com
 127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 beacon.riskified.com
 127.0.0.1 beacon.wikia-services.com
@@ -259,6 +265,7 @@
 127.0.0.1 c.aaxads.com
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 c.go-mpulse.net
+127.0.0.1 c.pubguru.net
 127.0.0.1 c.statcounter.com
 127.0.0.1 c2.taboola.com
 127.0.0.1 c3.taboola.com
@@ -310,6 +317,7 @@
 127.0.0.1 cdn.mxpnl.com
 127.0.0.1 cdn.netmera-web.com
 127.0.0.1 cdn.onesignal.com
+127.0.0.1 cdn.optmn.cloud
 127.0.0.1 cdn.oremark.com
 127.0.0.1 cdn.otnolatrnup.com
 127.0.0.1 cdn.pendo.io
@@ -608,6 +616,7 @@
 127.0.0.1 eus.rubiconproject.com
 127.0.0.1 euw-ice.360yield.com
 127.0.0.1 event-collector.analytics.onedio.com
+127.0.0.1 events.apester.com
 127.0.0.1 events.bitaksi.com
 127.0.0.1 events.getirapi.com
 127.0.0.1 events.getsitectrl.com
@@ -747,6 +756,7 @@
 127.0.0.1 istatistik.gazetevatan.com
 127.0.0.1 istatistik.trthaber.com
 127.0.0.1 j.6sc.co
+127.0.0.1 jill.fc.yahoo.com
 127.0.0.1 js.adara.com
 127.0.0.1 js.adsrvr.org
 127.0.0.1 js.agkn.com
@@ -829,6 +839,7 @@
 127.0.0.1 metrics3.data.hicloud.com
 127.0.0.1 metrics4.data.hicloud.com
 127.0.0.1 metrics5.data.hicloud.com
+127.0.0.1 micro.rubiconproject.com
 127.0.0.1 mitdmp.whiteboxdigital.ru
 127.0.0.1 mobile.eum-appdynamics.com
 127.0.0.1 mobile.pipe.aria.microsoft.com
@@ -1148,6 +1159,7 @@
 127.0.0.1 td.doubleclick.net
 127.0.0.1 teknosa.api.useinsider.com
 127.0.0.1 tempest.services.disqus.com
+127.0.0.1 tg1.aniview.com
 127.0.0.1 tg1.playstream.media
 127.0.0.1 tlx.3lift.com
 127.0.0.1 tme.112.2o7.net
