@@ -250,6 +250,7 @@
 127.0.0.1 beacons4.gvt2.com
 127.0.0.1 beacons5.gvt2.com
 127.0.0.1 beacons5.gvt3.com
+127.0.0.1 bedsberry.com
 127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 bid.underdog.media
 127.0.0.1 bidder.criteo.com
@@ -325,6 +326,7 @@
 127.0.0.1 cdn.pendo.io
 127.0.0.1 cdn.personaclick.com
 127.0.0.1 cdn.preciso.net
+127.0.0.1 cdn.purpleads.io
 127.0.0.1 cdn.pushwoosh.com
 127.0.0.1 cdn.rudderlabs.com
 127.0.0.1 cdn.scarabresearch.com
@@ -740,6 +742,7 @@
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 img.3633a.com
 127.0.0.1 img.ekstat.com
+127.0.0.1 img.zemanta.com
 127.0.0.1 in.appcenter.ms
 127.0.0.1 inapps.appsflyer.com
 127.0.0.1 insight.adsrvr.org
@@ -773,6 +776,7 @@
 127.0.0.1 js.tagon.co
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 js-sec.indexww.com
+127.0.0.1 jsc.adskeeper.co.uk
 127.0.0.1 jsc.adskeeper.com
 127.0.0.1 jsc.idealmedia.io
 127.0.0.1 json.geoiplookup.io
