@@ -35,6 +35,7 @@
 127.0.0.1 3p-geo.yahoo.com
 127.0.0.1 3p-udc.yahoo.com
 127.0.0.1 4431932.fls.doubleclick.net
+127.0.0.1 4876222.fls.doubleclick.net
 127.0.0.1 510002161.collect.igodigital.com
 127.0.0.1 5371908.fls.doubleclick.net
 127.0.0.1 5548155.fls.doubleclick.net
@@ -48,6 +49,7 @@
 127.0.0.1 8881img.com
 127.0.0.1 9012846.fls.doubleclick.net
 127.0.0.1 9145021.fls.doubleclick.net
+127.0.0.1 9410245.fls.doubleclick.net
 127.0.0.1 9790515.fls.doubleclick.net
 127.0.0.1 a.ad.gt
 127.0.0.1 a.appbaqend.com
@@ -439,6 +441,7 @@
 127.0.0.1 data.sec.intl.miui.com
 127.0.0.1 datacollection.beymen.com
 127.0.0.1 datacollector-dre.dt.hicloud.com
+127.0.0.1 dbfukofby5ycr.cloudfront.net
 127.0.0.1 dc.ads.linkedin.com
 127.0.0.1 dcetr3.segmentify.com
 127.0.0.1 decide.mixpanel.com
@@ -466,6 +469,7 @@
 127.0.0.1 dominantroute.com
 127.0.0.1 doubleclick.net
 127.0.0.1 dpm.demdex.net
+127.0.0.1 dr.api.useinsider.com
 127.0.0.1 dr6.biz
 127.0.0.1 dt.adsafeprotected.com
 127.0.0.1 dtm-dre.platform.dbankcloud.cn
@@ -740,6 +744,7 @@
 127.0.0.1 inapps.appsflyer.com
 127.0.0.1 insight.adsrvr.org
 127.0.0.1 insights.algolia.io
+127.0.0.1 insights.sitesearch360.com
 127.0.0.1 instant.page
 127.0.0.1 intake-analytics.wikimedia.org
 127.0.0.1 intake-logging.wikimedia.org
@@ -806,6 +811,7 @@
 127.0.0.1 macro.adnami.io
 127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 mail-ads.google.com
+127.0.0.1 mainadv.com
 127.0.0.1 manager.smartlook.com
 127.0.0.1 marfeel-d.openx.net
 127.0.0.1 match.360yield.com
@@ -1048,6 +1054,7 @@
 127.0.0.1 seal.globalsign.com
 127.0.0.1 secure.adnxs.com
 127.0.0.1 secure.quantserve.com
+127.0.0.1 secure.statcounter.com
 127.0.0.1 secure-assets.rubiconproject.com
 127.0.0.1 secureads.g.doubleclick.net
 127.0.0.1 securemetrics.apple.com
@@ -1152,6 +1159,7 @@
 127.0.0.1 tagan.adlightning.com
 127.0.0.1 tags.bluekai.com
 127.0.0.1 tags.bkrtx.com
+127.0.0.1 tags.creativecdn.com
 127.0.0.1 tags.tiqcdn.com
 127.0.0.1 tags-cdn.deployads.com
 127.0.0.1 targetemsecure.blob.core.windows.net
@@ -1262,6 +1270,7 @@
 127.0.0.1 www.googleoptimize.com
 127.0.0.1 www.howmanyview.com
 127.0.0.1 www.linkconnector.com
+127.0.0.1 www.mainadv.com
 127.0.0.1 www.mczbf.com
 127.0.0.1 www.profitabledisplaycontent.com
 127.0.0.1 www.toplist.cz
