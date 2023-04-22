@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230421
+# Version: 230422
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -258,6 +258,7 @@
 127.0.0.1 bigrourg.net
 127.0.0.1 brightcombid.marphezis.com
 127.0.0.1 browser.events.data.microsoft.com
+127.0.0.1 browser.pipe.aria.microsoft.com
 127.0.0.1 browser-http-intake.logs.datadoghq.com
 127.0.0.1 browser-http-intake.logs.datadoghq.eu
 127.0.0.1 browser-update.org
@@ -371,6 +372,7 @@
 127.0.0.1 click.oneplus.com
 127.0.0.1 clicks.hurriyet.com.tr
 127.0.0.1 clickserv.sitescout.com
+127.0.0.1 clientcdn.pushengage.com
 127.0.0.1 client-registry.mutinycdn.com
 127.0.0.1 cloudfront-labs.amazonaws.com
 127.0.0.1 cm.adform.net
@@ -467,6 +469,7 @@
 127.0.0.1 dmp.adform.net
 127.0.0.1 dmx.districtm.io
 127.0.0.1 dmxleo.dailymotion.com
+127.0.0.1 dn6rwwtxa647p.cloudfront.net
 127.0.0.1 dogus-ads-cdn.dygdigital.com
 127.0.0.1 dominantroute.com
 127.0.0.1 doubleclick.net
@@ -861,6 +864,7 @@
 127.0.0.1 mon.tiktokv.com
 127.0.0.1 mon-va.byteoversea.com
 127.0.0.1 mon-va.tiktokv.com
+127.0.0.1 monitor.clickcease.com
 127.0.0.1 monorail-edge.shopifysvc.com
 127.0.0.1 motor1.push4site.com
 127.0.0.1 mouseflow.com
@@ -1108,6 +1112,7 @@
 127.0.0.1 static.adsafeprotected.com
 127.0.0.1 static.cbox.ws
 127.0.0.1 static.chartbeat.com
+127.0.0.1 static.clevertap.com
 127.0.0.1 static.cloudflareinsights.com
 127.0.0.1 static.criteo.net
 127.0.0.1 static.doubleclick.net
