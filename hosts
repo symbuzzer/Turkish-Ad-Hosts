@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230422
+# Version: 230423
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -214,6 +214,7 @@
 127.0.0.1 app.gelirartisi.com
 127.0.0.1 app.intergient.com
 127.0.0.1 app.networkad.net
+127.0.0.1 app.posthog.com
 127.0.0.1 app.tr.adjust.com
 127.0.0.1 app-analytics-v2.snapchat.com
 127.0.0.1 app-measurement.com
@@ -329,6 +330,7 @@
 127.0.0.1 cdn.preciso.net
 127.0.0.1 cdn.purpleads.io
 127.0.0.1 cdn.pushwoosh.com
+127.0.0.1 cdn.requestmetrics.com
 127.0.0.1 cdn.rudderlabs.com
 127.0.0.1 cdn.scarabresearch.com
 127.0.0.1 cdn.segment.com
@@ -715,6 +717,7 @@
 127.0.0.1 hit.gemius.pl
 127.0.0.1 hit.mynet.com
 127.0.0.1 hits.acunn.com
+127.0.0.1 hits.informer.com
 127.0.0.1 hits.tv8.com.tr
 127.0.0.1 hits-i.iubenda.com
 127.0.0.1 hm.baidu.com
@@ -1108,6 +1111,7 @@
 127.0.0.1 startup.mobile.webvisor.com
 127.0.0.1 startup.mobile.yandex.net
 127.0.0.1 statcounter.com
+127.0.0.1 statsforads.com
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 static.adsafeprotected.com
 127.0.0.1 static.cbox.ws
@@ -1205,6 +1209,7 @@
 127.0.0.1 tracking.mubi.com
 127.0.0.1 tracking.olx-st.com
 127.0.0.1 tracking.rus.miui.com
+127.0.0.1 trgde.adocean.pl
 127.0.0.1 trk.indoleads.com
 127.0.0.1 trk.pinterest.com
 127.0.0.1 trk.storyly.io
@@ -1282,6 +1287,7 @@
 127.0.0.1 www.mainadv.com
 127.0.0.1 www.mczbf.com
 127.0.0.1 www.profitabledisplaycontent.com
+127.0.0.1 www.statsforads.com
 127.0.0.1 www.toplist.cz
 127.0.0.1 www.visariomedia.com
 127.0.0.1 wyhifdpatl.com
