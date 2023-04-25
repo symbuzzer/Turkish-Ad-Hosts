@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230423
+# Version: 230425
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -52,9 +52,11 @@
 127.0.0.1 9410245.fls.doubleclick.net
 127.0.0.1 9790515.fls.doubleclick.net
 127.0.0.1 a.ad.gt
+127.0.0.1 a.adtng.com
 127.0.0.1 a.appbaqend.com
 127.0.0.1 a.applovin.com
 127.0.0.1 a.doganburda.com
+127.0.0.1 a.jhfhdkhkh.site
 127.0.0.1 a.mouseflow.com
 127.0.0.1 a.omappapi.com
 127.0.0.1 a.pub.network
@@ -157,6 +159,7 @@
 127.0.0.1 an.yandex.ru
 127.0.0.1 analytics.archive.org
 127.0.0.1 analytics.callbell.eu
+127.0.0.1 analytics.cdn.live
 127.0.0.1 analytics.dugun.com
 127.0.0.1 analytics.facebook.com
 127.0.0.1 analytics.google.com
@@ -257,6 +260,7 @@
 127.0.0.1 bidder.criteo.com
 127.0.0.1 biddr.brealtime.com
 127.0.0.1 bigrourg.net
+127.0.0.1 bngdyn.com
 127.0.0.1 brightcombid.marphezis.com
 127.0.0.1 browser.events.data.microsoft.com
 127.0.0.1 browser.pipe.aria.microsoft.com
@@ -276,6 +280,7 @@
 127.0.0.1 c3.taboola.com
 127.0.0.1 cacheorcheck.mopinion.com
 127.0.0.1 cafemedia-com.videoplayerhub.com
+127.0.0.1 camschat.net
 127.0.0.1 capi.connatix.com
 127.0.0.1 capture.trackjs.com
 127.0.0.1 carvecakes.com
@@ -377,6 +382,7 @@
 127.0.0.1 clientcdn.pushengage.com
 127.0.0.1 client-registry.mutinycdn.com
 127.0.0.1 cloudfront-labs.amazonaws.com
+127.0.0.1 cluster.awmdelivery.com
 127.0.0.1 cm.adform.net
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cm.mgid.com
@@ -411,6 +417,7 @@
 127.0.0.1 countly.fibabanka.com.tr
 127.0.0.1 countly.iyzico.com
 127.0.0.1 cp.pushwoosh.com
+127.0.0.1 creative.xlirdr.com
 127.0.0.1 creativecdn.com
 127.0.0.1 cs.admanmedia.com
 127.0.0.1 cs.luckyorange.net
@@ -439,6 +446,7 @@
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d35u1vg1q28b3w.cloudfront.net
 127.0.0.1 d3j3yrurxcqogk.cloudfront.net
+127.0.0.1 d3t87ooo0697p8.cloudfront.net
 127.0.0.1 data.flurry.com
 127.0.0.1 data.mistat.india.xiaomi.com
 127.0.0.1 data.mistat.intl.xiaomi.com
@@ -1100,6 +1108,7 @@
 127.0.0.1 ssc-cms.33across.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 sslwidget.criteo.com
+127.0.0.1 ssm.codes
 127.0.0.1 ssp.programattik.com
 127.0.0.1 ssp-sync.criteo.com
 127.0.0.1 ssum.casalemedia.com
@@ -1198,6 +1207,7 @@
 127.0.0.1 tr.lib.dengage.com
 127.0.0.1 tr.snapchat.com
 127.0.0.1 track.adform.net
+127.0.0.1 track.appsflyer.com
 127.0.0.1 track.mailerlite.com
 127.0.0.1 track.wattpad.com
 127.0.0.1 track1.aniview.com
@@ -1249,6 +1259,8 @@
 127.0.0.1 vsh.visilabs.net
 127.0.0.1 w.usabilla.com
 127.0.0.1 w1.luckyorange.com
+127.0.0.1 w3-reporting.reddit.com
+127.0.0.1 w3-reporting-nel.reddit.com
 127.0.0.1 web.webpushs.com
 127.0.0.1 webanalytics.logitechg.com
 127.0.0.1 websdk.appsflyer.com
