@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230425
+# Version: 230430
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -277,6 +277,7 @@
 127.0.0.1 c.pubguru.net
 127.0.0.1 c.statcounter.com
 127.0.0.1 c2.taboola.com
+127.0.0.1 c2shb.pubgw.yahoo.com
 127.0.0.1 c3.taboola.com
 127.0.0.1 cacheorcheck.mopinion.com
 127.0.0.1 cafemedia-com.videoplayerhub.com
@@ -292,6 +293,7 @@
 127.0.0.1 cdn.adhouse.pro
 127.0.0.1 cdn.adpushup.com
 127.0.0.1 cdn.adsafeprotected.com
+127.0.0.1 cdn.adsninja.ca
 127.0.0.1 cdn.adtarget.com.tr
 127.0.0.1 cdn.afp.ai
 127.0.0.1 cdn.amplitude.com
@@ -335,6 +337,7 @@
 127.0.0.1 cdn.preciso.net
 127.0.0.1 cdn.purpleads.io
 127.0.0.1 cdn.pushwoosh.com
+127.0.0.1 cdn.quantummetric.com
 127.0.0.1 cdn.requestmetrics.com
 127.0.0.1 cdn.rudderlabs.com
 127.0.0.1 cdn.scarabresearch.com
@@ -350,6 +353,7 @@
 127.0.0.1 cdn.thequin.ai
 127.0.0.1 cdn.unblockia.com
 127.0.0.1 cdn.valuad.cloud
+127.0.0.1 cdn.webpushr.com
 127.0.0.1 cdn.yourwebbars.com
 127.0.0.1 cdn-api.admost.com
 127.0.0.1 cdn-header-bidding.snack-media.com
@@ -480,6 +484,7 @@
 127.0.0.1 dmx.districtm.io
 127.0.0.1 dmxleo.dailymotion.com
 127.0.0.1 dn6rwwtxa647p.cloudfront.net
+127.0.0.1 dnhfi5nn2dt67.cloudfront.net
 127.0.0.1 dogus-ads-cdn.dygdigital.com
 127.0.0.1 dominantroute.com
 127.0.0.1 doubleclick.net
@@ -637,6 +642,7 @@
 127.0.0.1 event-collector.analytics.onedio.com
 127.0.0.1 events.apester.com
 127.0.0.1 events.bitaksi.com
+127.0.0.1 events.browsiprod.com
 127.0.0.1 events.getirapi.com
 127.0.0.1 events.getsitectrl.com
 127.0.0.1 events.jotform.com
@@ -660,6 +666,7 @@
 127.0.0.1 firebase-settings.crashlytics.com
 127.0.0.1 fiverr.ck-cdn.com
 127.0.0.1 flash.sec.intl.miui.com
+127.0.0.1 fls.doubleclick.net
 127.0.0.1 fls-na.amazon.com
 127.0.0.1 fourier.taobao.com
 127.0.0.1 fonts.mopinion.com
@@ -803,6 +810,7 @@
 127.0.0.1 l.sharethis.com
 127.0.0.1 laquesis.data.olxcdn.com
 127.0.0.1 launches.appsflyer.com
+127.0.0.1 lenovo.demdex.net
 127.0.0.1 lexicon.33across.com
 127.0.0.1 lgr.visilabs.net
 127.0.0.1 lider90.com
@@ -821,6 +829,7 @@
 127.0.0.1 logsink.zedge.net
 127.0.0.1 ls.hit.gemius.pl
 127.0.0.1 lu9xve2c97l898gjjxv4.ballercap.com
+127.0.0.1 lu9xve2c97l898gjjxv4.instantlymodern.com
 127.0.0.1 luckyorange.com
 127.0.0.1 m.addthis.com
 127.0.0.1 m.doubleclick.net
@@ -852,6 +861,7 @@
 127.0.0.1 medyanative.com
 127.0.0.1 medyanet-com-tr.videoplayerhub.com
 127.0.0.1 metrics.apple.com
+127.0.0.1 metrics.brightcove.com
 127.0.0.1 metrics.data.hicloud.com
 127.0.0.1 metrics.fitanalytics.com
 127.0.0.1 metrics.icloud.com
@@ -899,13 +909,16 @@
 127.0.0.1 ntvsporweb.api.useinsider.com
 127.0.0.1 nvidiacorp.us-5.evergage.com
 127.0.0.1 o.gez.io
-127.0.0.1 o33249.ingest.sentry.io
-127.0.0.1 o64293.ingest.sentry.io
 127.0.0.1 o109294.ingest.sentry.io
-127.0.0.1 o244019.ingest.sentry.io
-127.0.0.1 o516780.ingest.sentry.io
 127.0.0.1 o1142666.ingest.sentry.io
 127.0.0.1 o1277943.ingest.sentry.io
+127.0.0.1 o244019.ingest.sentry.io
+127.0.0.1 o33249.ingest.sentry.io
+127.0.0.1 o418887.ingest.sentry.io
+127.0.0.1 o516780.ingest.sentry.io
+127.0.0.1 o55978.ingest.sentry.io
+127.0.0.1 o64293.ingest.sentry.io
+127.0.0.1 odb.outbrain.com
 127.0.0.1 offer.slgnt.eu
 127.0.0.1 omclyzyapf.com
 127.0.0.1 onetag-sys.com
@@ -926,6 +939,9 @@
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 partner-api.jobbio.com
 127.0.0.1 partnerlinks.io
+127.0.0.1 path1.xtracloud.net
+127.0.0.1 path2.xtracloud.net
+127.0.0.1 path3.xtracloud.net
 127.0.0.1 pcdn.dengage.com
 127.0.0.1 pebed.dm-event.net
 127.0.0.1 pegasus.api.useinsider.com
@@ -1079,6 +1095,7 @@
 127.0.0.1 securemetrics.apple.com
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 seg.ad.gt
+127.0.0.1 segment-data-us-east.zqtk.net
 127.0.0.1 sentry.appodeal.com
 127.0.0.1 sentry.io
 127.0.0.1 serv.nspot.co
@@ -1115,6 +1132,7 @@
 127.0.0.1 ssum-sec.casalemedia.com
 127.0.0.1 st.top100.ru
 127.0.0.1 st-n.ads1-adnow.com
+127.0.0.1 stag-core.tfla.xyz
 127.0.0.1 stagepopkek.com
 127.0.0.1 stags.bluekai.com
 127.0.0.1 startup.mobile.webvisor.com
@@ -1137,6 +1155,7 @@
 127.0.0.1 static.onedio.com
 127.0.0.1 static.trafficjunky.com
 127.0.0.1 static.virgul.com
+127.0.0.1 static.yieldmo.com
 127.0.0.1 statics.esputnik.com
 127.0.0.1 statics.olx.com.tr
 127.0.0.1 statistics.daktilo.com
@@ -1159,6 +1178,7 @@
 127.0.0.1 supportmetrics.apple.com
 127.0.0.1 svibeacon.onezapp.com
 127.0.0.1 sync.1dmp.io
+127.0.0.1 sync.1rx.io
 127.0.0.1 sync.bfmio.com
 127.0.0.1 sync.bumlam.com
 127.0.0.1 sync.colossusssp.com
@@ -1169,9 +1189,11 @@
 127.0.0.1 sync.smartadserver.com
 127.0.0.1 sync.upravel.com
 127.0.0.1 t.adx.opera.com
+127.0.0.1 t.apkpure.net
 127.0.0.1 t.contentsquare.net
 127.0.0.1 t.imgur.com
 127.0.0.1 tag.1rx.io
+127.0.0.1 tag.bounceexchange.com
 127.0.0.1 tag.clearbitscripts.com
 127.0.0.1 tag.crsspxl.com
 127.0.0.1 tag.demandbase.com
@@ -1230,6 +1252,7 @@
 127.0.0.1 u.openx.net
 127.0.0.1 u.startup.mobile.webvisor.com
 127.0.0.1 u1102.com
+127.0.0.1 u10506.19.spylog.com
 127.0.0.1 udmserve.net
 127.0.0.1 unagi.amazon.com.tr
 127.0.0.1 unagi-eu.amazon.com
@@ -1281,9 +1304,11 @@
 127.0.0.1 wuzbhjpvsf.com
 127.0.0.1 www5.cbox.ws
 127.0.0.1 www.artfut.com
+127.0.0.1 www.blockadsnot.com
 127.0.0.1 www.cdn.ad.xiaomi.com
 127.0.0.1 www.clarity.ms
 127.0.0.1 www.datadoghq-browser-agent.com
+127.0.0.1 www.dianomi.com
 127.0.0.1 www.disploot.com
 127.0.0.1 www.doubleclick.net
 127.0.0.1 www.dwin1.com
@@ -1312,6 +1337,7 @@
 127.0.0.1 yandex-dmp-sync.rutarget.ru
 127.0.0.1 yandex-sync.rutarget.ru
 127.0.0.1 yandexadexchange.net
+127.0.0.1 yield-manager.browsiprod.com
 127.0.0.1 ymetrica1.com
 127.0.0.1 youtube.cleverads.vn
 127.0.0.1 z.moatads.com
