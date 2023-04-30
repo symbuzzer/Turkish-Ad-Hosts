@@ -11,4 +11,4 @@
 - You can see install and uninstall guide from [Wiki page](https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki)  
   
 --------------------
-[DOWNLOAD / İNDİR](https://github.com/symbuzzer/Turkish-Ad-Hosts/releases)
+[İNDİR / DOWNLOAD](https://github.com/symbuzzer/Turkish-Ad-Hosts/releases)
