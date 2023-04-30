@@ -16,4 +16,4 @@
   
 -----------------
   
-[DOWNLOAD / İNDİR](https://github.com/symbuzzer/Turkish-Ad-Hosts/releases)
+[İNDİR / DOWNLOAD](https://github.com/symbuzzer/Turkish-Ad-Hosts/releases)
