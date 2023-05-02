@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230430
+# Version: 230502
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -85,6 +85,7 @@
 127.0.0.1 ad.vidverto.io
 127.0.0.1 ad-cdn.bilgin.pro
 127.0.0.1 ad01.tmgrup.com.tr
+127.0.0.1 adbsmetrics.hyundai.com
 127.0.0.1 ade.googlesyndication.com
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 adform.net
@@ -188,6 +189,7 @@
 127.0.0.1 api.ad.intl.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 api.brs.intl.miui.com
+127.0.0.1 api.btloader.com
 127.0.0.1 api.dataroid.com
 127.0.0.1 api.eu1.exponea.com
 127.0.0.1 api.exponea.com
@@ -238,6 +240,7 @@
 127.0.0.1 authbe.sec.intl.miui.com
 127.0.0.1 avhtaapxml.com
 127.0.0.1 avlsh.visilabs.net
+127.0.0.1 b.pub.network
 127.0.0.1 b.stats.paypal.com
 127.0.0.1 b-code.liadm.com
 127.0.0.1 baltar.dimml.io
@@ -274,6 +277,7 @@
 127.0.0.1 c.aaxads.com
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 c.go-mpulse.net
+127.0.0.1 c.pub.network
 127.0.0.1 c.pubguru.net
 127.0.0.1 c.statcounter.com
 127.0.0.1 c2.taboola.com
@@ -312,6 +316,8 @@
 127.0.0.1 cdn.efilli.com
 127.0.0.1 cdn.eksiup.com
 127.0.0.1 cdn.fastclick.net
+127.0.0.1 cdn.feedify.net
+127.0.0.1 cdn.firstimpression.io
 127.0.0.1 cdn.firstpromoter.com
 127.0.0.1 cdn.heapanalytics.com
 127.0.0.1 cdn.id5-sync.com
@@ -404,6 +410,7 @@
 127.0.0.1 collector.wawlabs.com
 127.0.0.1 collector-1054.tvsquared.com
 127.0.0.1 commercialvalue.org
+127.0.0.1 confiant-integrations.global.ssl.fastly.net
 127.0.0.1 config.samsungads.com
 127.0.0.1 config.uca.cloud.unity3d.com
 127.0.0.1 config.unityads.unity3d.com
@@ -436,6 +443,7 @@
 127.0.0.1 d.applvn.com
 127.0.0.1 d.email.forbes.com
 127.0.0.1 d.haberler.com
+127.0.0.1 d.pub.network
 127.0.0.1 d.reddit.com
 127.0.0.1 d.sondakika.com
 127.0.0.1 d.turn.com
@@ -737,12 +745,14 @@
 127.0.0.1 hits-i.iubenda.com
 127.0.0.1 hm.baidu.com
 127.0.0.1 hodor-collect.arabam.com
+127.0.0.1 hondaturkey.api.useinsider.com
 127.0.0.1 hotjar.com
 127.0.0.1 howmanyview.com
 127.0.0.1 hstats.hepsiburada.com
 127.0.0.1 hstatstest.hepsiburada.com
 127.0.0.1 htlb.casalemedia.com
 127.0.0.1 hurriyet.api.useinsider.com
+127.0.0.1 hyundaitr.api.useinsider.com
 127.0.0.1 i.ctnsnet.com
 127.0.0.1 i.isnssdk.com
 127.0.0.1 i.loopme.me
@@ -803,6 +813,7 @@
 127.0.0.1 json.geoiplookup.io
 127.0.0.1 jsonip.com
 127.0.0.1 k.intellitxt.com
+127.0.0.1 kia.selphiu.com
 127.0.0.1 kimberlite.io
 127.0.0.1 kinja-com.videoplayerhub.com
 127.0.0.1 krk.kargo.com
@@ -918,6 +929,7 @@
 127.0.0.1 o516780.ingest.sentry.io
 127.0.0.1 o55978.ingest.sentry.io
 127.0.0.1 o64293.ingest.sentry.io
+127.0.0.1 o83571.ingest.sentry.io
 127.0.0.1 odb.outbrain.com
 127.0.0.1 offer.slgnt.eu
 127.0.0.1 omclyzyapf.com
@@ -1030,6 +1042,7 @@
 127.0.0.1 rot.spotsniper.ru
 127.0.0.1 rotarb.bid
 127.0.0.1 router.miwifi.com
+127.0.0.1 rpc-php.trafficfactory.biz
 127.0.0.1 rr3s4p9hfoptgmhna.ay.delivery
 127.0.0.1 rt.applovin.com
 127.0.0.1 rt.applvn.com
@@ -1047,7 +1060,9 @@
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 s.btstatic.com
 127.0.0.1 s.go-mpulse.net
+127.0.0.1 s.nitropay.com
 127.0.0.1 s.ntv.io
+127.0.0.1 s.orbsrv.com
 127.0.0.1 s.perzonalization.com
 127.0.0.1 s.seedtag.com
 127.0.0.1 s.uuidksinc.net
@@ -1130,6 +1145,7 @@
 127.0.0.1 ssp-sync.criteo.com
 127.0.0.1 ssum.casalemedia.com
 127.0.0.1 ssum-sec.casalemedia.com
+127.0.0.1 st.dynamicyield.com
 127.0.0.1 st.top100.ru
 127.0.0.1 st-n.ads1-adnow.com
 127.0.0.1 stag-core.tfla.xyz
@@ -1297,6 +1313,7 @@
 127.0.0.1 widgets.outbrain.com
 127.0.0.1 widgets.pinterest.com
 127.0.0.1 wikihow-com.videoplayerhub.com
+127.0.0.1 write.trackonomics.net
 127.0.0.1 ws.batch.com
 127.0.0.1 ws.sahibinden.com
 127.0.0.1 ws.sharethis.com
