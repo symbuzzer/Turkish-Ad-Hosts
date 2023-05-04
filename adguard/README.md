@@ -1,7 +1,7 @@
 # AdGuard DNS  
   
 ## [TR] GİRİŞ:
-- Turkish Ad Hosts projesinin blok listesi [AdGuard DNS](https://adguard-dns.io) tarafından resmi olarak kullanılmaktadır.
+- Turkish Ad Hosts projesinin engelleme listesi [AdGuard DNS](https://adguard-dns.io) tarafından resmi olarak kullanılmaktadır.
 - [AdGuard DNS](https://adguard-dns.io)'in cihazlarınız için nasıl ayarlanacağı ve kullanılacağı için lütfen [Wiki](https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki)'ye bakın.  
 - Bu klasör, [AdGuard DNS](https://adguard-dns.io) için [AdguardTeam/HostlistCompiler](https://github.com/AdguardTeam/HostlistCompiler) tarafından oluşturulan Adguard'a özgü filtre dosyasını ve üretim aşaması için konfigürasyon dosyasını içerir.  
   
