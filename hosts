@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230503
+# Version: 230504
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -97,6 +97,7 @@
 127.0.0.1 ads.avocet.io
 127.0.0.1 ads.betweendigital.com
 127.0.0.1 ads.dygdigital.com
+127.0.0.1 ads.ekstat.com
 127.0.0.1 ads.facebook.com
 127.0.0.1 ads.google.com
 127.0.0.1 ads.linkedin.com
@@ -280,6 +281,7 @@
 127.0.0.1 c.pub.network
 127.0.0.1 c.pubguru.net
 127.0.0.1 c.statcounter.com
+127.0.0.1 c1.microsoft.com
 127.0.0.1 c2.taboola.com
 127.0.0.1 c2shb.pubgw.yahoo.com
 127.0.0.1 c3.taboola.com
@@ -339,6 +341,7 @@
 127.0.0.1 cdn.oremark.com
 127.0.0.1 cdn.otnolatrnup.com
 127.0.0.1 cdn.pendo.io
+127.0.0.1 cdn.permutive.com
 127.0.0.1 cdn.personaclick.com
 127.0.0.1 cdn.preciso.net
 127.0.0.1 cdn.purpleads.io
@@ -355,6 +358,7 @@
 127.0.0.1 cdn.siftscience.com
 127.0.0.1 cdn.snigelweb.com
 127.0.0.1 cdn.speedcurve.com
+127.0.0.1 cdn.subscribers.com
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.thequin.ai
 127.0.0.1 cdn.unblockia.com
@@ -1345,6 +1349,7 @@
 127.0.0.1 www.profitabledisplaycontent.com
 127.0.0.1 www.statcounter.com
 127.0.0.1 www.statsforads.com
+127.0.0.1 www.summerhamster.com
 127.0.0.1 www.toplist.cz
 127.0.0.1 www.visariomedia.com
 127.0.0.1 wyhifdpatl.com
