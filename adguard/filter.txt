@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-05-04T19:04:25.937Z
+! Last modified: 2023-05-05T19:02:30.901Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -56,6 +56,7 @@
 ||adl.mynetreklam.com^
 ||ads.adfox.ru^
 ||ads.adthrive.com^
+||ads.assemblyexchange.com^
 ||ads.avocet.io^
 ||ads.betweendigital.com^
 ||ads.dygdigital.com^
@@ -505,6 +506,7 @@
 ||global.ketchcdn.com^
 ||global.proper.io^
 ||globalapi.ad.xiaomi.com^
+||globalsiteanalytics.com^
 ||godpvqnszo.com^
 ||google-analytics.com^
 ||googleadservices.com^
@@ -547,6 +549,7 @@
 ||hstats.hepsiburada.com^
 ||hstatstest.hepsiburada.com^
 ||htlb.casalemedia.com^
+||i.clean.gg^
 ||i.ctnsnet.com^
 ||i.isnssdk.com^
 ||i.loopme.me^
@@ -1057,6 +1060,7 @@
 ||www.effectivecreativeformat.com^
 ||www.everestjs.net^
 ||www.fastly-insights.com^
+||www.publisher-network.com^
 ||www.summerhamster.com^
 ||wyhifdpatl.com^
 ||wzrkt.com^
