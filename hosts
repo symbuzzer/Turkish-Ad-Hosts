@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230504
+# Version: 230505
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -94,6 +94,7 @@
 127.0.0.1 adl.mynetreklam.com
 127.0.0.1 ads.adfox.ru
 127.0.0.1 ads.adthrive.com
+127.0.0.1 ads.assemblyexchange.com
 127.0.0.1 ads.avocet.io
 127.0.0.1 ads.betweendigital.com
 127.0.0.1 ads.dygdigital.com
@@ -710,6 +711,7 @@
 127.0.0.1 global.ketchcdn.com
 127.0.0.1 global.proper.io
 127.0.0.1 globalapi.ad.xiaomi.com
+127.0.0.1 globalsiteanalytics.com
 127.0.0.1 go.ezodn.com
 127.0.0.1 godpvqnszo.com
 127.0.0.1 google-analytics.com
@@ -758,6 +760,7 @@
 127.0.0.1 htlb.casalemedia.com
 127.0.0.1 hurriyet.api.useinsider.com
 127.0.0.1 hyundaitr.api.useinsider.com
+127.0.0.1 i.clean.gg
 127.0.0.1 i.ctnsnet.com
 127.0.0.1 i.isnssdk.com
 127.0.0.1 i.loopme.me
@@ -931,6 +934,7 @@
 127.0.0.1 o244019.ingest.sentry.io
 127.0.0.1 o33249.ingest.sentry.io
 127.0.0.1 o418887.ingest.sentry.io
+127.0.0.1 o435357.ingest.sentry.io
 127.0.0.1 o516780.ingest.sentry.io
 127.0.0.1 o55978.ingest.sentry.io
 127.0.0.1 o64293.ingest.sentry.io
@@ -1347,6 +1351,7 @@
 127.0.0.1 www.mainadv.com
 127.0.0.1 www.mczbf.com
 127.0.0.1 www.profitabledisplaycontent.com
+127.0.0.1 www.publisher-network.com
 127.0.0.1 www.statcounter.com
 127.0.0.1 www.statsforads.com
 127.0.0.1 www.summerhamster.com
