@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230505
+# Version: 230506
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -260,6 +260,7 @@
 127.0.0.1 beacons5.gvt2.com
 127.0.0.1 beacons5.gvt3.com
 127.0.0.1 bedsberry.com
+127.0.0.1 bgtw.chimeratool.com
 127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 bid.underdog.media
 127.0.0.1 bidder.criteo.com
@@ -495,6 +496,7 @@
 127.0.0.1 dm.hybrid.ai
 127.0.0.1 dmg.digitaltarget.ru
 127.0.0.1 dmp.adform.net
+127.0.0.1 dmtracking2.alibaba.com
 127.0.0.1 dmx.districtm.io
 127.0.0.1 dmxleo.dailymotion.com
 127.0.0.1 dn6rwwtxa647p.cloudfront.net
@@ -707,6 +709,7 @@
 127.0.0.1 get.s-onetag.com
 127.0.0.1 ghb.adtelligent.com
 127.0.0.1 ghb.spotim.market
+127.0.0.1 gj.mmstat.com
 127.0.0.1 global.adserver.yahoo.com
 127.0.0.1 global.ketchcdn.com
 127.0.0.1 global.proper.io
@@ -912,6 +915,7 @@
 127.0.0.1 mp.subservis.com
 127.0.0.1 ms.applovin.com
 127.0.0.1 ms.applvn.com
+127.0.0.1 mscom.demdex.net
 127.0.0.1 mstm.motorsport.com
 127.0.0.1 mug.criteo.com
 127.0.0.1 munchkin.marketo.net
@@ -948,6 +952,7 @@
 127.0.0.1 otr.kaspersky.com
 127.0.0.1 ow.pubmatic.com
 127.0.0.1 owlcarousel2.github.io
+127.0.0.1 p.adsymptotic.com
 127.0.0.1 p.cpx.to
 127.0.0.1 p.imgur.com
 127.0.0.1 p.typekit.net
