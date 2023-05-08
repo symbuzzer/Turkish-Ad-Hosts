@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230507
+# Version: 230508
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -86,6 +86,7 @@
 127.0.0.1 ad-cdn.bilgin.pro
 127.0.0.1 ad01.tmgrup.com.tr
 127.0.0.1 adbsmetrics.hyundai.com
+127.0.0.1 addata.exxen.com
 127.0.0.1 ade.googlesyndication.com
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 adform.net
@@ -192,6 +193,7 @@
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 api.brs.intl.miui.com
 127.0.0.1 api.btloader.com
+127.0.0.1 api.company-target.com
 127.0.0.1 api.dataroid.com
 127.0.0.1 api.eu1.exponea.com
 127.0.0.1 api.exponea.com
@@ -279,6 +281,7 @@
 127.0.0.1 business.samsungusa.com
 127.0.0.1 c.aaxads.com
 127.0.0.1 c.amazon-adsystem.com
+127.0.0.1 c.gazetevatan.com
 127.0.0.1 c.go-mpulse.net
 127.0.0.1 c.pub.network
 127.0.0.1 c.pubguru.net
@@ -740,6 +743,8 @@
 127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 hdbcode.com
 127.0.0.1 hellosmpl.com
+127.0.0.1 hepsiads-bff.hepsiburada.com
+127.0.0.1 hepsiads-gw.hepsiburada.com
 127.0.0.1 hepsiads-ui.hepsiburada.com
 127.0.0.1 hepsiburada01.webtrekk.net
 127.0.0.1 hepsiburada01.wt-eu02.net
@@ -880,6 +885,7 @@
 127.0.0.1 media.net
 127.0.0.1 media.fastclick.net
 127.0.0.1 mediavisor.doubleclick.net
+127.0.0.1 medya.ilan.gov.tr.whecloud.com
 127.0.0.1 medyanative.com
 127.0.0.1 medyanet-com-tr.videoplayerhub.com
 127.0.0.1 metrics.apple.com
@@ -920,6 +926,7 @@
 127.0.0.1 mug.criteo.com
 127.0.0.1 munchkin.marketo.net
 127.0.0.1 mweb-hb.presage.io
+127.0.0.1 mynetreklam.com
 127.0.0.1 n0633.com
 127.0.0.1 nativespot.com
 127.0.0.1 netperform-is.vodafone.com.tr
@@ -1043,6 +1050,7 @@
 127.0.0.1 region1.app-measurement.com
 127.0.0.1 region1.google-analytics.com
 127.0.0.1 register.appsflyer.com
+127.0.0.1 rek.izlesene.com
 127.0.0.1 reklamup.com
 127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 rereddit.com
@@ -1183,6 +1191,7 @@
 127.0.0.1 static.lcwaikiki.com
 127.0.0.1 static.media.net
 127.0.0.1 static.onedio.com
+127.0.0.1 static.scarabresearch.com
 127.0.0.1 static.trafficjunky.com
 127.0.0.1 static.virgul.com
 127.0.0.1 static.yieldmo.com
