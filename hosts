@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230508
+# Version: 230509
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -37,6 +37,7 @@
 127.0.0.1 4431932.fls.doubleclick.net
 127.0.0.1 4876222.fls.doubleclick.net
 127.0.0.1 510002161.collect.igodigital.com
+127.0.0.1 536001645.collect.igodigital.com
 127.0.0.1 5371908.fls.doubleclick.net
 127.0.0.1 5548155.fls.doubleclick.net
 127.0.0.1 595tuchuang.com
@@ -1071,6 +1072,7 @@
 127.0.0.1 rt.flix360.com
 127.0.0.1 rt.visilabs.net
 127.0.0.1 rtb.openx.net
+127.0.0.1 rtb.gumgum.com
 127.0.0.1 rtb.programattik.com
 127.0.0.1 rules.quantcount.com
 127.0.0.1 rum.browser-intake-datadoghq.com
