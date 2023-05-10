@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230509
+# Version: 23050
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -411,11 +411,13 @@
 127.0.0.1 cn.app.chat.xiaomi.net
 127.0.0.1 cnnturk.api.useinsider.com
 127.0.0.1 cnt.trvdp.com
+127.0.0.1 code.createjs.com
 127.0.0.1 code.jivosite.com
 127.0.0.1 col.eum-appdynamics.com
 127.0.0.1 collect.dolap.com
 127.0.0.1 collect.trendyol.com
 127.0.0.1 collector.github.com
+127.0.0.1 collector.githubapp.com
 127.0.0.1 collector.puhutv.com
 127.0.0.1 collector.wawlabs.com
 127.0.0.1 collector-1054.tvsquared.com
@@ -485,6 +487,7 @@
 127.0.0.1 delivery-ci360.flypgs.com
 127.0.0.1 delivery.adrecover.com
 127.0.0.1 demo.criteo.com
+127.0.0.1 dengage-public-data-collector-proxy.burgan.com.tr
 127.0.0.1 depart.trinitymedia.ai
 127.0.0.1 deploy.mopinion.com
 127.0.0.1 device-metrics-us.amazon.com
@@ -657,6 +660,8 @@
 127.0.0.1 eturkcell.netmera.com
 127.0.0.1 eu-mobile.events.data.microsoft.com
 127.0.0.1 eum.instana.io
+127.0.0.1 eum.ing.com.tr
+127.0.0.1 eum.kuveytturk.com.tr
 127.0.0.1 eus.rubiconproject.com
 127.0.0.1 euw-ice.360yield.com
 127.0.0.1 event-collector.analytics.onedio.com
@@ -694,6 +699,7 @@
 127.0.0.1 foxpush.com
 127.0.0.1 fpnpmcdn.net
 127.0.0.1 fra1-ib.adnxs.com
+127.0.0.1 freegeoip.net
 127.0.0.1 freshmarketer.com
 127.0.0.1 friendshipmale.com
 127.0.0.1 futureplc-com.videoplayerhub.com
@@ -796,6 +802,7 @@
 127.0.0.1 insight.adsrvr.org
 127.0.0.1 insights.algolia.io
 127.0.0.1 insights.sitesearch360.com
+127.0.0.1 instana.fibabanka.com.tr
 127.0.0.1 instant.page
 127.0.0.1 intake-analytics.wikimedia.org
 127.0.0.1 intake-logging.wikimedia.org
@@ -869,6 +876,7 @@
 127.0.0.1 mainadv.com
 127.0.0.1 manager.smartlook.com
 127.0.0.1 marfeel-d.openx.net
+127.0.0.1 marketing.turkiyefinans.com.tr
 127.0.0.1 match.360yield.com
 127.0.0.1 match.adsrvr.org
 127.0.0.1 match.sharethrough.com
@@ -916,6 +924,7 @@
 127.0.0.1 mon-va.tiktokv.com
 127.0.0.1 monitor.clickcease.com
 127.0.0.1 monorail-edge.shopifysvc.com
+127.0.0.1 monu.delivery
 127.0.0.1 motor1.push4site.com
 127.0.0.1 mouseflow.com
 127.0.0.1 mp.4dex.io
@@ -1000,6 +1009,8 @@
 127.0.0.1 pixel.sitescout.com
 127.0.0.1 pixel.wp.com
 127.0.0.1 pixel-us-west.rubiconproject.com
+127.0.0.1 pixels.ingbank.com.tr
+127.0.0.1 pixels-1.ingbank.com.tr
 127.0.0.1 pl15371971.highcpmrevenuenetwork.com
 127.0.0.1 pl15373403.highcpmrevenuenetwork.com
 127.0.0.1 pl15413159.highcpmrevenuenetwork.com
@@ -1329,6 +1340,7 @@
 127.0.0.1 web.webpushs.com
 127.0.0.1 webanalytics.logitechg.com
 127.0.0.1 websdk.appsflyer.com
+127.0.0.1 webstats.garanti.com.tr
 127.0.0.1 whos.amung.us
 127.0.0.1 widget.cdn.vidyome.com
 127.0.0.1 widget.criteo.com
@@ -1388,4 +1400,5 @@
 127.0.0.1 youtube.cleverads.vn
 127.0.0.1 z.moatads.com
 127.0.0.1 z-na.amazon-adsystem.com
+127.0.0.1 zkustats.ziraatkatilim.com.tr
 # --- [ END ] --- #
