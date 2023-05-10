@@ -1,5 +1,11 @@
 # Turkish Ad Hosts for Adblockers  
   
+[İndir / Download](https://github.com/symbuzzer/Turkish-Ad-Hosts/releases)  
+[Wiki](https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki)
+Hosts: https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts  
+Filter: https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/adguard/filter.txt  
+  
+------------------------------------------
 ## [TR] MANİFESTO:  
 - Türkiye'de yaygın kullanılan mobil uygulamalardaki (ve muhtemelen WEB sayfalarındaki) izleme (ve beraberinde muhtemelen reklam) ağlarını engellemek için gerekli hosts dosyası...  
 - Ayrıca Türkiye'de popüler olarak kullanılan yabancı uygulamalar ve WEB sayfalarını da olabildiğince eklemeye çalışıyorum.  
