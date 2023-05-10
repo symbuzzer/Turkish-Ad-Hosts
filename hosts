@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 23050
+# Version: 230511
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -237,6 +237,7 @@
 127.0.0.1 assets.a-mo.net
 127.0.0.1 assets.api.useinsider.com
 127.0.0.1 assets.humanz.com
+127.0.0.1 assets.pubpowerplatform.io
 127.0.0.1 assets.revcontent.com
 127.0.0.1 assets.ubembed.com
 127.0.0.1 assoc-amazon.com
@@ -280,6 +281,7 @@
 127.0.0.1 btloader.com
 127.0.0.1 btlr.sharethrough.com
 127.0.0.1 business.samsungusa.com
+127.0.0.1 buttons-config.sharethis.com
 127.0.0.1 c.aaxads.com
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 c.gazetevatan.com
@@ -646,6 +648,7 @@
 127.0.0.1 e2cs59.gcp.gvt2.com
 127.0.0.1 e2cs60.gcp.gvt2.com
 127.0.0.1 e3.adpushup.com
+127.0.0.1 easycep.api.useinsider.com
 127.0.0.1 eb2.3lift.com
 127.0.0.1 eb42afa9716f.cdn4.forter.com
 127.0.0.1 ecdn.analysis.fi
@@ -765,6 +768,7 @@
 127.0.0.1 hits.informer.com
 127.0.0.1 hits.tv8.com.tr
 127.0.0.1 hits-i.iubenda.com
+127.0.0.1 hlmiq.com
 127.0.0.1 hm.baidu.com
 127.0.0.1 hodor-collect.arabam.com
 127.0.0.1 hondaturkey.api.useinsider.com
@@ -779,7 +783,6 @@
 127.0.0.1 i.ctnsnet.com
 127.0.0.1 i.isnssdk.com
 127.0.0.1 i.loopme.me
-127.0.0.1 l.sharethis.com
 127.0.0.1 ia.strmrdrfrokd.site
 127.0.0.1 ib.adnxs.com
 127.0.0.1 ic.strmrdrfrokd.site
@@ -834,6 +837,7 @@
 127.0.0.1 jsc.adskeeper.co.uk
 127.0.0.1 jsc.adskeeper.com
 127.0.0.1 jsc.idealmedia.io
+127.0.0.1 jsc.mgid.com
 127.0.0.1 json.geoiplookup.io
 127.0.0.1 jsonip.com
 127.0.0.1 k.intellitxt.com
@@ -931,6 +935,7 @@
 127.0.0.1 mp.subservis.com
 127.0.0.1 ms.applovin.com
 127.0.0.1 ms.applvn.com
+127.0.0.1 ms.pubpowerplatform.io
 127.0.0.1 mscom.demdex.net
 127.0.0.1 mstm.motorsport.com
 127.0.0.1 mug.criteo.com
@@ -939,6 +944,7 @@
 127.0.0.1 mynetreklam.com
 127.0.0.1 n0633.com
 127.0.0.1 nativespot.com
+127.0.0.1 nc.pubpowerplatform.io
 127.0.0.1 netperform-is.vodafone.com.tr
 127.0.0.1 news.2xclick.ru
 127.0.0.1 ninja.akamaized.net
@@ -951,6 +957,7 @@
 127.0.0.1 o.gez.io
 127.0.0.1 o109294.ingest.sentry.io
 127.0.0.1 o1142666.ingest.sentry.io
+127.0.0.1 o120089.ingest.sentry.io
 127.0.0.1 o1277943.ingest.sentry.io
 127.0.0.1 o244019.ingest.sentry.io
 127.0.0.1 o33249.ingest.sentry.io
@@ -1111,6 +1118,7 @@
 127.0.0.1 s2s.adjust.com
 127.0.0.1 s7.addthis.com
 127.0.0.1 s8t.teads.tv
+127.0.0.1 ss-pbs.quantumdex.io
 127.0.0.1 samsung-com.112.2o7.net
 127.0.0.1 samsungadhub.com
 127.0.0.1 samsungads.com
@@ -1214,6 +1222,7 @@
 127.0.0.1 stats.bannersnack.com
 127.0.0.1 stats.birgun.net
 127.0.0.1 stats.g.doubleclick.net
+127.0.0.1 stats.redditmedia.com
 127.0.0.1 stats.vidyome.com
 127.0.0.1 stats.vk-portal.net
 127.0.0.1 stats.vlitag.com
@@ -1236,6 +1245,7 @@
 127.0.0.1 sync.colossusssp.com
 127.0.0.1 sync.dmp.otm-r.com
 127.0.0.1 sync.go.sonobi.com
+127.0.0.1 sync.quantumdex.io
 127.0.0.1 sync.richaudience.com
 127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 sync.smartadserver.com
@@ -1282,6 +1292,7 @@
 127.0.0.1 tr.lib.dengage.com
 127.0.0.1 tr.snapchat.com
 127.0.0.1 track.adform.net
+127.0.0.1 track.analitycs.net
 127.0.0.1 track.appsflyer.com
 127.0.0.1 track.mailerlite.com
 127.0.0.1 track.wattpad.com
