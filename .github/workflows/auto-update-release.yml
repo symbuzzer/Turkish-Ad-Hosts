@@ -12,7 +12,7 @@ on:
     paths: ['hosts']
 
 env:  #ONLY CHANGE THESE 
-  ZIP_NAME: "Turkish-Ad-Hosts-Magisk-Module" #EX: Turkish-Ad-Hosts-Magisk-Module
+  ZIP_NAME: "turkish-ad-hosts-magisk-module" #EX: turkish-ad-hosts-magisk-module
   HOSTS_NAME: "Turkish-Ad-Hosts" #EX: Turkish-Ad-Hosts
   MODULE_NAME: "Turkish Ad Hosts" #EX: Turkish Ad Hosts
   MODULE_VER: "1.0.3" #EX: 1.0.0
