@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230511
+# Version: 230512
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -27,6 +27,7 @@
 127.0.0.1 10776882.fls.doubleclick.net
 127.0.0.1 10978247.fls.doubleclick.net
 127.0.0.1 10978658.fls.doubleclick.net
+127.0.0.1 12112336.pix-cdn.org
 127.0.0.1 12123059.fls.doubleclick.net
 127.0.0.1 12346775.fls.doubleclick.net
 127.0.0.1 12730450.fls.doubleclick.net
@@ -57,6 +58,7 @@
 127.0.0.1 a.appbaqend.com
 127.0.0.1 a.applovin.com
 127.0.0.1 a.doganburda.com
+127.0.0.1 a.exosrv.com
 127.0.0.1 a.jhfhdkhkh.site
 127.0.0.1 a.mouseflow.com
 127.0.0.1 a.omappapi.com
@@ -101,6 +103,7 @@
 127.0.0.1 ads.betweendigital.com
 127.0.0.1 ads.dygdigital.com
 127.0.0.1 ads.ekstat.com
+127.0.0.1 ads.exoclick.com
 127.0.0.1 ads.facebook.com
 127.0.0.1 ads.google.com
 127.0.0.1 ads.linkedin.com
@@ -250,6 +253,7 @@
 127.0.0.1 b.stats.paypal.com
 127.0.0.1 b-code.liadm.com
 127.0.0.1 baltar.dimml.io
+127.0.0.1 bande2az.com
 127.0.0.1 basher.ezodn.com
 127.0.0.1 bats.video.yahoo.com
 127.0.0.1 bcp.crwdcntrl.net
@@ -278,6 +282,7 @@
 127.0.0.1 browser-http-intake.logs.datadoghq.eu
 127.0.0.1 browser-update.org
 127.0.0.1 bs.serving-sys.com
+127.0.0.1 btds.zog.link
 127.0.0.1 btloader.com
 127.0.0.1 btlr.sharethrough.com
 127.0.0.1 business.samsungusa.com
@@ -700,6 +705,7 @@
 127.0.0.1 fonts.mopinion.com
 127.0.0.1 formulaonedigitalmedia.germany-2.evergage.com
 127.0.0.1 foxpush.com
+127.0.0.1 fp.metricswpsh.com
 127.0.0.1 fpnpmcdn.net
 127.0.0.1 fra1-ib.adnxs.com
 127.0.0.1 freegeoip.net
@@ -914,6 +920,7 @@
 127.0.0.1 metrics3.data.hicloud.com
 127.0.0.1 metrics4.data.hicloud.com
 127.0.0.1 metrics5.data.hicloud.com
+127.0.0.1 metricswpsh.com
 127.0.0.1 micro.rubiconproject.com
 127.0.0.1 mitdmp.whiteboxdigital.ru
 127.0.0.1 mobile.eum-appdynamics.com
@@ -945,13 +952,16 @@
 127.0.0.1 n0633.com
 127.0.0.1 nativespot.com
 127.0.0.1 nc.pubpowerplatform.io
+127.0.0.1 nereserv.com
 127.0.0.1 netperform-is.vodafone.com.tr
 127.0.0.1 news.2xclick.ru
+127.0.0.1 news-muheji.com
 127.0.0.1 ninja.akamaized.net
 127.0.0.1 ninja.data.olxcdn.com
 127.0.0.1 nmetrics.samsung.com
 127.0.0.1 ntm.netmera-web.com
 127.0.0.1 ntv.api.useinsider.com
+127.0.0.1 ntvpforever.com
 127.0.0.1 ntvsporweb.api.useinsider.com
 127.0.0.1 nvidiacorp.us-5.evergage.com
 127.0.0.1 o.gez.io
@@ -1092,6 +1102,7 @@
 127.0.0.1 rtb.openx.net
 127.0.0.1 rtb.gumgum.com
 127.0.0.1 rtb.programattik.com
+127.0.0.1 rtbrennab.com
 127.0.0.1 rules.quantcount.com
 127.0.0.1 rum.browser-intake-datadoghq.com
 127.0.0.1 rum.cronitor.io
@@ -1238,6 +1249,7 @@
 127.0.0.1 sunlightmetrics.b-cdn.net
 127.0.0.1 supportmetrics.apple.com
 127.0.0.1 svibeacon.onezapp.com
+127.0.0.1 sw.wpu.sh
 127.0.0.1 sync.1dmp.io
 127.0.0.1 sync.1rx.io
 127.0.0.1 sync.bfmio.com
@@ -1337,6 +1349,7 @@
 127.0.0.1 usage.trackjs.com
 127.0.0.1 utt.impactcdn.com
 127.0.0.1 vars.hotjar.com
+127.0.0.1 vast.yomeno.xyz
 127.0.0.1 vi.ml314.com
 127.0.0.1 videosvc.ezoic.com
 127.0.0.1 vidstat.taboola.com
@@ -1344,6 +1357,7 @@
 127.0.0.1 visitor.omnitagjs.com
 127.0.0.1 vitals.vercel-insights.com
 127.0.0.1 vsh.visilabs.net
+127.0.0.1 vstvstsa.com
 127.0.0.1 w.usabilla.com
 127.0.0.1 w1.luckyorange.com
 127.0.0.1 w3-reporting.reddit.com
