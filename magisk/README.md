@@ -2,7 +2,7 @@
   
 ## [TR] GİRİŞ:  
 - [Turkish-Ad-Hosts](https://github.com/symbuzzer/Turkish-Ad-Hosts) filtresinin magisk modulü...  
-- Bu modül en son magisk yapısını kullanmaktadır. Yapıya ait dosyaları doğrudan [kendi kaynağının](https://github.com/Zackptg5/MMT-Extended) [kopyasından](https://github.com/symbuzzer/fork-MMT-Extended) çekmektedir.  
+- Bu modül en güncel magisk yapısını kullanmaktadır. Yapıya ait dosyaları doğrudan [kendi kaynağının](https://github.com/Zackptg5/MMT-Extended) [kopyasından](https://github.com/symbuzzer/fork-MMT-Extended) çekmektedir.  
 - Modülün kendini güncelleme özelliği mevcuttur. Şöyle ki; github üzerindeki [hosts](https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/hosts) dosyası güncellendiğinde, bir [işakışı](https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/.github/workflows/auto-update-release.yml) otomatik olarak magisk modulünün güncel zip dosyasını oluşturur. Yeni güncellemeyi doğrudan cihazınızdaki Magisk uygulamasından yükleyebileceğiniz gibi, [Releases](https://github.com/symbuzzer/Turkish-Ad-Hosts/releases) sayfasından da indirebilirsiniz.
 - Yükleme rehberini [Wiki sayfasından](https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki) görebilirsiniz.  
   
