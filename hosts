@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230513
+# Version: 230514
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -330,6 +330,7 @@
 127.0.0.1 cdn.dimml.io
 127.0.0.1 cdn.efilli.com
 127.0.0.1 cdn.eksiup.com
+127.0.0.1 cdn.engine.4dsply.com
 127.0.0.1 cdn.fastclick.net
 127.0.0.1 cdn.feedify.net
 127.0.0.1 cdn.firstimpression.io
@@ -659,10 +660,12 @@
 127.0.0.1 ecdn.analysis.fi
 127.0.0.1 ecdn.firstimpression.io
 127.0.0.1 edge.fullstory.com
+127.0.0.1 edge.quantserve.com
 127.0.0.1 edge-sentry-box.otelz.com
 127.0.0.1 eezegrip.net
 127.0.0.1 emea.hhkld.com
 127.0.0.1 epttavm.api.useinsider.com
+127.0.0.1 errnewlog.umeng.com
 127.0.0.1 etahub.com
 127.0.0.1 etl-xlmc-ssl.sandai.net
 127.0.0.1 eturkcell.netmera.com
@@ -1267,6 +1270,7 @@
 127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 sync.smartadserver.com
 127.0.0.1 sync.upravel.com
+127.0.0.1 system-notify.app
 127.0.0.1 t.adx.opera.com
 127.0.0.1 t.apkpure.net
 127.0.0.1 t.castle.io
