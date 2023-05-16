@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230514
+# Version: 230516
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -67,6 +67,7 @@
 127.0.0.1 a.realsrv.com
 127.0.0.1 a.teads.tv
 127.0.0.1 a.tribalfusion.com
+127.0.0.1 a1.api.bbc.co.uk
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 aax-dtb-cf.amazon-adsystem.com
 127.0.0.1 aax-eu.amazon.com.tr
@@ -350,6 +351,7 @@
 127.0.0.1 cdn.mouseflow.com
 127.0.0.1 cdn.mxpnl.com
 127.0.0.1 cdn.netmera-web.com
+127.0.0.1 cdn.notsy.io
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 cdn.optmn.cloud
 127.0.0.1 cdn.oremark.com
