@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230517
+# Version: 230519
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -232,6 +232,7 @@
 127.0.0.1 app.intergient.com
 127.0.0.1 app.networkad.net
 127.0.0.1 app.posthog.com
+127.0.0.1 api.protonaosp.kdrag0n.dev
 127.0.0.1 app.tr.adjust.com
 127.0.0.1 app-analytics-v2.snapchat.com
 127.0.0.1 app-measurement.com
@@ -250,6 +251,7 @@
 127.0.0.1 assoc-amazon.com
 127.0.0.1 athena-event-provider.n11.com
 127.0.0.1 attr.appsflyer.com
+127.0.0.1 audit-tcfv2.cmp.quantcast.com
 127.0.0.1 authbe.sec.intl.miui.com
 127.0.0.1 avhtaapxml.com
 127.0.0.1 avlsh.visilabs.net
@@ -279,6 +281,7 @@
 127.0.0.1 biddr.brealtime.com
 127.0.0.1 bigrourg.net
 127.0.0.1 bngdyn.com
+127.0.0.1 bordeaux.futurecdn.net
 127.0.0.1 brightcombid.marphezis.com
 127.0.0.1 browser.events.data.microsoft.com
 127.0.0.1 browser.pipe.aria.microsoft.com
@@ -286,6 +289,7 @@
 127.0.0.1 browser-http-intake.logs.datadoghq.eu
 127.0.0.1 browser-update.org
 127.0.0.1 bs.serving-sys.com
+127.0.0.1 bshr.ezodn.com
 127.0.0.1 btds.zog.link
 127.0.0.1 btloader.com
 127.0.0.1 btlr.sharethrough.com
@@ -359,6 +363,7 @@
 127.0.0.1 cdn.optmn.cloud
 127.0.0.1 cdn.oremark.com
 127.0.0.1 cdn.otnolatrnup.com
+127.0.0.1 cdn.parsely.com
 127.0.0.1 cdn.pendo.io
 127.0.0.1 cdn.permutive.com
 127.0.0.1 cdn.personaclick.com
@@ -488,6 +493,7 @@
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d31vxm9ubutrmw.cloudfront.net
 127.0.0.1 d35u1vg1q28b3w.cloudfront.net
+127.0.0.1 d3g5ovfngjw9bw.cloudfront.net
 127.0.0.1 d3j3yrurxcqogk.cloudfront.net
 127.0.0.1 d3t87ooo0697p8.cloudfront.net
 127.0.0.1 data.flurry.com
@@ -740,6 +746,7 @@
 127.0.0.1 gatr.hit.gemius.pl
 127.0.0.1 gcdn.2mdn.net
 127.0.0.1 gdetr.hit.gemius.pl
+127.0.0.1 geniuslinkcdn.com
 127.0.0.1 geo.yahoo.com
 127.0.0.1 geoim.bloomberght.com
 127.0.0.1 geoim.hurriyet.com
@@ -1080,6 +1087,7 @@
 127.0.0.1 prefix.hit.gemius.pl
 127.0.0.1 prg.smartadserver.com
 127.0.0.1 primis-d.openx.net
+127.0.0.1 privacy-policy.truste.com
 127.0.0.1 pro.hit.gemius.pl
 127.0.0.1 prod.flixgvid.flix360.io
 127.0.0.1 profitabledisplaycontent.com
@@ -1103,6 +1111,7 @@
 127.0.0.1 qds0l.publishers.tremorhub.com
 127.0.0.1 qgxbluhsgad.com
 127.0.0.1 qsearch-a.akamaihd.net
+127.0.0.1 r.skimresources.com
 127.0.0.1 r.stripe.com
 127.0.0.1 radar.cedexis.com
 127.0.0.1 rauvoaty.net
@@ -1261,6 +1270,7 @@
 127.0.0.1 static.hotjar.com
 127.0.0.1 static.lcwaikiki.com
 127.0.0.1 static.media.net
+127.0.0.1 static.narrativ.com
 127.0.0.1 static.onedio.com
 127.0.0.1 static.scarabresearch.com
 127.0.0.1 static.tapfiliate.com
@@ -1433,6 +1443,7 @@
 127.0.0.1 www.artfut.com
 127.0.0.1 www.blockadsnot.com
 127.0.0.1 www.cdn.ad.xiaomi.com
+127.0.0.1 www.cdn4ads.com
 127.0.0.1 www.clarity.ms
 127.0.0.1 www.datadoghq-browser-agent.com
 127.0.0.1 www.dianomi.com
@@ -1458,6 +1469,7 @@
 127.0.0.1 www.summerhamster.com
 127.0.0.1 www.toplist.cz
 127.0.0.1 www.visariomedia.com
+127.0.0.1 www.w3counter.com
 127.0.0.1 wyhifdpatl.com
 127.0.0.1 wzrkt.com
 127.0.0.1 x.bidswitch.net
