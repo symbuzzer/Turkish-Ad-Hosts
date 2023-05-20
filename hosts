@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230519
+# Version: 230520
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -343,6 +343,7 @@
 127.0.0.1 cdn.feedify.net
 127.0.0.1 cdn.firstimpression.io
 127.0.0.1 cdn.firstpromoter.com
+127.0.0.1 cdn.geni.us
 127.0.0.1 cdn.heapanalytics.com
 127.0.0.1 cdn.id5-sync.com
 127.0.0.1 cdn.insurads.com
@@ -1023,6 +1024,7 @@
 127.0.0.1 openfpcdn.io
 127.0.0.1 opus.analytics.yahoo.com
 127.0.0.1 otr.kaspersky.com
+127.0.0.1 outstream.cdn.vidyome.com
 127.0.0.1 ow.pubmatic.com
 127.0.0.1 owlcarousel2.github.io
 127.0.0.1 p.adsymptotic.com
@@ -1231,6 +1233,7 @@
 127.0.0.1 smetrics.samsung.com
 127.0.0.1 snap.licdn.com
 127.0.0.1 snippet.affilimate.io
+127.0.0.1 socket.streamable.com
 127.0.0.1 sommelier.futurehybrid.tech
 127.0.0.1 sonar.semantiqo.com
 127.0.0.1 sp.analytics.yahoo.com
