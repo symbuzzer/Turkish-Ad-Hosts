@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230521
+# Version: 230524
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -448,6 +448,7 @@
 127.0.0.1 collector.wawlabs.com
 127.0.0.1 collector-1054.tvsquared.com
 127.0.0.1 commercialvalue.org
+127.0.0.1 conditionchange.com
 127.0.0.1 confiant-integrations.global.ssl.fastly.net
 127.0.0.1 config.samsungads.com
 127.0.0.1 config.uca.cloud.unity3d.com
@@ -900,6 +901,7 @@
 127.0.0.1 limurol.com
 127.0.0.1 linkconnector.com
 127.0.0.1 live.demand.supply
+127.0.0.1 live.primis.tech
 127.0.0.1 load.sumo.com
 127.0.0.1 log.cookieyes.com
 127.0.0.1 log.haberturk.com
@@ -1169,6 +1171,7 @@
 127.0.0.1 s.orbsrv.com
 127.0.0.1 s.perzonalization.com
 127.0.0.1 s.seedtag.com
+127.0.0.1 s.skimresources.com
 127.0.0.1 s.uuidksinc.net
 127.0.0.1 s.visilabs.net
 127.0.0.1 s-img.idealmedia.io
@@ -1448,6 +1451,7 @@
 127.0.0.1 wuzbhjpvsf.com
 127.0.0.1 ww1.newffr.com
 127.0.0.1 www5.cbox.ws
+127.0.0.1 www.affiliatepro.it
 127.0.0.1 www.artfut.com
 127.0.0.1 www.blockadsnot.com
 127.0.0.1 www.cdn.ad.xiaomi.com
