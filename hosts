@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230524
+# Version: 230526
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -48,6 +48,7 @@
 127.0.0.1 8065991.fls.doubleclick.net
 127.0.0.1 8236901.fls.doubleclick.net
 127.0.0.1 8415160.fls.doubleclick.net
+127.0.0.1 8512471.fls.doubleclick.net
 127.0.0.1 8735967.fls.doubleclick.net
 127.0.0.1 8881img.com
 127.0.0.1 9012846.fls.doubleclick.net
@@ -70,6 +71,7 @@
 127.0.0.1 a.shukriya90.com
 127.0.0.1 a.teads.tv
 127.0.0.1 a.tribalfusion.com
+127.0.0.1 a.vdo.ai
 127.0.0.1 a1.api.bbc.co.uk
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 aax-dtb-cf.amazon-adsystem.com
@@ -111,6 +113,7 @@
 127.0.0.1 ads.facebook.com
 127.0.0.1 ads.google.com
 127.0.0.1 ads.linkedin.com
+127.0.0.1 ads.ndtv1.com
 127.0.0.1 ads.pinterest.com
 127.0.0.1 ads.pro-market.net
 127.0.0.1 ads.pubmatic.com
@@ -128,6 +131,7 @@
 127.0.0.1 ads-dev.pinterest.com
 127.0.0.1 ads-sg.tiktok.com
 127.0.0.1 ads-twitter.com
+127.0.0.1 ads5.admatic.com.tr
 127.0.0.1 adsby.io
 127.0.0.1 adsdk.yandex.ru
 127.0.0.1 adserve.donanimhaber.com
@@ -161,6 +165,7 @@
 127.0.0.1 aksigorta.api.useinsider.com
 127.0.0.1 alb.reddit.com
 127.0.0.1 aloofvest.com
+127.0.0.1 altinbas.revotas.com
 127.0.0.1 amazonaax.com
 127.0.0.1 amazonclix.com
 127.0.0.1 amer.hhkld.com
@@ -225,6 +230,7 @@
 127.0.0.1 api2.amplitude.com
 127.0.0.1 api2.branch.io
 127.0.0.1 api3.siftscience.com
+127.0.0.1 apis.kostprice.com
 127.0.0.1 app.adjust.com
 127.0.0.1 app.adjust.net.in
 127.0.0.1 app.adjust.world
@@ -250,6 +256,8 @@
 127.0.0.1 assets.revcontent.com
 127.0.0.1 assets.ubembed.com
 127.0.0.1 assoc-amazon.com
+127.0.0.1 assosdiamond.revotas.com
+127.0.0.1 assospirlanta.revotas.com
 127.0.0.1 athena-event-provider.n11.com
 127.0.0.1 attr.appsflyer.com
 127.0.0.1 audit-tcfv2.cmp.quantcast.com
@@ -286,6 +294,7 @@
 127.0.0.1 brightcombid.marphezis.com
 127.0.0.1 browser.events.data.microsoft.com
 127.0.0.1 browser.pipe.aria.microsoft.com
+127.0.0.1 browser.sentry-cdn.com
 127.0.0.1 browser-http-intake.logs.datadoghq.com
 127.0.0.1 browser-http-intake.logs.datadoghq.eu
 127.0.0.1 browser-update.org
@@ -429,6 +438,7 @@
 127.0.0.1 cloudfront-labs.amazonaws.com
 127.0.0.1 cluster.awmdelivery.com
 127.0.0.1 cm.adform.net
+127.0.0.1 cm.creativecdn.com
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cm.mgid.com
 127.0.0.1 cm.tns-counter.ru
@@ -525,6 +535,7 @@
 127.0.0.1 di.rlcdn.com
 127.0.0.1 diken.xyz
 127.0.0.1 direct-events-collector.spot.im
+127.0.0.1 dis.criteo.com
 127.0.0.1 dis.eu.criteo.com
 127.0.0.1 disploot.com
 127.0.0.1 dit.whatsapp.net
@@ -1012,6 +1023,7 @@
 127.0.0.1 o1142666.ingest.sentry.io
 127.0.0.1 o120089.ingest.sentry.io
 127.0.0.1 o1277943.ingest.sentry.io
+127.0.0.1 o22381.ingest.sentry.io
 127.0.0.1 o244019.ingest.sentry.io
 127.0.0.1 o33249.ingest.sentry.io
 127.0.0.1 o418887.ingest.sentry.io
@@ -1147,6 +1159,7 @@
 127.0.0.1 rotarb.bid
 127.0.0.1 router.miwifi.com
 127.0.0.1 rpc-php.trafficfactory.biz
+127.0.0.1 rpdn.relateddigital.com
 127.0.0.1 rr3s4p9hfoptgmhna.ay.delivery
 127.0.0.1 rt.applovin.com
 127.0.0.1 rt.applvn.com
@@ -1194,6 +1207,7 @@
 127.0.0.1 script.4dex.io
 127.0.0.1 script.crazyegg.com
 127.0.0.1 script.dotmetrics.net
+127.0.0.1 script.hotjar.com
 127.0.0.1 script.tapfiliate.com
 127.0.0.1 scripts.cleverwebserver.com
 127.0.0.1 scripts.kiosked.com
@@ -1211,6 +1225,7 @@
 127.0.0.1 sdki.truepush.com
 127.0.0.1 sdks.automizely-analytics.com
 127.0.0.1 seal.globalsign.com
+127.0.0.1 seal.godaddy.com
 127.0.0.1 secure.adnxs.com
 127.0.0.1 secure.quantserve.com
 127.0.0.1 secure.statcounter.com
@@ -1235,6 +1250,7 @@
 127.0.0.1 showbet205.com
 127.0.0.1 signals.carrefoursa.com
 127.0.0.1 signals.teknosa.com
+127.0.0.1 simage2.pubmatic.com
 127.0.0.1 simplewebanalysis.com
 127.0.0.1 sm.rtb.mts.ru
 127.0.0.1 smetrics.samsung.com
@@ -1258,6 +1274,7 @@
 127.0.0.1 ssum.casalemedia.com
 127.0.0.1 ssum-sec.casalemedia.com
 127.0.0.1 st.dynamicyield.com
+127.0.0.1 st.hbrd.io
 127.0.0.1 st.top100.ru
 127.0.0.1 st-n.ads1-adnow.com
 127.0.0.1 stag-core.tfla.xyz
@@ -1318,6 +1335,7 @@
 127.0.0.1 sync.colossusssp.com
 127.0.0.1 sync.dmp.otm-r.com
 127.0.0.1 sync.go.sonobi.com
+127.0.0.1 sync.outbrain.com
 127.0.0.1 sync.quantumdex.io
 127.0.0.1 sync.richaudience.com
 127.0.0.1 sync.search.spotxchange.com
@@ -1380,6 +1398,7 @@
 127.0.0.1 tracking.mubi.com
 127.0.0.1 tracking.olx-st.com
 127.0.0.1 tracking.rus.miui.com
+127.0.0.1 trc.taboola.com
 127.0.0.1 trgde.adocean.pl
 127.0.0.1 trk.indoleads.com
 127.0.0.1 trk.pinterest.com
@@ -1436,12 +1455,14 @@
 127.0.0.1 widget.cdn.vidyome.com
 127.0.0.1 widget.criteo.com
 127.0.0.1 widget.engageya.com
+127.0.0.1 widget.eu.criteo.com
 127.0.0.1 widget.perfectmarket.com
 127.0.0.1 widgets.engageya.com
 127.0.0.1 widgets.jobbio.com
 127.0.0.1 widgets.outbrain.com
 127.0.0.1 widgets.pinterest.com
 127.0.0.1 wikihow-com.videoplayerhub.com
+127.0.0.1 wps.relateddigital.com
 127.0.0.1 write.trackonomics.net
 127.0.0.1 ws.batch.com
 127.0.0.1 ws.sahibinden.com
