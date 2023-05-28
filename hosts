@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230526
+# Version: 230528
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -156,6 +156,7 @@
 127.0.0.1 ae.mmstat.com
 127.0.0.1 affiliate.migros.com.tr
 127.0.0.1 affiliatepro.it
+127.0.0.1 affiliates.ezoic.com
 127.0.0.1 affiliationjs.s3.amazonaws.com
 127.0.0.1 aip-cdn.sozcu.com.tr
 127.0.0.1 aip2.sozcu.com.tr
@@ -270,6 +271,7 @@
 127.0.0.1 baltar.dimml.io
 127.0.0.1 bande2az.com
 127.0.0.1 basher.ezodn.com
+127.0.0.1 bat.bing.com
 127.0.0.1 bats.video.yahoo.com
 127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 beacon.riskified.com
@@ -781,6 +783,7 @@
 127.0.0.1 globalapi.ad.xiaomi.com
 127.0.0.1 globalsiteanalytics.com
 127.0.0.1 go.ezodn.com
+127.0.0.1 go.ezoic.net
 127.0.0.1 godpvqnszo.com
 127.0.0.1 google-analytics.com
 127.0.0.1 googleads.g.doubleclick.net
@@ -1096,6 +1099,7 @@
 127.0.0.1 player.aniview.com
 127.0.0.1 player.spotim.market
 127.0.0.1 pnsdkapi.turktelekom.com.tr
+127.0.0.1 pocketfaucet.com
 127.0.0.1 pornhdr.cf
 127.0.0.1 poweredby.jads.co
 127.0.0.1 prd.jwpltx.com
