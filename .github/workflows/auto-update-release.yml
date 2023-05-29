@@ -147,7 +147,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           tag: v${{ env.DATE }}
           name: v${{ env.DATE }}
-          body: -Hosts file updated to ${{ env.DATE2 }}
+          body: Hosts file updated to ${{ env.DATE2 }}
           files: release/*
           gzip: false
           draft: false
