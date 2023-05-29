@@ -1,3 +1,5 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/symbuzzer/Turkish-Ad-Hosts) [![shields.io Stars](https://img.shields.io/github/stars/symbuzzer/Turkish-Ad-Hosts)](https://github.com/symbuzzer/Turkish-Ad-Hosts/stargazers) [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/Turkish-Ad-Hosts/total.svg)]() 
+
 # Turkish Ad Hosts for Adblockers  
   
 - [İndir / Download](https://github.com/symbuzzer/Turkish-Ad-Hosts/releases)  
