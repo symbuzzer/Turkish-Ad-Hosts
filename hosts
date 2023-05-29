@@ -210,6 +210,7 @@
 127.0.0.1 api.btloader.com
 127.0.0.1 api.company-target.com
 127.0.0.1 api.dataroid.com
+127.0.0.1 api.demandbase.com
 127.0.0.1 api.eu1.exponea.com
 127.0.0.1 api.exponea.com
 127.0.0.1 api.fouanalytics.com
@@ -739,6 +740,7 @@
 127.0.0.1 fcmatch.youtube.com
 127.0.0.1 fe.cabioredtop.com
 127.0.0.1 firebase-settings.crashlytics.com
+127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 fiverr.ck-cdn.com
 127.0.0.1 flash.sec.intl.miui.com
 127.0.0.1 fls.doubleclick.net
@@ -1275,6 +1277,7 @@
 127.0.0.1 ssm.codes
 127.0.0.1 ssp.programattik.com
 127.0.0.1 ssp-sync.criteo.com
+127.0.0.1 sstats.adobe.com
 127.0.0.1 ssum.casalemedia.com
 127.0.0.1 ssum-sec.casalemedia.com
 127.0.0.1 st.dynamicyield.com
