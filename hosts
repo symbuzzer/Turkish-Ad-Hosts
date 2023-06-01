@@ -364,6 +364,7 @@
 127.0.0.1 cdn.id5-sync.com
 127.0.0.1 cdn.insurads.com
 127.0.0.1 cdn.intergient.com
+127.0.0.1 cdn.izooto.com
 127.0.0.1 cdn.krxd.net
 127.0.0.1 cdn.lr-in.com
 127.0.0.1 cdn.luckyorange.com
@@ -1225,6 +1226,7 @@
 127.0.0.1 scripts.kiosked.com
 127.0.0.1 scripts.mediavine.com
 127.0.0.1 scripts.webcontentassessor.com
+127.0.0.1 sdk.conscent.in
 127.0.0.1 sdk.iad-01.braze.com
 127.0.0.1 sdk.iad-06.braze.com
 127.0.0.1 sdk.fra-01.braze.eu
@@ -1254,12 +1256,15 @@
 127.0.0.1 servedbyadbutler.com
 127.0.0.1 servicer.idealmedia.io
 127.0.0.1 services.vlitag.com
+127.0.0.1 sessions.bugsnag.com
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 settings.luckyorange.net
+127.0.0.1 sf.ezoiccdn.com
 127.0.0.1 sgtm.sefamerve.com
 127.0.0.1 shb.richaudience.com
 127.0.0.1 showbet-static.ams3.digitaloceanspaces.com
 127.0.0.1 showbet205.com
+127.0.0.1 signal-beacon.s-onetag.com
 127.0.0.1 signals.carrefoursa.com
 127.0.0.1 signals.teknosa.com
 127.0.0.1 simage2.pubmatic.com
