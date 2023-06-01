@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-06-01T07:04:02.935Z
+! Last modified: 2023-06-01T16:21:57.873Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -302,6 +302,7 @@
 ||cdn.heapanalytics.com^
 ||cdn.insurads.com^
 ||cdn.intergient.com^
+||cdn.izooto.com^
 ||cdn.krxd.net^
 ||cdn.lr-in.com^
 ||cdn.makroo.com^
@@ -964,6 +965,7 @@
 ||scripts.kiosked.com^
 ||scripts.mediavine.com^
 ||scripts.webcontentassessor.com^
+||sdk.conscent.in^
 ||sdk.iad-01.braze.com^
 ||sdk.iad-06.braze.com^
 ||sdk.fra-01.braze.eu^
@@ -990,12 +992,15 @@
 ||servedbyadbutler.com^
 ||servicer.idealmedia.io^
 ||services.vlitag.com^
+||sessions.bugsnag.com^
 ||settings.crashlytics.com^
 ||settings.luckyorange.net^
+||sf.ezoiccdn.com^
 ||sgtm.sefamerve.com^
 ||shb.richaudience.com^
 ||showbet-static.ams3.digitaloceanspaces.com^
 ||showbet205.com^
+||signal-beacon.s-onetag.com^
 ||signals.carrefoursa.com^
 ||signals.teknosa.com^
 ||simage2.pubmatic.com^
