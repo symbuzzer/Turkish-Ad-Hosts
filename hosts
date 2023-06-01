@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230529
+# Version: 230601
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -1138,6 +1138,7 @@
 127.0.0.1 px.airpr.com
 127.0.0.1 px.arcspire.io
 127.0.0.1 px-conf.perimeterx.net
+127.0.0.1 q.adrta.com
 127.0.0.1 qds0l.publishers.tremorhub.com
 127.0.0.1 qgxbluhsgad.com
 127.0.0.1 qsearch-a.akamaihd.net
@@ -1149,6 +1150,7 @@
 127.0.0.1 recommendation-api.analytics.onedio.com
 127.0.0.1 recs.engageya.com
 127.0.0.1 redirect.frontend.weborama.fr
+127.0.0.1 redis-end.tfla.xyz
 127.0.0.1 referrer.disqus.com
 127.0.0.1 region1.analytics.google.com
 127.0.0.1 region1.app-measurement.com
