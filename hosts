@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230601
+# Version: 230602
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -942,6 +942,7 @@
 127.0.0.1 m.doubleclick.net
 127.0.0.1 m.stripe.com
 127.0.0.1 ml314.com
+127.0.0.1 ma1226-r.analytics.edgekey.net
 127.0.0.1 macro.adnami.io
 127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 mail-ads.google.com
