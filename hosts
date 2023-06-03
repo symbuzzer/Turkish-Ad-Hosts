@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230602
+# Version: 230603
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -378,9 +378,11 @@
 127.0.0.1 cdn.netmera-web.com
 127.0.0.1 cdn.notsy.io
 127.0.0.1 cdn.onesignal.com
+127.0.0.1 cdn.onthe.io
 127.0.0.1 cdn.optmn.cloud
 127.0.0.1 cdn.oremark.com
 127.0.0.1 cdn.otnolatrnup.com
+127.0.0.1 cdn.p-n.io
 127.0.0.1 cdn.parsely.com
 127.0.0.1 cdn.pendo.io
 127.0.0.1 cdn.permutive.com
@@ -402,6 +404,7 @@
 127.0.0.1 cdn.speedcurve.com
 127.0.0.1 cdn.subscribers.com
 127.0.0.1 cdn.taboola.com
+127.0.0.1 cdn.tagdeliver.com
 127.0.0.1 cdn.thequin.ai
 127.0.0.1 cdn.tsyndicate.com
 127.0.0.1 cdn.twinrdsrv.com
@@ -544,6 +547,7 @@
 127.0.0.1 direct-events-collector.spot.im
 127.0.0.1 dis.criteo.com
 127.0.0.1 dis.eu.criteo.com
+127.0.0.1 display.apester.com
 127.0.0.1 disploot.com
 127.0.0.1 dit.whatsapp.net
 127.0.0.1 dlsdk.appsflyer.com
@@ -772,6 +776,7 @@
 127.0.0.1 gcdn.2mdn.net
 127.0.0.1 gdetr.hit.gemius.pl
 127.0.0.1 geniuslinkcdn.com
+127.0.0.1 geo.ads.audio.thisisdax.com
 127.0.0.1 geo.yahoo.com
 127.0.0.1 geoim.bloomberght.com
 127.0.0.1 geoim.hurriyet.com
@@ -1105,6 +1110,7 @@
 127.0.0.1 playbuzzltd-d.openx.net
 127.0.0.1 player.adtelligent.com
 127.0.0.1 player.aniview.com
+127.0.0.1 player.apester.com
 127.0.0.1 player.spotim.market
 127.0.0.1 pnsdkapi.turktelekom.com.tr
 127.0.0.1 pocketfaucet.com
@@ -1160,6 +1166,7 @@
 127.0.0.1 register.appsflyer.com
 127.0.0.1 rek.izlesene.com
 127.0.0.1 reklamup.com
+127.0.0.1 renderer.apester.com
 127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 rereddit.com
 127.0.0.1 resolver.msg.xiaomi.net
@@ -1261,6 +1268,7 @@
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 settings.luckyorange.net
 127.0.0.1 sf.ezoiccdn.com
+127.0.0.1 sgbm.info
 127.0.0.1 sgtm.sefamerve.com
 127.0.0.1 shb.richaudience.com
 127.0.0.1 showbet-static.ams3.digitaloceanspaces.com
@@ -1305,6 +1313,7 @@
 127.0.0.1 statsforads.com
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 static.adsafeprotected.com
+127.0.0.1 static.apester.com
 127.0.0.1 static.cbox.ws
 127.0.0.1 static.chartbeat.com
 127.0.0.1 static.clevertap.com
@@ -1360,6 +1369,7 @@
 127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 sync.smartadserver.com
 127.0.0.1 sync.upravel.com
+127.0.0.1 synchrobox.adswizz.com
 127.0.0.1 system-notify.app
 127.0.0.1 t.adx.opera.com
 127.0.0.1 t.apkpure.net
@@ -1379,6 +1389,7 @@
 127.0.0.1 tags.bluekai.com
 127.0.0.1 tags.bkrtx.com
 127.0.0.1 tags.creativecdn.com
+127.0.0.1 tags.refinery89.com
 127.0.0.1 tags.tiqcdn.com
 127.0.0.1 tags-cdn.deployads.com
 127.0.0.1 targetemsecure.blob.core.windows.net
@@ -1502,6 +1513,7 @@
 127.0.0.1 www.disploot.com
 127.0.0.1 www.doubleclick.net
 127.0.0.1 www.dwin1.com
+127.0.0.1 www.dwin2.com
 127.0.0.1 www.effectivecreativeformat.com
 127.0.0.1 www.everestjs.net
 127.0.0.1 www.ezojs.com
@@ -1532,6 +1544,7 @@
 127.0.0.1 yandex-sync.rutarget.ru
 127.0.0.1 yandexadexchange.net
 127.0.0.1 yield-manager.browsiprod.com
+127.0.0.1 yield-op-idsync.live.streamtheworld.com
 127.0.0.1 ymetrica1.com
 127.0.0.1 youtube.cleverads.vn
 127.0.0.1 z.moatads.com
