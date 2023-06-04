@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230603
+# Version: 230604
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -270,6 +270,7 @@
 127.0.0.1 avlsh.visilabs.net
 127.0.0.1 b.pub.network
 127.0.0.1 b.stats.paypal.com
+127.0.0.1 b-cdn.milliyet.com.tr
 127.0.0.1 b-code.liadm.com
 127.0.0.1 baltar.dimml.io
 127.0.0.1 bande2az.com
@@ -870,6 +871,7 @@
 127.0.0.1 img.zemanta.com
 127.0.0.1 in.appcenter.ms
 127.0.0.1 inapps.appsflyer.com
+127.0.0.1 init.supersonicads.com
 127.0.0.1 insight.adsrvr.org
 127.0.0.1 insights.algolia.io
 127.0.0.1 insights.sitesearch360.com
@@ -1056,6 +1058,7 @@
 127.0.0.1 onetag-sys.com
 127.0.0.1 open.oneplus.net
 127.0.0.1 openfpcdn.io
+127.0.0.1 operate-sdk-telemetry.unity3d.com
 127.0.0.1 opus.analytics.yahoo.com
 127.0.0.1 otr.kaspersky.com
 127.0.0.1 outstream.cdn.vidyome.com
@@ -1396,6 +1399,7 @@
 127.0.0.1 targeting.unrulymedia.com
 127.0.0.1 td.doubleclick.net
 127.0.0.1 teknosa.api.useinsider.com
+127.0.0.1 teleport.soom.la
 127.0.0.1 tempest.services.disqus.com
 127.0.0.1 tg1.aniview.com
 127.0.0.1 tg1.playstream.media
