@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-06-03T08:32:41.799Z
+! Last modified: 2023-06-04T06:21:46.967Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -221,6 +221,7 @@
 ||avlsh.visilabs.net^
 ||b.pub.network^
 ||b.stats.paypal.com^
+||b-cdn.milliyet.com.tr^
 ||b-code.liadm.com^
 ||baltar.dimml.io^
 ||bande2az.com^
@@ -646,6 +647,7 @@
 ||img.zemanta.com^
 ||in.appcenter.ms^
 ||inapps.appsflyer.com^
+||init.supersonicads.com^
 ||insight.adsrvr.org^
 ||insights.algolia.io^
 ||insights.sitesearch360.com^
@@ -811,6 +813,7 @@
 ||onetag-sys.com^
 ||open.oneplus.net^
 ||openfpcdn.io^
+||operate-sdk-telemetry.unity3d.com^
 ||otr.kaspersky.com^
 ||outstream.cdn.vidyome.com^
 ||ow.pubmatic.com^
@@ -1120,6 +1123,7 @@
 ||tags-cdn.deployads.com^
 ||targetemsecure.blob.core.windows.net^
 ||targeting.unrulymedia.com^
+||teleport.soom.la^
 ||tempest.services.disqus.com^
 ||tg1.aniview.com^
 ||tg1.playstream.media^
