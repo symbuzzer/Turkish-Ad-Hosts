@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts 
 # License: GNU GENERAL PUBLIC LICENSE
-# Version: 230604
+# Version: 230605
 # (Version also shows update date as YYMMDD)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
@@ -183,6 +183,7 @@
 127.0.0.1 analytics.cdn.live
 127.0.0.1 analytics.dugun.com
 127.0.0.1 analytics.facebook.com
+127.0.0.1 analytics.flipperdevices.com
 127.0.0.1 analytics.google.com
 127.0.0.1 analytics.halkbank.com.tr
 127.0.0.1 analytics.mobile.yandex.net
@@ -416,6 +417,7 @@
 127.0.0.1 cdn.webpushr.com
 127.0.0.1 cdn.yourwebbars.com
 127.0.0.1 cdn-api.admost.com
+127.0.0.1 cdn-au.onetrust.com
 127.0.0.1 cdn-header-bidding.snack-media.com
 127.0.0.1 cdn-magiclinks.trackonomics.net
 127.0.0.1 cdn-netmeraprod.turktelekom.com.tr
@@ -431,6 +433,7 @@
 127.0.0.1 cdnads.geeksforgeeks.org
 127.0.0.1 cdp.cloud.unity3d.com
 127.0.0.1 ce.lijit.com
+127.0.0.1 ced-ns.sascdn.com
 127.0.0.1 certify-amp.alexametrics.com
 127.0.0.1 certify-js.alexametrics.com
 127.0.0.1 champagne.futurecdn.net
@@ -480,6 +483,7 @@
 127.0.0.1 connect-dre.hispace.hicloud.com
 127.0.0.1 consent.cookiebot.com
 127.0.0.1 consent-manager-events.ogury.io
+127.0.0.1 consentlog.cookieyes.com
 127.0.0.1 contextual.media.net
 127.0.0.1 conversions.appsflyer.com
 127.0.0.1 cookie-cdn.cookiepro.com
@@ -519,6 +523,7 @@
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d31vxm9ubutrmw.cloudfront.net
 127.0.0.1 d35u1vg1q28b3w.cloudfront.net
+127.0.0.1 d3c8j8snkzfr1n.cloudfront.net
 127.0.0.1 d3g5ovfngjw9bw.cloudfront.net
 127.0.0.1 d3j3yrurxcqogk.cloudfront.net
 127.0.0.1 d3t87ooo0697p8.cloudfront.net
@@ -546,6 +551,7 @@
 127.0.0.1 di.rlcdn.com
 127.0.0.1 diken.xyz
 127.0.0.1 direct-events-collector.spot.im
+127.0.0.1 directory.cookieyes.com
 127.0.0.1 dis.criteo.com
 127.0.0.1 dis.eu.criteo.com
 127.0.0.1 display.apester.com
@@ -871,6 +877,7 @@
 127.0.0.1 img.zemanta.com
 127.0.0.1 in.appcenter.ms
 127.0.0.1 inapps.appsflyer.com
+127.0.0.1 ingress.linktr.ee
 127.0.0.1 init.supersonicads.com
 127.0.0.1 insight.adsrvr.org
 127.0.0.1 insights.algolia.io
@@ -898,6 +905,7 @@
 127.0.0.1 js.adsrvr.org
 127.0.0.1 js.agkn.com
 127.0.0.1 js.appboycdn.com
+127.0.0.1 js.datadome.co
 127.0.0.1 js.go2sdk.com
 127.0.0.1 js.hs-analytics.net
 127.0.0.1 js.hs-scripts.com
@@ -935,6 +943,8 @@
 127.0.0.1 log.haberturk.com
 127.0.0.1 log.pinterest.com
 127.0.0.1 log-va.tiktokv.com
+127.0.0.1 log17-normal-useast1a.tiktokv.com
+127.0.0.1 log22-normal-useast1a.tiktokv.com
 127.0.0.1 logbak.hicloud.com
 127.0.0.1 logger.virgul.com
 127.0.0.1 logs.browser-intake-datadoghq.com
@@ -1081,6 +1091,7 @@
 127.0.0.1 path2.xtracloud.net
 127.0.0.1 path3.xtracloud.net
 127.0.0.1 pcdn.dengage.com
+127.0.0.1 pcookie.aliexpress.com
 127.0.0.1 pebed.dm-event.net
 127.0.0.1 pegasus.api.useinsider.com
 127.0.0.1 per1.segmentify.com
@@ -1193,6 +1204,8 @@
 127.0.0.1 rtb.gumgum.com
 127.0.0.1 rtb.programattik.com
 127.0.0.1 rtbrennab.com
+127.0.0.1 rtlog17-normal-useast1a.tiktokv.com
+127.0.0.1 rtlog22-normal-useast1a.tiktokv.com
 127.0.0.1 rules.quantcount.com
 127.0.0.1 rum.browser-intake-datadoghq.com
 127.0.0.1 rum.cronitor.io
@@ -1284,6 +1297,7 @@
 127.0.0.1 sm.rtb.mts.ru
 127.0.0.1 smetrics.samsung.com
 127.0.0.1 snap.licdn.com
+127.0.0.1 snigelweb-com.videoplayerhub.com
 127.0.0.1 snippet.affilimate.io
 127.0.0.1 socket.streamable.com
 127.0.0.1 sommelier.futurehybrid.tech
@@ -1312,6 +1326,7 @@
 127.0.0.1 stags.bluekai.com
 127.0.0.1 startup.mobile.webvisor.com
 127.0.0.1 startup.mobile.yandex.net
+127.0.0.1 stat.tildacdn.com
 127.0.0.1 statcounter.com
 127.0.0.1 statsforads.com
 127.0.0.1 static.ads-twitter.com
