@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-06-04T06:21:46.967Z
+! Last modified: 2023-06-05T07:23:48.019Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -137,6 +137,7 @@
 ||analytics.cdn.live^
 ||analytics.dugun.com^
 ||analytics.facebook.com^
+||analytics.flipperdevices.com^
 ||analytics.google.com^
 ||analytics.halkbank.com.tr^
 ||analytics.mobile.yandex.net^
@@ -351,6 +352,7 @@
 ||cdn.webpushr.com^
 ||cdn.yourwebbars.com^
 ||cdn-api.admost.com^
+||cdn-au.onetrust.com^
 ||cdn-header-bidding.snack-media.com^
 ||cdn-magiclinks.trackonomics.net^
 ||cdn-netmeraprod.turktelekom.com.tr^
@@ -365,6 +367,7 @@
 ||cdnads.geeksforgeeks.org^
 ||cdp.cloud.unity3d.com^
 ||ce.lijit.com^
+||ced-ns.sascdn.com^
 ||certify-amp.alexametrics.com^
 ||certify-js.alexametrics.com^
 ||champagne.futurecdn.net^
@@ -406,6 +409,7 @@
 ||connect-dre.hispace.hicloud.com^
 ||consent.cookiebot.com^
 ||consent-manager-events.ogury.io^
+||consentlog.cookieyes.com^
 ||conversions.appsflyer.com^
 ||cookie-cdn.cookiepro.com^
 ||core-waw-1.wildcard.dns.army^
@@ -443,6 +447,7 @@
 ||d31qbv1cthcecs.cloudfront.net^
 ||d31vxm9ubutrmw.cloudfront.net^
 ||d35u1vg1q28b3w.cloudfront.net^
+||d3c8j8snkzfr1n.cloudfront.net^
 ||d3g5ovfngjw9bw.cloudfront.net^
 ||d3j3yrurxcqogk.cloudfront.net^
 ||d3t87ooo0697p8.cloudfront.net^
@@ -469,6 +474,7 @@
 ||di.rlcdn.com^
 ||diken.xyz^
 ||direct-events-collector.spot.im^
+||directory.cookieyes.com^
 ||dis.criteo.com^
 ||dis.eu.criteo.com^
 ||display.apester.com^
@@ -647,6 +653,7 @@
 ||img.zemanta.com^
 ||in.appcenter.ms^
 ||inapps.appsflyer.com^
+||ingress.linktr.ee^
 ||init.supersonicads.com^
 ||insight.adsrvr.org^
 ||insights.algolia.io^
@@ -674,6 +681,7 @@
 ||js.adsrvr.org^
 ||js.agkn.com^
 ||js.appboycdn.com^
+||js.datadome.co^
 ||js.go2sdk.com^
 ||js.hs-analytics.net^
 ||js.hs-scripts.com^
@@ -711,6 +719,8 @@
 ||log.haberturk.com^
 ||log.pinterest.com^
 ||log-va.tiktokv.com^
+||log17-normal-useast1a.tiktokv.com^
+||log22-normal-useast1a.tiktokv.com^
 ||logbak.hicloud.com^
 ||logger.virgul.com^
 ||logs.browser-intake-datadoghq.com^
@@ -833,6 +843,7 @@
 ||path2.xtracloud.net^
 ||path3.xtracloud.net^
 ||pcdn.dengage.com^
+||pcookie.aliexpress.com^
 ||pebed.dm-event.net^
 ||per1.segmentify.com^
 ||per2.segmentify.com^
@@ -935,6 +946,8 @@
 ||rtb.gumgum.com^
 ||rtb.programattik.com^
 ||rtbrennab.com^
+||rtlog17-normal-useast1a.tiktokv.com^
+||rtlog22-normal-useast1a.tiktokv.com^
 ||rules.quantcount.com^
 ||rum.browser-intake-datadoghq.com^
 ||rum.cronitor.io^
@@ -1020,6 +1033,7 @@
 ||sm.rtb.mts.ru^
 ||smetrics.samsung.com^
 ||snap.licdn.com^
+||snigelweb-com.videoplayerhub.com^
 ||snippet.affilimate.io^
 ||socket.streamable.com^
 ||sommelier.futurehybrid.tech^
@@ -1046,6 +1060,7 @@
 ||stags.bluekai.com^
 ||startup.mobile.webvisor.com^
 ||startup.mobile.yandex.net^
+||stat.tildacdn.com^
 ||statcounter.com^
 ||statsforads.com^
 ||static.adsafeprotected.com^
