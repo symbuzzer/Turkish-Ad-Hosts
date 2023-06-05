@@ -6,7 +6,7 @@
 -----------
 # EN  
 - For added DNSes, please visit [commit page](https://github.com/symbuzzer/Turkish-Ad-Hosts/commits/main/hosts)  
-- Take a look [module changelog](https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/magisk/module_changelog.md) for module changes   
+- Take a look [changelog](https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/magisk/module_changelog.md) for module changes   
 - For support this project: [Patreon](https://avalibeyaz.com/patreon)  
 
 
