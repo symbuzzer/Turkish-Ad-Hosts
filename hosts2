@@ -1,4 +1,24 @@
-127.0.0.1 test
+# Title: Turkish Ad Hosts
+# Author: Ali Beyaz (avalibeyaz.com/github)
+# Author web page: avalibeyaz.com
+# Author e-mail: alipolatbeyaz[@]gmail.com
+# Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey
+# Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
+# Format: Hosts
+# License: GNU GENERAL PUBLIC LICENSE
+# Version: 23060621
+# (Version also shows update date as YYMMDDHH)
+# Project start date: 17/11/2022
+# Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22
+# Wiki: https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki
+# Discussions: https://github.com/symbuzzer/Turkish-Ad-Hosts/discussions
+# Releases: https://github.com/symbuzzer/Turkish-Ad-Hosts/releases
+# Issues: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues
+
+127.0.0.1 localhost
+
+# --- [ START ] --- #
+/
 127.0.0.1 061353efff4748e1a51974616704a9cc.js.ubembed.com
 127.0.0.1 0b1ebd324d574f37b3516c9a1b33b66d-eb42afa9716f.cdn.forter.com
 127.0.0.1 10138642.fls.doubleclick.net
@@ -1553,4 +1573,4 @@
 127.0.0.1 z-na.amazon-adsystem.com
 127.0.0.1 zcode12.me
 127.0.0.1 zkustats.ziraatkatilim.com.tr
-/n# --- [ END ] --- #
+# --- [ END ] --- #
