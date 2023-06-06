@@ -53,7 +53,7 @@ jobs:
           
       - name: Addind version string to "README.md"
         run:  |
-          sed -i "3s/.*/ Turkish Ad Hosts - v\/$DATE/" README.md
+          sed -i "3s/.*/# Turkish Ad Hosts - v\$DATE/" README.md
           
       - name: Creating directories
         run:  |
