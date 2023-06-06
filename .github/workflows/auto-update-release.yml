@@ -47,15 +47,15 @@ jobs:
           
       - name: Adding prefix to hosts file
         run:  |
-          echo -e "# Title: Turkish Ad Hosts\n# Author: Ali Beyaz (avalibeyaz.com/github)\n# Author web page: avalibeyaz.com\n# Author e-mail: alipolatbeyaz[@]gmail.com\n# Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey\n# Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts\n# Format: Hosts\n# License: GNU GENERAL PUBLIC LICENSE\n# Version: ${{ env.DATE }}\n# (Version also shows update date as YYMMDDHH)\n# Project start date: 17/11/2022\n# Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22\n# Wiki: https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki\n# Discussions: https://github.com/symbuzzer/Turkish-Ad-Hosts/discussions\n# Releases: https://github.com/symbuzzer/Turkish-Ad-Hosts/releases\n# Issues: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues\n\n127.0.0.1 localhost\n\n# --- [ START ] --- #\n" > hosts2
+          echo -e "# Title: Turkish Ad Hosts\n# Author: Ali Beyaz (avalibeyaz.com/github)\n# Author web page: avalibeyaz.com\n# Author e-mail: alipolatbeyaz[@]gmail.com\n# Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey\n# Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts\n# Format: Hosts\n# License: GNU GENERAL PUBLIC LICENSE\n# Version: ${{ env.DATE }}\n# (Version also shows update date as YYMMDDHH)\n# Project start date: 17/11/2022\n# Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22\n# Wiki: https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki\n# Discussions: https://github.com/symbuzzer/Turkish-Ad-Hosts/discussions\n# Releases: https://github.com/symbuzzer/Turkish-Ad-Hosts/releases\n# Issues: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues\n\n127.0.0.1 localhost\n\n# --- [ START ] --- #\n" > hosts
           
       - name: Create hosts file from dns file
         run:  |
-          sed -e 's/^/127.0.0.1 /' dns >> hosts2
+          sed -e 's/^/127.0.0.1 /' dns >> hosts
           
       - name: Adding suffix to hosts file
         run:  |
-          echo -e "# --- [ END ] --- #" >> hosts2
+          echo -e "# --- [ END ] --- #" >> hosts
           
       - name: Creating directories
         run:  |
