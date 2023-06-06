@@ -24,7 +24,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    
+      - name: Create hosts file from dns file
+        run:  |
+          sed -e 's/^/127.0.0.1 /' dns > hosts2
+          
       - name: Set variables
         run:  |
           echo "DATE=$(date +'%y%m%d%H')" >> $GITHUB_ENV
