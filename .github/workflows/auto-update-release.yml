@@ -18,11 +18,11 @@ env:
   AUTHOR_EMAIL: "alipolatbeyaz@gmail.com"
   LICENSE: "GPLv3"
   PROJECT_START_DATE: "17/11/2022"
-  PROBLEMATIC_APPS_PAGE:"https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22"
-  WIKI_PAGE:"https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki"
-  DISCUSSIONS_PAGE:"https://github.com/symbuzzer/Turkish-Ad-Hosts/discussions"
-  RELEASES_PAGE:"https://github.com/symbuzzer/Turkish-Ad-Hosts/releases"
-  ISSUES_PAGE:"https://github.com/symbuzzer/Turkish-Ad-Hosts/issues"
+  PROBLEMATIC_APPS_PAGE: "https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22"
+  WIKI_PAGE: "https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki"
+  DISCUSSIONS_PAGE: "https://github.com/symbuzzer/Turkish-Ad-Hosts/discussions"
+  RELEASES_PAGE: "https://github.com/symbuzzer/Turkish-Ad-Hosts/releases"
+  ISSUES_PAGE: "https://github.com/symbuzzer/Turkish-Ad-Hosts/issues"
 jobs:
   build:
     runs-on: ubuntu-latest
