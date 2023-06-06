@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-06-05T07:23:48.019Z
+! Last modified: 2023-06-06T20:28:18.698Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -685,6 +685,7 @@
 ||js.go2sdk.com^
 ||js.hs-analytics.net^
 ||js.hs-scripts.com^
+||js.revsci.net^
 ||js.rfp.fout.jp^
 ||js.tagon.co^
 ||js-agent.newrelic.com^
@@ -881,6 +882,7 @@
 ||pocketfaucet.com^
 ||pornhdr.cf^
 ||poweredby.jads.co^
+||pq-direct.revsci.net^
 ||prd.jwpltx.com^
 ||prd-collector-anon.ex.co^
 ||prebid.a-mo.net^
