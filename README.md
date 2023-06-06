@@ -6,6 +6,7 @@
 - [Wiki](https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki)
 - Hosts: https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts  
 - Filter: https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/adguard/filter.txt  
+- Plain DNS list: https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/dns
   
 ------------------------------------------
 ## [TR] MANİFESTO:  
