@@ -9,7 +9,7 @@ name: auto-update-release
 on:
   push:
     branches: ['main']
-    paths: ['hosts']
+    paths: ['dns']
 
 env:  #ONLY CHANGE THESE 
   ZIP_NAME: "turkish-ad-hosts-magisk-module" #EX: turkish-ad-hosts-magisk-module
