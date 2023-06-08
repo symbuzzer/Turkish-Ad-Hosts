@@ -53,7 +53,7 @@ jobs:
           
       - name: Adding prefix to "hosts" file
         run:  |
-          echo -e "# Title: ${{env.MODULE_NAME}}\n# Author: ${{env.AUTHOR}}\n# Author web page: ${{env.AUTHOR_WEB_PAGE}}\n# Author e-mail: ${{env.AUTHOR_EMAIL}}\n# Description: ${{env.MODULE_DESC_EN}}\n# Homepage: ${{env.REPO_URL}}\n# Format: ${{env.FILTER_FORMAT}\n# License: ${{env.LICENSE}}\n# Version: ${{ env.DATE }}\n# (Version also shows update date as YYMMDDHH)\n# Project start date: ${{env.PROJECT_START_DATE}}\n# Problematic apps: ${{env.PROBLEMATIC_APPS_PAGE}} \n# Wiki: ${{env.WIKI_PAGE}}\n# Discussions: ${{env.DISCUSSIONS_PAGE}}\n# Releases: ${{env.RELEASES_PAGE}}\n# Issues: ${{env.ISSUES_PAGE}}\n\n127.0.0.1 localhost\n\n# --- [ START ] --- #" > hosts
+          echo -e "# Title: ${{env.MODULE_NAME}}\n# Author: ${{env.AUTHOR}}\n# Author web page: ${{env.AUTHOR_WEB_PAGE}}\n# Author e-mail: ${{env.AUTHOR_EMAIL}}\n# Description: ${{env.MODULE_DESC_EN}}\n# Homepage: ${{env.REPO_URL}}\n# Format: ${{env.FILTER_FORMAT}}\n# License: ${{env.LICENSE}}\n# Version: ${{ env.DATE }}\n# (Version also shows update date as YYMMDDHH)\n# Project start date: ${{env.PROJECT_START_DATE}}\n# Problematic apps: ${{env.PROBLEMATIC_APPS_PAGE}} \n# Wiki: ${{env.WIKI_PAGE}}\n# Discussions: ${{env.DISCUSSIONS_PAGE}}\n# Releases: ${{env.RELEASES_PAGE}}\n# Issues: ${{env.ISSUES_PAGE}}\n\n127.0.0.1 localhost\n\n# --- [ START ] --- #" > hosts
           
       - name: Transferring DNS addresses from "dns" file to "hosts" file
         run:  |
