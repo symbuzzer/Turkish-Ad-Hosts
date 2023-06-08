@@ -1,15 +1,15 @@
-# Title: Turkish-Ad-Hosts
+# Title: Turkish Ad Hosts
 # Author: Ali Beyaz
 # Author web page: https://avalibeyaz.com
 # Author e-mail: alipolatbeyaz@gmail.com
-# Description: Türkiye'de yaygın kullanılan mobil uygulamalardaki (ve muhtemelen WEB sayfalarındaki) izleme (ve beraberinde muhtemelen reklam) ağlarını engellemek için gerekli hosts dosyası
+# Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23060622
+# Version: 23060809
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
-# Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+is%3Aopen+label%3A%22Problematic+apps+%2F+Sorunlu+uygulamalar%22 
+# Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
 # Wiki: https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki
 # Discussions: https://github.com/symbuzzer/Turkish-Ad-Hosts/discussions
 # Releases: https://github.com/symbuzzer/Turkish-Ad-Hosts/releases
@@ -73,6 +73,7 @@
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 a.vdo.ai
 127.0.0.1 a1.api.bbc.co.uk
+127.0.0.1 aa.online-metrix.net
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 aax-dtb-cf.amazon-adsystem.com
 127.0.0.1 aax-eu.amazon.com.tr
@@ -273,6 +274,8 @@
 127.0.0.1 b.stats.paypal.com
 127.0.0.1 b-cdn.milliyet.com.tr
 127.0.0.1 b-code.liadm.com
+127.0.0.1 backstory.ebay.co.uk
+127.0.0.1 backstory.ebay.com
 127.0.0.1 baltar.dimml.io
 127.0.0.1 bande2az.com
 127.0.0.1 basher.ezodn.com
@@ -875,6 +878,7 @@
 127.0.0.1 img.3633a.com
 127.0.0.1 img.ekstat.com
 127.0.0.1 img.zemanta.com
+127.0.0.1 impression.link
 127.0.0.1 in.appcenter.ms
 127.0.0.1 inapps.appsflyer.com
 127.0.0.1 ingress.linktr.ee
@@ -1306,6 +1310,7 @@
 127.0.0.1 sonar.semantiqo.com
 127.0.0.1 sp.analytics.yahoo.com
 127.0.0.1 spl.zeotap.com
+127.0.0.1 src.ebay-us.com
 127.0.0.1 srv.buysellads.com
 127.0.0.1 srvccc.fish91826twenty.ga
 127.0.0.1 srvr.dmvs-apac.com
@@ -1524,6 +1529,7 @@
 127.0.0.1 ww1.newffr.com
 127.0.0.1 www5.cbox.ws
 127.0.0.1 www.affiliatepro.it
+127.0.0.1 WWW.analyticsb2c.com
 127.0.0.1 www.artfut.com
 127.0.0.1 www.blockadsnot.com
 127.0.0.1 www.cdn.ad.xiaomi.com
