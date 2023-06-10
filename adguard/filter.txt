@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-06-08T09:39:37.140Z
+! Last modified: 2023-06-10T13:27:51.560Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -37,6 +37,7 @@
 ||a.tribalfusion.com^
 ||a.vdo.ai^
 ||a1.api.bbc.co.uk^
+||a4.applovin.com^
 ||aa.online-metrix.net^
 ||aax.amazon-adsystem.com^
 ||aax-dtb-cf.amazon-adsystem.com^
@@ -420,6 +421,7 @@
 ||countly.fibabanka.com.tr^
 ||countly.iyzico.com^
 ||cp.pushwoosh.com^
+||crashlogs.whatsapp.net^
 ||creative.xlirdr.com^
 ||creativecdn.com^
 ||cs.admanmedia.com^
@@ -729,6 +731,7 @@
 ||logbak.hicloud.com^
 ||logger.virgul.com^
 ||logs.browser-intake-datadoghq.com^
+||logs.ironsrc.mobi^
 ||logservice.hicloud.com^
 ||logservice1.hicloud.com^
 ||logsink.zedge.net^
@@ -812,6 +815,7 @@
 ||nc.pubpowerplatform.io^
 ||nereserv.com^
 ||netperform-is.vodafone.com.tr^
+||networksdk.ssacdn.com^
 ||news.2xclick.ru^
 ||news-muheji.com^
 ||ninja.akamaized.net^
@@ -830,8 +834,10 @@
 ||openfpcdn.io^
 ||operate-sdk-telemetry.unity3d.com^
 ||otr.kaspersky.com^
+||outcome-ssp.supersonicads.com^
 ||outstream.cdn.vidyome.com^
 ||ow.pubmatic.com^
+||ow-gateway.supersonicads.com^
 ||owlcarousel2.github.io^
 ||p.adsymptotic.com^
 ||p.cpx.to^
@@ -882,6 +888,7 @@
 ||player.aniview.com^
 ||player.apester.com^
 ||player.spotim.market^
+||pm-gateway.supersonicads.com^
 ||pnsdkapi.turktelekom.com.tr^
 ||pocketfaucet.com^
 ||pornhdr.cf^

@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23060809
+# Version: 23061013
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -73,6 +73,7 @@
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 a.vdo.ai
 127.0.0.1 a1.api.bbc.co.uk
+127.0.0.1 a4.applovin.com
 127.0.0.1 aa.online-metrix.net
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 aax-dtb-cf.amazon-adsystem.com
@@ -495,6 +496,7 @@
 127.0.0.1 countly.fibabanka.com.tr
 127.0.0.1 countly.iyzico.com
 127.0.0.1 cp.pushwoosh.com
+127.0.0.1 crashlogs.whatsapp.net
 127.0.0.1 creative.xlirdr.com
 127.0.0.1 creativecdn.com
 127.0.0.1 cs.admanmedia.com
@@ -953,6 +955,7 @@
 127.0.0.1 logbak.hicloud.com
 127.0.0.1 logger.virgul.com
 127.0.0.1 logs.browser-intake-datadoghq.com
+127.0.0.1 logs.ironsrc.mobi
 127.0.0.1 logservice.hicloud.com
 127.0.0.1 logservice1.hicloud.com
 127.0.0.1 logsink.zedge.net
@@ -1041,6 +1044,7 @@
 127.0.0.1 nc.pubpowerplatform.io
 127.0.0.1 nereserv.com
 127.0.0.1 netperform-is.vodafone.com.tr
+127.0.0.1 networksdk.ssacdn.com
 127.0.0.1 news.2xclick.ru
 127.0.0.1 news-muheji.com
 127.0.0.1 ninja.akamaized.net
@@ -1076,8 +1080,10 @@
 127.0.0.1 operate-sdk-telemetry.unity3d.com
 127.0.0.1 opus.analytics.yahoo.com
 127.0.0.1 otr.kaspersky.com
+127.0.0.1 outcome-ssp.supersonicads.com
 127.0.0.1 outstream.cdn.vidyome.com
 127.0.0.1 ow.pubmatic.com
+127.0.0.1 ow-gateway.supersonicads.com
 127.0.0.1 owlcarousel2.github.io
 127.0.0.1 p.adsymptotic.com
 127.0.0.1 p.cpx.to
@@ -1131,6 +1137,7 @@
 127.0.0.1 player.aniview.com
 127.0.0.1 player.apester.com
 127.0.0.1 player.spotim.market
+127.0.0.1 pm-gateway.supersonicads.com
 127.0.0.1 pnsdkapi.turktelekom.com.tr
 127.0.0.1 pocketfaucet.com
 127.0.0.1 pornhdr.cf
