@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23061013
+# Version: 23061105
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -207,6 +207,7 @@
 127.0.0.1 analytics-sg.tiktok.com
 127.0.0.1 analyticsb2c.com
 127.0.0.1 analyticsengine.s3.amazonaws.com
+127.0.0.1 anguishworst.com
 127.0.0.1 ap.lijit.com
 127.0.0.1 api.amplitude.com
 127.0.0.1 api.ad.intl.xiaomi.com
@@ -262,6 +263,7 @@
 127.0.0.1 assets.pubpowerplatform.io
 127.0.0.1 assets.revcontent.com
 127.0.0.1 assets.ubembed.com
+127.0.0.1 assets-widget-l3.flixcdn.com
 127.0.0.1 assoc-amazon.com
 127.0.0.1 assosdiamond.revotas.com
 127.0.0.1 assospirlanta.revotas.com
@@ -465,6 +467,7 @@
 127.0.0.1 cn.app.chat.xiaomi.net
 127.0.0.1 cnnturk.api.useinsider.com
 127.0.0.1 cnt.trvdp.com
+127.0.0.1 cnt.xhamster.com
 127.0.0.1 code.createjs.com
 127.0.0.1 code.jivosite.com
 127.0.0.1 col.eum-appdynamics.com
@@ -474,6 +477,7 @@
 127.0.0.1 collector.githubapp.com
 127.0.0.1 collector.puhutv.com
 127.0.0.1 collector.wawlabs.com
+127.0.0.1 collector.xhamster.com
 127.0.0.1 collector-1054.tvsquared.com
 127.0.0.1 commercialvalue.org
 127.0.0.1 conditionchange.com
@@ -544,6 +548,7 @@
 127.0.0.1 dc.ads.linkedin.com
 127.0.0.1 dcetr3.segmentify.com
 127.0.0.1 decide.mixpanel.com
+127.0.0.1 deliver.ptgncdn.com
 127.0.0.1 delivery-ci360.flypgs.com
 127.0.0.1 delivery.adrecover.com
 127.0.0.1 demo.criteo.com
@@ -748,6 +753,7 @@
 127.0.0.1 evs.data.ciceksepeti.com
 127.0.0.1 exchange.buzzoola.com
 127.0.0.1 exchange.postrelease.com
+127.0.0.1 exploredefinitely.com
 127.0.0.1 expo.io
 127.0.0.1 extmaps-api.yandex.net
 127.0.0.1 ezodn.com
@@ -807,6 +813,7 @@
 127.0.0.1 globalsiteanalytics.com
 127.0.0.1 go.ezodn.com
 127.0.0.1 go.ezoic.net
+127.0.0.1 go.xlivrdr.com
 127.0.0.1 godpvqnszo.com
 127.0.0.1 google-analytics.com
 127.0.0.1 googleads.g.doubleclick.net
@@ -856,6 +863,7 @@
 127.0.0.1 hstats.hepsiburada.com
 127.0.0.1 hstatstest.hepsiburada.com
 127.0.0.1 htlb.casalemedia.com
+127.0.0.1 hubt.pornhub.com
 127.0.0.1 hurriyet.api.useinsider.com
 127.0.0.1 hyundaitr.api.useinsider.com
 127.0.0.1 i.clean.gg
@@ -918,6 +926,7 @@
 127.0.0.1 js.revsci.net
 127.0.0.1 js.rfp.fout.jp
 127.0.0.1 js.tagon.co
+127.0.0.1 js.wpadmngr.com
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 js-sec.indexww.com
 127.0.0.1 jsc.adskeeper.co.uk
@@ -936,6 +945,7 @@
 127.0.0.1 l.sharethis.com
 127.0.0.1 laquesis.data.olxcdn.com
 127.0.0.1 launches.appsflyer.com
+127.0.0.1 lcdn.tsyndicate.com
 127.0.0.1 lenovo.demdex.net
 127.0.0.1 lephaush.net
 127.0.0.1 lexicon.33across.com
@@ -992,6 +1002,7 @@
 127.0.0.1 media.ethicalads.io
 127.0.0.1 media.fastclick.net
 127.0.0.1 media.net
+127.0.0.1 media.trafficjunky.net
 127.0.0.1 mediavisor.doubleclick.net
 127.0.0.1 medya.ilan.gov.tr.whecloud.com
 127.0.0.1 medyanative.com
@@ -1494,6 +1505,7 @@
 127.0.0.1 us.creativecdn.com
 127.0.0.1 usage.trackjs.com
 127.0.0.1 utt.impactcdn.com
+127.0.0.1 v.vidghjlgkuyfk.site
 127.0.0.1 vars.hotjar.com
 127.0.0.1 vast.yomeno.xyz
 127.0.0.1 vi.ml314.com
