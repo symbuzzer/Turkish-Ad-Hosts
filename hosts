@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23061406
+# Version: 23061505
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -220,6 +220,7 @@
 127.0.0.1 api.eu1.exponea.com
 127.0.0.1 api.exponea.com
 127.0.0.1 api.fouanalytics.com
+127.0.0.1 api.gameanalytics.com
 127.0.0.1 api.instabug.com
 127.0.0.1 api.leanplum.com
 127.0.0.1 api.miui.security.xiaomi.com
@@ -276,6 +277,7 @@
 127.0.0.1 b.pub.network
 127.0.0.1 b.stats.paypal.com
 127.0.0.1 b-cdn.milliyet.com.tr
+127.0.0.1 b-cdn.posta.com.tr
 127.0.0.1 b-code.liadm.com
 127.0.0.1 backstory.ebay.co.uk
 127.0.0.1 backstory.ebay.com
@@ -312,6 +314,7 @@
 127.0.0.1 browser-http-intake.logs.datadoghq.eu
 127.0.0.1 browser-update.org
 127.0.0.1 bs.serving-sys.com
+127.0.0.1 bs.yandex.ru
 127.0.0.1 bshr.ezodn.com
 127.0.0.1 btds.zog.link
 127.0.0.1 btloader.com
@@ -341,6 +344,7 @@
 127.0.0.1 cbox.ws
 127.0.0.1 cd.connatix.com
 127.0.0.1 cdn.ad.xiaomi.com
+127.0.0.1 cdn.ad4game.com
 127.0.0.1 cdn.adhouse.pro
 127.0.0.1 cdn.adpushup.com
 127.0.0.1 cdn.adsafeprotected.com

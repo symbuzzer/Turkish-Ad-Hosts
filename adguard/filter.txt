@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-06-14T06:20:37.130Z
+! Last modified: 2023-06-15T05:46:06.147Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -173,6 +173,7 @@
 ||api.eu1.exponea.com^
 ||api.exponea.com^
 ||api.fouanalytics.com^
+||api.gameanalytics.com^
 ||api.instabug.com^
 ||api.leanplum.com^
 ||api.miui.security.xiaomi.com^
@@ -227,6 +228,7 @@
 ||b.pub.network^
 ||b.stats.paypal.com^
 ||b-cdn.milliyet.com.tr^
+||b-cdn.posta.com.tr^
 ||b-code.liadm.com^
 ||backstory.ebay.co.uk^
 ||backstory.ebay.com^
@@ -255,6 +257,7 @@
 ||browser-http-intake.logs.datadoghq.eu^
 ||browser-update.org^
 ||bs.serving-sys.com^
+||bs.yandex.ru^
 ||btds.zog.link^
 ||btloader.com^
 ||btlr.sharethrough.com^
@@ -282,6 +285,7 @@
 ||cbox.ws^
 ||cd.connatix.com^
 ||cdn.ad.xiaomi.com^
+||cdn.ad4game.com^
 ||cdn.adhouse.pro^
 ||cdn.adpushup.com^
 ||cdn.adsafeprotected.com^
