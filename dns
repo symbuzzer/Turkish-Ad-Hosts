@@ -200,6 +200,7 @@ api.demandbase.com
 api.eu1.exponea.com
 api.exponea.com
 api.fouanalytics.com
+api.gameanalytics.com
 api.instabug.com
 api.leanplum.com
 api.miui.security.xiaomi.com
@@ -256,6 +257,7 @@ avlsh.visilabs.net
 b.pub.network
 b.stats.paypal.com
 b-cdn.milliyet.com.tr
+b-cdn.posta.com.tr
 b-code.liadm.com
 backstory.ebay.co.uk
 backstory.ebay.com
@@ -292,6 +294,7 @@ browser-http-intake.logs.datadoghq.com
 browser-http-intake.logs.datadoghq.eu
 browser-update.org
 bs.serving-sys.com
+bs.yandex.ru
 bshr.ezodn.com
 btds.zog.link
 btloader.com
@@ -321,6 +324,7 @@ cbox.im
 cbox.ws
 cd.connatix.com
 cdn.ad.xiaomi.com
+cdn.ad4game.com
 cdn.adhouse.pro
 cdn.adpushup.com
 cdn.adsafeprotected.com
