@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23061505
+# Version: 23061607
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -355,6 +355,7 @@
 127.0.0.1 cdn.avmws.com
 127.0.0.1 cdn.bannersnack.com
 127.0.0.1 cdn.bizible.com
+127.0.0.1 cdn.branch.io
 127.0.0.1 cdn.brandmetrics.com
 127.0.0.1 cdn.browsiprod.com
 127.0.0.1 cdn.bvmcdn.net
@@ -1225,6 +1226,7 @@
 127.0.0.1 revenueflex.com
 127.0.0.1 revotrack.revotas.com
 127.0.0.1 richinfo.co
+127.0.0.1 ro55cpi1.xhamster.com
 127.0.0.1 rosenberg.appmetrica.yandex.net
 127.0.0.1 rot.spotsniper.ru
 127.0.0.1 rotarb.bid
@@ -1245,6 +1247,7 @@
 127.0.0.1 rules.quantcount.com
 127.0.0.1 rum.browser-intake-datadoghq.com
 127.0.0.1 rum.cronitor.io
+127.0.0.1 rum-http-intake.logs.datadoghq.com
 127.0.0.1 rumcdn.geoedge.be
 127.0.0.1 run.admost.com
 127.0.0.1 rxeosevsso.com
@@ -1490,6 +1493,7 @@
 127.0.0.1 trk.pinterest.com
 127.0.0.1 trk.storyly.io
 127.0.0.1 trk.techtarget.com
+127.0.0.1 tsyndicate.com
 127.0.0.1 tru.am
 127.0.0.1 turkcell.api.useinsider.com
 127.0.0.1 twinrdsrv.com
