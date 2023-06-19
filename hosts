@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23061607
+# Version: 23061912
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -501,6 +501,7 @@
 127.0.0.1 conversions.appsflyer.com
 127.0.0.1 cookie-cdn.cookiepro.com
 127.0.0.1 core-waw-1.wildcard.dns.army
+127.0.0.1 cosmos.marfeel.com
 127.0.0.1 counter.yadro.ru
 127.0.0.1 countly.fibabanka.com.tr
 127.0.0.1 countly.iyzico.com
@@ -877,6 +878,7 @@
 127.0.0.1 hstats.hepsiburada.com
 127.0.0.1 hstatstest.hepsiburada.com
 127.0.0.1 htlb.casalemedia.com
+127.0.0.1 htlbid.com
 127.0.0.1 hubt.pornhub.com
 127.0.0.1 hurriyet.api.useinsider.com
 127.0.0.1 hyundaitr.api.useinsider.com
@@ -889,6 +891,7 @@
 127.0.0.1 ic.strmrdrfrokd.site
 127.0.0.1 ice.360yield.com
 127.0.0.1 id.crwdcntrl.net
+127.0.0.1 id.google.com
 127.0.0.1 id.rlcdn.com
 127.0.0.1 id.strmrdrfrokd.site
 127.0.0.1 id5-sync.com
@@ -1097,12 +1100,14 @@
 127.0.0.1 odb.outbrain.com
 127.0.0.1 odr.mookie1.com
 127.0.0.1 offer.slgnt.eu
+127.0.0.1 ogp.me
 127.0.0.1 omclyzyapf.com
 127.0.0.1 onetag-sys.com
 127.0.0.1 open.oneplus.net
 127.0.0.1 openfpcdn.io
 127.0.0.1 operate-sdk-telemetry.unity3d.com
 127.0.0.1 opus.analytics.yahoo.com
+127.0.0.1 otnolatrnup.com
 127.0.0.1 otr.kaspersky.com
 127.0.0.1 outcome-ssp.supersonicads.com
 127.0.0.1 outstream.cdn.vidyome.com
@@ -1316,6 +1321,7 @@
 127.0.0.1 sentry.io
 127.0.0.1 serv.nspot.co
 127.0.0.1 serve.nrich.ai
+127.0.0.1 served-by.pixfuture.com
 127.0.0.1 servedbyadbutler.com
 127.0.0.1 servicer.idealmedia.io
 127.0.0.1 services.vlitag.com
