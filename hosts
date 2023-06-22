@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23061912
+# Version: 23062208
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -268,6 +268,7 @@
 127.0.0.1 assoc-amazon.com
 127.0.0.1 assosdiamond.revotas.com
 127.0.0.1 assospirlanta.revotas.com
+127.0.0.1 at.cbsi.com
 127.0.0.1 athena-event-provider.n11.com
 127.0.0.1 attr.appsflyer.com
 127.0.0.1 audit-tcfv2.cmp.quantcast.com
@@ -395,6 +396,7 @@
 127.0.0.1 cdn.optmn.cloud
 127.0.0.1 cdn.oremark.com
 127.0.0.1 cdn.otnolatrnup.com
+127.0.0.1 cdn.p.analitik.bik.gov.tr
 127.0.0.1 cdn.p-n.io
 127.0.0.1 cdn.parsely.com
 127.0.0.1 cdn.pendo.io
@@ -944,6 +946,9 @@
 127.0.0.1 js.tagon.co
 127.0.0.1 js.wpadmngr.com
 127.0.0.1 js-agent.newrelic.com
+127.0.0.1 js-eu1.hs-analytics.net
+127.0.0.1 js-eu1.hs-banner.com
+127.0.0.1 js-eu1.hsadspixel.net
 127.0.0.1 js-sec.indexww.com
 127.0.0.1 jsc.adskeeper.co.uk
 127.0.0.1 jsc.adskeeper.com
@@ -1012,6 +1017,7 @@
 127.0.0.1 mc2tnzs73p3554cjc7h876m-gfm4.device.marketingcloudapis.com
 127.0.0.1 mcfk02nd3k8q7w75g9yxxcc6yj20.device.marketingcloudapis.com
 127.0.0.1 mcs-va.tiktokv.com
+127.0.0.1 mcs-va-useast2a.tiktokv.com
 127.0.0.1 mczbf.com
 127.0.0.1 me-client.eservice.emarsys.net
 127.0.0.1 med-api.admost.com
@@ -1252,7 +1258,9 @@
 127.0.0.1 rules.quantcount.com
 127.0.0.1 rum.browser-intake-datadoghq.com
 127.0.0.1 rum.cronitor.io
+127.0.0.1 rum.uptime.com
 127.0.0.1 rum-http-intake.logs.datadoghq.com
+127.0.0.1 rum-static.pingdom.net
 127.0.0.1 rumcdn.geoedge.be
 127.0.0.1 run.admost.com
 127.0.0.1 rxeosevsso.com
@@ -1331,6 +1339,7 @@
 127.0.0.1 sf.ezoiccdn.com
 127.0.0.1 sgbm.info
 127.0.0.1 sgtm.sefamerve.com
+127.0.0.1 shakysurprise.com
 127.0.0.1 shb.richaudience.com
 127.0.0.1 showbet-static.ams3.digitaloceanspaces.com
 127.0.0.1 showbet205.com
@@ -1567,6 +1576,7 @@
 127.0.0.1 ws-na.amazon-adsystem.com
 127.0.0.1 wurfl.io
 127.0.0.1 wuzbhjpvsf.com
+127.0.0.1 ww1.image.us
 127.0.0.1 ww1.newffr.com
 127.0.0.1 www5.cbox.ws
 127.0.0.1 www.affiliatepro.it
