@@ -1,7 +1,7 @@
 # Turkish Ad Hosts Magisk & KernelSU Module  
   
 ## [TR] GİRİŞ:  
-- [Turkish-Ad-Hosts](https://github.com/symbuzzer/Turkish-Ad-Hosts) filtresinin Magisk ve KernelSU modÜlü...  
+- [Turkish-Ad-Hosts](https://github.com/symbuzzer/Turkish-Ad-Hosts) filtresinin Magisk ve KernelSU modülü...  
 - Bu modül en güncel Magisk modül yapısını kullanmaktadır. Yapıya ait dosyaları doğrudan [kendi kaynağının](https://github.com/Zackptg5/MMT-Extended) biraz değiştirilmiş [kopyasından](https://github.com/symbuzzer/MMT-Extended-Next) çekmektedir.  
 - Modülün kendini güncelleme özelliği mevcuttur. Şöyle ki; github üzerindeki [dns](https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/dns) dosyası güncellendiğinde, bir [işakışı](https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/.github/workflows/auto-update-release.yml) otomatik olarak modulün güncel zip dosyasını oluşturur. Yeni güncellemeyi doğrudan cihazınızdaki Magisk veya KernelSU uygulamasından yükleyebileceğiniz gibi, [Releases](https://github.com/symbuzzer/Turkish-Ad-Hosts/releases) sayfasından da indirebilirsiniz.
 - Yükleme rehberini [Wiki sayfasından](https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki) görebilirsiniz.  
