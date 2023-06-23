@@ -1,4 +1,7 @@
 # Module Changelog:  
+## v1.0.4  
+- Added KernelSU support  
+  
 ## v1.0.3  
 - Updated some strings  
   
