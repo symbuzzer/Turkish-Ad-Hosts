@@ -6,10 +6,10 @@ on:
     paths: ['dns']
 
 env:
-  ZIP_NAME: "turkish-ad-hosts-magisk-module"
+  ZIP_NAME: "turkish-ad-hosts-magisk-kernelsu-module"
   HOSTS_NAME: "Turkish-Ad-Hosts"
   MODULE_NAME: "Turkish Ad Hosts"
-  MODULE_VER: "1.0.3"
+  MODULE_VER: "1.0.4"
   AUTHOR: "Ali Beyaz"
   UPDATEJSON_RAW_URL: "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json"
   REPO_URL: "https://github.com/symbuzzer/Turkish-Ad-Hosts"
