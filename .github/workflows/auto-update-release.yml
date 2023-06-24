@@ -8,7 +8,7 @@ on:
 env:
   ZIP_NAME: "turkish-ad-hosts-magisk-kernelsu-module"
   REPO_URL: "https://github.com/symbuzzer/Turkish-Ad-Hosts"
-  REP0_RAW_URL: "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts"
+  REPO_RAW_URL: "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts"
   HOSTS_NAME: "Turkish-Ad-Hosts"
   MODULE_NAME: "Turkish Ad Hosts"
   MODULE_VER: "1.0.4"
