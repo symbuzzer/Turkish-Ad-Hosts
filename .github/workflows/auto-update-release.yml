@@ -9,6 +9,9 @@ env:
   ZIP_NAME: "turkish-ad-hosts-magisk-kernelsu-module"
   REPO_URL: "https://github.com/symbuzzer/Turkish-Ad-Hosts"
   REPO_RAW_URL: "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts"
+  ZIP_URL: "${{env.REPO_URL}}/releases/latest/download/${{env.ZIP_NAME}}.zip"
+  UPDATEJSON_RAW_URL: "${{env.REPO_RAW_URL}}/${GITHUB_REF##*/}/magisk-kernelsu/update.json"
+  MODULE_CHANGELOG_URL: "${{env.REPO_RAW_URL}}/${GITHUB_REF##*/}/magisk-kernelsu/changelog.md"
   HOSTS_NAME: "Turkish-Ad-Hosts"
   MODULE_NAME: "Turkish Ad Hosts"
   MODULE_VER: "1.0.4"
@@ -34,9 +37,9 @@ jobs:
         run:  |
           echo "DATE=$(date +'%y%m%d%H')" >> $GITHUB_ENV
           echo "DATE2=$(date +'%Y/%m/%d - %H:%S')" >> $GITHUB_ENV
-          echo "ZIP_URL=${{env.REPO_URL}}/releases/latest/download/turkish-ad-hosts-magisk-kernelsu-module.zip" >> $GITHUB_ENV
-          echo "UPDATEJSON_RAW_URL=${{env.REPO_RAW_URL}}/${GITHUB_REF##*/}/magisk-kernelsu/update.json" >> $GITHUB_ENV
-          echo "MODULE_CHANGELOG_URL=${{env.REPO_RAW_URL}}/${GITHUB_REF##*/}/magisk-kernelsu/changelog.md" >> $GITHUB_ENV
+#          echo "ZIP_URL=${{env.REPO_URL}}/releases/latest/download/${{env.ZIP_NAME}}.zip" >> $GITHUB_ENV
+#          echo "UPDATEJSON_RAW_URL=${{env.REPO_RAW_URL}}/${GITHUB_REF##*/}/magisk-kernelsu/update.json" >> $GITHUB_ENV
+#          echo "MODULE_CHANGELOG_URL=${{env.REPO_RAW_URL}}/${GITHUB_REF##*/}/magisk-kernelsu/changelog.md" >> $GITHUB_ENV
     
       - name: Checkout
         uses: symbuzzer/fork-checkout-repo@main
