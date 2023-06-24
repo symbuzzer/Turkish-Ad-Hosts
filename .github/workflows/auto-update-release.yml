@@ -12,6 +12,7 @@ env:
   MODULE_VER: "1.0.4"
   AUTHOR: "Ali Beyaz"
   UPDATEJSON_RAW_URL: "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk-kernelsu/update.json"
+  MODULE_CHANGELOG_URL: "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk-kernelsu/changelog.md"
   REPO_URL: "https://github.com/symbuzzer/Turkish-Ad-Hosts"
   MODULE_DESC: "Türkiye'de yaygın kullanılan mobil uygulamalardaki (ve muhtemelen WEB sayfalarındaki) izleme (ve beraberinde muhtemelen reklam) ağlarını engellemek için gerekli hosts dosyası"
   MODULE_DESC_EN: "Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey..."
@@ -113,7 +114,14 @@ jobs:
           file: downloads/update.json
           field: zipUrl
           value: ${{ env.ZIP_URL }}
-      
+          
+      - name: Update "update.json" changelog
+        uses: symbuzzer/fork-action-set-json-field@master
+        with:
+          file: downloads/update.json
+          field: changelog
+          value: ${{ env.MODULE_CHANGELOG_URL }}
+          
       - name: Create "module.prop" file
         run:  |
           echo "id=$HOSTS_NAME
