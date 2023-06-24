@@ -85,7 +85,7 @@ jobs:
       - name: Downloading "update.json" file
         run:  |
           cd downloads
-          wget $UPDATEJSON_RAW_URL
+          wget ${{ env.UPDATEJSON_RAW_URL }}
           
       - name: Update "update.json" version
         uses: symbuzzer/fork-action-set-json-field@master
