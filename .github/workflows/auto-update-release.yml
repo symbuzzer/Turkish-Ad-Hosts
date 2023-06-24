@@ -9,9 +9,6 @@ env:
   ZIP_NAME: "turkish-ad-hosts-magisk-kernelsu-module"
   REPO_URL: "https://github.com/symbuzzer/Turkish-Ad-Hosts"
   REPO_RAW_URL: "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts"
-  ZIP_URL: "${{env.REPO_URL}}/releases/latest/download/${{env.ZIP_NAME}}.zip"
-  UPDATEJSON_RAW_URL: "${{env.REPO_RAW_URL}}/${GITHUB_REF##*/}/magisk-kernelsu/update.json"
-  MODULE_CHANGELOG_URL: "${{env.REPO_RAW_URL}}/${GITHUB_REF##*/}/magisk-kernelsu/changelog.md"
   HOSTS_NAME: "Turkish-Ad-Hosts"
   MODULE_NAME: "Turkish Ad Hosts"
   MODULE_VER: "1.0.4"
@@ -28,6 +25,7 @@ env:
   DISCUSSIONS_PAGE: "https://github.com/symbuzzer/Turkish-Ad-Hosts/discussions"
   RELEASES_PAGE: "https://github.com/symbuzzer/Turkish-Ad-Hosts/releases"
   ISSUES_PAGE: "https://github.com/symbuzzer/Turkish-Ad-Hosts/issues"
+  MODULE_FOLDER: "magisk-kernelsu"
 
 jobs:
   build:
@@ -37,9 +35,9 @@ jobs:
         run:  |
           echo "DATE=$(date +'%y%m%d%H')" >> $GITHUB_ENV
           echo "DATE2=$(date +'%Y/%m/%d - %H:%S')" >> $GITHUB_ENV
-#          echo "ZIP_URL=${{env.REPO_URL}}/releases/latest/download/${{env.ZIP_NAME}}.zip" >> $GITHUB_ENV
-#          echo "UPDATEJSON_RAW_URL=${{env.REPO_RAW_URL}}/${GITHUB_REF##*/}/magisk-kernelsu/update.json" >> $GITHUB_ENV
-#          echo "MODULE_CHANGELOG_URL=${{env.REPO_RAW_URL}}/${GITHUB_REF##*/}/magisk-kernelsu/changelog.md" >> $GITHUB_ENV
+          echo "ZIP_URL=${{env.REPO_URL}}/releases/latest/download/${{env.ZIP_NAME}}.zip" >> $GITHUB_ENV
+          echo "UPDATEJSON_RAW_URL=${{env.REPO_RAW_URL}}/${GITHUB_REF##*/}/${{env.MODULE_FOLDER}}/update.json" >> $GITHUB_ENV
+          echo "MODULE_CHANGELOG_URL=${{env.REPO_RAW_URL}}/${GITHUB_REF##*/}/${{env.MODULE_FOLDER}}/changelog.md" >> $GITHUB_ENV
     
       - name: Checkout
         uses: symbuzzer/fork-checkout-repo@main
@@ -67,7 +65,7 @@ jobs:
         run:  |
           mkdir -p adguard
           mkdir -p downloads
-          mkdir -p magisk-kernelsu
+          mkdir -p ${{env.MODULE_FOLDER}}
           mkdir -p magisk
           mkdir -p release
           mkdir -p zip/system/etc
@@ -135,7 +133,7 @@ jobs:
           sudo cp hosts adguard/
           sudo cp windows/turkish-ad-hosts-windows.bat release/
           sudo cp hosts zip/system/etc/
-          sudo cp magisk-kernelsu/update.json zip/
+          sudo cp ${{env.MODULE_FOLDER}}/update.json zip/
           sudo mv module.prop zip/
           sudo cp downloads/uninstall.sh zip/
           sudo cp downloads/customize.sh zip/
@@ -144,7 +142,7 @@ jobs:
           sudo cp downloads/install.sh zip/common/
           sudo cp downloads/update-binary zip/META-INF/com/google/android/
           sudo cp downloads/updater-script zip/META-INF/com/google/android/
-          sudo cp magisk-kernelsu/update.json magisk/
+          sudo cp ${{env.MODULE_FOLDER}}/update.json magisk/
           ls -R
                     
       - name: Run @adguard/hostlist-compiler
