@@ -11,7 +11,7 @@ env:
   MODULE_NAME: "Turkish Ad Hosts"
   MODULE_VER: "1.0.4"
   AUTHOR: "Ali Beyaz"
-  UPDATEJSON_RAW_URL: "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk/update.json"
+  UPDATEJSON_RAW_URL: "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/magisk-kernelsu/update.json"
   REPO_URL: "https://github.com/symbuzzer/Turkish-Ad-Hosts"
   MODULE_DESC: "Türkiye'de yaygın kullanılan mobil uygulamalardaki (ve muhtemelen WEB sayfalarındaki) izleme (ve beraberinde muhtemelen reklam) ağlarını engellemek için gerekli hosts dosyası"
   MODULE_DESC_EN: "Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey..."
@@ -71,7 +71,7 @@ jobs:
         run:  |
           mkdir -p adguard
           mkdir -p downloads
-          mkdir -p magisk
+          mkdir -p magisk-kernelsu
           mkdir -p release
           mkdir -p zip/system/etc
           mkdir -p zip/common
@@ -126,13 +126,13 @@ jobs:
       
       - name: Copying files to necessary dirs
         run:  |
-          sudo cp downloads/update.json magisk/
+          sudo cp downloads/update.json magisk-kernelsu/
           sudo cp hosts release/
           sudo cp hosts adguard/
           sudo cp windows/turkish-ad-hosts-windows.bat release/
           sudo cp linux/turkish-ad-hosts-linux.sh release/
           sudo cp hosts zip/system/etc/
-          sudo cp magisk/update.json zip/
+          sudo cp magisk-kernelsu/update.json zip/
           sudo mv module.prop zip/
           sudo cp downloads/uninstall.sh zip/
           sudo cp downloads/customize.sh zip/
