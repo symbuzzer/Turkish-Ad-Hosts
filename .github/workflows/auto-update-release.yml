@@ -138,7 +138,6 @@ jobs:
           sudo cp hosts release/
           sudo cp hosts adguard/
           sudo cp windows/turkish-ad-hosts-windows.bat release/
-          sudo cp linux/turkish-ad-hosts-linux.sh release/
           sudo cp hosts zip/system/etc/
           sudo cp magisk-kernelsu/update.json zip/
           sudo mv module.prop zip/
