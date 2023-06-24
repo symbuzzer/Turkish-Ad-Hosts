@@ -7,6 +7,7 @@ on:
 
 env:
   ZIP_NAME: "turkish-ad-hosts-magisk-kernelsu-module"
+  ZIP_URL: "https://github.com/symbuzzer/Turkish-Ad-Hosts/releases/latest/download/turkish-ad-hosts-magisk-kernelsu-module.zip"
   HOSTS_NAME: "Turkish-Ad-Hosts"
   MODULE_NAME: "Turkish Ad Hosts"
   MODULE_VER: "1.0.4"
@@ -35,16 +36,6 @@ jobs:
         run:  |
           echo "DATE=$(date +'%y%m%d%H')" >> $GITHUB_ENV
           echo "DATE2=$(date +'%Y/%m/%d - %H:%S')" >> $GITHUB_ENV
-          
-      - name: Hacking variables ;)
-        env:
-          DIRTY_PATH: "/releases/download/v"
-          DIRTY_SLASH: "/"
-          DIRTY_VER: -v
-          DIRTY_ZIP: ".zip"
-        run:  |
-          echo "ZIP_URL=${{env.REPO_URL}}${{env.DIRTY_PATH}}${{env.DATE}}${{Env.DIRTY_SLASH}}${{env.ZIP_NAME}}${{env.DIRTY_ZIP}}" >> $GITHUB_ENV
-          echo ${{env.ZIP_URL}}
     
       - name: Checkout
         uses: symbuzzer/fork-checkout-repo@main
@@ -73,6 +64,7 @@ jobs:
           mkdir -p adguard
           mkdir -p downloads
           mkdir -p magisk-kernelsu
+          mkdir -p magisk
           mkdir -p release
           mkdir -p zip/system/etc
           mkdir -p zip/common
@@ -148,6 +140,7 @@ jobs:
           sudo cp downloads/install.sh zip/common/
           sudo cp downloads/update-binary zip/META-INF/com/google/android/
           sudo cp downloads/updater-script zip/META-INF/com/google/android/
+          sudo cp magisk-kernelsu/update.json magisk/
           ls -R
                     
       - name: Run @adguard/hostlist-compiler
