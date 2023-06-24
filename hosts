@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23062410
+# Version: 23062420
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -356,6 +356,7 @@
 127.0.0.1 cdn.avmws.com
 127.0.0.1 cdn.bannersnack.com
 127.0.0.1 cdn.bizible.com
+127.0.0.1 cdn.blg-1216lb.com
 127.0.0.1 cdn.branch.io
 127.0.0.1 cdn.brandmetrics.com
 127.0.0.1 cdn.browsiprod.com
@@ -1097,6 +1098,7 @@
 127.0.0.1 o22381.ingest.sentry.io
 127.0.0.1 o244019.ingest.sentry.io
 127.0.0.1 o33249.ingest.sentry.io
+127.0.0.1 o363631.ingest.sentry.io
 127.0.0.1 o418887.ingest.sentry.io
 127.0.0.1 o435357.ingest.sentry.io
 127.0.0.1 o457708.ingest.sentry.io
@@ -1350,6 +1352,7 @@
 127.0.0.1 simage2.pubmatic.com
 127.0.0.1 simplewebanalysis.com
 127.0.0.1 sm.rtb.mts.ru
+127.0.0.1 smetrics.nvidia.com
 127.0.0.1 smetrics.samsung.com
 127.0.0.1 snap.licdn.com
 127.0.0.1 snigelweb-com.videoplayerhub.com
@@ -1412,6 +1415,7 @@
 127.0.0.1 stats.bannersnack.com
 127.0.0.1 stats.birgun.net
 127.0.0.1 stats.g.doubleclick.net
+127.0.0.1 stats.hprofits.com
 127.0.0.1 stats.kde.org
 127.0.0.1 stats.redditmedia.com
 127.0.0.1 stats.vidyome.com
@@ -1511,6 +1515,7 @@
 127.0.0.1 trk.techtarget.com
 127.0.0.1 tsyndicate.com
 127.0.0.1 tru.am
+127.0.0.1 tubestatic.usco1621-b.com
 127.0.0.1 turkcell.api.useinsider.com
 127.0.0.1 twinrdsrv.com
 127.0.0.1 tx.n11.com
