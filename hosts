@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23062706
+# Version: 23062812
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -334,6 +334,7 @@
 127.0.0.1 c2.taboola.com
 127.0.0.1 c2shb.pubgw.yahoo.com
 127.0.0.1 c3.taboola.com
+127.0.0.1 cache.consentframework.com
 127.0.0.1 cacheorcheck.mopinion.com
 127.0.0.1 cafemedia-com.videoplayerhub.com
 127.0.0.1 camschat.net
@@ -343,6 +344,7 @@
 127.0.0.1 cas.avalon.perfdrive.com
 127.0.0.1 cbox.im
 127.0.0.1 cbox.ws
+127.0.0.1 cc.swiftype.com
 127.0.0.1 cd.connatix.com
 127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 cdn.ad4game.com
@@ -405,6 +407,7 @@
 127.0.0.1 cdn.personaclick.com
 127.0.0.1 cdn.preciso.net
 127.0.0.1 cdn.purpleads.io
+127.0.0.1 cdn.pushmaster-cdn.xyz
 127.0.0.1 cdn.pushwoosh.com
 127.0.0.1 cdn.quantummetric.com
 127.0.0.1 cdn.requestmetrics.com
@@ -597,6 +600,7 @@
 127.0.0.1 dttrk.com
 127.0.0.1 dwin1.com
 127.0.0.1 dx.mountain.com
+127.0.0.1 dxp.baidu.com
 127.0.0.1 dygassets.dygdigital.com
 127.0.0.1 dynamic.criteo.com
 127.0.0.1 e.deployads.com
@@ -662,6 +666,9 @@
 127.0.0.1 e2c60.gcp.gvt2.com
 127.0.0.1 e2c61.gcp.gvt2.com
 127.0.0.1 e2c62.gcp.gvt2.com
+127.0.0.1 e2c63.gcp.gvt2.com
+127.0.0.1 e2c64.gcp.gvt2.com
+127.0.0.1 e2c65.gcp.gvt2.com
 127.0.0.1 e2cs01.gcp.gvt2.com
 127.0.0.1 e2cs02.gcp.gvt2.com
 127.0.0.1 e2cs03.gcp.gvt2.com
@@ -833,6 +840,7 @@
 127.0.0.1 go.ezodn.com
 127.0.0.1 go.ezoic.net
 127.0.0.1 go.xlivrdr.com
+127.0.0.1 go.xxxijmp.com
 127.0.0.1 godpvqnszo.com
 127.0.0.1 google-analytics.com
 127.0.0.1 googleads.g.doubleclick.net
@@ -875,10 +883,12 @@
 127.0.0.1 hlmiq.com
 127.0.0.1 hls.ekremimamoglu.click
 127.0.0.1 hm.baidu.com
+127.0.0.1 hmma.baidu.com
 127.0.0.1 hodor-collect.arabam.com
 127.0.0.1 hondaturkey.api.useinsider.com
 127.0.0.1 hotjar.com
 127.0.0.1 howmanyview.com
+127.0.0.1 hpacdn.pornpics.com
 127.0.0.1 hstats.hepsiburada.com
 127.0.0.1 hstatstest.hepsiburada.com
 127.0.0.1 htlb.casalemedia.com
@@ -945,6 +955,7 @@
 127.0.0.1 js.hs-scripts.com
 127.0.0.1 js.revsci.net
 127.0.0.1 js.rfp.fout.jp
+127.0.0.1 js.sddan.com
 127.0.0.1 js.tagon.co
 127.0.0.1 js.wpadmngr.com
 127.0.0.1 js-agent.newrelic.com
@@ -1006,6 +1017,7 @@
 127.0.0.1 mail-ads.google.com
 127.0.0.1 mainadv.com
 127.0.0.1 manager.smartlook.com
+127.0.0.1 map.sddan.com
 127.0.0.1 marfeel-d.openx.net
 127.0.0.1 marketing.turkiyefinans.com.tr
 127.0.0.1 match.360yield.com
@@ -1069,6 +1081,7 @@
 127.0.0.1 ms.applvn.com
 127.0.0.1 ms.pubpowerplatform.io
 127.0.0.1 mscom.demdex.net
+127.0.0.1 mssdk-va.byteoversea.com
 127.0.0.1 mstm.motorsport.com
 127.0.0.1 mug.criteo.com
 127.0.0.1 munchkin.marketo.net
@@ -1191,6 +1204,7 @@
 127.0.0.1 prefix.hit.gemius.pl
 127.0.0.1 prg.smartadserver.com
 127.0.0.1 primis-d.openx.net
+127.0.0.1 privacy.gatekeeperconsent.com
 127.0.0.1 privacy-policy.truste.com
 127.0.0.1 pro.hit.gemius.pl
 127.0.0.1 prod.flixgvid.flix360.io
@@ -1259,7 +1273,10 @@
 127.0.0.1 rtbrennab.com
 127.0.0.1 rtlog17-normal-useast1a.tiktokv.com
 127.0.0.1 rtlog22-normal-useast1a.tiktokv.com
+127.0.0.1 rules.aatkit.com
 127.0.0.1 rules.quantcount.com
+127.0.0.1 rules2.aatkit.com
+127.0.0.1 rules3.aatkit.com
 127.0.0.1 rum.browser-intake-datadoghq.com
 127.0.0.1 rum.cronitor.io
 127.0.0.1 rum.uptime.com
@@ -1418,6 +1435,7 @@
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 stats.hprofits.com
 127.0.0.1 stats.kde.org
+127.0.0.1 stats.pornpics.com
 127.0.0.1 stats.redditmedia.com
 127.0.0.1 stats.vidyome.com
 127.0.0.1 stats.vk-portal.net
@@ -1479,6 +1497,7 @@
 127.0.0.1 tempest.services.disqus.com
 127.0.0.1 tg1.aniview.com
 127.0.0.1 tg1.playstream.media
+127.0.0.1 the.gatekeeperconsent.com
 127.0.0.1 tlx.3lift.com
 127.0.0.1 tme.112.2o7.net
 127.0.0.1 tns-counter.ru
@@ -1501,6 +1520,7 @@
 127.0.0.1 track.wattpad.com
 127.0.0.1 track1.aniview.com
 127.0.0.1 tracker-be-prod.pubplus.com
+127.0.0.1 tracking.aatkit.com
 127.0.0.1 tracking.ensonhaber.com
 127.0.0.1 tracking.india.miui.com
 127.0.0.1 tracking.intl.miui.com
@@ -1516,6 +1536,7 @@
 127.0.0.1 trk.techtarget.com
 127.0.0.1 tsyndicate.com
 127.0.0.1 tru.am
+127.0.0.1 tubemov.com
 127.0.0.1 tubestatic.usco1621-b.com
 127.0.0.1 turkcell.api.useinsider.com
 127.0.0.1 twinrdsrv.com
