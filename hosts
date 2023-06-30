@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23062812
+# Version: 23063009
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -74,6 +74,7 @@
 127.0.0.1 a.vdo.ai
 127.0.0.1 a1.api.bbc.co.uk
 127.0.0.1 a4.applovin.com
+127.0.0.1 aa.agkn.com
 127.0.0.1 aa.online-metrix.net
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 aax-dtb-cf.amazon-adsystem.com
@@ -212,6 +213,7 @@
 127.0.0.1 api.amplitude.com
 127.0.0.1 api.ad.intl.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 api.branch.io
 127.0.0.1 api.brs.intl.miui.com
 127.0.0.1 api.btloader.com
 127.0.0.1 api.company-target.com
@@ -283,6 +285,8 @@
 127.0.0.1 backstory.ebay.co.uk
 127.0.0.1 backstory.ebay.com
 127.0.0.1 baltar.dimml.io
+127.0.0.1 bam.nr-data.net
+127.0.0.1 bam-cell.nr-data.net
 127.0.0.1 bande2az.com
 127.0.0.1 basher.ezodn.com
 127.0.0.1 bat.bing.com
@@ -321,6 +325,7 @@
 127.0.0.1 btloader.com
 127.0.0.1 btlr.sharethrough.com
 127.0.0.1 business.samsungusa.com
+127.0.0.1 busuanzi.ibruce.info
 127.0.0.1 buttons-config.sharethis.com
 127.0.0.1 c.aaxads.com
 127.0.0.1 c.amazon-adsystem.com
@@ -470,6 +475,7 @@
 127.0.0.1 cluster.awmdelivery.com
 127.0.0.1 cm.adform.net
 127.0.0.1 cm.creativecdn.com
+127.0.0.1 cm.everesttech.net
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cm.mgid.com
 127.0.0.1 cm.tns-counter.ru
@@ -523,6 +529,7 @@
 127.0.0.1 csi.gstatic.com
 127.0.0.1 csm.nl3.eu.criteo.net
 127.0.0.1 csp-reporting.cloudflare.com
+127.0.0.1 cstatic.weborama.fr
 127.0.0.1 csync.loopme.me
 127.0.0.1 d.agkn.com
 127.0.0.1 d.applovin.com
@@ -592,12 +599,15 @@
 127.0.0.1 dogus-ads-cdn.dygdigital.com
 127.0.0.1 dominantroute.com
 127.0.0.1 doubleclick.net
+127.0.0.1 dp2.33across.com
 127.0.0.1 dpm.demdex.net
 127.0.0.1 dr.api.useinsider.com
 127.0.0.1 dr6.biz
+127.0.0.1 dsum-sec.casalemedia.com
 127.0.0.1 dt.adsafeprotected.com
 127.0.0.1 dtm-dre.platform.dbankcloud.cn
 127.0.0.1 dttrk.com
+127.0.0.1 dsum-sec.casalemedia.com
 127.0.0.1 dwin1.com
 127.0.0.1 dx.mountain.com
 127.0.0.1 dxp.baidu.com
@@ -912,6 +922,7 @@
 127.0.0.1 idsync.rlcdn.com
 127.0.0.1 iframeri.strmrdrfrokd.site
 127.0.0.1 iframeria.strmrdrfrokd.site
+127.0.0.1 image2.pubmatic.com
 127.0.0.1 image6.pubmatic.com
 127.0.0.1 image8.pubmatic.com
 127.0.0.1 imasdk.googleapis.com
@@ -998,6 +1009,7 @@
 127.0.0.1 log22-normal-useast1a.tiktokv.com
 127.0.0.1 logbak.hicloud.com
 127.0.0.1 logger.virgul.com
+127.0.0.1 login.dotomi.com
 127.0.0.1 logs.browser-intake-datadoghq.com
 127.0.0.1 logs.ironsrc.mobi
 127.0.0.1 logservice.hicloud.com
@@ -1086,6 +1098,7 @@
 127.0.0.1 mug.criteo.com
 127.0.0.1 munchkin.marketo.net
 127.0.0.1 mweb-hb.presage.io
+127.0.0.1 mwzeom.zeotap.com
 127.0.0.1 my.rtmark.net
 127.0.0.1 mynetreklam.com
 127.0.0.1 n0633.com
@@ -1167,6 +1180,7 @@
 127.0.0.1 pisano.com.tr
 127.0.0.1 piwik.opendesktop.org
 127.0.0.1 piwik.tapatalk.com
+127.0.0.1 piwik.ubuntu-fr.org
 127.0.0.1 pix.eu.criteo.net
 127.0.0.1 pix.spot.im
 127.0.0.1 pixel.adsafeprotected.com
@@ -1176,6 +1190,7 @@
 127.0.0.1 pixel.quantserve.com
 127.0.0.1 pixel.rubiconproject.com
 127.0.0.1 pixel.sitescout.com
+127.0.0.1 pixel.tapad.com
 127.0.0.1 pixel.wp.com
 127.0.0.1 pixel-us-west.rubiconproject.com
 127.0.0.1 pixels.ingbank.com.tr
@@ -1230,6 +1245,7 @@
 127.0.0.1 qds0l.publishers.tremorhub.com
 127.0.0.1 qgxbluhsgad.com
 127.0.0.1 qsearch-a.akamaihd.net
+127.0.0.1 r.admob.com
 127.0.0.1 r.skimresources.com
 127.0.0.1 r.stripe.com
 127.0.0.1 radar.cedexis.com
@@ -1327,6 +1343,7 @@
 127.0.0.1 sdk.iad-01.braze.com
 127.0.0.1 sdk.iad-06.braze.com
 127.0.0.1 sdk.fra-01.braze.eu
+127.0.0.1 sdk.poltio.com
 127.0.0.1 sdk.privacy-center.org
 127.0.0.1 sdk.sharethrough.com
 127.0.0.1 sdk-api-v1.singular.net
@@ -1341,6 +1358,7 @@
 127.0.0.1 secure.quantserve.com
 127.0.0.1 secure.statcounter.com
 127.0.0.1 secure-assets.rubiconproject.com
+127.0.0.1 secure-ds.serving-sys.com
 127.0.0.1 secureads.g.doubleclick.net
 127.0.0.1 securemetrics.apple.com
 127.0.0.1 securepubads.g.doubleclick.net
@@ -1458,6 +1476,7 @@
 127.0.0.1 sync.bfmio.com
 127.0.0.1 sync.bumlam.com
 127.0.0.1 sync.colossusssp.com
+127.0.0.1 sync.crwdcntrl.net
 127.0.0.1 sync.dmp.otm-r.com
 127.0.0.1 sync.go.sonobi.com
 127.0.0.1 sync.outbrain.com
@@ -1466,6 +1485,7 @@
 127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 sync.smartadserver.com
 127.0.0.1 sync.upravel.com
+127.0.0.1 sync-tm.everesttech.net
 127.0.0.1 synchrobox.adswizz.com
 127.0.0.1 system-notify.app
 127.0.0.1 t.adx.opera.com
@@ -1549,12 +1569,15 @@
 127.0.0.1 unagi.amazon.com.tr
 127.0.0.1 unagi-eu.amazon.com
 127.0.0.1 unagi-na.amazon.com
+127.0.0.1 unilever.demdex.net
 127.0.0.1 uip.semasio.net
 127.0.0.1 uk-script.dotmetrics.net
 127.0.0.1 ulogs.umeng.com
 127.0.0.1 ulogs.umengcloud.com
 127.0.0.1 unagi.amazon.com
 127.0.0.1 unagi.amazon.fr
+127.0.0.1 unilever.tt.omtrdc.net
+127.0.0.1 unileverna.tt.omtrdc.net
 127.0.0.1 uno.rub88677win.xyz
 127.0.0.1 untropiuson.com
 127.0.0.1 upload.luckyorange.net
@@ -1567,6 +1590,7 @@
 127.0.0.1 v.vidghjlgkuyfk.site
 127.0.0.1 vars.hotjar.com
 127.0.0.1 vast.yomeno.xyz
+127.0.0.1 vc.hotjar.io
 127.0.0.1 vi.ml314.com
 127.0.0.1 videosvc.ezoic.com
 127.0.0.1 vidstat.taboola.com

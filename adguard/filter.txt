@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-06-28T12:08:34.977Z
+! Last modified: 2023-06-30T09:35:35.988Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -38,6 +38,7 @@
 ||a.vdo.ai^
 ||a1.api.bbc.co.uk^
 ||a4.applovin.com^
+||aa.agkn.com^
 ||aa.online-metrix.net^
 ||aax.amazon-adsystem.com^
 ||aax-dtb-cf.amazon-adsystem.com^
@@ -166,6 +167,7 @@
 ||api.amplitude.com^
 ||api.ad.intl.xiaomi.com^
 ||api.ad.xiaomi.com^
+||api.branch.io^
 ||api.brs.intl.miui.com^
 ||api.company-target.com^
 ||api.dataroid.com^
@@ -234,6 +236,8 @@
 ||backstory.ebay.co.uk^
 ||backstory.ebay.com^
 ||baltar.dimml.io^
+||bam.nr-data.net^
+||bam-cell.nr-data.net^
 ||bande2az.com^
 ||bat.bing.com^
 ||bats.video.yahoo.com^
@@ -263,6 +267,7 @@
 ||btloader.com^
 ||btlr.sharethrough.com^
 ||business.samsungusa.com^
+||busuanzi.ibruce.info^
 ||buttons-config.sharethis.com^
 ||c.aaxads.com^
 ||c.amazon-adsystem.com^
@@ -399,6 +404,7 @@
 ||client-registry.mutinycdn.com^
 ||cloudfront-labs.amazonaws.com^
 ||cluster.awmdelivery.com^
+||cm.everesttech.net^
 ||cm.mgid.com^
 ||cmp.uniconsent.com^
 ||cms.quantserve.com^
@@ -445,6 +451,7 @@
 ||csi.gstatic.com^
 ||csm.nl3.eu.criteo.net^
 ||csp-reporting.cloudflare.com^
+||cstatic.weborama.fr^
 ||csync.loopme.me^
 ||d.agkn.com^
 ||d.applovin.com^
@@ -512,8 +519,10 @@
 ||dogus-ads-cdn.dygdigital.com^
 ||dominantroute.com^
 ||doubleclick.net^
+||dp2.33across.com^
 ||dpm.demdex.net^
 ||dr6.biz^
+||dsum-sec.casalemedia.com^
 ||dt.adsafeprotected.com^
 ||dtm-dre.platform.dbankcloud.cn^
 ||dttrk.com^
@@ -675,6 +684,7 @@
 ||id.rlcdn.com^
 ||id5-sync.com^
 ||idsync.rlcdn.com^
+||image2.pubmatic.com^
 ||image6.pubmatic.com^
 ||image8.pubmatic.com^
 ||imasdk.googleapis.com^
@@ -760,6 +770,7 @@
 ||log22-normal-useast1a.tiktokv.com^
 ||logbak.hicloud.com^
 ||logger.virgul.com^
+||login.dotomi.com^
 ||logs.browser-intake-datadoghq.com^
 ||logs.ironsrc.mobi^
 ||logservice.hicloud.com^
@@ -843,6 +854,7 @@
 ||mug.criteo.com^
 ||munchkin.marketo.net^
 ||mweb-hb.presage.io^
+||mwzeom.zeotap.com^
 ||my.rtmark.net^
 ||mynetreklam.com^
 ||n0633.com^
@@ -903,6 +915,7 @@
 ||pisano.com.tr^
 ||piwik.opendesktop.org^
 ||piwik.tapatalk.com^
+||piwik.ubuntu-fr.org^
 ||pix.eu.criteo.net^
 ||pix.spot.im^
 ||pixel.adsafeprotected.com^
@@ -912,6 +925,7 @@
 ||pixel.quantserve.com^
 ||pixel.rubiconproject.com^
 ||pixel.sitescout.com^
+||pixel.tapad.com^
 ||pixel.wp.com^
 ||pixel-us-west.rubiconproject.com^
 ||pixels.ingbank.com.tr^
@@ -961,6 +975,7 @@
 ||qds0l.publishers.tremorhub.com^
 ||qgxbluhsgad.com^
 ||qsearch-a.akamaihd.net^
+||r.admob.com^
 ||r.skimresources.com^
 ||r.stripe.com^
 ||radar.cedexis.com^
@@ -1051,6 +1066,7 @@
 ||sdk.iad-01.braze.com^
 ||sdk.iad-06.braze.com^
 ||sdk.fra-01.braze.eu^
+||sdk.poltio.com^
 ||sdk.privacy-center.org^
 ||sdk.sharethrough.com^
 ||sdk-api-v1.singular.net^
@@ -1064,6 +1080,7 @@
 ||secure.adnxs.com^
 ||secure.quantserve.com^
 ||secure-assets.rubiconproject.com^
+||secure-ds.serving-sys.com^
 ||securemetrics.apple.com^
 ||seg.ad.gt^
 ||segment-data-us-east.zqtk.net^
@@ -1170,6 +1187,7 @@
 ||sync.bfmio.com^
 ||sync.bumlam.com^
 ||sync.colossusssp.com^
+||sync.crwdcntrl.net^
 ||sync.dmp.otm-r.com^
 ||sync.go.sonobi.com^
 ||sync.outbrain.com^
@@ -1178,6 +1196,7 @@
 ||sync.search.spotxchange.com^
 ||sync.smartadserver.com^
 ||sync.upravel.com^
+||sync-tm.everesttech.net^
 ||synchrobox.adswizz.com^
 ||system-notify.app^
 ||t.adx.opera.com^
@@ -1253,12 +1272,15 @@
 ||unagi.amazon.com.tr^
 ||unagi-eu.amazon.com^
 ||unagi-na.amazon.com^
+||unilever.demdex.net^
 ||uip.semasio.net^
 ||uk-script.dotmetrics.net^
 ||ulogs.umeng.com^
 ||ulogs.umengcloud.com^
 ||unagi.amazon.com^
 ||unagi.amazon.fr^
+||unilever.tt.omtrdc.net^
+||unileverna.tt.omtrdc.net^
 ||uno.rub88677win.xyz^
 ||untropiuson.com^
 ||upload.luckyorange.net^
@@ -1268,6 +1290,7 @@
 ||utt.impactcdn.com^
 ||v.vidghjlgkuyfk.site^
 ||vast.yomeno.xyz^
+||vc.hotjar.io^
 ||videosvc.ezoic.com^
 ||vidstat.taboola.com^
 ||visariomedia.com^
