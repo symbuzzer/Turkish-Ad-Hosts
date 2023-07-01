@@ -66,7 +66,6 @@ jobs:
           mkdir -p adguard
           mkdir -p downloads
           mkdir -p ${{env.MODULE_FOLDER}}
-          mkdir -p magisk
           mkdir -p release
           mkdir -p zip/system/etc
           mkdir -p zip/common
@@ -142,7 +141,6 @@ jobs:
           sudo cp downloads/install.sh zip/common/
           sudo cp downloads/update-binary zip/META-INF/com/google/android/
           sudo cp downloads/updater-script zip/META-INF/com/google/android/
-          sudo cp ${{env.MODULE_FOLDER}}/update.json magisk/
           ls -R
                     
       - name: Run @adguard/hostlist-compiler
