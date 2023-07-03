@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23070108
+# Version: 23070306
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -279,6 +279,7 @@
 127.0.0.1 avlsh.visilabs.net
 127.0.0.1 b.pub.network
 127.0.0.1 b.stats.paypal.com
+127.0.0.1 b-cdn.cnnturk.com
 127.0.0.1 b-cdn.milliyet.com.tr
 127.0.0.1 b-cdn.posta.com.tr
 127.0.0.1 b-code.liadm.com
@@ -310,6 +311,7 @@
 127.0.0.1 biddr.brealtime.com
 127.0.0.1 bigrourg.net
 127.0.0.1 bngdyn.com
+127.0.0.1 bngprm.com
 127.0.0.1 bordeaux.futurecdn.net
 127.0.0.1 brightcombid.marphezis.com
 127.0.0.1 browser.events.data.microsoft.com
@@ -383,6 +385,7 @@
 127.0.0.1 cdn.firstpromoter.com
 127.0.0.1 cdn.geni.us
 127.0.0.1 cdn.heapanalytics.com
+127.0.0.1 cdn.hubvisor.io
 127.0.0.1 cdn.id5-sync.com
 127.0.0.1 cdn.insurads.com
 127.0.0.1 cdn.intergient.com
@@ -522,6 +525,7 @@
 127.0.0.1 crashlogs.whatsapp.net
 127.0.0.1 creative.xlirdr.com
 127.0.0.1 creativecdn.com
+127.0.0.1 cresfpho2ntesepapillo3.com
 127.0.0.1 cs.admanmedia.com
 127.0.0.1 cs.luckyorange.net
 127.0.0.1 cs.media.net
@@ -758,6 +762,7 @@
 127.0.0.1 edge.quantserve.com
 127.0.0.1 edge-sentry-box.otelz.com
 127.0.0.1 eezegrip.net
+127.0.0.1 elonreptiloid.com
 127.0.0.1 emea.hhkld.com
 127.0.0.1 engine.adzerk.net
 127.0.0.1 epttavm.api.useinsider.com
@@ -849,6 +854,7 @@
 127.0.0.1 globalsiteanalytics.com
 127.0.0.1 go.ezodn.com
 127.0.0.1 go.ezoic.net
+127.0.0.1 go.goaserv.com
 127.0.0.1 go.xlivrdr.com
 127.0.0.1 go.xxxijmp.com
 127.0.0.1 godpvqnszo.com
@@ -1320,6 +1326,7 @@
 127.0.0.1 s2.adform.net
 127.0.0.1 s2.go-mpulse.net
 127.0.0.1 s2s.adjust.com
+127.0.0.1 s3t3d2y8.afcdn.net
 127.0.0.1 s7.addthis.com
 127.0.0.1 s8t.teads.tv
 127.0.0.1 ss-pbs.quantumdex.io
@@ -1608,6 +1615,7 @@
 127.0.0.1 waust.at
 127.0.0.1 web.webpushs.com
 127.0.0.1 webanalytics.logitechg.com
+127.0.0.1 webed.dm-event.net
 127.0.0.1 websdk.appsflyer.com
 127.0.0.1 webstats.garanti.com.tr
 127.0.0.1 whos.amung.us
@@ -1657,6 +1665,7 @@
 127.0.0.1 www.linkconnector.com
 127.0.0.1 www.mainadv.com
 127.0.0.1 www.mczbf.com
+127.0.0.1 www.medyanative.com
 127.0.0.1 www.profitabledisplaycontent.com
 127.0.0.1 www.publisher-network.com
 127.0.0.1 www.softwareadvice.com
