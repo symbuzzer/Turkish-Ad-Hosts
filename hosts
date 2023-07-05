@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23070306
+# Version: 23070504
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -63,6 +63,7 @@
 127.0.0.1 a.doganburda.com
 127.0.0.1 a.exosrv.com
 127.0.0.1 a.jhfhdkhkh.site
+127.0.0.1 a.labadena.com
 127.0.0.1 a.mouseflow.com
 127.0.0.1 a.omappapi.com
 127.0.0.1 a.pub.network
@@ -515,6 +516,7 @@
 127.0.0.1 contextual.media.net
 127.0.0.1 conversions.appsflyer.com
 127.0.0.1 cookie-cdn.cookiepro.com
+127.0.0.1 cool.sunporno.com
 127.0.0.1 core-waw-1.wildcard.dns.army
 127.0.0.1 cosmos.marfeel.com
 127.0.0.1 counter.yadro.ru
@@ -856,7 +858,9 @@
 127.0.0.1 go.ezoic.net
 127.0.0.1 go.goaserv.com
 127.0.0.1 go.xlivrdr.com
+127.0.0.1 go.xlrdr.com
 127.0.0.1 go.xxxijmp.com
+127.0.0.1 go6shde9nj2itle.com
 127.0.0.1 godpvqnszo.com
 127.0.0.1 google-analytics.com
 127.0.0.1 googleads.g.doubleclick.net
@@ -1232,6 +1236,7 @@
 127.0.0.1 profitabledisplaycontent.com
 127.0.0.1 protagcdn.com
 127.0.0.1 ps.eyeota.net
+127.0.0.1 pt.ctsdwm.com
 127.0.0.1 pub-sdk-cfg.criteo.com
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 publisher-assets.spot.im
@@ -1681,6 +1686,7 @@
 127.0.0.1 x.clearbitjs.com
 127.0.0.1 x.everestop.io
 127.0.0.1 x01.aidata.io
+127.0.0.1 xngqoc.com
 127.0.0.1 yandex-dmp-sync.rutarget.ru
 127.0.0.1 yandex-sync.rutarget.ru
 127.0.0.1 yandexadexchange.net

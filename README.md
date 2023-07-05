@@ -1,6 +1,6 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/symbuzzer/Turkish-Ad-Hosts)](https://github.com/symbuzzer/Turkish-Ad-Hosts/commits/main) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/symbuzzer/Turkish-Ad-Hosts?color=gr) [![shields.io Stars](https://img.shields.io/github/stars/symbuzzer/Turkish-Ad-Hosts?color=gr)](https://github.com/symbuzzer/Turkish-Ad-Hosts/stargazers) [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/Turkish-Ad-Hosts/total.svg)]() ![](https://img.shields.io/badge/first%20release-Nov%2017%2C%202022-brightgreen) 
 
-# Turkish Ad Hosts - v23070306
+# Turkish Ad Hosts - v23070504
   
 - [İndir / Download](https://github.com/symbuzzer/Turkish-Ad-Hosts/releases)  
 - [Wiki](https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki)
