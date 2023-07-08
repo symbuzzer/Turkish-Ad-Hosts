@@ -486,6 +486,7 @@ confiant-integrations.global.ssl.fastly.net
 config.samsungads.com
 config.uca.cloud.unity3d.com
 config.unityads.unity3d.com
+config-api.internet.apps.samsung.com
 configv2.unityads.unity3d.com
 connect.tapjoy.com
 connect-dre.dbankcloud.cn
@@ -1373,6 +1374,7 @@ shakysurprise.com
 shb.richaudience.com
 showbet-static.ams3.digitaloceanspaces.com
 showbet205.com
+sia.internet.apps.samsung.com
 signal-beacon.s-onetag.com
 signals.carrefoursa.com
 signals.teknosa.com
@@ -1506,6 +1508,7 @@ td.doubleclick.net
 teknosa.api.useinsider.com
 teleport.soom.la
 tempest.services.disqus.com
+terms.internet.apps.samsung.com
 tg1.aniview.com
 tg1.playstream.media
 the.gatekeeperconsent.com
