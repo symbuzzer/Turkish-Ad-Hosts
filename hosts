@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23070514
+# Version: 23070812
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -506,6 +506,7 @@
 127.0.0.1 config.samsungads.com
 127.0.0.1 config.uca.cloud.unity3d.com
 127.0.0.1 config.unityads.unity3d.com
+127.0.0.1 config-api.internet.apps.samsung.com
 127.0.0.1 configv2.unityads.unity3d.com
 127.0.0.1 connect.tapjoy.com
 127.0.0.1 connect-dre.dbankcloud.cn
@@ -1393,6 +1394,7 @@
 127.0.0.1 shb.richaudience.com
 127.0.0.1 showbet-static.ams3.digitaloceanspaces.com
 127.0.0.1 showbet205.com
+127.0.0.1 sia.internet.apps.samsung.com
 127.0.0.1 signal-beacon.s-onetag.com
 127.0.0.1 signals.carrefoursa.com
 127.0.0.1 signals.teknosa.com
@@ -1526,6 +1528,7 @@
 127.0.0.1 teknosa.api.useinsider.com
 127.0.0.1 teleport.soom.la
 127.0.0.1 tempest.services.disqus.com
+127.0.0.1 terms.internet.apps.samsung.com
 127.0.0.1 tg1.aniview.com
 127.0.0.1 tg1.playstream.media
 127.0.0.1 the.gatekeeperconsent.com
