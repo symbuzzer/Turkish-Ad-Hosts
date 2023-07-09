@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23070812
+# Version: 23070908
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -211,6 +211,7 @@
 127.0.0.1 analyticsengine.s3.amazonaws.com
 127.0.0.1 anguishworst.com
 127.0.0.1 ap.lijit.com
+127.0.0.1 apex.go.sonobi.com
 127.0.0.1 api.amplitude.com
 127.0.0.1 api.ad.intl.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
@@ -238,6 +239,7 @@
 127.0.0.1 api.segment.io
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 127.0.0.1 api.useinsider.com
+127.0.0.1 api-js.datadome.co
 127.0.0.1 api-stg.ensonhaber.com
 127.0.0.1 api2.amplitude.com
 127.0.0.1 api2.branch.io
@@ -471,6 +473,7 @@
 127.0.0.1 clbanners9.com
 127.0.0.1 click.oneplus.cn
 127.0.0.1 click.oneplus.com
+127.0.0.1 click.udimg.com
 127.0.0.1 clicks.hurriyet.com.tr
 127.0.0.1 clickserv.sitescout.com
 127.0.0.1 clientcdn.pushengage.com
@@ -610,6 +613,7 @@
 127.0.0.1 dpm.demdex.net
 127.0.0.1 dr.api.useinsider.com
 127.0.0.1 dr6.biz
+127.0.0.1 dsum.casalemedia.com
 127.0.0.1 dsum-sec.casalemedia.com
 127.0.0.1 dt.adsafeprotected.com
 127.0.0.1 dtm-dre.platform.dbankcloud.cn
@@ -621,6 +625,7 @@
 127.0.0.1 dygassets.dygdigital.com
 127.0.0.1 dynamic.criteo.com
 127.0.0.1 e.deployads.com
+127.0.0.1 e.serverbid.com
 127.0.0.1 e2c1.gcp.gvt2.com
 127.0.0.1 e2c2.gcp.gvt2.com
 127.0.0.1 e2c3.gcp.gvt2.com
@@ -686,6 +691,7 @@
 127.0.0.1 e2c63.gcp.gvt2.com
 127.0.0.1 e2c64.gcp.gvt2.com
 127.0.0.1 e2c65.gcp.gvt2.com
+127.0.0.1 e2c66.gcp.gvt2.com
 127.0.0.1 e2cs01.gcp.gvt2.com
 127.0.0.1 e2cs02.gcp.gvt2.com
 127.0.0.1 e2cs03.gcp.gvt2.com
@@ -1580,16 +1586,16 @@
 127.0.0.1 u1102.com
 127.0.0.1 u10506.19.spylog.com
 127.0.0.1 udmserve.net
-127.0.0.1 unagi.amazon.com.tr
-127.0.0.1 unagi-eu.amazon.com
-127.0.0.1 unagi-na.amazon.com
-127.0.0.1 unilever.demdex.net
 127.0.0.1 uip.semasio.net
 127.0.0.1 uk-script.dotmetrics.net
 127.0.0.1 ulogs.umeng.com
 127.0.0.1 ulogs.umengcloud.com
+127.0.0.1 unilever.demdex.net
 127.0.0.1 unagi.amazon.com
+127.0.0.1 unagi.amazon.com.tr
 127.0.0.1 unagi.amazon.fr
+127.0.0.1 unagi-eu.amazon.com
+127.0.0.1 unagi-na.amazon.com
 127.0.0.1 unilever.tt.omtrdc.net
 127.0.0.1 unileverna.tt.omtrdc.net
 127.0.0.1 uno.rub88677win.xyz
@@ -1597,6 +1603,7 @@
 127.0.0.1 upload.luckyorange.net
 127.0.0.1 ups.analytics.yahoo.com
 127.0.0.1 uptimecdn.com
+127.0.0.1 urbandictionary-com.videoplayerhub.com
 127.0.0.1 us-u.openx.net
 127.0.0.1 us.creativecdn.com
 127.0.0.1 usage.trackjs.com
