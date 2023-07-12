@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23070908
+# Version: 23071211
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -182,6 +182,7 @@
 127.0.0.1 amunfezanttor.com
 127.0.0.1 an.facebook.com
 127.0.0.1 an.yandex.ru
+127.0.0.1 analitik2.edevlet.gov.tr
 127.0.0.1 analytics.archive.org
 127.0.0.1 analytics.callbell.eu
 127.0.0.1 analytics.cdn.live
@@ -520,6 +521,7 @@
 127.0.0.1 contextual.media.net
 127.0.0.1 conversions.appsflyer.com
 127.0.0.1 cookie-cdn.cookiepro.com
+127.0.0.1 cookies.nextmillmedia.com
 127.0.0.1 cool.sunporno.com
 127.0.0.1 core-waw-1.wildcard.dns.army
 127.0.0.1 cosmos.marfeel.com
@@ -613,6 +615,7 @@
 127.0.0.1 dpm.demdex.net
 127.0.0.1 dr.api.useinsider.com
 127.0.0.1 dr6.biz
+127.0.0.1 dsh7ky7308k4b.cloudfront.net
 127.0.0.1 dsum.casalemedia.com
 127.0.0.1 dsum-sec.casalemedia.com
 127.0.0.1 dt.adsafeprotected.com
@@ -769,6 +772,7 @@
 127.0.0.1 ecdn.firstimpression.io
 127.0.0.1 edge.fullstory.com
 127.0.0.1 edge.quantserve.com
+127.0.0.1 edge.uniconsent.com
 127.0.0.1 edge-sentry-box.otelz.com
 127.0.0.1 eezegrip.net
 127.0.0.1 elonreptiloid.com
@@ -1182,6 +1186,7 @@
 127.0.0.1 path1.xtracloud.net
 127.0.0.1 path2.xtracloud.net
 127.0.0.1 path3.xtracloud.net
+127.0.0.1 pbs.nextmillmedia.com
 127.0.0.1 pcdn.dengage.com
 127.0.0.1 pcookie.aliexpress.com
 127.0.0.1 pebed.dm-event.net
