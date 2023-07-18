@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23071211
+# Version: 23071808
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -122,6 +122,7 @@
 127.0.0.1 ads.pinterest.com
 127.0.0.1 ads.pro-market.net
 127.0.0.1 ads.pubmatic.com
+127.0.0.1 ads.realsrv.com
 127.0.0.1 ads.reddit.com
 127.0.0.1 ads.rubiconproject.com
 127.0.0.1 ads.servebom.com
@@ -441,6 +442,7 @@
 127.0.0.1 cdn.twinrdsrv.com
 127.0.0.1 cdn.unblockia.com
 127.0.0.1 cdn.unibotscdn.com
+127.0.0.1 cdn.usefulcontentsites.com
 127.0.0.1 cdn.valuad.cloud
 127.0.0.1 cdn.viglink.com
 127.0.0.1 cdn.webpushr.com
@@ -804,6 +806,7 @@
 127.0.0.1 events.split.io
 127.0.0.1 events.statsigapi.net
 127.0.0.1 evs.data.ciceksepeti.com
+127.0.0.1 excellentvids.space
 127.0.0.1 exchange.buzzoola.com
 127.0.0.1 exchange.postrelease.com
 127.0.0.1 exploredefinitely.com
@@ -1172,8 +1175,10 @@
 127.0.0.1 owlcarousel2.github.io
 127.0.0.1 p.adsymptotic.com
 127.0.0.1 p.cpx.to
+127.0.0.1 p.hgfdtujlknhkghf.site
 127.0.0.1 p.imgur.com
 127.0.0.1 p.typekit.net
+127.0.0.1 p-analytics.life
 127.0.0.1 p11.techlab-cdn.com
 127.0.0.1 pad-v3.presage.io
 127.0.0.1 pagead2.googleadservices.com
@@ -1271,6 +1276,7 @@
 127.0.0.1 r.skimresources.com
 127.0.0.1 r.stripe.com
 127.0.0.1 radar.cedexis.com
+127.0.0.1 rcm-na.amazon-adsystem.com
 127.0.0.1 rauvoaty.net
 127.0.0.1 rebrand.ly
 127.0.0.1 recommendation-api.analytics.onedio.com
@@ -1511,12 +1517,14 @@
 127.0.0.1 sync.upravel.com
 127.0.0.1 sync-tm.everesttech.net
 127.0.0.1 synchrobox.adswizz.com
+127.0.0.1 syndication.realsrv.com
 127.0.0.1 system-notify.app
 127.0.0.1 t.adx.opera.com
 127.0.0.1 t.apkpure.net
 127.0.0.1 t.castle.io
 127.0.0.1 t.contentsquare.net
 127.0.0.1 t.imgur.com
+127.0.0.1 tacticschangebabysitting.com
 127.0.0.1 tag.1rx.io
 127.0.0.1 tag.bounceexchange.com
 127.0.0.1 tag.clearbitscripts.com
@@ -1612,6 +1620,7 @@
 127.0.0.1 us-u.openx.net
 127.0.0.1 us.creativecdn.com
 127.0.0.1 usage.trackjs.com
+127.0.0.1 usjbwvtqwv.com
 127.0.0.1 utoken.umeng.com
 127.0.0.1 utt.impactcdn.com
 127.0.0.1 v.vidghjlgkuyfk.site
@@ -1648,6 +1657,7 @@
 127.0.0.1 widgets.outbrain.com
 127.0.0.1 widgets.pinterest.com
 127.0.0.1 wikihow-com.videoplayerhub.com
+127.0.0.1 wmpuem.com
 127.0.0.1 wps.relateddigital.com
 127.0.0.1 write.trackonomics.net
 127.0.0.1 ws.batch.com
