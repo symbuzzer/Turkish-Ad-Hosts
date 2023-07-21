@@ -1,4 +1,7 @@
 # Module Changelog:  
+## v1.0.5  
+- Added support and donate sections to module.prop   
+  
 ## v1.0.4  
 - Added KernelSU support  
   
