@@ -25,6 +25,7 @@ env:
   DISCUSSIONS_PAGE: "https://github.com/symbuzzer/Turkish-Ad-Hosts/discussions"
   RELEASES_PAGE: "https://github.com/symbuzzer/Turkish-Ad-Hosts/releases"
   ISSUES_PAGE: "https://github.com/symbuzzer/Turkish-Ad-Hosts/issues"
+  DONATE_URL: "https://avalibeyaz.com/patreon"
   MODULE_FOLDER: "magisk-kernelsu"
 
 jobs:
@@ -123,7 +124,9 @@ jobs:
           versionCode=${{ env.DATE }}
           author=$AUTHOR
           description=$MODULE_DESC
-          updateJson=$UPDATEJSON_RAW_URL" > module.prop
+          updateJson=$UPDATEJSON_RAW_URL
+          support=$ISSUES_PAGE
+          donate=$DONATE_URL" > module.prop
       
       - name: Copying files to necessary dirs
         run:  |
