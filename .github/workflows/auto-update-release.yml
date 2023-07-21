@@ -11,7 +11,7 @@ env:
   REPO_RAW_URL: "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts"
   HOSTS_NAME: "Turkish-Ad-Hosts"
   MODULE_NAME: "Turkish Ad Hosts"
-  MODULE_VER: "1.0.4"
+  MODULE_VER: "1.0.5"
   AUTHOR: "Ali Beyaz"
   MODULE_DESC: "Türkiye'de yaygın kullanılan mobil uygulamalardaki (ve muhtemelen WEB sayfalarındaki) izleme (ve beraberinde muhtemelen reklam) ağlarını engellemek için gerekli hosts dosyası"
   MODULE_DESC_EN: "Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey..."
