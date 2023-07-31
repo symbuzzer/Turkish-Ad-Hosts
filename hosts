@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23072707
+# Version: 23073106
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -77,6 +77,7 @@
 127.0.0.1 a4.applovin.com
 127.0.0.1 aa.agkn.com
 127.0.0.1 aa.online-metrix.net
+127.0.0.1 aan.amazon.com
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 aax-dtb-cf.amazon-adsystem.com
 127.0.0.1 aax-eu.amazon.com.tr
@@ -562,6 +563,7 @@
 127.0.0.1 d1upt0rqzff34l.cloudfront.net
 127.0.0.1 d13k7prax1yi04.cloudfront.net
 127.0.0.1 d15kdpgjg3unno.cloudfront.net
+127.0.0.1 d2ef20sk9hi1u3.cloudfront.net
 127.0.0.1 d2hrivdxn8ekm8.cloudfront.net
 127.0.0.1 d2r1yp2w7bby2u.cloudfront.net
 127.0.0.1 d2t77mnxyo7adj.cloudfront.net
@@ -620,6 +622,7 @@
 127.0.0.1 dp2.33across.com
 127.0.0.1 dpm.demdex.net
 127.0.0.1 dr.api.useinsider.com
+127.0.0.1 dr3fr5q4g2ul9.cloudfront.net
 127.0.0.1 dr6.biz
 127.0.0.1 dsh7ky7308k4b.cloudfront.net
 127.0.0.1 dsum.casalemedia.com
