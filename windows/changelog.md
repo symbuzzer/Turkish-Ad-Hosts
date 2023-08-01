@@ -2,6 +2,7 @@
 
 ## v2.1.3  
 - Added more strings to UI dialogs
+- Added author info to dialog title
   
 ## v2.1.2 
 - Fixed uninstall process  
