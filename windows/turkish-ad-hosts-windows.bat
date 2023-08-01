@@ -1,11 +1,12 @@
 @echo off
 setlocal EnableDelayedExpansion
 chcp 1254
-mode con:cols=55 lines=9
+mode con:cols=55 lines=10
 cls
-set ver=2.1.2
+set ver=2.1.3
 set name=Turkish Ad Hosts
-set title=%name% v%ver%
+set author=Ali BEYAZ
+set title=%name% v%ver% - by %author%
 title %title%
 color 0a
 set workingdir=%UserProfile%\tah
@@ -79,6 +80,7 @@ set /p githubversion=<"%version2file%"
 if %githubversion% gtr %installedversion% (goto start) else (goto noupdatefound)
 
 :start
+echo.update found!
 echo.getting sources from github...
 echo chcp 1254 >> %temp%\%filename%.bat
 echo powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts' -OutFile '%WinDir%\System32\drivers\etc\hosts'" >> %temp%\%filename%.bat
