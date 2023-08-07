@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23080109
+# Version: 23080717
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -179,6 +179,7 @@
 127.0.0.1 amazonaax.com
 127.0.0.1 amazonclix.com
 127.0.0.1 amer.hhkld.com
+127.0.0.1 amp.casalemedia.com
 127.0.0.1 amplify.outbrain.com
 127.0.0.1 amprtc.media.net
 127.0.0.1 ams.creativecdn.com
@@ -785,6 +786,7 @@
 127.0.0.1 edge-sentry-box.otelz.com
 127.0.0.1 eezegrip.net
 127.0.0.1 elonreptiloid.com
+127.0.0.1 elsa.memoinsights.com
 127.0.0.1 emea.hhkld.com
 127.0.0.1 engine.adzerk.net
 127.0.0.1 enormousfoot.com
@@ -1444,6 +1446,7 @@
 127.0.0.1 spl.zeotap.com
 127.0.0.1 src.ebay-us.com
 127.0.0.1 srv.buysellads.com
+127.0.0.1 srv.pixel.parsely.com
 127.0.0.1 srvccc.fish91826twenty.ga
 127.0.0.1 srvr.dmvs-apac.com
 127.0.0.1 ssbsync-global.smartadserver.com
