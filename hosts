@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23080717
+# Version: 23081109
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -108,6 +108,8 @@
 127.0.0.1 adfp.fcloud.com.tr
 127.0.0.1 adfstat.yandex.ru
 127.0.0.1 adl.mynetreklam.com
+127.0.0.1 adobe.tt.omtrdc.net
+127.0.0.1 adobedc.demdex.net
 127.0.0.1 ads.adfox.ru
 127.0.0.1 ads.adthrive.com
 127.0.0.1 ads.assemblyexchange.com
@@ -203,6 +205,7 @@
 127.0.0.1 analytics.samsungknox.com
 127.0.0.1 analytics.skyscanner.net
 127.0.0.1 analytics.slashdotmedia.com
+127.0.0.1 analytics.supplyframe.com
 127.0.0.1 analytics.tebilisim.com
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 analytics.ubports.com
@@ -1069,6 +1072,7 @@
 127.0.0.1 match.360yield.com
 127.0.0.1 match.adsrvr.org
 127.0.0.1 match.sharethrough.com
+127.0.0.1 mb.moatads.com
 127.0.0.1 mb9eo.publishers.tremorhub.com
 127.0.0.1 mbid.marfeelrev.com
 127.0.0.1 mbls.visilabs.net
@@ -1266,6 +1270,7 @@
 127.0.0.1 protagcdn.com
 127.0.0.1 ps.eyeota.net
 127.0.0.1 pt.ctsdwm.com
+127.0.0.1 pub.doubleverify.com
 127.0.0.1 pub-sdk-cfg.criteo.com
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 publisher-assets.spot.im
@@ -1366,6 +1371,7 @@
 127.0.0.1 s3t3d2y8.afcdn.net
 127.0.0.1 s7.addthis.com
 127.0.0.1 s8t.teads.tv
+127.0.0.1 s9.addthis.com
 127.0.0.1 ss-pbs.quantumdex.io
 127.0.0.1 samsung-com.112.2o7.net
 127.0.0.1 samsungadhub.com
@@ -1535,6 +1541,7 @@
 127.0.0.1 sync.upravel.com
 127.0.0.1 sync-tm.everesttech.net
 127.0.0.1 synchrobox.adswizz.com
+127.0.0.1 syndication.exoclick.com
 127.0.0.1 syndication.realsrv.com
 127.0.0.1 system-notify.app
 127.0.0.1 t.adx.opera.com
@@ -1550,6 +1557,7 @@
 127.0.0.1 tag.demandbase.com
 127.0.0.1 tag.durationmedia.net
 127.0.0.1 tag.oko.net
+127.0.0.1 tag.perfectaudience.com
 127.0.0.1 tag.rmp.rakuten.com
 127.0.0.1 tag.sp.advertising.com
 127.0.0.1 tagan.adlightning.com
@@ -1619,6 +1627,7 @@
 127.0.0.1 u.startup.mobile.webvisor.com
 127.0.0.1 u1102.com
 127.0.0.1 u10506.19.spylog.com
+127.0.0.1 ua.realtimely.io
 127.0.0.1 udmserve.net
 127.0.0.1 uip.semasio.net
 127.0.0.1 uk-script.dotmetrics.net
