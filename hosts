@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23081210
+# Version: 23081320
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -60,10 +60,12 @@
 127.0.0.1 a.adtng.com
 127.0.0.1 a.appbaqend.com
 127.0.0.1 a.applovin.com
+127.0.0.1 a.bestcontentcost.top
 127.0.0.1 a.doganburda.com
 127.0.0.1 a.exosrv.com
 127.0.0.1 a.jhfhdkhkh.site
 127.0.0.1 a.labadena.com
+127.0.0.1 a.magsrv.com
 127.0.0.1 a.mouseflow.com
 127.0.0.1 a.omappapi.com
 127.0.0.1 a.pub.network
@@ -75,6 +77,7 @@
 127.0.0.1 a.vdo.ai
 127.0.0.1 a1.api.bbc.co.uk
 127.0.0.1 a4.applovin.com
+127.0.0.1 a69i.com
 127.0.0.1 aa.agkn.com
 127.0.0.1 aa.online-metrix.net
 127.0.0.1 aan.amazon.com
@@ -118,6 +121,7 @@
 127.0.0.1 ads.dygdigital.com
 127.0.0.1 ads.ekstat.com
 127.0.0.1 ads.exoclick.com
+127.0.0.1 ads.exosrv.com
 127.0.0.1 ads.facebook.com
 127.0.0.1 ads.google.com
 127.0.0.1 ads.linkedin.com
@@ -213,6 +217,7 @@
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 analytics-api.samsunghealthcn.com
 127.0.0.1 analytics-dev.bettermeter.com
+127.0.0.1 analytics-gateway.delta.dp.lightricks.com
 127.0.0.1 analytics-ingress-global.bitmovin.com
 127.0.0.1 analytics-sg.tiktok.com
 127.0.0.1 analyticsb2c.com
@@ -267,6 +272,7 @@
 127.0.0.1 app-analytics-v2.snapchat.com
 127.0.0.1 app-measurement.com
 127.0.0.1 app-sj06.marketo.com
+127.0.0.1 applets.ebxcdn.com
 127.0.0.1 appmetrica.yandex.com
 127.0.0.1 apv-launcher.minute.ly
 127.0.0.1 arabam.api.useinsider.com
@@ -289,6 +295,7 @@
 127.0.0.1 authbe.sec.intl.miui.com
 127.0.0.1 avhtaapxml.com
 127.0.0.1 avlsh.visilabs.net
+127.0.0.1 b.a11k.com
 127.0.0.1 b.pub.network
 127.0.0.1 b.stats.paypal.com
 127.0.0.1 b-cdn.cnnturk.com
@@ -350,6 +357,7 @@
 127.0.0.1 c.pubguru.net
 127.0.0.1 c.statcounter.com
 127.0.0.1 c.us.webengage.com
+127.0.0.1 c1.bhcont.com
 127.0.0.1 c1.microsoft.com
 127.0.0.1 c2.taboola.com
 127.0.0.1 c2shb.pubgw.yahoo.com
@@ -376,6 +384,7 @@
 127.0.0.1 cdn.afp.ai
 127.0.0.1 cdn.amplitude.com
 127.0.0.1 cdn.avmws.com
+127.0.0.1 cdn.banhq.com
 127.0.0.1 cdn.bannersnack.com
 127.0.0.1 cdn.bizible.com
 127.0.0.1 cdn.blg-1216lb.com
@@ -395,6 +404,7 @@
 127.0.0.1 cdn.engine.4dsply.com
 127.0.0.1 cdn.fastclick.net
 127.0.0.1 cdn.feedify.net
+127.0.0.1 cdn.feathr.co
 127.0.0.1 cdn.firstimpression.io
 127.0.0.1 cdn.firstpromoter.com
 127.0.0.1 cdn.geni.us
@@ -502,8 +512,10 @@
 127.0.0.1 cms.quantserve.com
 127.0.0.1 cn.app.chat.xiaomi.net
 127.0.0.1 cnnturk.api.useinsider.com
+127.0.0.1 cnt.nuvid.com
 127.0.0.1 cnt.trvdp.com
 127.0.0.1 cnt.xhamster.com
+127.0.0.1 cocoonelectronicsconfined.com
 127.0.0.1 code.createjs.com
 127.0.0.1 code.jivosite.com
 127.0.0.1 col.eum-appdynamics.com
@@ -540,11 +552,13 @@
 127.0.0.1 countly.fibabanka.com.tr
 127.0.0.1 countly.iyzico.com
 127.0.0.1 cp.pushwoosh.com
+127.0.0.1 cra.hum.works
 127.0.0.1 crashlyticsreports-pa.googleapis.com
 127.0.0.1 crashlogs.whatsapp.net
 127.0.0.1 creative.xlirdr.com
 127.0.0.1 creativecdn.com
 127.0.0.1 cresfpho2ntesepapillo3.com
+127.0.0.1 crisistuesdayartillery.com
 127.0.0.1 cs.admanmedia.com
 127.0.0.1 cs.luckyorange.net
 127.0.0.1 cs.media.net
@@ -580,6 +594,7 @@
 127.0.0.1 d3g5ovfngjw9bw.cloudfront.net
 127.0.0.1 d3j3yrurxcqogk.cloudfront.net
 127.0.0.1 d3t87ooo0697p8.cloudfront.net
+127.0.0.1 da37c08c29.36b7ca5028.com
 127.0.0.1 data.flurry.com
 127.0.0.1 data.mistat.india.xiaomi.com
 127.0.0.1 data.mistat.intl.xiaomi.com
@@ -634,7 +649,7 @@
 127.0.0.1 dt.adsafeprotected.com
 127.0.0.1 dtm-dre.platform.dbankcloud.cn
 127.0.0.1 dttrk.com
-127.0.0.1 dsum-sec.casalemedia.com
+127.0.0.1 ductquest.com
 127.0.0.1 dwin1.com
 127.0.0.1 dx.mountain.com
 127.0.0.1 dxp.baidu.com
@@ -825,6 +840,7 @@
 127.0.0.1 exchange.postrelease.com
 127.0.0.1 exploredefinitely.com
 127.0.0.1 extmaps-api.yandex.net
+127.0.0.1 eyauknalyticafra.info
 127.0.0.1 ezodn.com
 127.0.0.1 ezojs.com
 127.0.0.1 f.convertkit.com
@@ -964,6 +980,7 @@
 127.0.0.1 image2.pubmatic.com
 127.0.0.1 image6.pubmatic.com
 127.0.0.1 image8.pubmatic.com
+127.0.0.1 images.revcontent.com
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 img.3633a.com
 127.0.0.1 img.ekstat.com
@@ -1008,6 +1025,7 @@
 127.0.0.1 js.sddan.com
 127.0.0.1 js.tagon.co
 127.0.0.1 js.wpadmngr.com
+127.0.0.1 js.wpnsrv.com
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 js-eu1.hs-analytics.net
 127.0.0.1 js-eu1.hs-banner.com
@@ -1083,6 +1101,7 @@
 127.0.0.1 mc.yandex.ru
 127.0.0.1 mc2tnzs73p3554cjc7h876m-gfm4.device.marketingcloudapis.com
 127.0.0.1 mcfk02nd3k8q7w75g9yxxcc6yj20.device.marketingcloudapis.com
+127.0.0.1 mcpuwpsh.com
 127.0.0.1 mcs-va.tiktokv.com
 127.0.0.1 mcs-va-useast2a.tiktokv.com
 127.0.0.1 mczbf.com
@@ -1175,11 +1194,13 @@
 127.0.0.1 o55978.ingest.sentry.io
 127.0.0.1 o64293.ingest.sentry.io
 127.0.0.1 o83571.ingest.sentry.io
+127.0.0.1 o989828.ingest.sentry.io
 127.0.0.1 odb.outbrain.com
 127.0.0.1 odr.mookie1.com
 127.0.0.1 offer.slgnt.eu
 127.0.0.1 ogp.me
 127.0.0.1 omclyzyapf.com
+127.0.0.1 onclickprediction.com
 127.0.0.1 onetag-sys.com
 127.0.0.1 open.oneplus.net
 127.0.0.1 openfpcdn.io
@@ -1251,6 +1272,7 @@
 127.0.0.1 player.apester.com
 127.0.0.1 player.spotim.market
 127.0.0.1 pm-gateway.supersonicads.com
+127.0.0.1 pnpjceawvmeu.cdnvideo3.com
 127.0.0.1 pnsdkapi.turktelekom.com.tr
 127.0.0.1 pocketfaucet.com
 127.0.0.1 pornhdr.cf
@@ -1355,6 +1377,7 @@
 127.0.0.1 s.adroll.com
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 s.btstatic.com
+127.0.0.1 s.dpmsrv.com
 127.0.0.1 s.go-mpulse.net
 127.0.0.1 s.nitropay.com
 127.0.0.1 s.ntv.io
@@ -1394,6 +1417,7 @@
 127.0.0.1 scripts.webcontentassessor.com
 127.0.0.1 sdk.conscent.in
 127.0.0.1 sdk.iad-01.braze.com
+127.0.0.1 sdk.iad-05.braze.com
 127.0.0.1 sdk.iad-06.braze.com
 127.0.0.1 sdk.fra-01.braze.eu
 127.0.0.1 sdk.poltio.com
@@ -1436,6 +1460,7 @@
 127.0.0.1 showbet-static.ams3.digitaloceanspaces.com
 127.0.0.1 showbet205.com
 127.0.0.1 sia.internet.apps.samsung.com
+127.0.0.1 sibautomation.com
 127.0.0.1 signal-beacon.s-onetag.com
 127.0.0.1 signals.carrefoursa.com
 127.0.0.1 signals.teknosa.com
@@ -1625,6 +1650,7 @@
 127.0.0.1 tubestatic.usco1621-b.com
 127.0.0.1 turkcell.api.useinsider.com
 127.0.0.1 twinrdsrv.com
+127.0.0.1 twistconcept.com
 127.0.0.1 tx.n11.com
 127.0.0.1 u.openx.net
 127.0.0.1 u.startup.mobile.webvisor.com
@@ -1650,8 +1676,9 @@
 127.0.0.1 ups.analytics.yahoo.com
 127.0.0.1 uptimecdn.com
 127.0.0.1 urbandictionary-com.videoplayerhub.com
-127.0.0.1 us-u.openx.net
 127.0.0.1 us.creativecdn.com
+127.0.0.1 us-u.openx.net
+127.0.0.1 us-west1.cdngcloud.com
 127.0.0.1 usage.trackjs.com
 127.0.0.1 usjbwvtqwv.com
 127.0.0.1 utoken.umeng.com

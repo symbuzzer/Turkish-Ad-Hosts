@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-08-12T10:20:37.446Z
+! Last modified: 2023-08-13T20:28:32.366Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -25,10 +25,12 @@
 ||a.adtng.com^
 ||a.appbaqend.com^
 ||a.applovin.com^
+||a.bestcontentcost.top^
 ||a.doganburda.com^
 ||a.exosrv.com^
 ||a.jhfhdkhkh.site^
 ||a.labadena.com^
+||a.magsrv.com^
 ||a.omappapi.com^
 ||a.pub.network^
 ||a.quora.com^
@@ -39,6 +41,7 @@
 ||a.vdo.ai^
 ||a1.api.bbc.co.uk^
 ||a4.applovin.com^
+||a69i.com^
 ||aa.agkn.com^
 ||aa.online-metrix.net^
 ||aan.amazon.com^
@@ -78,6 +81,7 @@
 ||ads.dygdigital.com^
 ||ads.ekstat.com^
 ||ads.exoclick.com^
+||ads.exosrv.com^
 ||ads.facebook.com^
 ||ads.google.com^
 ||ads.linkedin.com^
@@ -167,6 +171,7 @@
 ||analytics.yahoo.com^
 ||analytics-api.samsunghealthcn.com^
 ||analytics-dev.bettermeter.com^
+||analytics-gateway.delta.dp.lightricks.com^
 ||analytics-ingress-global.bitmovin.com^
 ||analytics-sg.tiktok.com^
 ||analyticsb2c.com^
@@ -220,6 +225,7 @@
 ||app-analytics-v2.snapchat.com^
 ||app-measurement.com^
 ||app-sj06.marketo.com^
+||applets.ebxcdn.com^
 ||appmetrica.yandex.com^
 ||apv-launcher.minute.ly^
 ||artfut.com^
@@ -240,6 +246,7 @@
 ||authbe.sec.intl.miui.com^
 ||avhtaapxml.com^
 ||avlsh.visilabs.net^
+||b.a11k.com^
 ||b.pub.network^
 ||b.stats.paypal.com^
 ||b-cdn.cnnturk.com^
@@ -291,6 +298,7 @@
 ||c.pub.network^
 ||c.pubguru.net^
 ||c.us.webengage.com^
+||c1.bhcont.com^
 ||c1.microsoft.com^
 ||c2.taboola.com^
 ||c2shb.pubgw.yahoo.com^
@@ -316,6 +324,7 @@
 ||cdn.afp.ai^
 ||cdn.amplitude.com^
 ||cdn.avmws.com^
+||cdn.banhq.com^
 ||cdn.bannersnack.com^
 ||cdn.bizible.com^
 ||cdn.blg-1216lb.com^
@@ -334,6 +343,7 @@
 ||cdn.eksiup.com^
 ||cdn.engine.4dsply.com^
 ||cdn.feedify.net^
+||cdn.feathr.co^
 ||cdn.firstimpression.io^
 ||cdn.firstpromoter.com^
 ||cdn.geni.us^
@@ -427,8 +437,10 @@
 ||cm.mgid.com^
 ||cmp.uniconsent.com^
 ||cms.quantserve.com^
+||cnt.nuvid.com^
 ||cnt.trvdp.com^
 ||cnt.xhamster.com^
+||cocoonelectronicsconfined.com^
 ||code.createjs.com^
 ||code.jivosite.com^
 ||col.eum-appdynamics.com^
@@ -463,11 +475,13 @@
 ||countly.fibabanka.com.tr^
 ||countly.iyzico.com^
 ||cp.pushwoosh.com^
+||cra.hum.works^
 ||crashlyticsreports-pa.googleapis.com^
 ||crashlogs.whatsapp.net^
 ||creative.xlirdr.com^
 ||creativecdn.com^
 ||cresfpho2ntesepapillo3.com^
+||crisistuesdayartillery.com^
 ||cs.admanmedia.com^
 ||cs.luckyorange.net^
 ||cs.ns1p.net^
@@ -502,6 +516,7 @@
 ||d3g5ovfngjw9bw.cloudfront.net^
 ||d3j3yrurxcqogk.cloudfront.net^
 ||d3t87ooo0697p8.cloudfront.net^
+||da37c08c29.36b7ca5028.com^
 ||data.flurry.com^
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.intl.xiaomi.com^
@@ -553,6 +568,7 @@
 ||dt.adsafeprotected.com^
 ||dtm-dre.platform.dbankcloud.cn^
 ||dttrk.com^
+||ductquest.com^
 ||dwin1.com^
 ||dx.mountain.com^
 ||dxp.baidu.com^
@@ -604,6 +620,7 @@
 ||exchange.postrelease.com^
 ||exploredefinitely.com^
 ||extmaps-api.yandex.net^
+||eyauknalyticafra.info^
 ||ezodn.com^
 ||ezojs.com^
 ||f.convertkit.com^
@@ -725,6 +742,7 @@
 ||image2.pubmatic.com^
 ||image6.pubmatic.com^
 ||image8.pubmatic.com^
+||images.revcontent.com^
 ||imasdk.googleapis.com^
 ||img.3633a.com^
 ||img.ekstat.com^
@@ -769,6 +787,7 @@
 ||js.sddan.com^
 ||js.tagon.co^
 ||js.wpadmngr.com^
+||js.wpnsrv.com^
 ||js-agent.newrelic.com^
 ||js-eu1.hs-analytics.net^
 ||js-eu1.hs-banner.com^
@@ -841,6 +860,7 @@
 ||mc.yandex.ru^
 ||mc2tnzs73p3554cjc7h876m-gfm4.device.marketingcloudapis.com^
 ||mcfk02nd3k8q7w75g9yxxcc6yj20.device.marketingcloudapis.com^
+||mcpuwpsh.com^
 ||mcs-va.tiktokv.com^
 ||mcs-va-useast2a.tiktokv.com^
 ||mczbf.com^
@@ -918,6 +938,7 @@
 ||offer.slgnt.eu^
 ||ogp.me^
 ||omclyzyapf.com^
+||onclickprediction.com^
 ||onetag-sys.com^
 ||open.oneplus.net^
 ||openfpcdn.io^
@@ -985,6 +1006,7 @@
 ||player.apester.com^
 ||player.spotim.market^
 ||pm-gateway.supersonicads.com^
+||pnpjceawvmeu.cdnvideo3.com^
 ||pnsdkapi.turktelekom.com.tr^
 ||pocketfaucet.com^
 ||pornhdr.cf^
@@ -1080,6 +1102,7 @@
 ||s.adroll.com^
 ||s.amazon-adsystem.com^
 ||s.btstatic.com^
+||s.dpmsrv.com^
 ||s.go-mpulse.net^
 ||s.nitropay.com^
 ||s.ntv.io^
@@ -1116,6 +1139,7 @@
 ||scripts.webcontentassessor.com^
 ||sdk.conscent.in^
 ||sdk.iad-01.braze.com^
+||sdk.iad-05.braze.com^
 ||sdk.iad-06.braze.com^
 ||sdk.fra-01.braze.eu^
 ||sdk.poltio.com^
@@ -1155,6 +1179,7 @@
 ||showbet-static.ams3.digitaloceanspaces.com^
 ||showbet205.com^
 ||sia.internet.apps.samsung.com^
+||sibautomation.com^
 ||signal-beacon.s-onetag.com^
 ||signals.carrefoursa.com^
 ||signals.teknosa.com^
@@ -1328,6 +1353,7 @@
 ||tubemov.com^
 ||tubestatic.usco1621-b.com^
 ||twinrdsrv.com^
+||twistconcept.com^
 ||tx.n11.com^
 ||u.openx.net^
 ||u1102.com^
@@ -1352,6 +1378,7 @@
 ||uptimecdn.com^
 ||urbandictionary-com.videoplayerhub.com^
 ||us-u.openx.net^
+||us-west1.cdngcloud.com^
 ||usage.trackjs.com^
 ||usjbwvtqwv.com^
 ||utoken.umeng.com^
