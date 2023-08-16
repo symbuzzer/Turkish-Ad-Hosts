@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23081606
+# Version: 23081620
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -18,6 +18,7 @@
 127.0.0.1 localhost
 
 # --- [ START ] --- #
+127.0.0.1 0.oldgyhogola.com
 127.0.0.1 061353efff4748e1a51974616704a9cc.js.ubembed.com
 127.0.0.1 0b1ebd324d574f37b3516c9a1b33b66d-eb42afa9716f.cdn.forter.com
 127.0.0.1 10138642.fls.doubleclick.net
@@ -38,6 +39,7 @@
 127.0.0.1 3p-udc.yahoo.com
 127.0.0.1 4431932.fls.doubleclick.net
 127.0.0.1 4876222.fls.doubleclick.net
+127.0.0.1 4c4cc75a16ed.cdn4.forter.com
 127.0.0.1 510002161.collect.igodigital.com
 127.0.0.1 536001645.collect.igodigital.com
 127.0.0.1 5371908.fls.doubleclick.net
@@ -88,6 +90,7 @@
 127.0.0.1 aax-eu.amazon.sa
 127.0.0.1 aax-eu.amazon-adsystem.com
 127.0.0.1 aax-us.amazon-adsystem.com
+127.0.0.1 ac3bce28b1ec4def93c344b2d5e13909-4c4cc75a16ed.cdn.forter.com
 127.0.0.1 accounts.doubleclick.net
 127.0.0.1 acdn.adnxs.com
 127.0.0.1 acint.net
@@ -482,6 +485,7 @@
 127.0.0.1 cdn2.bildirt.com
 127.0.0.1 cdn2.gbqofs.com
 127.0.0.1 cdn2.inner-active.mobi
+127.0.0.1 cdn3.forter.com
 127.0.0.1 cdn4.buysellads.net
 127.0.0.1 cdn77.aj2550.bid
 127.0.0.1 cdn9.forter.com
@@ -583,10 +587,11 @@
 127.0.0.1 d.reddit.com
 127.0.0.1 d.sondakika.com
 127.0.0.1 d.turn.com
-127.0.0.1 d1l6p2sc9645hc.cloudfront.net
-127.0.0.1 d1upt0rqzff34l.cloudfront.net
 127.0.0.1 d13k7prax1yi04.cloudfront.net
 127.0.0.1 d15kdpgjg3unno.cloudfront.net
+127.0.0.1 d1l6p2sc9645hc.cloudfront.net
+127.0.0.1 d1upt0rqzff34l.cloudfront.net
+127.0.0.1 d1wix2gc2cgqis.cloudfront.net
 127.0.0.1 d2ef20sk9hi1u3.cloudfront.net
 127.0.0.1 d2hrivdxn8ekm8.cloudfront.net
 127.0.0.1 d2r1yp2w7bby2u.cloudfront.net
@@ -1321,6 +1326,7 @@
 127.0.0.1 purch-match.dotomi.com
 127.0.0.1 purch-sync.go.sonobi.com
 127.0.0.1 push.dengage.com
+127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 push-sdk.net
 127.0.0.1 pushs.euromsg.com
 127.0.0.1 px.adhigh.net
