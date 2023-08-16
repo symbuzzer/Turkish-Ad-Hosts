@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23081320
+# Version: 23081606
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -45,6 +45,7 @@
 127.0.0.1 595tuchuang.com
 127.0.0.1 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 127.0.0.1 6371800.collect.igodigital.com
+127.0.0.1 7fb6f12dd2.17dc91dc49.com
 127.0.0.1 8065991.fls.doubleclick.net
 127.0.0.1 8236901.fls.doubleclick.net
 127.0.0.1 8415160.fls.doubleclick.net
@@ -106,6 +107,7 @@
 127.0.0.1 adbsmetrics.hyundai.com
 127.0.0.1 addata.exxen.com
 127.0.0.1 ade.googlesyndication.com
+127.0.0.1 ade.clmbtech.com
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 adform.net
 127.0.0.1 adfp.fcloud.com.tr
@@ -118,6 +120,7 @@
 127.0.0.1 ads.assemblyexchange.com
 127.0.0.1 ads.avocet.io
 127.0.0.1 ads.betweendigital.com
+127.0.0.1 ads.digitalcaramel.com
 127.0.0.1 ads.dygdigital.com
 127.0.0.1 ads.ekstat.com
 127.0.0.1 ads.exoclick.com
@@ -312,6 +315,7 @@
 127.0.0.1 bat.bing.com
 127.0.0.1 bats.video.yahoo.com
 127.0.0.1 bcp.crwdcntrl.net
+127.0.0.1 beacon.krxd.net
 127.0.0.1 beacon.riskified.com
 127.0.0.1 beacon.wikia-services.com
 127.0.0.1 beacon-nf.rubiconproject.com
@@ -403,6 +407,7 @@
 127.0.0.1 cdn.eksiup.com
 127.0.0.1 cdn.engine.4dsply.com
 127.0.0.1 cdn.fastclick.net
+127.0.0.1 cdn.feathr.co
 127.0.0.1 cdn.feedify.net
 127.0.0.1 cdn.feathr.co
 127.0.0.1 cdn.firstimpression.io
@@ -541,6 +546,7 @@
 127.0.0.1 consent.cookiebot.com
 127.0.0.1 consent-manager-events.ogury.io
 127.0.0.1 consentlog.cookieyes.com
+127.0.0.1 content.mql5.com
 127.0.0.1 contextual.media.net
 127.0.0.1 conversions.appsflyer.com
 127.0.0.1 cookie-cdn.cookiepro.com
@@ -803,6 +809,7 @@
 127.0.0.1 edge.uniconsent.com
 127.0.0.1 edge-sentry-box.otelz.com
 127.0.0.1 eezegrip.net
+127.0.0.1 eitri.api.useinsider.com
 127.0.0.1 elo-io.videoplayerhub.com
 127.0.0.1 elonreptiloid.com
 127.0.0.1 elsa.memoinsights.com
@@ -897,6 +904,7 @@
 127.0.0.1 global.proper.io
 127.0.0.1 globalapi.ad.xiaomi.com
 127.0.0.1 globalsiteanalytics.com
+127.0.0.1 glochatuji.com
 127.0.0.1 go.ezodn.com
 127.0.0.1 go.ezoic.net
 127.0.0.1 go.goaserv.com
@@ -975,8 +983,10 @@
 127.0.0.1 id.strmrdrfrokd.site
 127.0.0.1 id5-sync.com
 127.0.0.1 idsync.rlcdn.com
+127.0.0.1 idx.liadm.com
 127.0.0.1 iframeri.strmrdrfrokd.site
 127.0.0.1 iframeria.strmrdrfrokd.site
+127.0.0.1 image.useinsider.com
 127.0.0.1 image2.pubmatic.com
 127.0.0.1 image6.pubmatic.com
 127.0.0.1 image8.pubmatic.com
@@ -987,6 +997,7 @@
 127.0.0.1 img.zemanta.com
 127.0.0.1 impression.link
 127.0.0.1 in.appcenter.ms
+127.0.0.1 in.hotjar.com
 127.0.0.1 inapps.appsflyer.com
 127.0.0.1 ingress.linktr.ee
 127.0.0.1 init.supersonicads.com
@@ -1058,6 +1069,8 @@
 127.0.0.1 live.demand.supply
 127.0.0.1 live.primis.tech
 127.0.0.1 load.sumo.com
+127.0.0.1 location.api.useinsider.com
+127.0.0.1 log.api.useinsider.com
 127.0.0.1 log.cookieyes.com
 127.0.0.1 log.haberturk.com
 127.0.0.1 log.pinterest.com
@@ -1093,11 +1106,13 @@
 127.0.0.1 match.360yield.com
 127.0.0.1 match.adsrvr.org
 127.0.0.1 match.sharethrough.com
+127.0.0.1 matchid.adfox.yandex.ru
 127.0.0.1 mb.moatads.com
 127.0.0.1 mb9eo.publishers.tremorhub.com
 127.0.0.1 mbid.marfeelrev.com
 127.0.0.1 mbls.visilabs.net
 127.0.0.1 mc.webvisor.org
+127.0.0.1 mc.yandex.com
 127.0.0.1 mc.yandex.ru
 127.0.0.1 mc2tnzs73p3554cjc7h876m-gfm4.device.marketingcloudapis.com
 127.0.0.1 mcfk02nd3k8q7w75g9yxxcc6yj20.device.marketingcloudapis.com
@@ -1264,6 +1279,7 @@
 127.0.0.1 pixels-1.ingbank.com.tr
 127.0.0.1 pl15371971.highcpmrevenuenetwork.com
 127.0.0.1 pl15373403.highcpmrevenuenetwork.com
+127.0.0.1 pl15393240.highrevenuegate.com
 127.0.0.1 pl15413159.highcpmrevenuenetwork.com
 127.0.0.1 platform-api.sharethis.com
 127.0.0.1 playbuzzltd-d.openx.net
@@ -1349,6 +1365,7 @@
 127.0.0.1 rot.spotsniper.ru
 127.0.0.1 rotarb.bid
 127.0.0.1 router.miwifi.com
+127.0.0.1 rp.liadm.com
 127.0.0.1 rpc-php.trafficfactory.biz
 127.0.0.1 rpdn.relateddigital.com
 127.0.0.1 rr3s4p9hfoptgmhna.ay.delivery
@@ -1374,6 +1391,7 @@
 127.0.0.1 rumcdn.geoedge.be
 127.0.0.1 run.admost.com
 127.0.0.1 rxeosevsso.com
+127.0.0.1 s.aagm.link
 127.0.0.1 s.adroll.com
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 s.btstatic.com
@@ -1440,6 +1458,7 @@
 127.0.0.1 securemetrics.apple.com
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 seg.ad.gt
+127.0.0.1 segment.api.useinsider.com
 127.0.0.1 segment-data-us-east.zqtk.net
 127.0.0.1 sentry.appodeal.com
 127.0.0.1 sentry.io
@@ -1511,6 +1530,7 @@
 127.0.0.1 static.cbox.ws
 127.0.0.1 static.chartbeat.com
 127.0.0.1 static.clevertap.com
+127.0.0.1 static.clmbtech.com
 127.0.0.1 static.cloudflareinsights.com
 127.0.0.1 static.criteo.net
 127.0.0.1 static.doubleclick.net
@@ -1639,6 +1659,7 @@
 127.0.0.1 tracking.olx-st.com
 127.0.0.1 tracking.rus.miui.com
 127.0.0.1 trc.taboola.com
+127.0.0.1 trc-events.taboola.com
 127.0.0.1 trgde.adocean.pl
 127.0.0.1 trk.indoleads.com
 127.0.0.1 trk.pinterest.com
@@ -1649,6 +1670,7 @@
 127.0.0.1 tubemov.com
 127.0.0.1 tubestatic.usco1621-b.com
 127.0.0.1 turkcell.api.useinsider.com
+127.0.0.1 turknet.api.useinsider.com
 127.0.0.1 twinrdsrv.com
 127.0.0.1 twistconcept.com
 127.0.0.1 tx.n11.com
@@ -1734,6 +1756,7 @@
 127.0.0.1 www.artfut.com
 127.0.0.1 www.biphic.com
 127.0.0.1 www.blockadsnot.com
+127.0.0.1 www.ccmiocw.com
 127.0.0.1 www.cdn.ad.xiaomi.com
 127.0.0.1 www.cdn4ads.com
 127.0.0.1 www.clarity.ms
@@ -1759,6 +1782,7 @@
 127.0.0.1 www.medyanative.com
 127.0.0.1 www.profitabledisplaycontent.com
 127.0.0.1 www.publisher-network.com
+127.0.0.1 www.rnengage.com
 127.0.0.1 www.softwareadvice.com
 127.0.0.1 www.statcounter.com
 127.0.0.1 www.statsforads.com
@@ -1774,6 +1798,7 @@
 127.0.0.1 x.clearbitjs.com
 127.0.0.1 x.everestop.io
 127.0.0.1 x01.aidata.io
+127.0.0.1 xfwblpomxc.com
 127.0.0.1 xngqoc.com
 127.0.0.1 yandex-dmp-sync.rutarget.ru
 127.0.0.1 yandex-sync.rutarget.ru
