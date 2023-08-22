@@ -231,6 +231,7 @@ api.mixpanel.com
 api.nopbreak.ru
 api.personaclick.com
 api.perzonalization.com
+api.protonaosp.kdrag0n.dev
 api.rlcdn.com
 api.rudderlabs.com
 api.sec.intl.miui.com
@@ -240,6 +241,7 @@ api.taps.io
 api.tw06.xlmc.sec.miui.com
 api.useinsider.com
 api-js.datadome.co
+api-public.addthis.com
 api-stg.ensonhaber.com
 api2.amplitude.com
 api2.branch.io
@@ -253,8 +255,8 @@ app.gelirartisi.com
 app.intergient.com
 app.networkad.net
 app.posthog.com
-api.protonaosp.kdrag0n.dev
 app.tr.adjust.com
+app.vstats.me
 app-analytics-v2.snapchat.com
 app-measurement.com
 app-sj06.marketo.com
@@ -577,6 +579,7 @@ d2hrivdxn8ekm8.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
 d2t77mnxyo7adj.cloudfront.net
 d2v02itv0y9u9t.cloudfront.net
+d1wc0ojltqk24g.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d31vxm9ubutrmw.cloudfront.net
@@ -867,6 +870,7 @@ g.jwpsrv.com
 g2.gumgum.com
 g792337340.co
 game2.betgames.tv
+gamescdnfor.com
 garantibbva.api.dataroid.com
 gars.hit.gemius.pl
 gatr.hit.gemius.pl
@@ -1075,6 +1079,7 @@ lu9xve2c97l898gjjxv4.ballercap.com
 lu9xve2c97l898gjjxv4.instantlymodern.com
 luckyorange.com
 m.addthis.com
+m.addthisedge.com
 m.doubleclick.net
 m.stripe.com
 ml314.com
@@ -1179,10 +1184,12 @@ ntvpforever.com
 ntvsporweb.api.useinsider.com
 nvidiacorp.us-5.evergage.com
 o.gez.io
+o1061291.ingest.sentry.io
 o109294.ingest.sentry.io
 o1142666.ingest.sentry.io
 o120089.ingest.sentry.io
 o1277943.ingest.sentry.io
+o186239.ingest.sentry.io
 o22381.ingest.sentry.io
 o244019.ingest.sentry.io
 o33249.ingest.sentry.io
@@ -1398,6 +1405,7 @@ s10.histats.com
 s2.adform.net
 s2.go-mpulse.net
 s2s.adjust.com
+s2s.t13.io
 s3t3d2y8.afcdn.net
 s7.addthis.com
 s8t.teads.tv
@@ -1505,6 +1513,7 @@ st-n.ads1-adnow.com
 stag-core.tfla.xyz
 stagepopkek.com
 stags.bluekai.com
+starget.intel.com
 startup.mobile.webvisor.com
 startup.mobile.yandex.net
 stat.tildacdn.com
@@ -1527,6 +1536,7 @@ static.lcwaikiki.com
 static.media.net
 static.narrativ.com
 static.onedio.com
+static.s2s.t13.io
 static.scarabresearch.com
 static.tapfiliate.com
 static.trafficjunky.com
@@ -1550,11 +1560,13 @@ statsigapi.net
 steadfastsystem.com
 steepsquirrel.com
 stootsou.net
+storj.cloud
 stpd.cloud
 str.hit.gemius.pl.hit.gemius.pl
 stretchsquirrel.com
 strmrdrfrokd.site
-storj.cloud
+stun.fpapi.io
+su.addthis.com
 sunlightmetrics.b-cdn.net
 supportmetrics.apple.com
 svibeacon.onezapp.com
@@ -1688,6 +1700,8 @@ us.creativecdn.com
 us-u.openx.net
 us-west1.cdngcloud.com
 usage.trackjs.com
+use1.fptls.com
+use1.fptls2.com
 usjbwvtqwv.com
 utoken.umeng.com
 utt.impactcdn.com
