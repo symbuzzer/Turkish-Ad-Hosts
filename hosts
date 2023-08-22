@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23081807
+# Version: 23082205
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -251,6 +251,7 @@
 127.0.0.1 api.nopbreak.ru
 127.0.0.1 api.personaclick.com
 127.0.0.1 api.perzonalization.com
+127.0.0.1 api.protonaosp.kdrag0n.dev
 127.0.0.1 api.rlcdn.com
 127.0.0.1 api.rudderlabs.com
 127.0.0.1 api.sec.intl.miui.com
@@ -260,6 +261,7 @@
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 127.0.0.1 api.useinsider.com
 127.0.0.1 api-js.datadome.co
+127.0.0.1 api-public.addthis.com
 127.0.0.1 api-stg.ensonhaber.com
 127.0.0.1 api2.amplitude.com
 127.0.0.1 api2.branch.io
@@ -273,8 +275,8 @@
 127.0.0.1 app.intergient.com
 127.0.0.1 app.networkad.net
 127.0.0.1 app.posthog.com
-127.0.0.1 api.protonaosp.kdrag0n.dev
 127.0.0.1 app.tr.adjust.com
+127.0.0.1 app.vstats.me
 127.0.0.1 app-analytics-v2.snapchat.com
 127.0.0.1 app-measurement.com
 127.0.0.1 app-sj06.marketo.com
@@ -597,6 +599,7 @@
 127.0.0.1 d2r1yp2w7bby2u.cloudfront.net
 127.0.0.1 d2t77mnxyo7adj.cloudfront.net
 127.0.0.1 d2v02itv0y9u9t.cloudfront.net
+127.0.0.1 d1wc0ojltqk24g.cloudfront.net
 127.0.0.1 d2wy8f7a9ursnm.cloudfront.net
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d31vxm9ubutrmw.cloudfront.net
@@ -887,6 +890,7 @@
 127.0.0.1 g2.gumgum.com
 127.0.0.1 g792337340.co
 127.0.0.1 game2.betgames.tv
+127.0.0.1 gamescdnfor.com
 127.0.0.1 garantibbva.api.dataroid.com
 127.0.0.1 gars.hit.gemius.pl
 127.0.0.1 gatr.hit.gemius.pl
@@ -1095,6 +1099,7 @@
 127.0.0.1 lu9xve2c97l898gjjxv4.instantlymodern.com
 127.0.0.1 luckyorange.com
 127.0.0.1 m.addthis.com
+127.0.0.1 m.addthisedge.com
 127.0.0.1 m.doubleclick.net
 127.0.0.1 m.stripe.com
 127.0.0.1 ml314.com
@@ -1199,10 +1204,12 @@
 127.0.0.1 ntvsporweb.api.useinsider.com
 127.0.0.1 nvidiacorp.us-5.evergage.com
 127.0.0.1 o.gez.io
+127.0.0.1 o1061291.ingest.sentry.io
 127.0.0.1 o109294.ingest.sentry.io
 127.0.0.1 o1142666.ingest.sentry.io
 127.0.0.1 o120089.ingest.sentry.io
 127.0.0.1 o1277943.ingest.sentry.io
+127.0.0.1 o186239.ingest.sentry.io
 127.0.0.1 o22381.ingest.sentry.io
 127.0.0.1 o244019.ingest.sentry.io
 127.0.0.1 o33249.ingest.sentry.io
@@ -1418,6 +1425,7 @@
 127.0.0.1 s2.adform.net
 127.0.0.1 s2.go-mpulse.net
 127.0.0.1 s2s.adjust.com
+127.0.0.1 s2s.t13.io
 127.0.0.1 s3t3d2y8.afcdn.net
 127.0.0.1 s7.addthis.com
 127.0.0.1 s8t.teads.tv
@@ -1525,6 +1533,7 @@
 127.0.0.1 stag-core.tfla.xyz
 127.0.0.1 stagepopkek.com
 127.0.0.1 stags.bluekai.com
+127.0.0.1 starget.intel.com
 127.0.0.1 startup.mobile.webvisor.com
 127.0.0.1 startup.mobile.yandex.net
 127.0.0.1 stat.tildacdn.com
@@ -1547,6 +1556,7 @@
 127.0.0.1 static.media.net
 127.0.0.1 static.narrativ.com
 127.0.0.1 static.onedio.com
+127.0.0.1 static.s2s.t13.io
 127.0.0.1 static.scarabresearch.com
 127.0.0.1 static.tapfiliate.com
 127.0.0.1 static.trafficjunky.com
@@ -1570,11 +1580,13 @@
 127.0.0.1 steadfastsystem.com
 127.0.0.1 steepsquirrel.com
 127.0.0.1 stootsou.net
+127.0.0.1 storj.cloud
 127.0.0.1 stpd.cloud
 127.0.0.1 str.hit.gemius.pl.hit.gemius.pl
 127.0.0.1 stretchsquirrel.com
 127.0.0.1 strmrdrfrokd.site
-127.0.0.1 storj.cloud
+127.0.0.1 stun.fpapi.io
+127.0.0.1 su.addthis.com
 127.0.0.1 sunlightmetrics.b-cdn.net
 127.0.0.1 supportmetrics.apple.com
 127.0.0.1 svibeacon.onezapp.com
@@ -1708,6 +1720,8 @@
 127.0.0.1 us-u.openx.net
 127.0.0.1 us-west1.cdngcloud.com
 127.0.0.1 usage.trackjs.com
+127.0.0.1 use1.fptls.com
+127.0.0.1 use1.fptls2.com
 127.0.0.1 usjbwvtqwv.com
 127.0.0.1 utoken.umeng.com
 127.0.0.1 utt.impactcdn.com
