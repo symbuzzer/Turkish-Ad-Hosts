@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23082205
+# Version: 23082504
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -106,6 +106,7 @@
 127.0.0.1 ad.samsungadhub.com
 127.0.0.1 ad.vidverto.io
 127.0.0.1 ad-cdn.bilgin.pro
+127.0.0.1 ad-delivery.net
 127.0.0.1 ad01.tmgrup.com.tr
 127.0.0.1 adbsmetrics.hyundai.com
 127.0.0.1 addata.exxen.com
@@ -166,6 +167,8 @@
 127.0.0.1 adservice.google.nl
 127.0.0.1 adsninja.ca
 127.0.0.1 adsp.haberturk.com
+127.0.0.1 adsreklamizm.ga
+127.0.0.1 adsreklamizm.tk
 127.0.0.1 adtago.s3.amazonaws.com
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 adv.sec.miui.com
@@ -184,10 +187,15 @@
 127.0.0.1 aj2550.bid
 127.0.0.1 ak.oalsauwy.net
 127.0.0.1 ak.sail-horizon.com
+127.0.0.1 aksamreklami.net
+127.0.0.1 aksamvaktireklam.com
+127.0.0.1 aksamvaktimreklamsx.net
 127.0.0.1 aksigorta.api.useinsider.com
 127.0.0.1 alb.reddit.com
 127.0.0.1 aloofvest.com
 127.0.0.1 altinbas.revotas.com
+127.0.0.1 amareklamizm.ml
+127.0.0.1 amareklamizm.gq
 127.0.0.1 amazonaax.com
 127.0.0.1 amazonclix.com
 127.0.0.1 amer.hhkld.com
@@ -307,6 +315,7 @@
 127.0.0.1 b.pub.network
 127.0.0.1 b.stats.paypal.com
 127.0.0.1 b-cdn.cnnturk.com
+127.0.0.1 b-cdn.hurriyet.com.tr
 127.0.0.1 b-cdn.milliyet.com.tr
 127.0.0.1 b-cdn.posta.com.tr
 127.0.0.1 b-code.liadm.com
@@ -339,8 +348,12 @@
 127.0.0.1 bidder.criteo.com
 127.0.0.1 biddr.brealtime.com
 127.0.0.1 bigrourg.net
+127.0.0.1 bireysel-reklam-sayfamiz.tk
+127.0.0.1 bitcireklam.com
+127.0.0.1 bncsdestekgiristr.com
 127.0.0.1 bngdyn.com
 127.0.0.1 bngprm.com
+127.0.0.1 bnscbasvurugiristr.com
 127.0.0.1 bordeaux.futurecdn.net
 127.0.0.1 brightcombid.marphezis.com
 127.0.0.1 browser.events.data.microsoft.com
@@ -426,6 +439,7 @@
 127.0.0.1 cdn.izooto.com
 127.0.0.1 cdn.krxd.net
 127.0.0.1 cdn.lr-in.com
+127.0.0.1 cdn.lr-in-prod.com
 127.0.0.1 cdn.luckyorange.com
 127.0.0.1 cdn.makroo.com
 127.0.0.1 cdn.matomo.cloud
@@ -626,12 +640,14 @@
 127.0.0.1 delivery.adrecover.com
 127.0.0.1 demo.criteo.com
 127.0.0.1 dengage-public-data-collector-proxy.burgan.com.tr
+127.0.0.1 denizfirsatlarimbasvuru.xyz
 127.0.0.1 depart.trinitymedia.ai
 127.0.0.1 deploy.mopinion.com
 127.0.0.1 device-metrics-us.amazon.com
 127.0.0.1 device-metrics-us-2.amazon.com
 127.0.0.1 devices.carnivalmobile.com
 127.0.0.1 di.rlcdn.com
+127.0.0.1 digital-vakifbank-reklam-web.tk
 127.0.0.1 diken.xyz
 127.0.0.1 direct-events-collector.spot.im
 127.0.0.1 directory.cookieyes.com
@@ -664,6 +680,7 @@
 127.0.0.1 dtm-dre.platform.dbankcloud.cn
 127.0.0.1 dttrk.com
 127.0.0.1 ductquest.com
+127.0.0.1 duyuru-geldi-reklam-basvuru-com.ml
 127.0.0.1 dwin1.com
 127.0.0.1 dx.mountain.com
 127.0.0.1 dxp.baidu.com
@@ -810,6 +827,7 @@
 127.0.0.1 easycep.api.useinsider.com
 127.0.0.1 eb2.3lift.com
 127.0.0.1 eb42afa9716f.cdn4.forter.com
+127.0.0.1 ebncbasvuru.com
 127.0.0.1 ecdn.analysis.fi
 127.0.0.1 ecdn.firstimpression.io
 127.0.0.1 edge.fullstory.com
@@ -817,6 +835,7 @@
 127.0.0.1 edge.uniconsent.com
 127.0.0.1 edge-sentry-box.otelz.com
 127.0.0.1 eezegrip.net
+127.0.0.1 egitimhanekurumum.net
 127.0.0.1 eitri.api.useinsider.com
 127.0.0.1 elo-io.videoplayerhub.com
 127.0.0.1 elonreptiloid.com
@@ -835,6 +854,8 @@
 127.0.0.1 eum.kuveytturk.com.tr
 127.0.0.1 eus.rubiconproject.com
 127.0.0.1 euw-ice.360yield.com
+127.0.0.1 evdekal-iadecimergovonlinetr.reklamhesab.tk
+127.0.0.1 evdekalturkiyemtr-cimergovnlinetr.reklamhesab.tk
 127.0.0.1 event-collector.analytics.onedio.com
 127.0.0.1 event-stream.spot.im
 127.0.0.1 events.apester.com
@@ -903,6 +924,7 @@
 127.0.0.1 geoim.hurriyet.com
 127.0.0.1 geoloc.hurriyet.com.tr
 127.0.0.1 geolocation.onetrust.com
+127.0.0.1 gercekkampanyareklami.com
 127.0.0.1 get.optad360.io
 127.0.0.1 get.s-onetag.com
 127.0.0.1 ghb.adtelligent.com
@@ -927,6 +949,7 @@
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleadservices.com
 127.0.0.1 googleoptimize.com
+127.0.0.1 googlereklamsayfalari.com
 127.0.0.1 googletagmanager.com
 127.0.0.1 grid.bidswitch.net
 127.0.0.1 grs.dbankcloud.asia
@@ -938,6 +961,7 @@
 127.0.0.1 gtm.flo.com.tr
 127.0.0.1 gtm.lidyana.com
 127.0.0.1 gtrk.s3.amazonaws.com
+127.0.0.1 guldurenreklam.com
 127.0.0.1 gum.criteo.com
 127.0.0.1 gvt2.com
 127.0.0.1 h.n11.com
@@ -954,6 +978,7 @@
 127.0.0.1 hepsipay-sentry.hepsipay.com
 127.0.0.1 hexagon-analytics.com
 127.0.0.1 hf5rbejvpwds.com
+127.0.0.1 hit.8digits.com
 127.0.0.1 hit.api.useinsider.com
 127.0.0.1 hit.demirorenteknoloji.com
 127.0.0.1 hit.gemius.pl
@@ -1058,6 +1083,10 @@
 127.0.0.1 json.geoiplookup.io
 127.0.0.1 jsonip.com
 127.0.0.1 k.intellitxt.com
+127.0.0.1 kaanbabaads.net
+127.0.0.1 kampanya-reklam-is-bankasi-com.ml
+127.0.0.1 kampanyadiyariherseyburda.xyz
+127.0.0.1 kaanatesoglu7.net
 127.0.0.1 kia.selphiu.com
 127.0.0.1 kimberlite.io
 127.0.0.1 kinja-com.videoplayerhub.com
@@ -1141,6 +1170,11 @@
 127.0.0.1 medyanative.com
 127.0.0.1 medyanet-com-tr.videoplayerhub.com
 127.0.0.1 memorial.revotas.com
+127.0.0.1 metoatesoglureklamcibaba.net
+127.0.0.1 metoatesoglureklamcibabaa.net
+127.0.0.1 metoatesoglureklamcibabaaa.net
+127.0.0.1 metoatesoglureklamcikral.net
+127.0.0.1 metoatesoglureklamkralidir.net
 127.0.0.1 metrics.apple.com
 127.0.0.1 metrics.brightcove.com
 127.0.0.1 metrics.data.hicloud.com
@@ -1225,10 +1259,16 @@
 127.0.0.1 odb.outbrain.com
 127.0.0.1 odr.mookie1.com
 127.0.0.1 offer.slgnt.eu
+127.0.0.1 oglenreklamiiaa.net
+127.0.0.1 oglenreklamiixs.net
+127.0.0.1 oglenvaktireklamms.net
+127.0.0.1 oglenvaktmsreklams.com
+127.0.0.1 oglenvaktsreklams.net
 127.0.0.1 ogp.me
 127.0.0.1 omclyzyapf.com
 127.0.0.1 onclickprediction.com
 127.0.0.1 onetag-sys.com
+127.0.0.1 onlinegiris-reklamm-vakifbank-web.cf
 127.0.0.1 open.oneplus.net
 127.0.0.1 openfpcdn.io
 127.0.0.1 operate-sdk-telemetry.unity3d.com
@@ -1253,6 +1293,7 @@
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 panel.afyads.com
 127.0.0.1 parkingridiculous.com
+127.0.0.1 parksoftreklam.com
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 partner-api.jobbio.com
 127.0.0.1 partnerlinks.io
@@ -1293,7 +1334,9 @@
 127.0.0.1 pl15373403.highcpmrevenuenetwork.com
 127.0.0.1 pl15393240.highrevenuegate.com
 127.0.0.1 pl15413159.highcpmrevenuenetwork.com
+127.0.0.1 plat-form-vakif-onlinereklam-com.tk
 127.0.0.1 platform-api.sharethis.com
+127.0.0.1 platform-onlinereklam-vakif-com.tk
 127.0.0.1 playbuzzltd-d.openx.net
 127.0.0.1 player.adtelligent.com
 127.0.0.1 player.aniview.com
@@ -1303,6 +1346,7 @@
 127.0.0.1 pnpjceawvmeu.cdnvideo3.com
 127.0.0.1 pnsdkapi.turktelekom.com.tr
 127.0.0.1 pocketfaucet.com
+127.0.0.1 polat-geldi-reklam-basvurusu-com.ml
 127.0.0.1 pornhdr.cf
 127.0.0.1 poweredby.jads.co
 127.0.0.1 pq-direct.revsci.net
@@ -1363,6 +1407,27 @@
 127.0.0.1 register.appsflyer.com
 127.0.0.1 rek.izlesene.com
 127.0.0.1 rek5.savefrom.net
+127.0.0.1 reklam-bimcell.tk
+127.0.0.1 reklam-finansman-mortgage-danismanlik.blogspot.com.tr
+127.0.0.1 reklam-yurt-emlak.blogspot.com.tr
+127.0.0.1 reklam1.hizliindirimlial.online
+127.0.0.1 reklam2.hizliindirimlial.online
+127.0.0.1 reklamabakgotur.cf
+127.0.0.1 reklamajans.shop
+127.0.0.1 reklamas.info
+127.0.0.1 reklamasdhost.click
+127.0.0.1 reklamburda.co
+127.0.0.1 reklamci.space
+127.0.0.1 reklamcilerdm.cf
+127.0.0.1 reklamgoooogle.ga
+127.0.0.1 reklamgoooogle.gq
+127.0.0.1 reklamgoooogle.ml
+127.0.0.1 reklamgoooogle.tk
+127.0.0.1 reklamhesab.tk
+127.0.0.1 reklamlarhayat.net
+127.0.0.1 reklamonline.site
+127.0.0.1 reklamonlines.site
+127.0.0.1 reklamseverinsanlar.net
 127.0.0.1 reklamup.com
 127.0.0.1 renderer.apester.com
 127.0.0.1 report.appmetrica.yandex.net
@@ -1431,11 +1496,15 @@
 127.0.0.1 s8t.teads.tv
 127.0.0.1 s9.addthis.com
 127.0.0.1 ss-pbs.quantumdex.io
+127.0.0.1 sabahreklamireha.net
+127.0.0.1 sabahreklamvaktms.net
+127.0.0.1 sahibindenalisveris-trparanguvende-mobildepartmani.com
 127.0.0.1 samsung-com.112.2o7.net
 127.0.0.1 samsungadhub.com
 127.0.0.1 samsungads.com
 127.0.0.1 samsungturkey.demdex.net
 127.0.0.1 sb.scorecardresearch.com
+127.0.0.1 sbhreklamvakti.net
 127.0.0.1 sc-static.net
 127.0.0.1 scarfsmash.com
 127.0.0.1 script.4dex.io
@@ -1587,10 +1656,12 @@
 127.0.0.1 strmrdrfrokd.site
 127.0.0.1 stun.fpapi.io
 127.0.0.1 su.addthis.com
+127.0.0.1 subesiz-vakifonlinbasvuru.chickenkiller.com
 127.0.0.1 sunlightmetrics.b-cdn.net
 127.0.0.1 supportmetrics.apple.com
 127.0.0.1 svibeacon.onezapp.com
 127.0.0.1 sw.wpu.sh
+127.0.0.1 swimsolution.ap-reklama.cz
 127.0.0.1 sync.1dmp.io
 127.0.0.1 sync.1rx.io
 127.0.0.1 sync.bfmio.com
@@ -1676,6 +1747,7 @@
 127.0.0.1 tracking.mubi.com
 127.0.0.1 tracking.olx-st.com
 127.0.0.1 tracking.rus.miui.com
+127.0.0.1 tramerodemelerimiz.blogspot.com
 127.0.0.1 trc.taboola.com
 127.0.0.1 trc-events.taboola.com
 127.0.0.1 trgde.adocean.pl
@@ -1683,14 +1755,17 @@
 127.0.0.1 trk.pinterest.com
 127.0.0.1 trk.storyly.io
 127.0.0.1 trk.techtarget.com
-127.0.0.1 tsyndicate.com
+127.0.0.1 trreklamlarcom.xyz
 127.0.0.1 tru.am
+127.0.0.1 tsyndicate.com
 127.0.0.1 tubemov.com
 127.0.0.1 tubestatic.usco1621-b.com
 127.0.0.1 turkcell.api.useinsider.com
 127.0.0.1 turknet.api.useinsider.com
+127.0.0.1 turknet.hellosmpl.com
 127.0.0.1 twinrdsrv.com
 127.0.0.1 twistconcept.com
+127.0.0.1 twitterhalkreklam.com
 127.0.0.1 tx.n11.com
 127.0.0.1 u.openx.net
 127.0.0.1 u.startup.mobile.webvisor.com
@@ -1726,6 +1801,11 @@
 127.0.0.1 utoken.umeng.com
 127.0.0.1 utt.impactcdn.com
 127.0.0.1 v.vidghjlgkuyfk.site
+127.0.0.1 vakif-onllline-reklam-platform.cf
+127.0.0.1 vakifbank-onlinegiris-reklam-web.tk
+127.0.0.1 vakifbank-onlinegiriss-reklam-web.tk
+127.0.0.1 vakifbank-reklam-resmi.tk
+127.0.0.1 vakifreklamkayit.tk
 127.0.0.1 vars.hotjar.com
 127.0.0.1 vast.yomeno.xyz
 127.0.0.1 vc.hotjar.io
@@ -1735,6 +1815,7 @@
 127.0.0.1 visariomedia.com
 127.0.0.1 visitor.omnitagjs.com
 127.0.0.1 vitals.vercel-insights.com
+127.0.0.1 vkf-onlinereklam-sayfasi.cf
 127.0.0.1 vsh.visilabs.net
 127.0.0.1 vstvstsa.com
 127.0.0.1 vue.comm100.com
@@ -1819,6 +1900,7 @@
 127.0.0.1 x.everestop.io
 127.0.0.1 x01.aidata.io
 127.0.0.1 xfwblpomxc.com
+127.0.0.1 xmtvreklam3d.com
 127.0.0.1 xngqoc.com
 127.0.0.1 yandex-dmp-sync.rutarget.ru
 127.0.0.1 yandex-sync.rutarget.ru
