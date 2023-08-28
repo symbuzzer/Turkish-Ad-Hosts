@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23082715
+# Version: 23082807
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -72,6 +72,7 @@
 127.0.0.1 a.magsrv.com
 127.0.0.1 a.mouseflow.com
 127.0.0.1 a.omappapi.com
+127.0.0.1 a.orbsrv.com
 127.0.0.1 a.pub.network
 127.0.0.1 a.quora.com
 127.0.0.1 a.realsrv.com
@@ -253,6 +254,7 @@
 127.0.0.1 api.exponea.com
 127.0.0.1 api.fouanalytics.com
 127.0.0.1 api.gameanalytics.com
+127.0.0.1 api.ibeat-analytics.com
 127.0.0.1 api.instabug.com
 127.0.0.1 api.leanplum.com
 127.0.0.1 api.miui.security.xiaomi.com
@@ -356,6 +358,7 @@
 127.0.0.1 bngprm.com
 127.0.0.1 bnscbasvurugiristr.com
 127.0.0.1 bordeaux.futurecdn.net
+127.0.0.1 bqstreamer.com
 127.0.0.1 brightcombid.marphezis.com
 127.0.0.1 browser.events.data.microsoft.com
 127.0.0.1 browser.pipe.aria.microsoft.com
@@ -391,6 +394,7 @@
 127.0.0.1 camschat.net
 127.0.0.1 capi.connatix.com
 127.0.0.1 capture.trackjs.com
+127.0.0.1 carrick-ui.advoncommerce.com
 127.0.0.1 carvecakes.com
 127.0.0.1 cas.avalon.perfdrive.com
 127.0.0.1 cbox.im
@@ -446,6 +450,7 @@
 127.0.0.1 cdn.matomo.cloud
 127.0.0.1 cdn.membrana.media
 127.0.0.1 cdn.medyanetads.com
+127.0.0.1 cdn.mmctsvc.com
 127.0.0.1 cdn.mookie1.com
 127.0.0.1 cdn.mouseflow.com
 127.0.0.1 cdn.mxpnl.com
@@ -482,6 +487,7 @@
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.tagdeliver.com
 127.0.0.1 cdn.thequin.ai
+127.0.0.1 cdn.trackjs.com
 127.0.0.1 cdn.tsyndicate.com
 127.0.0.1 cdn.twinrdsrv.com
 127.0.0.1 cdn.unblockia.com
@@ -489,6 +495,7 @@
 127.0.0.1 cdn.usefulcontentsites.com
 127.0.0.1 cdn.valuad.cloud
 127.0.0.1 cdn.viglink.com
+127.0.0.1 cdn.wazimo.com
 127.0.0.1 cdn.webpushr.com
 127.0.0.1 cdn.yourwebbars.com
 127.0.0.1 cdn-api.admost.com
@@ -894,6 +901,7 @@
 127.0.0.1 flash.sec.intl.miui.com
 127.0.0.1 fls.doubleclick.net
 127.0.0.1 fls-na.amazon.com
+127.0.0.1 fls-na.amazon-adsystem.com
 127.0.0.1 fourier.taobao.com
 127.0.0.1 fonts.mopinion.com
 127.0.0.1 formulaonedigitalmedia.germany-2.evergage.com
@@ -1050,6 +1058,7 @@
 127.0.0.1 ipcheck.tmgrup.com.tr
 127.0.0.1 iplocation-api.wp.trt.com.tr
 127.0.0.1 ipr.n11.com
+127.0.0.1 ir-na.amazon-adsystem.com
 127.0.0.1 iscep-stories.commencis.com
 127.0.0.1 isortagim.hangikredi.com
 127.0.0.1 istat.izlesene.com
@@ -1108,6 +1117,7 @@
 127.0.0.1 live.demand.supply
 127.0.0.1 live.primis.tech
 127.0.0.1 load.sumo.com
+127.0.0.1 loadus.exelator.com
 127.0.0.1 location.api.useinsider.com
 127.0.0.1 log.api.useinsider.com
 127.0.0.1 log.cookieyes.com
@@ -1201,6 +1211,7 @@
 127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
 127.0.0.1 mon.isnssdk.com
 127.0.0.1 mon.tiktokv.com
+127.0.0.1 mon-i18n.tiktokv.com
 127.0.0.1 mon-va.byteoversea.com
 127.0.0.1 mon-va.tiktokv.com
 127.0.0.1 monitor.clickcease.com
@@ -1213,6 +1224,7 @@
 127.0.0.1 ms.applovin.com
 127.0.0.1 ms.applvn.com
 127.0.0.1 ms.pubpowerplatform.io
+127.0.0.1 ms-cookie-sync.presage.io
 127.0.0.1 mscom.demdex.net
 127.0.0.1 mssdk-va.byteoversea.com
 127.0.0.1 mstm.motorsport.com
@@ -1355,6 +1367,7 @@
 127.0.0.1 prd-collector-anon.ex.co
 127.0.0.1 prebid.a-mo.net
 127.0.0.1 prebid.media.net
+127.0.0.1 prebid-eu.creativecdn.com
 127.0.0.1 prebid-server.rubiconproject.com
 127.0.0.1 predataclient.b-cdn.net
 127.0.0.1 prefix.hit.gemius.pl
@@ -1371,6 +1384,7 @@
 127.0.0.1 pub.doubleverify.com
 127.0.0.1 pub-sdk-cfg.criteo.com
 127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 public.servenobid.com
 127.0.0.1 publisher-assets.spot.im
 127.0.0.1 pugsgivehugs.com
 127.0.0.1 punosy.best
@@ -1584,6 +1598,7 @@
 127.0.0.1 src.ebay-us.com
 127.0.0.1 srv.buysellads.com
 127.0.0.1 srv.pixel.parsely.com
+127.0.0.1 srv224.com
 127.0.0.1 srvccc.fish91826twenty.ga
 127.0.0.1 srvr.dmvs-apac.com
 127.0.0.1 ssbsync-global.smartadserver.com
@@ -1608,7 +1623,7 @@
 127.0.0.1 startup.mobile.yandex.net
 127.0.0.1 stat.tildacdn.com
 127.0.0.1 statcounter.com
-127.0.0.1 statsforads.com
+127.0.0.1 static.growthrx.in
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 static.adsafeprotected.com
 127.0.0.1 static.apester.com
@@ -1646,6 +1661,7 @@
 127.0.0.1 stats.vk-portal.net
 127.0.0.1 stats.vlitag.com
 127.0.0.1 stats.wp.com
+127.0.0.1 statsforads.com
 127.0.0.1 statsigapi.net
 127.0.0.1 steadfastsystem.com
 127.0.0.1 steepsquirrel.com
@@ -1658,6 +1674,7 @@
 127.0.0.1 stun.fpapi.io
 127.0.0.1 su.addthis.com
 127.0.0.1 subesiz-vakifonlinbasvuru.chickenkiller.com
+127.0.0.1 succeedscene.com
 127.0.0.1 sunlightmetrics.b-cdn.net
 127.0.0.1 supportmetrics.apple.com
 127.0.0.1 svibeacon.onezapp.com
@@ -1687,6 +1704,7 @@
 127.0.0.1 t.castle.io
 127.0.0.1 t.contentsquare.net
 127.0.0.1 t.imgur.com
+127.0.0.1 t8.prnx.net
 127.0.0.1 tacticschangebabysitting.com
 127.0.0.1 tag.1rx.io
 127.0.0.1 tag.bounceexchange.com
@@ -1716,6 +1734,7 @@
 127.0.0.1 tg1.aniview.com
 127.0.0.1 tg1.playstream.media
 127.0.0.1 the.gatekeeperconsent.com
+127.0.0.1 thrtle.com
 127.0.0.1 tlx.3lift.com
 127.0.0.1 tme.112.2o7.net
 127.0.0.1 tns-counter.ru
@@ -1727,6 +1746,7 @@
 127.0.0.1 toyotaeuropetoyglobaldev.112.2o7.net
 127.0.0.1 toyotaeuropelexglobalprod.112.2o7.net
 127.0.0.1 tpc.googlesyndication.com
+127.0.0.1 tps10232.doubleverify.com
 127.0.0.1 tps30.doubleverify.com
 127.0.0.1 tpx.tesseradigital.com
 127.0.0.1 tr.rdrtr.com
@@ -1773,6 +1793,7 @@
 127.0.0.1 u1102.com
 127.0.0.1 u10506.19.spylog.com
 127.0.0.1 ua.realtimely.io
+127.0.0.1 ubuyanalytics.ubuy.com
 127.0.0.1 udmserve.net
 127.0.0.1 uip.semasio.net
 127.0.0.1 uk-script.dotmetrics.net
@@ -1830,6 +1851,7 @@
 127.0.0.1 webed.dm-event.net
 127.0.0.1 websdk.appsflyer.com
 127.0.0.1 webstats.garanti.com.tr
+127.0.0.1 webtrafficsource.com
 127.0.0.1 whos.amung.us
 127.0.0.1 widget.cdn.vidyome.com
 127.0.0.1 widget.criteo.com
