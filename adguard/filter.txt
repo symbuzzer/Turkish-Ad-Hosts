@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-08-28T07:52:16.515Z
+! Last modified: 2023-09-06T17:56:06.640Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -246,6 +246,7 @@
 ||app-sj06.marketo.com^
 ||applets.ebxcdn.com^
 ||appmetrica.yandex.com^
+||appodeal.com^
 ||apv-launcher.minute.ly^
 ||artfut.com^
 ||ascendeum-d.openx.net^
@@ -1266,7 +1267,6 @@
 ||securemetrics.apple.com^
 ||seg.ad.gt^
 ||segment-data-us-east.zqtk.net^
-||sentry.appodeal.com^
 ||sentry.io^
 ||serv.nspot.co^
 ||serve.nrich.ai^

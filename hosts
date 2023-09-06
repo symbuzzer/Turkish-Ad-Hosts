@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23082807
+# Version: 23090617
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -293,6 +293,7 @@
 127.0.0.1 app-sj06.marketo.com
 127.0.0.1 applets.ebxcdn.com
 127.0.0.1 appmetrica.yandex.com
+127.0.0.1 appodeal.com
 127.0.0.1 apv-launcher.minute.ly
 127.0.0.1 arabam.api.useinsider.com
 127.0.0.1 artfut.com
@@ -922,6 +923,7 @@
 127.0.0.1 game2.betgames.tv
 127.0.0.1 gamescdnfor.com
 127.0.0.1 garantibbva.api.dataroid.com
+127.0.0.1 garenta.api.useinsider.com
 127.0.0.1 gars.hit.gemius.pl
 127.0.0.1 gatr.hit.gemius.pl
 127.0.0.1 gcdn.2mdn.net
