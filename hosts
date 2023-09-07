@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23090617
+# Version: 23090710
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -534,6 +534,7 @@
 127.0.0.1 clickserv.sitescout.com
 127.0.0.1 clientcdn.pushengage.com
 127.0.0.1 client-registry.mutinycdn.com
+127.0.0.1 cloudflareinc.tt.omtrdc.net
 127.0.0.1 cloudfront-labs.amazonaws.com
 127.0.0.1 cluster.awmdelivery.com
 127.0.0.1 cm.adform.net
@@ -1074,6 +1075,7 @@
 127.0.0.1 js.agkn.com
 127.0.0.1 js.appboycdn.com
 127.0.0.1 js.datadome.co
+127.0.0.1 js.driftt.com
 127.0.0.1 js.go2sdk.com
 127.0.0.1 js.hs-analytics.net
 127.0.0.1 js.hs-scripts.com
@@ -1755,6 +1757,7 @@
 127.0.0.1 tr.hit.gemius.pl
 127.0.0.1 tr.lib.dengage.com
 127.0.0.1 tr.snapchat.com
+127.0.0.1 tr.www.cloudflare.com
 127.0.0.1 track.adform.net
 127.0.0.1 track.analitycs.net
 127.0.0.1 track.appsflyer.com
@@ -1847,6 +1850,7 @@
 127.0.0.1 w1.luckyorange.com
 127.0.0.1 w3-reporting.reddit.com
 127.0.0.1 w3-reporting-nel.reddit.com
+127.0.0.1 watchnewpics.space
 127.0.0.1 waust.at
 127.0.0.1 web.webpushs.com
 127.0.0.1 webanalytics.logitechg.com
