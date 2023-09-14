@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23091307
+# Version: 23091419
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -18,7 +18,6 @@
 127.0.0.1 localhost
 
 # --- [ START ] --- #
-127.0.0.1 adtest.avalibeyaz.com
 127.0.0.1 0.oldgyhogola.com
 127.0.0.1 061353efff4748e1a51974616704a9cc.js.ubembed.com
 127.0.0.1 0b1ebd324d574f37b3516c9a1b33b66d-eb42afa9716f.cdn.forter.com
@@ -172,6 +171,7 @@
 127.0.0.1 adsreklamizm.ga
 127.0.0.1 adsreklamizm.tk
 127.0.0.1 adtago.s3.amazonaws.com
+127.0.0.1 adtest.avalibeyaz.com
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 advertising.a2z.com
@@ -1769,6 +1769,7 @@
 127.0.0.1 track.mailerlite.com
 127.0.0.1 track.wattpad.com
 127.0.0.1 track1.aniview.com
+127.0.0.1 tracker.affirm.com
 127.0.0.1 tracker-be-prod.pubplus.com
 127.0.0.1 tracking.aatkit.com
 127.0.0.1 tracking.ensonhaber.com
