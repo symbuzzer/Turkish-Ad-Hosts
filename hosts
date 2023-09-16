@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23091419
+# Version: 23091619
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -323,6 +323,7 @@
 127.0.0.1 b-cdn.hurriyet.com.tr
 127.0.0.1 b-cdn.milliyet.com.tr
 127.0.0.1 b-cdn.posta.com.tr
+127.0.0.1 b-cdn.teve2.com.tr
 127.0.0.1 b-code.liadm.com
 127.0.0.1 backstory.ebay.co.uk
 127.0.0.1 backstory.ebay.com
@@ -440,6 +441,7 @@
 127.0.0.1 cdn.firstpromoter.com
 127.0.0.1 cdn.geni.us
 127.0.0.1 cdn.heapanalytics.com
+127.0.0.1 cdn.hellosmpl.com
 127.0.0.1 cdn.hubvisor.io
 127.0.0.1 cdn.id5-sync.com
 127.0.0.1 cdn.insurads.com
