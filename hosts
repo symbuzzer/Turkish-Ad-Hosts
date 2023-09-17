@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23091619
+# Version: 23091711
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -60,6 +60,7 @@
 127.0.0.1 9790515.fls.doubleclick.net
 127.0.0.1 9to5mac-com.videoplayerhub.com
 127.0.0.1 a.ad.gt
+127.0.0.1 a.adforcast.com
 127.0.0.1 a.adtng.com
 127.0.0.1 a.appbaqend.com
 127.0.0.1 a.applovin.com
@@ -120,6 +121,7 @@
 127.0.0.1 adl.mynetreklam.com
 127.0.0.1 adobe.tt.omtrdc.net
 127.0.0.1 adobedc.demdex.net
+127.0.0.1 addresseepaper.com
 127.0.0.1 ads.adfox.ru
 127.0.0.1 ads.adthrive.com
 127.0.0.1 ads.assemblyexchange.com
@@ -185,6 +187,7 @@
 127.0.0.1 affiliates.ezoic.com
 127.0.0.1 affiliationjs.s3.amazonaws.com
 127.0.0.1 afs.googlesyndication.com
+127.0.0.1 aibsgc.com
 127.0.0.1 aip-cdn.sozcu.com.tr
 127.0.0.1 aip2.sozcu.com.tr
 127.0.0.1 aj2550.bid
@@ -297,6 +300,7 @@
 127.0.0.1 appodeal.com
 127.0.0.1 apv-launcher.minute.ly
 127.0.0.1 arabam.api.useinsider.com
+127.0.0.1 arguebakery.com
 127.0.0.1 artfut.com
 127.0.0.1 ascendeum-d.openx.net
 127.0.0.1 assets.a-mo.net
@@ -360,6 +364,7 @@
 127.0.0.1 bngdyn.com
 127.0.0.1 bngprm.com
 127.0.0.1 bnscbasvurugiristr.com
+127.0.0.1 bobabillydirect.org
 127.0.0.1 bordeaux.futurecdn.net
 127.0.0.1 bqstreamer.com
 127.0.0.1 brightcombid.marphezis.com
@@ -461,6 +466,7 @@
 127.0.0.1 cdn.mxpnl.com
 127.0.0.1 cdn.netmera-web.com
 127.0.0.1 cdn.notsy.io
+127.0.0.1 cdn.o333o.com
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 cdn.onthe.io
 127.0.0.1 cdn.optmn.cloud
@@ -636,6 +642,7 @@
 127.0.0.1 d3g5ovfngjw9bw.cloudfront.net
 127.0.0.1 d3j3yrurxcqogk.cloudfront.net
 127.0.0.1 d3t87ooo0697p8.cloudfront.net
+127.0.0.1 d899faa8b1.79b1c4498b.com
 127.0.0.1 da37c08c29.36b7ca5028.com
 127.0.0.1 data.flurry.com
 127.0.0.1 data.mistat.india.xiaomi.com
@@ -667,6 +674,7 @@
 127.0.0.1 directory.cookieyes.com
 127.0.0.1 dis.criteo.com
 127.0.0.1 dis.eu.criteo.com
+127.0.0.1 dismantlepenantiterrorist.com
 127.0.0.1 display.apester.com
 127.0.0.1 disploot.com
 127.0.0.1 dit.whatsapp.net
@@ -693,6 +701,7 @@
 127.0.0.1 dt.adsafeprotected.com
 127.0.0.1 dtm-dre.platform.dbankcloud.cn
 127.0.0.1 dttrk.com
+127.0.0.1 du0pud0sdlmzf.cloudfront.net
 127.0.0.1 ductquest.com
 127.0.0.1 duyuru-geldi-reklam-basvuru-com.ml
 127.0.0.1 dwin1.com
@@ -946,6 +955,7 @@
 127.0.0.1 ghb.adtelligent.com
 127.0.0.1 ghb.spotim.market
 127.0.0.1 gj.mmstat.com
+127.0.0.1 gleagainedam.info
 127.0.0.1 global.adserver.yahoo.com
 127.0.0.1 global.ketchcdn.com
 127.0.0.1 global.proper.io
@@ -994,6 +1004,7 @@
 127.0.0.1 hepsipay-sentry.hepsipay.com
 127.0.0.1 hexagon-analytics.com
 127.0.0.1 hf5rbejvpwds.com
+127.0.0.1 hhbypdoecp.com
 127.0.0.1 hit.8digits.com
 127.0.0.1 hit.api.useinsider.com
 127.0.0.1 hit.demirorenteknoloji.com
@@ -1105,6 +1116,7 @@
 127.0.0.1 kampanya-reklam-is-bankasi-com.ml
 127.0.0.1 kampanyadiyariherseyburda.xyz
 127.0.0.1 kaanatesoglu7.net
+127.0.0.1 kgfjrb711.com
 127.0.0.1 kia.selphiu.com
 127.0.0.1 kimberlite.io
 127.0.0.1 kinja-com.videoplayerhub.com
@@ -1119,6 +1131,7 @@
 127.0.0.1 lephaush.net
 127.0.0.1 lexicon.33across.com
 127.0.0.1 lgr.visilabs.net
+127.0.0.1 lh.limosiwooable.com
 127.0.0.1 lider90.com
 127.0.0.1 limurol.com
 127.0.0.1 linkconnector.com
@@ -1225,6 +1238,7 @@
 127.0.0.1 monitor.clickcease.com
 127.0.0.1 monorail-edge.shopifysvc.com
 127.0.0.1 monu.delivery
+127.0.0.1 moonvids.online
 127.0.0.1 motor1.push4site.com
 127.0.0.1 mouseflow.com
 127.0.0.1 mp.4dex.io
@@ -1241,6 +1255,7 @@
 127.0.0.1 mweb-hb.presage.io
 127.0.0.1 mwzeom.zeotap.com
 127.0.0.1 my.rtmark.net
+127.0.0.1 mydomainbest.com
 127.0.0.1 mynetreklam.com
 127.0.0.1 n0633.com
 127.0.0.1 nativespot.com
@@ -1381,6 +1396,7 @@
 127.0.0.1 prefix.hit.gemius.pl
 127.0.0.1 prg.smartadserver.com
 127.0.0.1 primis-d.openx.net
+127.0.0.1 principlessilas.com
 127.0.0.1 privacy.gatekeeperconsent.com
 127.0.0.1 privacy-policy.truste.com
 127.0.0.1 pro.hit.gemius.pl
@@ -1455,6 +1471,7 @@
 127.0.0.1 renderer.apester.com
 127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 rereddit.com
+127.0.0.1 resalag.com
 127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 responder.wt-safetag.com
 127.0.0.1 rest.segmentify.com
@@ -1592,6 +1609,8 @@
 127.0.0.1 signals.teknosa.com
 127.0.0.1 simage2.pubmatic.com
 127.0.0.1 simplewebanalysis.com
+127.0.0.1 slidecaffeinecrown.com
+127.0.0.1 slideff.com
 127.0.0.1 sm.rtb.mts.ru
 127.0.0.1 smetrics.nvidia.com
 127.0.0.1 smetrics.samsung.com
@@ -1628,6 +1647,7 @@
 127.0.0.1 st-n.ads3-adnow.com
 127.0.0.1 stag-core.tfla.xyz
 127.0.0.1 stagepopkek.com
+127.0.0.1 staggeredravehospitality.com
 127.0.0.1 stags.bluekai.com
 127.0.0.1 starget.intel.com
 127.0.0.1 startup.mobile.webvisor.com
@@ -1746,6 +1766,7 @@
 127.0.0.1 tg1.playstream.media
 127.0.0.1 the.gatekeeperconsent.com
 127.0.0.1 thrtle.com
+127.0.0.1 tibacta.com
 127.0.0.1 tlx.3lift.com
 127.0.0.1 tme.112.2o7.net
 127.0.0.1 tns-counter.ru
@@ -1844,6 +1865,7 @@
 127.0.0.1 vars.hotjar.com
 127.0.0.1 vast.yomeno.xyz
 127.0.0.1 vc.hotjar.io
+127.0.0.1 venetrigni.com
 127.0.0.1 vi.ml314.com
 127.0.0.1 videosvc.ezoic.com
 127.0.0.1 vidstat.taboola.com
@@ -1919,6 +1941,7 @@
 127.0.0.1 www.mainadv.com
 127.0.0.1 www.mczbf.com
 127.0.0.1 www.medyanative.com
+127.0.0.1 www.preciousdoctor.pro
 127.0.0.1 www.profitabledisplaycontent.com
 127.0.0.1 www.publisher-network.com
 127.0.0.1 www.rnengage.com
@@ -1949,7 +1972,9 @@
 127.0.0.1 youtube.cleverads.vn
 127.0.0.1 z.moatads.com
 127.0.0.1 z-na.amazon-adsystem.com
+127.0.0.1 zap.buzz
 127.0.0.1 zcode12.me
+127.0.0.1 zimpolo.com
 127.0.0.1 zkustats.ziraatkatilim.com.tr
 127.0.0.1 zz.bdstatic.com
 # --- [ END ] --- #
