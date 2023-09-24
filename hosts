@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23092408
+# Version: 23092413
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -214,7 +214,6 @@
 127.0.0.1 amunfezanttor.com
 127.0.0.1 an.facebook.com
 127.0.0.1 an.yandex.ru
-127.0.0.1 analitik2.edevlet.gov.tr
 127.0.0.1 analytics.archive.org
 127.0.0.1 analytics.callbell.eu
 127.0.0.1 analytics.cdn.live
