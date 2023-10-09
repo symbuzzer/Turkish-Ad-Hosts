@@ -892,6 +892,9 @@ fcg-api.exponea.com
 fcmatch.google.com
 fcmatch.youtube.com
 fe.cabioredtop.com
+firebase-settings.crashlytics.com
+firebaselogging.googleapis.com
+firebaselogging-pa.googleapis.com
 fiverr.ck-cdn.com
 flash.sec.intl.miui.com
 fls.doubleclick.net
@@ -1033,6 +1036,7 @@ image2.pubmatic.com
 image6.pubmatic.com
 image8.pubmatic.com
 images.revcontent.com
+imasdk.googleapis.com
 img.3633a.com
 img.ekstat.com
 img.zemanta.com
@@ -1569,6 +1573,7 @@ seg.ad.gt
 segment.api.useinsider.com
 segment-data-us-east.zqtk.net
 sentry.appodeal.com
+sentry.io
 serv.nspot.co
 serve.nrich.ai
 served-by.pixfuture.com
