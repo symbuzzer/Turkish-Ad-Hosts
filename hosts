@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23101016
+# Version: 23101221
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -410,6 +410,7 @@
 127.0.0.1 cbox.im
 127.0.0.1 cbox.ws
 127.0.0.1 cc.swiftype.com
+127.0.0.1 cc-api-data.adobe.io
 127.0.0.1 cd.connatix.com
 127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 cdn.ad4game.com
@@ -1128,6 +1129,7 @@
 127.0.0.1 krk.kargo.com
 127.0.0.1 kvezz.com
 127.0.0.1 kz.rebakeassets.com
+127.0.0.1 l.betrad.com
 127.0.0.1 l.sharethis.com
 127.0.0.1 laquesis.data.olxcdn.com
 127.0.0.1 launches.appsflyer.com
@@ -1210,6 +1212,7 @@
 127.0.0.1 medyanative.com
 127.0.0.1 medyanet-com-tr.videoplayerhub.com
 127.0.0.1 memorial.revotas.com
+127.0.0.1 merequartz.com
 127.0.0.1 metoatesoglureklamcibaba.net
 127.0.0.1 metoatesoglureklamcibabaa.net
 127.0.0.1 metoatesoglureklamcibabaaa.net
@@ -1534,6 +1537,7 @@
 127.0.0.1 s.skimresources.com
 127.0.0.1 s.uuidksinc.net
 127.0.0.1 s.visilabs.net
+127.0.0.1 s.youtube.com
 127.0.0.1 s-img.idealmedia.io
 127.0.0.1 s0.2mdn.net
 127.0.0.1 s1.adform.net
@@ -1584,6 +1588,7 @@
 127.0.0.1 seal.globalsign.com
 127.0.0.1 seal.godaddy.com
 127.0.0.1 secure.adnxs.com
+127.0.0.1 secure.gaug.es
 127.0.0.1 secure.quantserve.com
 127.0.0.1 secure.statcounter.com
 127.0.0.1 secure-assets.rubiconproject.com
@@ -1666,7 +1671,7 @@
 127.0.0.1 startup-mobile.ap.yandex-net.ru
 127.0.0.1 stat.tildacdn.com
 127.0.0.1 statcounter.com
-127.0.0.1 static.growthrx.in
+127.0.0.1 static.addtoany.com
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 static.adsafeprotected.com
 127.0.0.1 static.apester.com
@@ -1679,6 +1684,7 @@
 127.0.0.1 static.doubleclick.net
 127.0.0.1 static.fd-api.com
 127.0.0.1 static.getclicky.com
+127.0.0.1 static.growthrx.in
 127.0.0.1 static.hotjar.com
 127.0.0.1 static.lcwaikiki.com
 127.0.0.1 static.media.net
