@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23101316
+# Version: 23101509
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -275,6 +275,7 @@
 127.0.0.1 api.sec.intl.miui.com
 127.0.0.1 api.sec.miui.com
 127.0.0.1 api.segment.io
+127.0.0.1 api.sprig.com
 127.0.0.1 api.taps.io
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 127.0.0.1 api.useinsider.com
@@ -331,6 +332,7 @@
 127.0.0.1 b-cdn.milliyet.com.tr
 127.0.0.1 b-cdn.posta.com.tr
 127.0.0.1 b-cdn.teve2.com.tr
+127.0.0.1 b-cdn-ign.do.brainsland.com
 127.0.0.1 b-code.liadm.com
 127.0.0.1 backstory.ebay.co.uk
 127.0.0.1 backstory.ebay.com
@@ -1934,7 +1936,7 @@
 127.0.0.1 wuzbhjpvsf.com
 127.0.0.1 ww1.image.us
 127.0.0.1 ww1.newffr.com
-127.0.0.1 www5.cbox.ws
+127.0.0.1 ww38.main.termux-mirror.ml
 127.0.0.1 www.adsensecustomsearchads.com
 127.0.0.1 www.affiliatepro.it
 127.0.0.1 www.analyticsb2c.com
@@ -1979,6 +1981,7 @@
 127.0.0.1 www.toplist.cz
 127.0.0.1 www.visariomedia.com
 127.0.0.1 www.w3counter.com
+127.0.0.1 www5.cbox.ws
 127.0.0.1 www9.smartadserver.com
 127.0.0.1 wyhifdpatl.com
 127.0.0.1 wzrkt.com
