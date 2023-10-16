@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23101509
+# Version: 23101618
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -189,6 +189,7 @@
 127.0.0.1 affiliates.ezoic.com
 127.0.0.1 affiliationjs.s3.amazonaws.com
 127.0.0.1 afs.googlesyndication.com
+127.0.0.1 ag.gbc.criteo.com
 127.0.0.1 aibsgc.com
 127.0.0.1 aip-cdn.sozcu.com.tr
 127.0.0.1 aip2.sozcu.com.tr
@@ -484,6 +485,7 @@
 127.0.0.1 cdn.pendo.io
 127.0.0.1 cdn.permutive.com
 127.0.0.1 cdn.personaclick.com
+127.0.0.1 cdn.playwire.com
 127.0.0.1 cdn.preciso.net
 127.0.0.1 cdn.purpleads.io
 127.0.0.1 cdn.pushmaster-cdn.xyz
@@ -542,6 +544,7 @@
 127.0.0.1 cimri.api.useinsider.com
 127.0.0.1 cl.qualaroo.com
 127.0.0.1 clarity.ms
+127.0.0.1 clarium.global.ssl.fastly.net
 127.0.0.1 clbanners9.com
 127.0.0.1 click.oneplus.cn
 127.0.0.1 click.oneplus.com
@@ -1533,6 +1536,7 @@
 127.0.0.1 s.btstatic.com
 127.0.0.1 s.dpmsrv.com
 127.0.0.1 s.go-mpulse.net
+127.0.0.1 s.magsrv.com
 127.0.0.1 s.nitropay.com
 127.0.0.1 s.ntv.io
 127.0.0.1 s.orbsrv.com
@@ -1773,6 +1777,7 @@
 127.0.0.1 tags.bluekai.com
 127.0.0.1 tags.bkrtx.com
 127.0.0.1 tags.creativecdn.com
+127.0.0.1 tags.expo9.exponential.com
 127.0.0.1 tags.refinery89.com
 127.0.0.1 tags.tiqcdn.com
 127.0.0.1 tags-cdn.deployads.com
