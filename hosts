@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23101618
+# Version: 23101818
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -1204,6 +1204,7 @@
 127.0.0.1 mc2tnzs73p3554cjc7h876m-gfm4.device.marketingcloudapis.com
 127.0.0.1 mcfk02nd3k8q7w75g9yxxcc6yj20.device.marketingcloudapis.com
 127.0.0.1 mcpuwpsh.com
+127.0.0.1 mcs-va.tiktok.com
 127.0.0.1 mcs-va.tiktokv.com
 127.0.0.1 mcs-va-useast2a.tiktokv.com
 127.0.0.1 mczbf.com
