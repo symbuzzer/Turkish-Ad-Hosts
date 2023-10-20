@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23101818
+# Version: 23102017
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -53,6 +53,7 @@
 127.0.0.1 8415160.fls.doubleclick.net
 127.0.0.1 8512471.fls.doubleclick.net
 127.0.0.1 8735967.fls.doubleclick.net
+127.0.0.1 8811098.fls.doubleclick.net
 127.0.0.1 8881img.com
 127.0.0.1 9012846.fls.doubleclick.net
 127.0.0.1 9145021.fls.doubleclick.net
@@ -347,6 +348,7 @@
 127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 beacon.krxd.net
 127.0.0.1 beacon.riskified.com
+127.0.0.1 beacon.searchspring.io
 127.0.0.1 beacon.wikia-services.com
 127.0.0.1 beacon-nf.rubiconproject.com
 127.0.0.1 beacons.gvt2.com
@@ -476,6 +478,7 @@
 127.0.0.1 cdn.o333o.com
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 cdn.onthe.io
+127.0.0.1 cdn.optimizely.com
 127.0.0.1 cdn.optmn.cloud
 127.0.0.1 cdn.oremark.com
 127.0.0.1 cdn.otnolatrnup.com
@@ -636,18 +639,19 @@
 127.0.0.1 d15kdpgjg3unno.cloudfront.net
 127.0.0.1 d1l6p2sc9645hc.cloudfront.net
 127.0.0.1 d1upt0rqzff34l.cloudfront.net
+127.0.0.1 d1wc0ojltqk24g.cloudfront.net
 127.0.0.1 d1wix2gc2cgqis.cloudfront.net
 127.0.0.1 d2ef20sk9hi1u3.cloudfront.net
 127.0.0.1 d2hrivdxn8ekm8.cloudfront.net
 127.0.0.1 d2r1yp2w7bby2u.cloudfront.net
 127.0.0.1 d2t77mnxyo7adj.cloudfront.net
 127.0.0.1 d2v02itv0y9u9t.cloudfront.net
-127.0.0.1 d1wc0ojltqk24g.cloudfront.net
 127.0.0.1 d2wy8f7a9ursnm.cloudfront.net
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d31vxm9ubutrmw.cloudfront.net
 127.0.0.1 d35u1vg1q28b3w.cloudfront.net
 127.0.0.1 d3c8j8snkzfr1n.cloudfront.net
+127.0.0.1 d3cgm8py10hi0z.cloudfront.net
 127.0.0.1 d3g5ovfngjw9bw.cloudfront.net
 127.0.0.1 d3j3yrurxcqogk.cloudfront.net
 127.0.0.1 d3t87ooo0697p8.cloudfront.net
@@ -1153,6 +1157,7 @@
 127.0.0.1 live.demand.supply
 127.0.0.1 live.primis.tech
 127.0.0.1 load.sumo.com
+127.0.0.1 loader.wisepops.com
 127.0.0.1 loadus.exelator.com
 127.0.0.1 location.api.useinsider.com
 127.0.0.1 log.api.useinsider.com
@@ -1170,6 +1175,7 @@
 127.0.0.1 logservice.hicloud.com
 127.0.0.1 logservice1.hicloud.com
 127.0.0.1 logsink.zedge.net
+127.0.0.1 lptag.liveperson.net
 127.0.0.1 ls.hit.gemius.pl
 127.0.0.1 lu9xve2c97l898gjjxv4.ballercap.com
 127.0.0.1 lu9xve2c97l898gjjxv4.instantlymodern.com
@@ -1454,10 +1460,11 @@
 127.0.0.1 r.skimresources.com
 127.0.0.1 r.stripe.com
 127.0.0.1 radar.cedexis.com
-127.0.0.1 rcm-na.amazon-adsystem.com
 127.0.0.1 rauvoaty.net
+127.0.0.1 rcm-na.amazon-adsystem.com
 127.0.0.1 rebrand.ly
 127.0.0.1 recommendation-api.analytics.onedio.com
+127.0.0.1 recommender.scarabresearch.com
 127.0.0.1 recs.engageya.com
 127.0.0.1 redirect.frontend.weborama.fr
 127.0.0.1 redis-end.tfla.xyz
@@ -1695,6 +1702,7 @@
 127.0.0.1 static.getclicky.com
 127.0.0.1 static.growthrx.in
 127.0.0.1 static.hotjar.com
+127.0.0.1 static.klaviyo.com
 127.0.0.1 static.lcwaikiki.com
 127.0.0.1 static.media.net
 127.0.0.1 static.narrativ.com
