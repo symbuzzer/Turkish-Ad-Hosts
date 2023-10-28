@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23102318
+# Version: 23102805
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -311,6 +311,8 @@
 127.0.0.1 arabam.api.useinsider.com
 127.0.0.1 arguebakery.com
 127.0.0.1 artfut.com
+127.0.0.1 as.jivox.com
+127.0.0.1 as-sec.casalemedia.com
 127.0.0.1 ascendeum-d.openx.net
 127.0.0.1 assets.a-mo.net
 127.0.0.1 assets.api.useinsider.com
@@ -437,6 +439,7 @@
 127.0.0.1 cdn.bannersnack.com
 127.0.0.1 cdn.bizible.com
 127.0.0.1 cdn.blg-1216lb.com
+127.0.0.1 cdn.blueconic.net
 127.0.0.1 cdn.bncloudfl.com
 127.0.0.1 cdn.branch.io
 127.0.0.1 cdn.brandmetrics.com
@@ -529,6 +532,7 @@
 127.0.0.1 cdn-au.onetrust.com
 127.0.0.1 cdn-header-bidding.snack-media.com
 127.0.0.1 cdn-magiclinks.trackonomics.net
+127.0.0.1 cdn-native.pigeoon.com
 127.0.0.1 cdn-netmeraprod.turktelekom.com.tr
 127.0.0.1 cdn-settings.appsflyersdk.com
 127.0.0.1 cdn-settings.segment.com
@@ -544,6 +548,7 @@
 127.0.0.1 cdnads.geeksforgeeks.org
 127.0.0.1 cdp.cloud.unity3d.com
 127.0.0.1 ce.lijit.com
+127.0.0.1 ced.sascdn.com
 127.0.0.1 ced-ns.sascdn.com
 127.0.0.1 certify-amp.alexametrics.com
 127.0.0.1 certify-js.alexametrics.com
@@ -661,6 +666,7 @@
 127.0.0.1 d3g5ovfngjw9bw.cloudfront.net
 127.0.0.1 d3j3yrurxcqogk.cloudfront.net
 127.0.0.1 d3t87ooo0697p8.cloudfront.net
+127.0.0.1 d5nxst8fruw4z.cloudfront.net
 127.0.0.1 d899faa8b1.79b1c4498b.com
 127.0.0.1 da37c08c29.36b7ca5028.com
 127.0.0.1 data.flurry.com
@@ -978,6 +984,7 @@
 127.0.0.1 ghb.spotim.market
 127.0.0.1 gj.mmstat.com
 127.0.0.1 gleagainedam.info
+127.0.0.1 glitter.services.disqus.com
 127.0.0.1 global.adserver.yahoo.com
 127.0.0.1 global.ketchcdn.com
 127.0.0.1 global.proper.io
@@ -1164,6 +1171,7 @@
 127.0.0.1 lider90.com
 127.0.0.1 limurol.com
 127.0.0.1 linkconnector.com
+127.0.0.1 links.services.disqus.com
 127.0.0.1 live.demand.supply
 127.0.0.1 live.primis.tech
 127.0.0.1 load.sumo.com
@@ -1587,6 +1595,8 @@
 127.0.0.1 samsungadhub.com
 127.0.0.1 samsungads.com
 127.0.0.1 samsungturkey.demdex.net
+127.0.0.1 sap-traffic.com
+127.0.0.1 satisfycork.com
 127.0.0.1 sb.scorecardresearch.com
 127.0.0.1 sbhreklamvakti.net
 127.0.0.1 sc-static.net
@@ -2017,6 +2027,7 @@
 127.0.0.1 wzrkt.com
 127.0.0.1 x.bidswitch.net
 127.0.0.1 x.clearbitjs.com
+127.0.0.1 x.disq.us
 127.0.0.1 x.everestop.io
 127.0.0.1 x01.aidata.io
 127.0.0.1 xfwblpomxc.com
