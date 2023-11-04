@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-10-29T15:18:16.894Z
+! Last modified: 2023-11-04T20:05:21.480Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -321,6 +321,7 @@
 ||bnscbasvurugiristr.com^
 ||bobabillydirect.org^
 ||bordeaux.futurecdn.net^
+||boundlessveil.com^
 ||bqstreamer.com^
 ||brightcombid.marphezis.com^
 ||browser.events.data.microsoft.com^
@@ -334,6 +335,7 @@
 ||btds.zog.link^
 ||btloader.com^
 ||btlr.sharethrough.com^
+||bts.a11k.com^
 ||business.samsungusa.com^
 ||busuanzi.ibruce.info^
 ||buttons-config.sharethis.com^
@@ -368,11 +370,13 @@
 ||cdn.ad.xiaomi.com^
 ||cdn.ad4game.com^
 ||cdn.adhouse.pro^
+||cdn.adnuntius.com^
 ||cdn.adpushup.com^
 ||cdn.adsafeprotected.com^
 ||cdn.adtarget.com.tr^
 ||cdn.afp.ai^
 ||cdn.amplitude.com^
+||cdn.appdynamics.com^
 ||cdn.avmws.com^
 ||cdn.banhq.com^
 ||cdn.bannersnack.com^
@@ -607,6 +611,7 @@
 ||denizfirsatlarimbasvuru.xyz^
 ||depart.trinitymedia.ai^
 ||deploy.mopinion.com^
+||dexerto-cdn.relevant-digital.com^
 ||device-metrics-us.amazon.com^
 ||device-metrics-us-2.amazon.com^
 ||devices.carnivalmobile.com^
@@ -689,6 +694,7 @@
 ||events.getirapi.com^
 ||events.getsitectrl.com^
 ||events.jotform.com^
+||events.launchdarkly.com^
 ||events.newsroom.bi^
 ||events.reddit.com^
 ||events.redditmedia.com^
@@ -763,6 +769,7 @@
 ||go.xlrdr.com^
 ||go.xxxijmp.com^
 ||go.xxxviijmp.com^
+||go.xxxvjmp.com^
 ||go6shde9nj2itle.com^
 ||godpvqnszo.com^
 ||google-analytics.com^
@@ -877,6 +884,7 @@
 ||js.adsrvr.org^
 ||js.agkn.com^
 ||js.appboycdn.com^
+||js.cabnnr.com^
 ||js.datadome.co^
 ||js.driftt.com^
 ||js.go2sdk.com^
@@ -909,6 +917,7 @@
 ||kimberlite.io^
 ||kinja-com.videoplayerhub.com^
 ||krk.kargo.com^
+||kts.cvastico.com^
 ||kvezz.com^
 ||kz.rebakeassets.com^
 ||l.betrad.com^
@@ -1089,6 +1098,7 @@
 ||ow.pubmatic.com^
 ||ow-gateway.supersonicads.com^
 ||owlcarousel2.github.io^
+||p.a64x.com^
 ||p.adsymptotic.com^
 ||p.cpx.to^
 ||p.hgfdtujlknhkghf.site^
@@ -1296,7 +1306,7 @@
 ||s7.addthis.com^
 ||s8t.teads.tv^
 ||s9.addthis.com^
-||ss-pbs.quantumdex.io^
+||sa.etp-prod.com^
 ||sabahreklamireha.net^
 ||sabahreklamvaktms.net^
 ||sahibindenalisveris-trparanguvende-mobildepartmani.com^
@@ -1386,8 +1396,10 @@
 ||srv224.com^
 ||srvccc.fish91826twenty.ga^
 ||srvr.dmvs-apac.com^
+||ss-pbs.quantumdex.io^
 ||ssbsync-global.smartadserver.com^
 ||ssc-cms.33across.com^
+||ssl.cdne.cpmstar.com^
 ||sslwidget.criteo.com^
 ||ssm.codes^
 ||ssp.programattik.com^
@@ -1414,6 +1426,7 @@
 ||static.addtoany.com^
 ||static.adsafeprotected.com^
 ||static.apester.com^
+||static.bookmsg.com^
 ||static.chartbeat.com^
 ||static.clevertap.com^
 ||static.clmbtech.com^
@@ -1423,6 +1436,7 @@
 ||static.getclicky.com^
 ||static.growthrx.in^
 ||static.klaviyo.com^
+||static.kueezrtb.com^
 ||static.lcwaikiki.com^
 ||static.narrativ.com^
 ||static.onedio.com^
@@ -1502,6 +1516,7 @@
 ||tags.bluekai.com^
 ||tags.bkrtx.com^
 ||tags.expo9.exponential.com^
+||tags.qortex.ai^
 ||tags.refinery89.com^
 ||tags.tiqcdn.com^
 ||tags-cdn.deployads.com^
@@ -1559,10 +1574,12 @@
 ||trk.techtarget.com^
 ||trreklamlarcom.xyz^
 ||tru.am^
+||ts.cvastico.com^
 ||tsyndicate.com^
 ||tubemov.com^
 ||tubestatic.usco1621-b.com^
 ||twinrdsrv.com^
+||twinrdsyte.com^
 ||twistconcept.com^
 ||twitterhalkreklam.com^
 ||tx.n11.com^

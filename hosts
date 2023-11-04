@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23102915
+# Version: 23110420
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -379,6 +379,7 @@
 127.0.0.1 bnscbasvurugiristr.com
 127.0.0.1 bobabillydirect.org
 127.0.0.1 bordeaux.futurecdn.net
+127.0.0.1 boundlessveil.com
 127.0.0.1 bqstreamer.com
 127.0.0.1 brightcombid.marphezis.com
 127.0.0.1 browser.events.data.microsoft.com
@@ -393,6 +394,7 @@
 127.0.0.1 btds.zog.link
 127.0.0.1 btloader.com
 127.0.0.1 btlr.sharethrough.com
+127.0.0.1 bts.a11k.com
 127.0.0.1 business.samsungusa.com
 127.0.0.1 busuanzi.ibruce.info
 127.0.0.1 buttons-config.sharethis.com
@@ -428,12 +430,14 @@
 127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 cdn.ad4game.com
 127.0.0.1 cdn.adhouse.pro
+127.0.0.1 cdn.adnuntius.com
 127.0.0.1 cdn.adpushup.com
 127.0.0.1 cdn.adsafeprotected.com
 127.0.0.1 cdn.adsninja.ca
 127.0.0.1 cdn.adtarget.com.tr
 127.0.0.1 cdn.afp.ai
 127.0.0.1 cdn.amplitude.com
+127.0.0.1 cdn.appdynamics.com
 127.0.0.1 cdn.avmws.com
 127.0.0.1 cdn.banhq.com
 127.0.0.1 cdn.bannersnack.com
@@ -689,6 +693,7 @@
 127.0.0.1 denizfirsatlarimbasvuru.xyz
 127.0.0.1 depart.trinitymedia.ai
 127.0.0.1 deploy.mopinion.com
+127.0.0.1 dexerto-cdn.relevant-digital.com
 127.0.0.1 device-metrics-us.amazon.com
 127.0.0.1 device-metrics-us-2.amazon.com
 127.0.0.1 devices.carnivalmobile.com
@@ -914,6 +919,7 @@
 127.0.0.1 events.getirapi.com
 127.0.0.1 events.getsitectrl.com
 127.0.0.1 events.jotform.com
+127.0.0.1 events.launchdarkly.com
 127.0.0.1 events.newsroom.bi
 127.0.0.1 events.reddit.com
 127.0.0.1 events.redditmedia.com
@@ -998,6 +1004,7 @@
 127.0.0.1 go.xlrdr.com
 127.0.0.1 go.xxxijmp.com
 127.0.0.1 go.xxxviijmp.com
+127.0.0.1 go.xxxvjmp.com
 127.0.0.1 go6shde9nj2itle.com
 127.0.0.1 godpvqnszo.com
 127.0.0.1 google-analytics.com
@@ -1123,6 +1130,7 @@
 127.0.0.1 js.adsrvr.org
 127.0.0.1 js.agkn.com
 127.0.0.1 js.appboycdn.com
+127.0.0.1 js.cabnnr.com
 127.0.0.1 js.datadome.co
 127.0.0.1 js.driftt.com
 127.0.0.1 js.go2sdk.com
@@ -1155,6 +1163,7 @@
 127.0.0.1 kimberlite.io
 127.0.0.1 kinja-com.videoplayerhub.com
 127.0.0.1 krk.kargo.com
+127.0.0.1 kts.cvastico.com
 127.0.0.1 kvezz.com
 127.0.0.1 kz.rebakeassets.com
 127.0.0.1 l.betrad.com
@@ -1336,6 +1345,7 @@
 127.0.0.1 o516780.ingest.sentry.io
 127.0.0.1 o55978.ingest.sentry.io
 127.0.0.1 o64293.ingest.sentry.io
+127.0.0.1 o698378.ingest.sentry.io
 127.0.0.1 o83571.ingest.sentry.io
 127.0.0.1 o989828.ingest.sentry.io
 127.0.0.1 oaphoace.net
@@ -1364,6 +1374,7 @@
 127.0.0.1 ow.pubmatic.com
 127.0.0.1 ow-gateway.supersonicads.com
 127.0.0.1 owlcarousel2.github.io
+127.0.0.1 p.a64x.com
 127.0.0.1 p.adsymptotic.com
 127.0.0.1 p.cpx.to
 127.0.0.1 p.hgfdtujlknhkghf.site
@@ -1480,6 +1491,7 @@
 127.0.0.1 r.apkpure.net
 127.0.0.1 r.skimresources.com
 127.0.0.1 r.stripe.com
+127.0.0.1 r-eu.tsyndicate.com
 127.0.0.1 radar.cedexis.com
 127.0.0.1 rauvoaty.net
 127.0.0.1 rcm-na.amazon-adsystem.com
@@ -1586,7 +1598,7 @@
 127.0.0.1 s7.addthis.com
 127.0.0.1 s8t.teads.tv
 127.0.0.1 s9.addthis.com
-127.0.0.1 ss-pbs.quantumdex.io
+127.0.0.1 sa.etp-prod.com
 127.0.0.1 sabahreklamireha.net
 127.0.0.1 sabahreklamvaktms.net
 127.0.0.1 sahibindenalisveris-trparanguvende-mobildepartmani.com
@@ -1683,8 +1695,10 @@
 127.0.0.1 srv224.com
 127.0.0.1 srvccc.fish91826twenty.ga
 127.0.0.1 srvr.dmvs-apac.com
+127.0.0.1 ss-pbs.quantumdex.io
 127.0.0.1 ssbsync-global.smartadserver.com
 127.0.0.1 ssc-cms.33across.com
+127.0.0.1 ssl.cdne.cpmstar.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 sslwidget.criteo.com
 127.0.0.1 ssm.codes
@@ -1713,6 +1727,7 @@
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 static.adsafeprotected.com
 127.0.0.1 static.apester.com
+127.0.0.1 static.bookmsg.com
 127.0.0.1 static.cbox.ws
 127.0.0.1 static.chartbeat.com
 127.0.0.1 static.clevertap.com
@@ -1725,6 +1740,7 @@
 127.0.0.1 static.growthrx.in
 127.0.0.1 static.hotjar.com
 127.0.0.1 static.klaviyo.com
+127.0.0.1 static.kueezrtb.com
 127.0.0.1 static.lcwaikiki.com
 127.0.0.1 static.media.net
 127.0.0.1 static.narrativ.com
@@ -1809,6 +1825,7 @@
 127.0.0.1 tags.bkrtx.com
 127.0.0.1 tags.creativecdn.com
 127.0.0.1 tags.expo9.exponential.com
+127.0.0.1 tags.qortex.ai
 127.0.0.1 tags.refinery89.com
 127.0.0.1 tags.tiqcdn.com
 127.0.0.1 tags-cdn.deployads.com
@@ -1872,6 +1889,7 @@
 127.0.0.1 trk.techtarget.com
 127.0.0.1 trreklamlarcom.xyz
 127.0.0.1 tru.am
+127.0.0.1 ts.cvastico.com
 127.0.0.1 tsyndicate.com
 127.0.0.1 tubemov.com
 127.0.0.1 tubestatic.usco1621-b.com
@@ -1879,6 +1897,7 @@
 127.0.0.1 turknet.api.useinsider.com
 127.0.0.1 turknet.hellosmpl.com
 127.0.0.1 twinrdsrv.com
+127.0.0.1 twinrdsyte.com
 127.0.0.1 twistconcept.com
 127.0.0.1 twitterhalkreklam.com
 127.0.0.1 tx.n11.com
@@ -1928,6 +1947,7 @@
 127.0.0.1 vc.hotjar.io
 127.0.0.1 venetrigni.com
 127.0.0.1 vi.ml314.com
+127.0.0.1 video.mcpuwpsh.com
 127.0.0.1 videosvc.ezoic.com
 127.0.0.1 vidstat.taboola.com
 127.0.0.1 visariomedia.com
