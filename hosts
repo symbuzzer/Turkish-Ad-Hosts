@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23110420
+# Version: 23112009
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -284,6 +284,7 @@
 127.0.0.1 api.taps.io
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 127.0.0.1 api.useinsider.com
+127.0.0.1 api-eu.bidmachine.io
 127.0.0.1 api-js.datadome.co
 127.0.0.1 api-public.addthis.com
 127.0.0.1 api-stg.ensonhaber.com
@@ -482,6 +483,7 @@
 127.0.0.1 cdn.membrana.media
 127.0.0.1 cdn.medyanetads.com
 127.0.0.1 cdn.mmctsvc.com
+127.0.0.1 cdn.mobilefuse.com
 127.0.0.1 cdn.mookie1.com
 127.0.0.1 cdn.mouseflow.com
 127.0.0.1 cdn.mxpnl.com
@@ -942,6 +944,7 @@
 127.0.0.1 fcmatch.google.com
 127.0.0.1 fcmatch.youtube.com
 127.0.0.1 fe.cabioredtop.com
+127.0.0.1 fid.agkn.com
 127.0.0.1 firebase-settings.crashlytics.com
 127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 firebaselogging-pa.googleapis.com
@@ -1594,6 +1597,7 @@
 127.0.0.1 s2.go-mpulse.net
 127.0.0.1 s2s.adjust.com
 127.0.0.1 s2s.t13.io
+127.0.0.1 s3-analytics-events.easybrain.com
 127.0.0.1 s3t3d2y8.afcdn.net
 127.0.0.1 s7.addthis.com
 127.0.0.1 s8t.teads.tv
@@ -1950,6 +1954,7 @@
 127.0.0.1 video.mcpuwpsh.com
 127.0.0.1 videosvc.ezoic.com
 127.0.0.1 vidstat.taboola.com
+127.0.0.1 view.adjust.com
 127.0.0.1 visariomedia.com
 127.0.0.1 visitor.omnitagjs.com
 127.0.0.1 vitals.vercel-insights.com
