@@ -264,6 +264,7 @@ api.sprig.com
 api.taps.io
 api.tw06.xlmc.sec.miui.com
 api.useinsider.com
+api-eu.bidmachine.io
 api-js.datadome.co
 api-public.addthis.com
 api-stg.ensonhaber.com
@@ -462,6 +463,7 @@ cdn.matomo.cloud
 cdn.membrana.media
 cdn.medyanetads.com
 cdn.mmctsvc.com
+cdn.mobilefuse.com
 cdn.mookie1.com
 cdn.mouseflow.com
 cdn.mxpnl.com
@@ -922,6 +924,7 @@ fcg-api.exponea.com
 fcmatch.google.com
 fcmatch.youtube.com
 fe.cabioredtop.com
+fid.agkn.com
 firebase-settings.crashlytics.com
 firebaselogging.googleapis.com
 firebaselogging-pa.googleapis.com
@@ -1574,6 +1577,7 @@ s2.adform.net
 s2.go-mpulse.net
 s2s.adjust.com
 s2s.t13.io
+s3-analytics-events.easybrain.com
 s3t3d2y8.afcdn.net
 s7.addthis.com
 s8t.teads.tv
@@ -1930,6 +1934,7 @@ vi.ml314.com
 video.mcpuwpsh.com
 videosvc.ezoic.com
 vidstat.taboola.com
+view.adjust.com
 visariomedia.com
 visitor.omnitagjs.com
 vitals.vercel-insights.com
