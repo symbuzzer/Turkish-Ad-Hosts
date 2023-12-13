@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23121110
+# Version: 23121309
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -138,6 +138,7 @@
 127.0.0.1 ads.facebook.com
 127.0.0.1 ads.google.com
 127.0.0.1 ads.linkedin.com
+127.0.0.1 ads.themoneytizer.com
 127.0.0.1 ads.ndtv1.com
 127.0.0.1 ads.pinterest.com
 127.0.0.1 ads.pro-market.net
@@ -643,6 +644,7 @@
 127.0.0.1 csp-reporting.cloudflare.com
 127.0.0.1 cstatic.weborama.fr
 127.0.0.1 csync.loopme.me
+127.0.0.1 cumhuriyet.rtb.pixad.com.tr
 127.0.0.1 d.agkn.com
 127.0.0.1 d.applovin.com
 127.0.0.1 d.applvn.com
