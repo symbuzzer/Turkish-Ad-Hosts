@@ -1,4 +1,7 @@
 # Module Changelog:  
+## v1.0.7  
+- Minor typo fixes    
+  
 ## v1.0.6  
 - Minor typo fixes    
   
