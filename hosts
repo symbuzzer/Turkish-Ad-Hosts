@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23121309
+# Version: 23121414
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -628,6 +628,7 @@
 127.0.0.1 countly.fibabanka.com.tr
 127.0.0.1 countly.iyzico.com
 127.0.0.1 cp.pushwoosh.com
+127.0.0.1 cr.frontend.weborama.fr
 127.0.0.1 cra.hum.works
 127.0.0.1 crashlyticsreports-pa.googleapis.com
 127.0.0.1 crashlogs.whatsapp.net
@@ -1235,6 +1236,7 @@
 127.0.0.1 marketing.turkiyefinans.com.tr
 127.0.0.1 match.360yield.com
 127.0.0.1 match.adsrvr.org
+127.0.0.1 match.new-programmatic.com
 127.0.0.1 match.sharethrough.com
 127.0.0.1 matchid.adfox.yandex.ru
 127.0.0.1 mb.moatads.com
@@ -1674,6 +1676,7 @@
 127.0.0.1 shakysurprise.com
 127.0.0.1 shb.richaudience.com
 127.0.0.1 shield.sitelock.com
+127.0.0.1 shopnetic.com
 127.0.0.1 showbet-static.ams3.digitaloceanspaces.com
 127.0.0.1 showbet205.com
 127.0.0.1 sia.internet.apps.samsung.com
@@ -1794,6 +1797,7 @@
 127.0.0.1 swimsolution.ap-reklama.cz
 127.0.0.1 sync.1dmp.io
 127.0.0.1 sync.1rx.io
+127.0.0.1 sync.adkernel.com
 127.0.0.1 sync.bfmio.com
 127.0.0.1 sync.bumlam.com
 127.0.0.1 sync.colossusssp.com

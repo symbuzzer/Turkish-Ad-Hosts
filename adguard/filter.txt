@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-12-13T09:21:51.630Z
+! Last modified: 2023-12-14T14:26:40.498Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -548,6 +548,7 @@
 ||countly.fibabanka.com.tr^
 ||countly.iyzico.com^
 ||cp.pushwoosh.com^
+||cr.frontend.weborama.fr^
 ||cra.hum.works^
 ||crashlyticsreports-pa.googleapis.com^
 ||crashlogs.whatsapp.net^
@@ -981,6 +982,7 @@
 ||marketing.turkiyefinans.com.tr^
 ||match.360yield.com^
 ||match.adsrvr.org^
+||match.new-programmatic.com^
 ||match.sharethrough.com^
 ||matchid.adfox.yandex.ru^
 ||mb.moatads.com^
@@ -1373,6 +1375,7 @@
 ||shakysurprise.com^
 ||shb.richaudience.com^
 ||shield.sitelock.com^
+||shopnetic.com^
 ||showbet-static.ams3.digitaloceanspaces.com^
 ||showbet205.com^
 ||sia.internet.apps.samsung.com^
@@ -1483,6 +1486,7 @@
 ||swimsolution.ap-reklama.cz^
 ||sync.1dmp.io^
 ||sync.1rx.io^
+||sync.adkernel.com^
 ||sync.bfmio.com^
 ||sync.bumlam.com^
 ||sync.colossusssp.com^
