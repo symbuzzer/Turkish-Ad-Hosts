@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23121414
+# Version: 23121512
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -1023,6 +1023,7 @@
 127.0.0.1 googlereklamsayfalari.com
 127.0.0.1 googletagmanager.com
 127.0.0.1 grid.bidswitch.net
+127.0.0.1 groovy-manul.pikapod.net
 127.0.0.1 grs.dbankcloud.asia
 127.0.0.1 grs.dbankcloud.cn
 127.0.0.1 grs.dbankcloud.com
@@ -1319,6 +1320,7 @@
 127.0.0.1 munchkin.marketo.net
 127.0.0.1 mweb-hb.presage.io
 127.0.0.1 mwzeom.zeotap.com
+127.0.0.1 my.hellobar.com
 127.0.0.1 my.rtmark.net
 127.0.0.1 mydomainbest.com
 127.0.0.1 mynetreklam.com
@@ -1708,6 +1710,7 @@
 127.0.0.1 srvr.dmvs-apac.com
 127.0.0.1 ss-pbs.quantumdex.io
 127.0.0.1 ssbsync-global.smartadserver.com
+127.0.0.1 ssc.33across.com
 127.0.0.1 ssc-cms.33across.com
 127.0.0.1 ssl.cdne.cpmstar.com
 127.0.0.1 ssl.google-analytics.com
@@ -1846,6 +1849,7 @@
 127.0.0.1 td.doubleclick.net
 127.0.0.1 techbird.org
 127.0.0.1 teknosa.api.useinsider.com
+127.0.0.1 telemetry.transcend.io
 127.0.0.1 teleport.soom.la
 127.0.0.1 tempest.services.disqus.com
 127.0.0.1 terms.internet.apps.samsung.com

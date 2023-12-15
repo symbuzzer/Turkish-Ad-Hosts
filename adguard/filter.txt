@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2023-12-14T14:26:40.498Z
+! Last modified: 2023-12-15T12:54:31.405Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -784,6 +784,7 @@
 ||googlereklamsayfalari.com^
 ||googletagmanager.com^
 ||grid.bidswitch.net^
+||groovy-manul.pikapod.net^
 ||grs.dbankcloud.asia^
 ||grs.dbankcloud.cn^
 ||grs.dbankcloud.com^
@@ -1062,6 +1063,7 @@
 ||munchkin.marketo.net^
 ||mweb-hb.presage.io^
 ||mwzeom.zeotap.com^
+||my.hellobar.com^
 ||my.rtmark.net^
 ||mydomainbest.com^
 ||mynetreklam.com^
@@ -1406,6 +1408,7 @@
 ||srvr.dmvs-apac.com^
 ||ss-pbs.quantumdex.io^
 ||ssbsync-global.smartadserver.com^
+||ssc.33across.com^
 ||ssc-cms.33across.com^
 ||ssl.cdne.cpmstar.com^
 ||sslwidget.criteo.com^
@@ -1532,6 +1535,7 @@
 ||targetemsecure.blob.core.windows.net^
 ||targeting.unrulymedia.com^
 ||techbird.org^
+||telemetry.transcend.io^
 ||teleport.soom.la^
 ||tempest.services.disqus.com^
 ||terms.internet.apps.samsung.com^
