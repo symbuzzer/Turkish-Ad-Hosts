@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23121512
+# Version: 23121809
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -526,6 +526,7 @@
 127.0.0.1 cdn.thequin.ai
 127.0.0.1 cdn.trackjs.com
 127.0.0.1 cdn.tsyndicate.com
+127.0.0.1 cdn.twinrdack.com
 127.0.0.1 cdn.twinrdsrv.com
 127.0.0.1 cdn.unblockia.com
 127.0.0.1 cdn.unibotscdn.com
@@ -928,6 +929,7 @@
 127.0.0.1 events.getsitectrl.com
 127.0.0.1 events.jotform.com
 127.0.0.1 events.launchdarkly.com
+127.0.0.1 events.mapbox.com
 127.0.0.1 events.newsroom.bi
 127.0.0.1 events.reddit.com
 127.0.0.1 events.redditmedia.com
@@ -1098,6 +1100,7 @@
 127.0.0.1 idx.liadm.com
 127.0.0.1 iframeri.strmrdrfrokd.site
 127.0.0.1 iframeria.strmrdrfrokd.site
+127.0.0.1 iloptrex.com
 127.0.0.1 image.useinsider.com
 127.0.0.1 image2.pubmatic.com
 127.0.0.1 image6.pubmatic.com
@@ -1113,6 +1116,7 @@
 127.0.0.1 inapps.appsflyer.com
 127.0.0.1 ingress.linktr.ee
 127.0.0.1 init.supersonicads.com
+127.0.0.1 inklinkor.com
 127.0.0.1 insight.adsrvr.org
 127.0.0.1 insights.algolia.io
 127.0.0.1 insights.sitesearch360.com
@@ -1181,6 +1185,7 @@
 127.0.0.1 laquesis.data.olxcdn.com
 127.0.0.1 launches.appsflyer.com
 127.0.0.1 launches.appsflyersdk.com
+127.0.0.1 lby2kd27c.com
 127.0.0.1 lcdn.tsyndicate.com
 127.0.0.1 leaveundo.com
 127.0.0.1 lenovo.demdex.net
@@ -1452,6 +1457,7 @@
 127.0.0.1 pnsdkapi.turktelekom.com.tr
 127.0.0.1 pocketfaucet.com
 127.0.0.1 polat-geldi-reklam-basvurusu-com.ml
+127.0.0.1 poloptrex.com
 127.0.0.1 pornhdr.cf
 127.0.0.1 poweredby.jads.co
 127.0.0.1 pq-direct.revsci.net
@@ -1784,6 +1790,7 @@
 127.0.0.1 steadfastsystem.com
 127.0.0.1 steepsquirrel.com
 127.0.0.1 stootsou.net
+127.0.0.1 storage.multstorage.com
 127.0.0.1 storj.cloud
 127.0.0.1 stpd.cloud
 127.0.0.1 str.hit.gemius.pl.hit.gemius.pl
@@ -1883,6 +1890,7 @@
 127.0.0.1 track.analitycs.net
 127.0.0.1 track.appsflyer.com
 127.0.0.1 track.mailerlite.com
+127.0.0.1 track.mp4.center
 127.0.0.1 track.wattpad.com
 127.0.0.1 track1.aniview.com
 127.0.0.1 tracker.affirm.com
@@ -1912,6 +1920,7 @@
 127.0.0.1 turkcell.api.useinsider.com
 127.0.0.1 turknet.api.useinsider.com
 127.0.0.1 turknet.hellosmpl.com
+127.0.0.1 twinrdack.com
 127.0.0.1 twinrdsrv.com
 127.0.0.1 twinrdsyte.com
 127.0.0.1 twistconcept.com
@@ -1959,6 +1968,7 @@
 127.0.0.1 vakifbank-reklam-resmi.tk
 127.0.0.1 vakifreklamkayit.tk
 127.0.0.1 vars.hotjar.com
+127.0.0.1 vast.vstserv.com
 127.0.0.1 vast.yomeno.xyz
 127.0.0.1 vc.hotjar.io
 127.0.0.1 venetrigni.com
