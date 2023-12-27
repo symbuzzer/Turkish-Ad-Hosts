@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23121809
+# Version: 23122714
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -75,6 +75,7 @@
 127.0.0.1 a.mouseflow.com
 127.0.0.1 a.omappapi.com
 127.0.0.1 a.orbsrv.com
+127.0.0.1 a.pemsrv.com
 127.0.0.1 a.pub.network
 127.0.0.1 a.quora.com
 127.0.0.1 a.realsrv.com
@@ -84,6 +85,7 @@
 127.0.0.1 a.vdo.ai
 127.0.0.1 a1.api.bbc.co.uk
 127.0.0.1 a4.applovin.com
+127.0.0.1 a50f745777.6061de8597.com
 127.0.0.1 a69i.com
 127.0.0.1 aa.agkn.com
 127.0.0.1 aa.online-metrix.net
@@ -159,10 +161,12 @@
 127.0.0.1 ads-api.twitter.com
 127.0.0.1 ads-dev.pinterest.com
 127.0.0.1 ads-interfaces.sc-cdn.net
+127.0.0.1 ads-resources.waze.com
 127.0.0.1 ads-sg.tiktok.com
 127.0.0.1 ads-twitter.com
 127.0.0.1 ads2.contentabc.com
 127.0.0.1 ads5.admatic.com.tr
+127.0.0.1 adsassets.waze.com
 127.0.0.1 adsby.io
 127.0.0.1 adsdk.yandex.ru
 127.0.0.1 adserve.donanimhaber.com
@@ -199,6 +203,7 @@
 127.0.0.1 aip-cdn.sozcu.com.tr
 127.0.0.1 aip2.sozcu.com.tr
 127.0.0.1 aj2550.bid
+127.0.0.1 ajfnee.com
 127.0.0.1 ak.hauchiwu.com
 127.0.0.1 ak.oalsauwy.net
 127.0.0.1 ak.sail-horizon.com
@@ -267,6 +272,7 @@
 127.0.0.1 api.exponea.com
 127.0.0.1 api.fouanalytics.com
 127.0.0.1 api.gameanalytics.com
+127.0.0.1 api.h2.he7ll.com
 127.0.0.1 api.ibeat-analytics.com
 127.0.0.1 api.instabug.com
 127.0.0.1 api.leanplum.com
@@ -664,6 +670,7 @@
 127.0.0.1 d1wix2gc2cgqis.cloudfront.net
 127.0.0.1 d2ef20sk9hi1u3.cloudfront.net
 127.0.0.1 d2hrivdxn8ekm8.cloudfront.net
+127.0.0.1 d2j042cj1421wi.cloudfront.net
 127.0.0.1 d2r1yp2w7bby2u.cloudfront.net
 127.0.0.1 d2t77mnxyo7adj.cloudfront.net
 127.0.0.1 d2v02itv0y9u9t.cloudfront.net
@@ -679,6 +686,7 @@
 127.0.0.1 d5nxst8fruw4z.cloudfront.net
 127.0.0.1 d899faa8b1.79b1c4498b.com
 127.0.0.1 da37c08c29.36b7ca5028.com
+127.0.0.1 danesuffocate.com
 127.0.0.1 data.flurry.com
 127.0.0.1 data.mistat.india.xiaomi.com
 127.0.0.1 data.mistat.intl.xiaomi.com
@@ -817,6 +825,8 @@
 127.0.0.1 e2c67.gcp.gvt2.com
 127.0.0.1 e2c68.gcp.gvt2.com
 127.0.0.1 e2c69.gcp.gvt2.com
+127.0.0.1 e2c70.gcp.gvt2.com
+127.0.0.1 e2c71.gcp.gvt2.com
 127.0.0.1 e2cs01.gcp.gvt2.com
 127.0.0.1 e2cs02.gcp.gvt2.com
 127.0.0.1 e2cs03.gcp.gvt2.com
@@ -973,12 +983,15 @@
 127.0.0.1 fri4esianewheywr90itrage.com
 127.0.0.1 friendshipmale.com
 127.0.0.1 fundingchoicesmessages.google.com
+127.0.0.1 futureocto.com
 127.0.0.1 futureplc-com.videoplayerhub.com
+127.0.0.1 fvcwqkkqmuv.com
 127.0.0.1 g.3gl.net
 127.0.0.1 g.ezodn.com
 127.0.0.1 g.jwpsrv.com
 127.0.0.1 g2.gumgum.com
 127.0.0.1 g792337340.co
+127.0.0.1 game.starswalker.site
 127.0.0.1 game2.betgames.tv
 127.0.0.1 gamescdnfor.com
 127.0.0.1 garantibbva.api.dataroid.com
@@ -1086,6 +1099,7 @@
 127.0.0.1 i.ctnsnet.com
 127.0.0.1 i.isnssdk.com
 127.0.0.1 i.loopme.me
+127.0.0.1 i.wmgtr.com
 127.0.0.1 ia.strmrdrfrokd.site
 127.0.0.1 ib.adnxs.com
 127.0.0.1 ib.adnxs-simple.com
@@ -1178,6 +1192,7 @@
 127.0.0.1 kinja-com.videoplayerhub.com
 127.0.0.1 krk.kargo.com
 127.0.0.1 kts.cvastico.com
+127.0.0.1 ku42hjr2e.com
 127.0.0.1 kvezz.com
 127.0.0.1 kz.rebakeassets.com
 127.0.0.1 l.betrad.com
@@ -1255,6 +1270,7 @@
 127.0.0.1 mc.yandex.ru
 127.0.0.1 mc2tnzs73p3554cjc7h876m-gfm4.device.marketingcloudapis.com
 127.0.0.1 mcfk02nd3k8q7w75g9yxxcc6yj20.device.marketingcloudapis.com
+127.0.0.1 mcizas.com
 127.0.0.1 mcpuwpsh.com
 127.0.0.1 mcs-va.tiktok.com
 127.0.0.1 mcs-va.tiktokv.com
@@ -1346,6 +1362,7 @@
 127.0.0.1 ntvpforever.com
 127.0.0.1 ntvsporweb.api.useinsider.com
 127.0.0.1 nvidiacorp.us-5.evergage.com
+127.0.0.1 nwwais.com
 127.0.0.1 o.gez.io
 127.0.0.1 o1061291.ingest.sentry.io
 127.0.0.1 o109294.ingest.sentry.io
@@ -1480,6 +1497,7 @@
 127.0.0.1 profitabledisplaycontent.com
 127.0.0.1 protagcdn.com
 127.0.0.1 ps.eyeota.net
+127.0.0.1 pt.cdwmpt.com
 127.0.0.1 pt.ctsdwm.com
 127.0.0.1 pub.doubleverify.com
 127.0.0.1 pub-sdk-cfg.criteo.com
@@ -1512,6 +1530,7 @@
 127.0.0.1 radar.cedexis.com
 127.0.0.1 rauvoaty.net
 127.0.0.1 rcm-na.amazon-adsystem.com
+127.0.0.1 rdrctgoweb.com
 127.0.0.1 rebrand.ly
 127.0.0.1 recommendation-api.analytics.onedio.com
 127.0.0.1 recommender.scarabresearch.com
@@ -1791,6 +1810,7 @@
 127.0.0.1 steepsquirrel.com
 127.0.0.1 stootsou.net
 127.0.0.1 storage.multstorage.com
+127.0.0.1 store4porn.com
 127.0.0.1 storj.cloud
 127.0.0.1 stpd.cloud
 127.0.0.1 str.hit.gemius.pl.hit.gemius.pl
@@ -1892,6 +1912,7 @@
 127.0.0.1 track.mailerlite.com
 127.0.0.1 track.mp4.center
 127.0.0.1 track.wattpad.com
+127.0.0.1 track.webgains.com
 127.0.0.1 track1.aniview.com
 127.0.0.1 tracker.affirm.com
 127.0.0.1 tracker-be-prod.pubplus.com
@@ -1973,6 +1994,7 @@
 127.0.0.1 vc.hotjar.io
 127.0.0.1 venetrigni.com
 127.0.0.1 vi.ml314.com
+127.0.0.1 video.ktkjmp.com
 127.0.0.1 video.mcpuwpsh.com
 127.0.0.1 videosvc.ezoic.com
 127.0.0.1 vidstat.taboola.com
@@ -2033,6 +2055,7 @@
 127.0.0.1 www.cdn.ad.xiaomi.com
 127.0.0.1 www.cdn4ads.com
 127.0.0.1 www.clarity.ms
+127.0.0.1 www.cruel-national.pro
 127.0.0.1 www.datadoghq-browser-agent.com
 127.0.0.1 www.dianomi.com
 127.0.0.1 www.disploot.com
@@ -2056,6 +2079,7 @@
 127.0.0.1 www.mczbf.com
 127.0.0.1 www.medyanative.com
 127.0.0.1 www.preciousdoctor.pro
+127.0.0.1 www.premiumvertising.com
 127.0.0.1 www.profitabledisplaycontent.com
 127.0.0.1 www.publisher-network.com
 127.0.0.1 www.rnengage.com
@@ -2066,6 +2090,7 @@
 127.0.0.1 www.tns-counter.ru
 127.0.0.1 www.toplist.cz
 127.0.0.1 www.visariomedia.com
+127.0.0.1 www.voxmrcdgzuwb.com
 127.0.0.1 www.w3counter.com
 127.0.0.1 www5.cbox.ws
 127.0.0.1 www9.smartadserver.com
