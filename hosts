@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 23122714
+# Version: 24010309
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -47,6 +47,7 @@
 127.0.0.1 595tuchuang.com
 127.0.0.1 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 127.0.0.1 6371800.collect.igodigital.com
+127.0.0.1 74b967be3a.68069795d1.com
 127.0.0.1 7fb6f12dd2.17dc91dc49.com
 127.0.0.1 8065991.fls.doubleclick.net
 127.0.0.1 8236901.fls.doubleclick.net
@@ -66,6 +67,7 @@
 127.0.0.1 a.appbaqend.com
 127.0.0.1 a.applovin.com
 127.0.0.1 a.bestcontentcost.top
+127.0.0.1 a.bestcontenttool.top
 127.0.0.1 a.doganburda.com
 127.0.0.1 a.exoclick.com
 127.0.0.1 a.exosrv.com
@@ -96,6 +98,7 @@
 127.0.0.1 aax-eu.amazon.sa
 127.0.0.1 aax-eu.amazon-adsystem.com
 127.0.0.1 aax-us.amazon-adsystem.com
+127.0.0.1 abundantservantexact.com
 127.0.0.1 ac3bce28b1ec4def93c344b2d5e13909-4c4cc75a16ed.cdn.forter.com
 127.0.0.1 accounts.doubleclick.net
 127.0.0.1 acdn.adnxs.com
@@ -179,6 +182,7 @@
 127.0.0.1 adservice.google.gr
 127.0.0.1 adservice.google.co.in
 127.0.0.1 adservice.google.nl
+127.0.0.1 adsession.exacdn.com
 127.0.0.1 adsninja.ca
 127.0.0.1 adsp.haberturk.com
 127.0.0.1 adsreklamizm.ga
@@ -211,6 +215,7 @@
 127.0.0.1 aksamvaktireklam.com
 127.0.0.1 aksamvaktimreklamsx.net
 127.0.0.1 aksigorta.api.useinsider.com
+127.0.0.1 allaboutsymbian.uk.intellitxt.com
 127.0.0.1 alb.reddit.com
 127.0.0.1 alexatracker.com
 127.0.0.1 aloofvest.com
@@ -319,6 +324,8 @@
 127.0.0.1 arabam.api.useinsider.com
 127.0.0.1 arguebakery.com
 127.0.0.1 artfut.com
+127.0.0.1 as.2020mustang.com
+127.0.0.1 as.air2s.com
 127.0.0.1 as.jivox.com
 127.0.0.1 as-sec.casalemedia.com
 127.0.0.1 ascendeum-d.openx.net
@@ -381,6 +388,7 @@
 127.0.0.1 bigrourg.net
 127.0.0.1 bireysel-reklam-sayfamiz.tk
 127.0.0.1 bitcireklam.com
+127.0.0.1 bmrg.reflected.net
 127.0.0.1 bncsdestekgiristr.com
 127.0.0.1 bngdyn.com
 127.0.0.1 bngprm.com
@@ -458,6 +466,7 @@
 127.0.0.1 cdn.browsiprod.com
 127.0.0.1 cdn.bvmcdn.net
 127.0.0.1 cdn.carbonads.com
+127.0.0.1 cdn.clickiocdn.com
 127.0.0.1 cdn.confiant-integrations.net
 127.0.0.1 cdn.convertbox.com
 127.0.0.1 cdn.cookielaw.org
@@ -478,6 +487,7 @@
 127.0.0.1 cdn.hellosmpl.com
 127.0.0.1 cdn.hubvisor.io
 127.0.0.1 cdn.id5-sync.com
+127.0.0.1 cdn.indicative.com
 127.0.0.1 cdn.insurads.com
 127.0.0.1 cdn.intergient.com
 127.0.0.1 cdn.izooto.com
@@ -684,6 +694,7 @@
 127.0.0.1 d3j3yrurxcqogk.cloudfront.net
 127.0.0.1 d3t87ooo0697p8.cloudfront.net
 127.0.0.1 d5nxst8fruw4z.cloudfront.net
+127.0.0.1 d692b70a4e.a6dc99d1a8.com
 127.0.0.1 d899faa8b1.79b1c4498b.com
 127.0.0.1 da37c08c29.36b7ca5028.com
 127.0.0.1 danesuffocate.com
@@ -1024,6 +1035,7 @@
 127.0.0.1 go.ezodn.com
 127.0.0.1 go.ezoic.net
 127.0.0.1 go.goaserv.com
+127.0.0.1 go.mnaspm.com
 127.0.0.1 go.xlivrdr.com
 127.0.0.1 go.xlrdr.com
 127.0.0.1 go.xxxijmp.com
@@ -1037,6 +1049,7 @@
 127.0.0.1 googleoptimize.com
 127.0.0.1 googlereklamsayfalari.com
 127.0.0.1 googletagmanager.com
+127.0.0.1 greekroo.xyz
 127.0.0.1 grid.bidswitch.net
 127.0.0.1 groovy-manul.pikapod.net
 127.0.0.1 grs.dbankcloud.asia
@@ -1105,6 +1118,7 @@
 127.0.0.1 ib.adnxs-simple.com
 127.0.0.1 ic.strmrdrfrokd.site
 127.0.0.1 ice.360yield.com
+127.0.0.1 ichnaea-web.netflix.com
 127.0.0.1 id.crwdcntrl.net
 127.0.0.1 id.google.com
 127.0.0.1 id.rlcdn.com
@@ -1124,6 +1138,7 @@
 127.0.0.1 img.3633a.com
 127.0.0.1 img.ekstat.com
 127.0.0.1 img.zemanta.com
+127.0.0.1 impactserving.com
 127.0.0.1 impression.link
 127.0.0.1 in.appcenter.ms
 127.0.0.1 in.hotjar.com
@@ -1152,6 +1167,7 @@
 127.0.0.1 istatistik.arabam.com
 127.0.0.1 istatistik.gazetevatan.com
 127.0.0.1 istatistik.trthaber.com
+127.0.0.1 its.tbpot.com
 127.0.0.1 j.6sc.co
 127.0.0.1 jill.fc.yahoo.com
 127.0.0.1 js.adara.com
@@ -1208,6 +1224,7 @@
 127.0.0.1 lexicon.33across.com
 127.0.0.1 lgr.visilabs.net
 127.0.0.1 lh.limosiwooable.com
+127.0.0.1 lib.wtg-ads.com
 127.0.0.1 lider90.com
 127.0.0.1 limurol.com
 127.0.0.1 linkconnector.com
@@ -1255,6 +1272,7 @@
 127.0.0.1 map.sddan.com
 127.0.0.1 marfeel-d.openx.net
 127.0.0.1 marketing.turkiyefinans.com.tr
+127.0.0.1 markreptiloid.com
 127.0.0.1 match.360yield.com
 127.0.0.1 match.adsrvr.org
 127.0.0.1 match.new-programmatic.com
@@ -1310,6 +1328,7 @@
 127.0.0.1 metricswpsh.com
 127.0.0.1 micro.rubiconproject.com
 127.0.0.1 mitdmp.whiteboxdigital.ru
+127.0.0.1 ml314.com
 127.0.0.1 mobile.eum-appdynamics.com
 127.0.0.1 mobile.pipe.aria.microsoft.com
 127.0.0.1 mobile.useinsider.com
@@ -1322,6 +1341,7 @@
 127.0.0.1 mon-i18n.tiktokv.com
 127.0.0.1 mon-va.byteoversea.com
 127.0.0.1 mon-va.tiktokv.com
+127.0.0.1 mon16-normal-useast5.tiktokv.us
 127.0.0.1 monitor.clickcease.com
 127.0.0.1 monorail-edge.shopifysvc.com
 127.0.0.1 monu.delivery
@@ -1354,9 +1374,12 @@
 127.0.0.1 news.2xclick.ru
 127.0.0.1 news-muheji.com
 127.0.0.1 nexus.toyota.com
+127.0.0.1 ng.virgul.com
+127.0.0.1 ng2.virgul.com
 127.0.0.1 ninja.akamaized.net
 127.0.0.1 ninja.data.olxcdn.com
 127.0.0.1 nmetrics.samsung.com
+127.0.0.1 notix.io
 127.0.0.1 ntm.netmera-web.com
 127.0.0.1 ntv.api.useinsider.com
 127.0.0.1 ntvpforever.com
@@ -1376,6 +1399,7 @@
 127.0.0.1 o363631.ingest.sentry.io
 127.0.0.1 o418887.ingest.sentry.io
 127.0.0.1 o435357.ingest.sentry.io
+127.0.0.1 o4504242204704768.ingest.sentry.io
 127.0.0.1 o457708.ingest.sentry.io
 127.0.0.1 o516780.ingest.sentry.io
 127.0.0.1 o55978.ingest.sentry.io
@@ -1611,12 +1635,15 @@
 127.0.0.1 s.adroll.com
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 s.btstatic.com
+127.0.0.1 s.clickiocdn.com
 127.0.0.1 s.dpmsrv.com
 127.0.0.1 s.go-mpulse.net
+127.0.0.1 s.ma3ion.com
 127.0.0.1 s.magsrv.com
 127.0.0.1 s.nitropay.com
 127.0.0.1 s.ntv.io
 127.0.0.1 s.orbsrv.com
+127.0.0.1 s.pemsrv.com
 127.0.0.1 s.perzonalization.com
 127.0.0.1 s.seedtag.com
 127.0.0.1 s.skimresources.com
@@ -1630,6 +1657,7 @@
 127.0.0.1 s2.go-mpulse.net
 127.0.0.1 s2s.adjust.com
 127.0.0.1 s2s.t13.io
+127.0.0.1 s3.buysellads.com
 127.0.0.1 s3-analytics-events.easybrain.com
 127.0.0.1 s3t3d2y8.afcdn.net
 127.0.0.1 s7.addthis.com
@@ -1706,6 +1734,7 @@
 127.0.0.1 shopnetic.com
 127.0.0.1 showbet-static.ams3.digitaloceanspaces.com
 127.0.0.1 showbet205.com
+127.0.0.1 shulugoo.net
 127.0.0.1 sia.internet.apps.samsung.com
 127.0.0.1 sibautomation.com
 127.0.0.1 signal-beacon.s-onetag.com
@@ -1849,6 +1878,7 @@
 127.0.0.1 t.apkpure.net
 127.0.0.1 t.castle.io
 127.0.0.1 t.contentsquare.net
+127.0.0.1 t.fapcat.com
 127.0.0.1 t.imgur.com
 127.0.0.1 t8.prnx.net
 127.0.0.1 tacticschangebabysitting.com
@@ -1969,6 +1999,7 @@
 127.0.0.1 uno.rub88677win.xyz
 127.0.0.1 unsubscribe.prod.leanplum.com
 127.0.0.1 untropiuson.com
+127.0.0.1 up.clickiocdn.com
 127.0.0.1 upload.luckyorange.net
 127.0.0.1 ups.analytics.yahoo.com
 127.0.0.1 uptimecdn.com
@@ -1983,6 +2014,7 @@
 127.0.0.1 utoken.umeng.com
 127.0.0.1 utt.impactcdn.com
 127.0.0.1 v.vidghjlgkuyfk.site
+127.0.0.1 vaikijie.net
 127.0.0.1 vakif-onllline-reklam-platform.cf
 127.0.0.1 vakifbank-onlinegiris-reklam-web.tk
 127.0.0.1 vakifbank-onlinegiriss-reklam-web.tk
@@ -2068,6 +2100,7 @@
 127.0.0.1 www.ezojs.com
 127.0.0.1 www.fastly-insights.com
 127.0.0.1 www.foxpush.com
+127.0.0.1 www.frosty-criticism.pro
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googleadservices.com
 127.0.0.1 www.googleoptimize.com
@@ -2078,10 +2111,12 @@
 127.0.0.1 www.mainadv.com
 127.0.0.1 www.mczbf.com
 127.0.0.1 www.medyanative.com
+127.0.0.1 www.ostazvtx.com
 127.0.0.1 www.preciousdoctor.pro
 127.0.0.1 www.premiumvertising.com
 127.0.0.1 www.profitabledisplaycontent.com
 127.0.0.1 www.publisher-network.com
+127.0.0.1 www.qdlbdpsctalt.com
 127.0.0.1 www.rnengage.com
 127.0.0.1 www.softwareadvice.com
 127.0.0.1 www.statcounter.com
