@@ -6,12 +6,12 @@ on:
     paths: ['dns']
 
 env:
-  ZIP_NAME: "turkish-ad-hosts-magisk-kernelsu-module"
+  ZIP_NAME: "turkish-ad-hosts-magisk-kernelsu-apatch-module"
   REPO_URL: "https://github.com/symbuzzer/Turkish-Ad-Hosts"
   REPO_RAW_URL: "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts"
   HOSTS_NAME: "Turkish-Ad-Hosts"
   MODULE_NAME: "Turkish Ad Hosts"
-  MODULE_VER: "1.0.7"
+  MODULE_VER: "1.0.8"
   AUTHOR: "Ali Beyaz"
   MODULE_DESC: "Türkiye'de yaygın kullanılan mobil uygulamalardaki (ve muhtemelen WEB sayfalarındaki) izleme (ve beraberinde muhtemelen reklam) ağlarını engellemek için gerekli hosts dosyası"
   MODULE_DESC_EN: "Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey..."
@@ -26,7 +26,7 @@ env:
   RELEASES_PAGE: "https://github.com/symbuzzer/Turkish-Ad-Hosts/releases"
   ISSUES_PAGE: "https://github.com/symbuzzer/Turkish-Ad-Hosts/issues"
   DONATE_URL: "https://avalibeyaz.com/patreon"
-  MODULE_FOLDER: "magisk-kernelsu"
+  MODULE_FOLDER: "magisk-kernelsu-apatch"
 
 jobs:
   build:
@@ -130,7 +130,7 @@ jobs:
       
       - name: Copying files to necessary dirs
         run:  |
-          sudo cp downloads/update.json magisk-kernelsu/
+          sudo cp downloads/update.json magisk-kernelsu-apatch/
           sudo cp hosts release/
           sudo cp hosts adguard/
           sudo cp windows/turkish-ad-hosts-windows.bat release/
