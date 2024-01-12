@@ -1,4 +1,4 @@
-# Turkish Ad Hosts Magisk & KernelSU Module  
+# Turkish Ad Hosts Magisk & KernelSU & APatch Module  
   
 ## [TR] GİRİŞ:  
 - [Turkish-Ad-Hosts](https://github.com/symbuzzer/Turkish-Ad-Hosts) filtresinin Magisk ve KernelSU modülü...  
