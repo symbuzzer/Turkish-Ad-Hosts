@@ -9,7 +9,7 @@
 - Plain DNS list: ```https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/dns```
   
 ------------------------------------------
-## [TR] MANİFESTO:  
+## [TR] MANİFESTO  
 - Türkiye'de yaygın kullanılan mobil uygulamalardaki (ve muhtemelen WEB sayfalarındaki) izleme (ve beraberinde muhtemelen reklam) ağlarını engellemek için gerekli hosts dosyası...  
 - Ayrıca Türkiye'de popüler olarak kullanılan yabancı uygulamalar ve WEB sayfalarını da olabildiğince eklemeye çalışıyorum.  
 - Bu listenin hazırlanmasındaki temel amaç, geliştiricilerin reklam gelirlerini ellerinden almak değil. Ancak izleme sistemlerini incelerken bir çok reklam sisteminin kullanıcı verilerini elde ettiğini ve işlediğini farkettik. Bu sebeple aslında bir çok reklam sistemi de bu listenin içerisinde engellenmek üzere yerini buldu. Eğer bir reklam sisteminin kullanıcı verisi elde etmediğini ve işlemediğini iddia ediyorsanız, listemizden kaldırmanız için her zaman bize yazabilirsiniz.  
@@ -21,7 +21,7 @@
 - Resmi ekşisözlük başlığı: [turkish-ad-hosts projesi](https://eksisozluk.com/turkish-ad-hosts-projesi--7473699)
   
 -------------------------------------------  
-## [EN] THE MANIFEST:  
+## [EN] THE MANIFEST  
 - Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...  
 - I also try to add foreign applications and WEB pages that are popularly used in Turkey as much as possible.  
 - The main purpose of preparing this list is not to take away the advertising revenues of the developers. However, while examining the tracking systems, we noticed that many advertising systems obtain and process user data. For this reason, many advertising systems have found their place in this list to be blocked. If you claim that an ad system does not obtain and process user data, you can always write to us to have it removed from our list.  
