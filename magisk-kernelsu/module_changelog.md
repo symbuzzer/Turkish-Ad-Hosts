@@ -1,4 +1,7 @@
 # Module Changelog:  
+## v1.0.8  
+- Added APatch support
+  
 ## v1.0.7  
 - Minor typo fixes    
   
