@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 24011605
+# Version: 24012910
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -473,6 +473,7 @@
 127.0.0.1 cdn.dataroid.com
 127.0.0.1 cdn.dimml.io
 127.0.0.1 cdn.dokondigit.quest
+127.0.0.1 cdn.doubleverify.com
 127.0.0.1 cdn.efilli.com
 127.0.0.1 cdn.eksiup.com
 127.0.0.1 cdn.engine.4dsply.com
@@ -539,6 +540,7 @@
 127.0.0.1 cdn.subscribers.com
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.tagdeliver.com
+127.0.0.1 cdn.teads.tv
 127.0.0.1 cdn.thequin.ai
 127.0.0.1 cdn.trackjs.com
 127.0.0.1 cdn.tsyndicate.com
@@ -645,6 +647,7 @@
 127.0.0.1 countly.fibabanka.com.tr
 127.0.0.1 countly.iyzico.com
 127.0.0.1 cp.pushwoosh.com
+127.0.0.1 cpro.baidustatic.com
 127.0.0.1 cr.frontend.weborama.fr
 127.0.0.1 cra.hum.works
 127.0.0.1 crashlyticsreports-pa.googleapis.com
@@ -653,6 +656,7 @@
 127.0.0.1 creativecdn.com
 127.0.0.1 cresfpho2ntesepapillo3.com
 127.0.0.1 crisistuesdayartillery.com
+127.0.0.1 crta.dailymail.co.uk
 127.0.0.1 cs.admanmedia.com
 127.0.0.1 cs.luckyorange.net
 127.0.0.1 cs.media.net
@@ -839,6 +843,10 @@
 127.0.0.1 e2c70.gcp.gvt2.com
 127.0.0.1 e2c71.gcp.gvt2.com
 127.0.0.1 e2c72.gcp.gvt2.com
+127.0.0.1 e2c73.gcp.gvt2.com
+127.0.0.1 e2c74.gcp.gvt2.com
+127.0.0.1 e2c75.gcp.gvt2.com
+127.0.0.1 e2c76.gcp.gvt2.com
 127.0.0.1 e2cs01.gcp.gvt2.com
 127.0.0.1 e2cs02.gcp.gvt2.com
 127.0.0.1 e2cs03.gcp.gvt2.com
@@ -958,6 +966,7 @@
 127.0.0.1 events.release.narrativ.com
 127.0.0.1 events.split.io
 127.0.0.1 events.statsigapi.net
+127.0.0.1 eventsproxy.gargantuan.futureplc.com
 127.0.0.1 evs.data.ciceksepeti.com
 127.0.0.1 excellentvids.space
 127.0.0.1 exchange.buzzoola.com
@@ -989,6 +998,7 @@
 127.0.0.1 foxpush.com
 127.0.0.1 fp.metricswpsh.com
 127.0.0.1 fpnpmcdn.net
+127.0.0.1 fqtag.com
 127.0.0.1 fra1-ib.adnxs.com
 127.0.0.1 freegeoip.net
 127.0.0.1 freshmarketer.com
@@ -1610,6 +1620,7 @@
 127.0.0.1 rpc-php.trafficfactory.biz
 127.0.0.1 rpdn.relateddigital.com
 127.0.0.1 rr3s4p9hfoptgmhna.ay.delivery
+127.0.0.1 rt.ad-score.com
 127.0.0.1 rt.applovin.com
 127.0.0.1 rt.applvn.com
 127.0.0.1 rt.flix360.com
@@ -1686,6 +1697,7 @@
 127.0.0.1 scripts.cleverwebserver.com
 127.0.0.1 scripts.kiosked.com
 127.0.0.1 scripts.mediavine.com
+127.0.0.1 scripts.pubnation.com
 127.0.0.1 scripts.webcontentassessor.com
 127.0.0.1 sdk.conscent.in
 127.0.0.1 sdk.iad-01.braze.com
@@ -1720,6 +1732,7 @@
 127.0.0.1 serv.nspot.co
 127.0.0.1 serve.nrich.ai
 127.0.0.1 served-by.pixfuture.com
+127.0.0.1 servedby.flashtalking.com
 127.0.0.1 servedbyadbutler.com
 127.0.0.1 servicer.idealmedia.io
 127.0.0.1 services.vlitag.com
@@ -1840,6 +1853,7 @@
 127.0.0.1 steadfastsystem.com
 127.0.0.1 steepsquirrel.com
 127.0.0.1 stootsou.net
+127.0.0.1 storage.cloud.kargo.com
 127.0.0.1 storage.multstorage.com
 127.0.0.1 store4porn.com
 127.0.0.1 storj.cloud
@@ -1870,6 +1884,7 @@
 127.0.0.1 sync.richaudience.com
 127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 sync.smartadserver.com
+127.0.0.1 sync.sxp.smartclip.net
 127.0.0.1 sync.upravel.com
 127.0.0.1 sync-tm.everesttech.net
 127.0.0.1 synchrobox.adswizz.com
@@ -1880,6 +1895,7 @@
 127.0.0.1 t.apkpure.net
 127.0.0.1 t.castle.io
 127.0.0.1 t.contentsquare.net
+127.0.0.1 t.dailymail.co.uk
 127.0.0.1 t.fapcat.com
 127.0.0.1 t.imgur.com
 127.0.0.1 t8.prnx.net
@@ -1907,6 +1923,7 @@
 127.0.0.1 targeting.unrulymedia.com
 127.0.0.1 td.doubleclick.net
 127.0.0.1 techbird.org
+127.0.0.1 ted.dailymail.co.uk
 127.0.0.1 teknosa.api.useinsider.com
 127.0.0.1 telemetry.transcend.io
 127.0.0.1 teleport.soom.la

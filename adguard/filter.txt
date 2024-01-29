@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2024-01-16T05:38:22.581Z
+! Last modified: 2024-01-29T10:20:43.857Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -412,6 +412,7 @@
 ||cdn.dataroid.com^
 ||cdn.dimml.io^
 ||cdn.dokondigit.quest^
+||cdn.doubleverify.com^
 ||cdn.efilli.com^
 ||cdn.eksiup.com^
 ||cdn.engine.4dsply.com^
@@ -471,6 +472,7 @@
 ||cdn.subscribers.com^
 ||cdn.taboola.com^
 ||cdn.tagdeliver.com^
+||cdn.teads.tv^
 ||cdn.thequin.ai^
 ||cdn.trackjs.com^
 ||cdn.unblockia.com^
@@ -564,6 +566,7 @@
 ||countly.fibabanka.com.tr^
 ||countly.iyzico.com^
 ||cp.pushwoosh.com^
+||cpro.baidustatic.com^
 ||cr.frontend.weborama.fr^
 ||cra.hum.works^
 ||crashlyticsreports-pa.googleapis.com^
@@ -572,6 +575,7 @@
 ||creativecdn.com^
 ||cresfpho2ntesepapillo3.com^
 ||crisistuesdayartillery.com^
+||crta.dailymail.co.uk^
 ||cs.admanmedia.com^
 ||cs.luckyorange.net^
 ||cs.ns1p.net^
@@ -725,6 +729,7 @@
 ||events.redditmedia.com^
 ||events.release.narrativ.com^
 ||events.split.io^
+||eventsproxy.gargantuan.futureplc.com^
 ||evs.data.ciceksepeti.com^
 ||excellentvids.space^
 ||exchange.buzzoola.com^
@@ -754,6 +759,7 @@
 ||formulaonedigitalmedia.germany-2.evergage.com^
 ||foxpush.com^
 ||fpnpmcdn.net^
+||fqtag.com^
 ||fra1-ib.adnxs.com^
 ||freegeoip.net^
 ||freshmarketer.com^
@@ -1311,6 +1317,7 @@
 ||rpc-php.trafficfactory.biz^
 ||rpdn.relateddigital.com^
 ||rr3s4p9hfoptgmhna.ay.delivery^
+||rt.ad-score.com^
 ||rt.applovin.com^
 ||rt.applvn.com^
 ||rt.flix360.com^
@@ -1384,6 +1391,7 @@
 ||scripts.cleverwebserver.com^
 ||scripts.kiosked.com^
 ||scripts.mediavine.com^
+||scripts.pubnation.com^
 ||scripts.webcontentassessor.com^
 ||sdk.conscent.in^
 ||sdk.iad-01.braze.com^
@@ -1413,6 +1421,7 @@
 ||serv.nspot.co^
 ||serve.nrich.ai^
 ||served-by.pixfuture.com^
+||servedby.flashtalking.com^
 ||servedbyadbutler.com^
 ||servicer.idealmedia.io^
 ||services.vlitag.com^
@@ -1524,6 +1533,7 @@
 ||steadfastsystem.com^
 ||steepsquirrel.com^
 ||stootsou.net^
+||storage.cloud.kargo.com^
 ||storage.multstorage.com^
 ||store4porn.com^
 ||storj.cloud^
@@ -1553,6 +1563,7 @@
 ||sync.richaudience.com^
 ||sync.search.spotxchange.com^
 ||sync.smartadserver.com^
+||sync.sxp.smartclip.net^
 ||sync.upravel.com^
 ||sync-tm.everesttech.net^
 ||synchrobox.adswizz.com^
@@ -1563,6 +1574,7 @@
 ||t.apkpure.net^
 ||t.castle.io^
 ||t.contentsquare.net^
+||t.dailymail.co.uk^
 ||t.fapcat.com^
 ||t.imgur.com^
 ||t8.prnx.net^
@@ -1588,6 +1600,7 @@
 ||targetemsecure.blob.core.windows.net^
 ||targeting.unrulymedia.com^
 ||techbird.org^
+||ted.dailymail.co.uk^
 ||telemetry.transcend.io^
 ||teleport.soom.la^
 ||tempest.services.disqus.com^
