@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 24012910
+# Version: 24013013
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -97,6 +97,7 @@
 127.0.0.1 aax-eu.amazon.com.tr
 127.0.0.1 aax-eu.amazon.sa
 127.0.0.1 aax-eu.amazon-adsystem.com
+127.0.0.1 aax-fe.amazon-adsystem.com
 127.0.0.1 aax-us.amazon-adsystem.com
 127.0.0.1 abundantservantexact.com
 127.0.0.1 ac3bce28b1ec4def93c344b2d5e13909-4c4cc75a16ed.cdn.forter.com
@@ -119,6 +120,7 @@
 127.0.0.1 ad-delivery.net
 127.0.0.1 ad01.tmgrup.com.tr
 127.0.0.1 adbsmetrics.hyundai.com
+127.0.0.1 adc3-launch.adcolony.com
 127.0.0.1 addata.exxen.com
 127.0.0.1 ade.googlesyndication.com
 127.0.0.1 ade.clmbtech.com
@@ -300,6 +302,7 @@
 127.0.0.1 api-js.datadome.co
 127.0.0.1 api-public.addthis.com
 127.0.0.1 api-stg.ensonhaber.com
+127.0.0.1 api16-access-sg.pangle.io
 127.0.0.1 api2.amplitude.com
 127.0.0.1 api2.branch.io
 127.0.0.1 api3.siftscience.com
@@ -624,6 +627,7 @@
 127.0.0.1 commercialvalue.org
 127.0.0.1 conditionchange.com
 127.0.0.1 confiant-integrations.global.ssl.fastly.net
+127.0.0.1 config.ads.vungle.com
 127.0.0.1 config.samsungads.com
 127.0.0.1 config.uca.cloud.unity3d.com
 127.0.0.1 config.unityads.unity3d.com
@@ -1365,6 +1369,7 @@
 127.0.0.1 ms.applvn.com
 127.0.0.1 ms.pubpowerplatform.io
 127.0.0.1 ms-cookie-sync.presage.io
+127.0.0.1 ms4.applovin.com
 127.0.0.1 mscom.demdex.net
 127.0.0.1 mssdk-va.byteoversea.com
 127.0.0.1 mstm.motorsport.com
@@ -1456,6 +1461,7 @@
 127.0.0.1 pagead2.googleadservices.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 panel.afyads.com
+127.0.0.1 pangolin16.sgsnssdk.com
 127.0.0.1 parkingridiculous.com
 127.0.0.1 parksoftreklam.com
 127.0.0.1 partner.googleadservices.com
@@ -1529,6 +1535,7 @@
 127.0.0.1 privacy-policy.truste.com
 127.0.0.1 pro.hit.gemius.pl
 127.0.0.1 prod.flixgvid.flix360.io
+127.0.0.1 prod-mediate-events.applovin.com
 127.0.0.1 profitabledisplaycontent.com
 127.0.0.1 protagcdn.com
 127.0.0.1 ps.eyeota.net
@@ -1708,6 +1715,7 @@
 127.0.0.1 sdk.privacy-center.org
 127.0.0.1 sdk.sharethrough.com
 127.0.0.1 sdk-api-v1.singular.net
+127.0.0.1 sdk-events.inner-active.mobi
 127.0.0.1 sdkapi.netmera.com
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
@@ -1740,6 +1748,7 @@
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 settings.luckyorange.net
 127.0.0.1 sf.ezoiccdn.com
+127.0.0.1 sf16-static.i18n-pglstatp.com
 127.0.0.1 sgbm.info
 127.0.0.1 sgtm.sefamerve.com
 127.0.0.1 shakysurprise.com
@@ -1780,6 +1789,7 @@
 127.0.0.1 ssbsync-global.smartadserver.com
 127.0.0.1 ssc.33across.com
 127.0.0.1 ssc-cms.33across.com
+127.0.0.1 ssdk-sg.pangle.io
 127.0.0.1 ssl.cdne.cpmstar.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 sslwidget.criteo.com
@@ -1925,6 +1935,7 @@
 127.0.0.1 techbird.org
 127.0.0.1 ted.dailymail.co.uk
 127.0.0.1 teknosa.api.useinsider.com
+127.0.0.1 telemetry.sdk.inmobi.com
 127.0.0.1 telemetry.transcend.io
 127.0.0.1 teleport.soom.la
 127.0.0.1 tempest.services.disqus.com
@@ -1936,6 +1947,10 @@
 127.0.0.1 tibacta.com
 127.0.0.1 tlx.3lift.com
 127.0.0.1 tme.112.2o7.net
+127.0.0.1 tnc16-alisg.byteoversea.com
+127.0.0.1 tnc16-alisg.isnssdk.com
+127.0.0.1 tnc16-useast1a.byteoversea.com
+127.0.0.1 tnc16-useast1a.isnssdk.com
 127.0.0.1 tns-counter.ru
 127.0.0.1 to.getnitropack.com
 127.0.0.1 tools.luckyorange.com
@@ -2013,6 +2028,7 @@
 127.0.0.1 unagi.amazon.fr
 127.0.0.1 unagi-eu.amazon.com
 127.0.0.1 unagi-na.amazon.com
+127.0.0.1 unif-id.ssp.inmobi.com
 127.0.0.1 unilever.tt.omtrdc.net
 127.0.0.1 unileverna.tt.omtrdc.net
 127.0.0.1 uno.rub88677win.xyz
@@ -2067,6 +2083,7 @@
 127.0.0.1 w3-reporting-nel.reddit.com
 127.0.0.1 watchnewpics.space
 127.0.0.1 waust.at
+127.0.0.1 wd.adcolony.com
 127.0.0.1 web.webpushs.com
 127.0.0.1 webanalytics.logitechg.com
 127.0.0.1 webed.dm-event.net
