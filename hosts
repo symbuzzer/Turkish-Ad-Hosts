@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 24013013
+# Version: 24020107
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -33,6 +33,8 @@
 127.0.0.1 12346775.fls.doubleclick.net
 127.0.0.1 12730450.fls.doubleclick.net
 127.0.0.1 1558334541.rsc.cdn77.org
+127.0.0.1 1dfb4z-inapps.appsflyersdk.com
+127.0.0.1 1dfb4z-launches.appsflyersdk.com
 127.0.0.1 209176.hit.gemius.pl
 127.0.0.1 2542116.fls.doubleclick.net
 127.0.0.1 3p-geo.yahoo.com
@@ -92,6 +94,8 @@
 127.0.0.1 aa.agkn.com
 127.0.0.1 aa.online-metrix.net
 127.0.0.1 aan.amazon.com
+127.0.0.1 aan.amazon.com.tr
+127.0.0.1 aan.amazon.com.tr.home
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 aax-dtb-cf.amazon-adsystem.com
 127.0.0.1 aax-eu.amazon.com.tr
@@ -119,6 +123,7 @@
 127.0.0.1 ad-cdn.bilgin.pro
 127.0.0.1 ad-delivery.net
 127.0.0.1 ad01.tmgrup.com.tr
+127.0.0.1 adashx4ae.ut.taobao.com
 127.0.0.1 adbsmetrics.hyundai.com
 127.0.0.1 adc3-launch.adcolony.com
 127.0.0.1 addata.exxen.com
@@ -321,6 +326,7 @@
 127.0.0.1 app-measurement.com
 127.0.0.1 app-sj06.marketo.com
 127.0.0.1 applets.ebxcdn.com
+127.0.0.1 applog.uc.cn
 127.0.0.1 appmetrica.yandex.com
 127.0.0.1 appodeal.com
 127.0.0.1 apv-launcher.minute.ly
@@ -345,6 +351,7 @@
 127.0.0.1 at.cbsi.com
 127.0.0.1 athena-event-provider.n11.com
 127.0.0.1 attr.appsflyer.com
+127.0.0.1 audid-api.taobao.com
 127.0.0.1 audit-tcfv2.cmp.quantcast.com
 127.0.0.1 authbe.sec.intl.miui.com
 127.0.0.1 avhtaapxml.com
@@ -628,6 +635,7 @@
 127.0.0.1 conditionchange.com
 127.0.0.1 confiant-integrations.global.ssl.fastly.net
 127.0.0.1 config.ads.vungle.com
+127.0.0.1 config.inmobi.com
 127.0.0.1 config.samsungads.com
 127.0.0.1 config.uca.cloud.unity3d.com
 127.0.0.1 config.unityads.unity3d.com
@@ -1047,6 +1055,7 @@
 127.0.0.1 globalapi.ad.xiaomi.com
 127.0.0.1 globalsiteanalytics.com
 127.0.0.1 glochatuji.com
+127.0.0.1 gm.mmstat.com
 127.0.0.1 go.ezodn.com
 127.0.0.1 go.ezoic.net
 127.0.0.1 go.goaserv.com
@@ -1342,6 +1351,7 @@
 127.0.0.1 metrics5.data.hicloud.com
 127.0.0.1 metricswpsh.com
 127.0.0.1 micro.rubiconproject.com
+127.0.0.1 microsoftmscompoc.tt.omtrdc.net
 127.0.0.1 mitdmp.whiteboxdigital.ru
 127.0.0.1 ml314.com
 127.0.0.1 mobile.eum-appdynamics.com
@@ -1411,6 +1421,7 @@
 127.0.0.1 o186239.ingest.sentry.io
 127.0.0.1 o22381.ingest.sentry.io
 127.0.0.1 o244019.ingest.sentry.io
+127.0.0.1 o315582.ingest.sentry.io
 127.0.0.1 o33249.ingest.sentry.io
 127.0.0.1 o363631.ingest.sentry.io
 127.0.0.1 o418887.ingest.sentry.io
@@ -1929,6 +1940,7 @@
 127.0.0.1 tags.refinery89.com
 127.0.0.1 tags.tiqcdn.com
 127.0.0.1 tags-cdn.deployads.com
+127.0.0.1 target.microsoft.com
 127.0.0.1 targetemsecure.blob.core.windows.net
 127.0.0.1 targeting.unrulymedia.com
 127.0.0.1 td.doubleclick.net
@@ -2090,6 +2102,7 @@
 127.0.0.1 websdk.appsflyer.com
 127.0.0.1 webstats.garanti.com.tr
 127.0.0.1 webtrafficsource.com
+127.0.0.1 wgo.mmstat.com
 127.0.0.1 whos.amung.us
 127.0.0.1 widget.cdn.vidyome.com
 127.0.0.1 widget.criteo.com
