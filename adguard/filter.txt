@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2024-02-07T08:28:39.602Z
+! Last modified: 2024-02-08T07:04:13.612Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -102,6 +102,7 @@
 ||ads.assemblyexchange.com^
 ||ads.avocet.io^
 ||ads.betweendigital.com^
+||ads.bullionyield.com^
 ||ads.digitalcaramel.com^
 ||ads.dygdigital.com^
 ||ads.ekstat.com^
@@ -419,6 +420,7 @@
 ||cdn.bvmcdn.net^
 ||cdn.carbonads.com^
 ||cdn.clickiocdn.com^
+||cdn.cloudimagesb.com^
 ||cdn.confiant-integrations.net^
 ||cdn.convertbox.com^
 ||cdn.cookielaw.org^
@@ -438,6 +440,7 @@
 ||cdn.hubvisor.io^
 ||cdn.indicative.com^
 ||cdn.insurads.com^
+||cdn.intergi.com^
 ||cdn.intergient.com^
 ||cdn.izooto.com^
 ||cdn.krxd.net^
@@ -453,6 +456,7 @@
 ||cdn.mxpnl.com^
 ||cdn.netmera-web.com^
 ||cdn.notsy.io^
+||cdn.nsstatic.net^
 ||cdn.o333o.com^
 ||cdn.onesignal.com^
 ||cdn.onthe.io^
@@ -466,6 +470,7 @@
 ||cdn.permutive.com^
 ||cdn.personaclick.com^
 ||cdn.playwire.com^
+||cdn.popcash.net^
 ||cdn.preciso.net^
 ||cdn.purpleads.io^
 ||cdn.pushmaster-cdn.xyz^
@@ -509,6 +514,7 @@
 ||cdn2.bildirt.com^
 ||cdn2.gbqofs.com^
 ||cdn2.inner-active.mobi^
+||cdn2.popcash.net^
 ||cdn3.forter.com^
 ||cdn4.buysellads.net^
 ||cdn9.forter.com^
@@ -586,6 +592,7 @@
 ||cra.hum.works^
 ||crashlyticsreports-pa.googleapis.com^
 ||crashlogs.whatsapp.net^
+||creative.bbrdbr.com^
 ||creative.xlirdr.com^
 ||creativecdn.com^
 ||cresfpho2ntesepapillo3.com^
@@ -805,6 +812,7 @@
 ||get.s-onetag.com^
 ||ghb.adtelligent.com^
 ||ghb.spotim.market^
+||gk.achatecogida.com^
 ||gj.mmstat.com^
 ||gleagainedam.info^
 ||glitter.services.disqus.com^
@@ -848,6 +856,7 @@
 ||h.n11.com^
 ||h.online-metrix.net^
 ||hb.vntsm.com^
+||hb.yahoo.net^
 ||hb.yellowblue.io^
 ||hbopenbid.pubmatic.com^
 ||hdbcode.com^
@@ -876,7 +885,9 @@
 ||hodor-collect.arabam.com^
 ||hotjar.com^
 ||howmanyview.com^
+||hpacdn.bestadload.com^
 ||hpacdn.pornpics.com^
+||hpast.bestadload.com^
 ||hstats.hepsiburada.com^
 ||hstatstest.hepsiburada.com^
 ||htlb.casalemedia.com^
@@ -896,6 +907,7 @@
 ||ichnaea-web.netflix.com^
 ||id.crwdcntrl.net^
 ||id.google.com^
+||id.hadron.ad.gt^
 ||id.rlcdn.com^
 ||id5-sync.com^
 ||idsync.rlcdn.com^
@@ -1036,6 +1048,7 @@
 ||mainadv.com^
 ||manager.smartlook.com^
 ||map.sddan.com^
+||marazma.com^
 ||marfeel-d.openx.net^
 ||marketing.turkiyefinans.com.tr^
 ||markreptiloid.com^
@@ -1256,6 +1269,7 @@
 ||prod.flixgvid.flix360.io^
 ||prod-mediate-events.applovin.com^
 ||profitabledisplaycontent.com^
+||proftrafficcounter.com^
 ||protagcdn.com^
 ||ps.eyeota.net^
 ||pt.cdwmpt.com^
@@ -1271,6 +1285,7 @@
 ||purch-sync.go.sonobi.com^
 ||push.dengage.com^
 ||push.zhanzhang.baidu.com^
+||push-sdk.com^
 ||push-sdk.net^
 ||pushs.euromsg.com^
 ||px.adhigh.net^
@@ -1329,6 +1344,7 @@
 ||rest.segmentify.com^
 ||revenueflex.com^
 ||revotrack.revotas.com^
+||ri.eightvowrinkle.com^
 ||richinfo.co^
 ||ro55cpi1.xhamster.com^
 ||rosenberg.appmetrica.yandex.net^
@@ -1379,6 +1395,7 @@
 ||s.seedtag.com^
 ||s.skimresources.com^
 ||s.uuidksinc.net^
+||s.vi-serve.com^
 ||s.visilabs.net^
 ||s-gm.mmstat.com^
 ||s-img.idealmedia.io^
@@ -1396,6 +1413,7 @@
 ||sa.etp-prod.com^
 ||sabahreklamireha.net^
 ||sabahreklamvaktms.net^
+||sadjklq.com^
 ||sahibindenalisveris-trparanguvende-mobildepartmani.com^
 ||samsung-com.112.2o7.net^
 ||samsungadhub.com^
@@ -1586,6 +1604,7 @@
 ||sync.crwdcntrl.net^
 ||sync.dmp.otm-r.com^
 ||sync.go.sonobi.com^
+||sync.mathtag.com^
 ||sync.outbrain.com^
 ||sync.quantumdex.io^
 ||sync.richaudience.com^
@@ -1812,6 +1831,7 @@
 ||www.fastly-insights.com^
 ||www.frosty-criticism.pro^
 ||www.googletagservices.com^
+||www.messy-concentrate.com^
 ||www.ostazvtx.com^
 ||www.preciousdoctor.pro^
 ||www.premiumvertising.com^
@@ -1833,6 +1853,7 @@
 ||x.thecatmachine.com^
 ||x01.aidata.io^
 ||xfwblpomxc.com^
+||xml.popmansion.com^
 ||xmtvreklam3d.com^
 ||xngqoc.com^
 ||xray.mail.ru^

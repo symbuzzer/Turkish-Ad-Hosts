@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 24020708
+# Version: 24020807
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -143,6 +143,7 @@
 127.0.0.1 ads.assemblyexchange.com
 127.0.0.1 ads.avocet.io
 127.0.0.1 ads.betweendigital.com
+127.0.0.1 ads.bullionyield.com
 127.0.0.1 ads.digitalcaramel.com
 127.0.0.1 ads.dygdigital.com
 127.0.0.1 ads.ekstat.com
@@ -480,6 +481,7 @@
 127.0.0.1 cdn.bvmcdn.net
 127.0.0.1 cdn.carbonads.com
 127.0.0.1 cdn.clickiocdn.com
+127.0.0.1 cdn.cloudimagesb.com
 127.0.0.1 cdn.confiant-integrations.net
 127.0.0.1 cdn.convertbox.com
 127.0.0.1 cdn.cookielaw.org
@@ -503,6 +505,7 @@
 127.0.0.1 cdn.id5-sync.com
 127.0.0.1 cdn.indicative.com
 127.0.0.1 cdn.insurads.com
+127.0.0.1 cdn.intergi.com
 127.0.0.1 cdn.intergient.com
 127.0.0.1 cdn.izooto.com
 127.0.0.1 cdn.krxd.net
@@ -520,6 +523,7 @@
 127.0.0.1 cdn.mxpnl.com
 127.0.0.1 cdn.netmera-web.com
 127.0.0.1 cdn.notsy.io
+127.0.0.1 cdn.nsstatic.net
 127.0.0.1 cdn.o333o.com
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 cdn.onthe.io
@@ -534,6 +538,7 @@
 127.0.0.1 cdn.permutive.com
 127.0.0.1 cdn.personaclick.com
 127.0.0.1 cdn.playwire.com
+127.0.0.1 cdn.popcash.net
 127.0.0.1 cdn.preciso.net
 127.0.0.1 cdn.purpleads.io
 127.0.0.1 cdn.pushmaster-cdn.xyz
@@ -580,6 +585,7 @@
 127.0.0.1 cdn2.bildirt.com
 127.0.0.1 cdn2.gbqofs.com
 127.0.0.1 cdn2.inner-active.mobi
+127.0.0.1 cdn2.popcash.net
 127.0.0.1 cdn3.forter.com
 127.0.0.1 cdn4.buysellads.net
 127.0.0.1 cdn77.aj2550.bid
@@ -667,6 +673,7 @@
 127.0.0.1 cra.hum.works
 127.0.0.1 crashlyticsreports-pa.googleapis.com
 127.0.0.1 crashlogs.whatsapp.net
+127.0.0.1 creative.bbrdbr.com
 127.0.0.1 creative.xlirdr.com
 127.0.0.1 creativecdn.com
 127.0.0.1 cresfpho2ntesepapillo3.com
@@ -862,6 +869,7 @@
 127.0.0.1 e2c74.gcp.gvt2.com
 127.0.0.1 e2c75.gcp.gvt2.com
 127.0.0.1 e2c76.gcp.gvt2.com
+127.0.0.1 e2c77.gcp.gvt2.com
 127.0.0.1 e2cs01.gcp.gvt2.com
 127.0.0.1 e2cs02.gcp.gvt2.com
 127.0.0.1 e2cs03.gcp.gvt2.com
@@ -1050,6 +1058,7 @@
 127.0.0.1 get.s-onetag.com
 127.0.0.1 ghb.adtelligent.com
 127.0.0.1 ghb.spotim.market
+127.0.0.1 gk.achatecogida.com
 127.0.0.1 gj.mmstat.com
 127.0.0.1 gleagainedam.info
 127.0.0.1 glitter.services.disqus.com
@@ -1095,6 +1104,7 @@
 127.0.0.1 h.n11.com
 127.0.0.1 h.online-metrix.net
 127.0.0.1 hb.vntsm.com
+127.0.0.1 hb.yahoo.net
 127.0.0.1 hb.yellowblue.io
 127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 hdbcode.com
@@ -1125,7 +1135,9 @@
 127.0.0.1 hondaturkey.api.useinsider.com
 127.0.0.1 hotjar.com
 127.0.0.1 howmanyview.com
+127.0.0.1 hpacdn.bestadload.com
 127.0.0.1 hpacdn.pornpics.com
+127.0.0.1 hpast.bestadload.com
 127.0.0.1 hstats.hepsiburada.com
 127.0.0.1 hstatstest.hepsiburada.com
 127.0.0.1 htlb.casalemedia.com
@@ -1149,6 +1161,7 @@
 127.0.0.1 ichnaea-web.netflix.com
 127.0.0.1 id.crwdcntrl.net
 127.0.0.1 id.google.com
+127.0.0.1 id.hadron.ad.gt
 127.0.0.1 id.rlcdn.com
 127.0.0.1 id.strmrdrfrokd.site
 127.0.0.1 id5-sync.com
@@ -1298,6 +1311,7 @@
 127.0.0.1 mainadv.com
 127.0.0.1 manager.smartlook.com
 127.0.0.1 map.sddan.com
+127.0.0.1 marazma.com
 127.0.0.1 marfeel-d.openx.net
 127.0.0.1 marketing.turkiyefinans.com.tr
 127.0.0.1 markreptiloid.com
@@ -1554,6 +1568,7 @@
 127.0.0.1 prod.flixgvid.flix360.io
 127.0.0.1 prod-mediate-events.applovin.com
 127.0.0.1 profitabledisplaycontent.com
+127.0.0.1 proftrafficcounter.com
 127.0.0.1 protagcdn.com
 127.0.0.1 ps.eyeota.net
 127.0.0.1 pt.cdwmpt.com
@@ -1570,6 +1585,7 @@
 127.0.0.1 purch-sync.go.sonobi.com
 127.0.0.1 push.dengage.com
 127.0.0.1 push.zhanzhang.baidu.com
+127.0.0.1 push-sdk.com
 127.0.0.1 push-sdk.net
 127.0.0.1 pushs.euromsg.com
 127.0.0.1 px.adhigh.net
@@ -1634,6 +1650,7 @@
 127.0.0.1 rest.segmentify.com
 127.0.0.1 revenueflex.com
 127.0.0.1 revotrack.revotas.com
+127.0.0.1 ri.eightvowrinkle.com
 127.0.0.1 richinfo.co
 127.0.0.1 ro55cpi1.xhamster.com
 127.0.0.1 rosenberg.appmetrica.yandex.net
@@ -1684,6 +1701,7 @@
 127.0.0.1 s.seedtag.com
 127.0.0.1 s.skimresources.com
 127.0.0.1 s.uuidksinc.net
+127.0.0.1 s.vi-serve.com
 127.0.0.1 s.visilabs.net
 127.0.0.1 s-gm.mmstat.com
 127.0.0.1 s-img.idealmedia.io
@@ -1703,6 +1721,7 @@
 127.0.0.1 sa.etp-prod.com
 127.0.0.1 sabahreklamireha.net
 127.0.0.1 sabahreklamvaktms.net
+127.0.0.1 sadjklq.com
 127.0.0.1 sahibindenalisveris-trparanguvende-mobildepartmani.com
 127.0.0.1 samsung-com.112.2o7.net
 127.0.0.1 samsungadhub.com
@@ -1909,6 +1928,7 @@
 127.0.0.1 sync.crwdcntrl.net
 127.0.0.1 sync.dmp.otm-r.com
 127.0.0.1 sync.go.sonobi.com
+127.0.0.1 sync.mathtag.com
 127.0.0.1 sync.outbrain.com
 127.0.0.1 sync.quantumdex.io
 127.0.0.1 sync.richaudience.com
@@ -2172,6 +2192,7 @@
 127.0.0.1 www.mainadv.com
 127.0.0.1 www.mczbf.com
 127.0.0.1 www.medyanative.com
+127.0.0.1 www.messy-concentrate.com
 127.0.0.1 www.ostazvtx.com
 127.0.0.1 www.preciousdoctor.pro
 127.0.0.1 www.premiumvertising.com
@@ -2200,6 +2221,7 @@
 127.0.0.1 x.thecatmachine.com
 127.0.0.1 x01.aidata.io
 127.0.0.1 xfwblpomxc.com
+127.0.0.1 xml.popmansion.com
 127.0.0.1 xmtvreklam3d.com
 127.0.0.1 xngqoc.com
 127.0.0.1 xray.mail.ru
