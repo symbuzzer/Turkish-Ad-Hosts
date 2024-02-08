@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2024-02-08T07:04:13.612Z
+! Last modified: 2024-02-08T08:01:47.291Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
