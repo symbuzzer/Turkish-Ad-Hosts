@@ -11,7 +11,7 @@ env:
   REPO_RAW_URL: "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts"
   HOSTS_NAME: "Turkish-Ad-Hosts"
   MODULE_NAME: "Turkish Ad Hosts"
-  MODULE_VER: "1.0.8"
+  MODULE_VER: "1.0.9"
   AUTHOR: "Ali Beyaz"
   MODULE_DESC: "Türkiye'de yaygın kullanılan mobil uygulamalardaki (ve muhtemelen WEB sayfalarındaki) izleme (ve beraberinde muhtemelen reklam) ağlarını engellemek için gerekli hosts dosyası"
   MODULE_DESC_EN: "Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey..."
@@ -61,6 +61,10 @@ jobs:
       - name: Adding version string to "README.md"
         run:  |
           sed -i "3s/.*/# Turkish Ad Hosts - v${DATE}/" README.md
+          
+      - name: Adding version string to "magisk-kernelsu-apatch/changelog.md"
+        run:  |
+          sed -i "1s/.*/# v${DATE}/" magisk-kernelsu-apatch/changelog.md
           
       - name: Creating directories
         run:  |
