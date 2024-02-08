@@ -1,4 +1,7 @@
 # Module Changelog:  
+## v1.0.9  
+- Added updated version info to module changelog screen  
+  
 ## v1.0.8  
 - Added APatch support
   
