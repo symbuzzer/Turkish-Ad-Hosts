@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2024-02-08T08:01:47.291Z
+! Last modified: 2024-02-19T06:35:52.614Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -208,6 +208,7 @@
 ||analytics.pinterest.com^
 ||analytics.pointdrive.linkedin.com^
 ||analytics.rasyotek.com.tr^
+||analytics.regex101.com^
 ||analytics.samsungknox.com^
 ||analytics.skyscanner.net^
 ||analytics.slashdotmedia.com^
@@ -230,6 +231,7 @@
 ||api.amplitude.com^
 ||api.ad.intl.xiaomi.com^
 ||api.ad.xiaomi.com^
+||api.aws.parking.godaddy.com^
 ||api.branch.io^
 ||api.brs.intl.miui.com^
 ||api.company-target.com^
@@ -557,6 +559,7 @@
 ||collect.trendyol.com^
 ||collector.github.com^
 ||collector.githubapp.com^
+||collector.prd-278964.gl-product-analytics.com^
 ||collector.puhutv.com^
 ||collector.wawlabs.com^
 ||collector.xhamster.com^
