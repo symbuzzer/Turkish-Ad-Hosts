@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 24021906
+# Version: 24022111
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -1295,6 +1295,7 @@
 127.0.0.1 logservice.hicloud.com
 127.0.0.1 logservice1.hicloud.com
 127.0.0.1 logsink.zedge.net
+127.0.0.1 lovy.llykjmzqkzkyy.top
 127.0.0.1 lptag.liveperson.net
 127.0.0.1 ls.hit.gemius.pl
 127.0.0.1 lu9xve2c97l898gjjxv4.ballercap.com
@@ -1591,6 +1592,7 @@
 127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 push-sdk.com
 127.0.0.1 push-sdk.net
+127.0.0.1 pushimg.com
 127.0.0.1 pushs.euromsg.com
 127.0.0.1 px.adhigh.net
 127.0.0.1 px.ads.linkedin.com
@@ -1656,6 +1658,7 @@
 127.0.0.1 revotrack.revotas.com
 127.0.0.1 ri.eightvowrinkle.com
 127.0.0.1 richinfo.co
+127.0.0.1 rndskittytor.com
 127.0.0.1 ro55cpi1.xhamster.com
 127.0.0.1 rosenberg.appmetrica.yandex.net
 127.0.0.1 rot.spotsniper.ru
