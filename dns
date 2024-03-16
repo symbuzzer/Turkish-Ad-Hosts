@@ -163,6 +163,7 @@ adsby.io
 adsdk.yandex.ru
 adserve.donanimhaber.com
 adserver.adtech.advertising.com
+adserver-us.adtech.advertising.com
 adservetx.media.net
 adservex.media.net
 adservice.google.co.in
@@ -432,6 +433,7 @@ capture.trackjs.com
 carrick-ui.advoncommerce.com
 carvecakes.com
 cas.avalon.perfdrive.com
+cas.criteo.com
 cat.hbwrapper.com
 cat2.hbwrapper.com
 cbox.im
@@ -537,6 +539,7 @@ cdn.sift.com
 cdn.siftscience.com
 cdn.snigelweb.com
 cdn.speedcurve.com
+cdn.switchadhub.com
 cdn.subscribers.com
 cdn.taboola.com
 cdn.tagdeliver.com
@@ -720,8 +723,10 @@ dc.ads.linkedin.com
 dcetr3.segmentify.com
 decide.mixpanel.com
 deliver.ptgncdn.com
-delivery-ci360.flypgs.com
 delivery.adrecover.com
+delivery.g.switchadhub.com
+delivery-ci360.flypgs.com
+delivery.swid.switchadhub.com
 demo.criteo.com
 dengage-public-data-collector-proxy.burgan.com.tr
 denizfirsatlarimbasvuru.xyz
@@ -1020,6 +1025,7 @@ g.ezodn.com
 g.jwpsrv.com
 g2.gumgum.com
 g792337340.co
+gads.pubmatic.com
 game.starswalker.site
 game2.betgames.tv
 gamescdnfor.com
@@ -1090,6 +1096,7 @@ h.online-metrix.net
 hb.vntsm.com
 hb.yahoo.net
 hb.yellowblue.io
+hb-api.omnitagjs.com
 hbopenbid.pubmatic.com
 hdbcode.com
 hellosmpl.com
@@ -1386,6 +1393,7 @@ ms4.applovin.com
 mscom.demdex.net
 mssdk-va.byteoversea.com
 mstm.motorsport.com
+mtrx.go.sonobi.com
 mug.criteo.com
 munchkin.marketo.net
 mweb-hb.presage.io
@@ -1685,6 +1693,7 @@ s.ntv.io
 s.orbsrv.com
 s.pemsrv.com
 s.perzonalization.com
+s.pubmine.com
 s.seedtag.com
 s.skimresources.com
 s.uuidksinc.net
