@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 24022111
+# Version: 24031609
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -183,6 +183,7 @@
 127.0.0.1 adsdk.yandex.ru
 127.0.0.1 adserve.donanimhaber.com
 127.0.0.1 adserver.adtech.advertising.com
+127.0.0.1 adserver-us.adtech.advertising.com
 127.0.0.1 adservetx.media.net
 127.0.0.1 adservex.media.net
 127.0.0.1 adservice.google.co.in
@@ -452,6 +453,7 @@
 127.0.0.1 carrick-ui.advoncommerce.com
 127.0.0.1 carvecakes.com
 127.0.0.1 cas.avalon.perfdrive.com
+127.0.0.1 cas.criteo.com
 127.0.0.1 cat.hbwrapper.com
 127.0.0.1 cat2.hbwrapper.com
 127.0.0.1 cbox.im
@@ -557,6 +559,7 @@
 127.0.0.1 cdn.siftscience.com
 127.0.0.1 cdn.snigelweb.com
 127.0.0.1 cdn.speedcurve.com
+127.0.0.1 cdn.switchadhub.com
 127.0.0.1 cdn.subscribers.com
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.tagdeliver.com
@@ -740,8 +743,10 @@
 127.0.0.1 dcetr3.segmentify.com
 127.0.0.1 decide.mixpanel.com
 127.0.0.1 deliver.ptgncdn.com
-127.0.0.1 delivery-ci360.flypgs.com
 127.0.0.1 delivery.adrecover.com
+127.0.0.1 delivery.g.switchadhub.com
+127.0.0.1 delivery-ci360.flypgs.com
+127.0.0.1 delivery.swid.switchadhub.com
 127.0.0.1 demo.criteo.com
 127.0.0.1 dengage-public-data-collector-proxy.burgan.com.tr
 127.0.0.1 denizfirsatlarimbasvuru.xyz
@@ -1040,6 +1045,7 @@
 127.0.0.1 g.jwpsrv.com
 127.0.0.1 g2.gumgum.com
 127.0.0.1 g792337340.co
+127.0.0.1 gads.pubmatic.com
 127.0.0.1 game.starswalker.site
 127.0.0.1 game2.betgames.tv
 127.0.0.1 gamescdnfor.com
@@ -1110,6 +1116,7 @@
 127.0.0.1 hb.vntsm.com
 127.0.0.1 hb.yahoo.net
 127.0.0.1 hb.yellowblue.io
+127.0.0.1 hb-api.omnitagjs.com
 127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 hdbcode.com
 127.0.0.1 hellosmpl.com
@@ -1406,6 +1413,7 @@
 127.0.0.1 mscom.demdex.net
 127.0.0.1 mssdk-va.byteoversea.com
 127.0.0.1 mstm.motorsport.com
+127.0.0.1 mtrx.go.sonobi.com
 127.0.0.1 mug.criteo.com
 127.0.0.1 munchkin.marketo.net
 127.0.0.1 mweb-hb.presage.io
@@ -1705,6 +1713,7 @@
 127.0.0.1 s.orbsrv.com
 127.0.0.1 s.pemsrv.com
 127.0.0.1 s.perzonalization.com
+127.0.0.1 s.pubmine.com
 127.0.0.1 s.seedtag.com
 127.0.0.1 s.skimresources.com
 127.0.0.1 s.uuidksinc.net
