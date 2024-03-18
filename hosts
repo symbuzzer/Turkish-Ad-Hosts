@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 24031609
+# Version: 24031813
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -539,6 +539,7 @@
 127.0.0.1 cdn.p-n.io
 127.0.0.1 cdn.parsely.com
 127.0.0.1 cdn.pendo.io
+127.0.0.1 cdn.perfdrive.com
 127.0.0.1 cdn.permutive.com
 127.0.0.1 cdn.personaclick.com
 127.0.0.1 cdn.playwire.com
@@ -1927,6 +1928,7 @@
 127.0.0.1 stretchsquirrel.com
 127.0.0.1 strmrdrfrokd.site
 127.0.0.1 stun.fpapi.io
+127.0.0.1 stun.voiparound.com
 127.0.0.1 su.addthis.com
 127.0.0.1 subesiz-vakifonlinbasvuru.chickenkiller.com
 127.0.0.1 succeedscene.com

@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2024-03-16T09:32:38.000Z
+! Last modified: 2024-03-18T13:09:35.274Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -471,6 +471,7 @@
 ||cdn.p-n.io^
 ||cdn.parsely.com^
 ||cdn.pendo.io^
+||cdn.perfdrive.com^
 ||cdn.permutive.com^
 ||cdn.personaclick.com^
 ||cdn.playwire.com^
@@ -1602,6 +1603,7 @@
 ||stretchsquirrel.com^
 ||strmrdrfrokd.site^
 ||stun.fpapi.io^
+||stun.voiparound.com^
 ||su.addthis.com^
 ||subesiz-vakifonlinbasvuru.chickenkiller.com^
 ||succeedscene.com^
