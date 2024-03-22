@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 24032006
+# Version: 24032212
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -132,9 +132,11 @@
 127.0.0.1 ade.clmbtech.com
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 adform.net
+127.0.0.1 adfox.yandex.ru
 127.0.0.1 adfp.fcloud.com.tr
 127.0.0.1 adfstat.yandex.ru
 127.0.0.1 adl.mynetreklam.com
+127.0.0.1 adm.hotjar.com
 127.0.0.1 adobe.tt.omtrdc.net
 127.0.0.1 adobedc.demdex.net
 127.0.0.1 addresseepaper.com
@@ -162,6 +164,7 @@
 127.0.0.1 ads.rubiconproject.com
 127.0.0.1 ads.servebom.com
 127.0.0.1 ads.servenobid.com
+127.0.0.1 ads.sportslocalmedia.com
 127.0.0.1 ads.stickyadstv.com
 127.0.0.1 ads.tiktok.com
 127.0.0.1 ads.trafficjunky.net
@@ -177,12 +180,14 @@
 127.0.0.1 ads-sg.tiktok.com
 127.0.0.1 ads-twitter.com
 127.0.0.1 ads2.contentabc.com
+127.0.0.1 ads30.adcolony.com
 127.0.0.1 ads5.admatic.com.tr
 127.0.0.1 adsassets.waze.com
 127.0.0.1 adsby.io
 127.0.0.1 adsdk.yandex.ru
 127.0.0.1 adserve.donanimhaber.com
 127.0.0.1 adserver.adtech.advertising.com
+127.0.0.1 adserver.unityads.unity3d.com
 127.0.0.1 adserver-us.adtech.advertising.com
 127.0.0.1 adservetx.media.net
 127.0.0.1 adservex.media.net
@@ -194,6 +199,7 @@
 127.0.0.1 adservice.google.it
 127.0.0.1 adservice.google.nl
 127.0.0.1 adsession.exacdn.com
+127.0.0.1 adsfs.oppomobile.com
 127.0.0.1 adsninja.ca
 127.0.0.1 adsp.haberturk.com
 127.0.0.1 adsreklamizm.ga
@@ -207,6 +213,7 @@
 127.0.0.1 advertising-api-eu.amazon.com
 127.0.0.1 advice-ads.s3.amazonaws.com
 127.0.0.1 adx.adform.net
+127.0.0.1 adx.ads.oppomobile.com
 127.0.0.1 ae.mmstat.com
 127.0.0.1 affiliate.migros.com.tr
 127.0.0.1 affiliatepro.it
@@ -230,6 +237,7 @@
 127.0.0.1 alb.reddit.com
 127.0.0.1 alexatracker.com
 127.0.0.1 aloofvest.com
+127.0.0.1 alt63.chimeratool.com
 127.0.0.1 altinbas.revotas.com
 127.0.0.1 amareklamizm.ml
 127.0.0.1 amareklamizm.gq
@@ -255,8 +263,10 @@
 127.0.0.1 analytics.onedio.com
 127.0.0.1 analytics.pinterest.com
 127.0.0.1 analytics.pointdrive.linkedin.com
+127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 analytics.rasyotek.com.tr
 127.0.0.1 analytics.regex101.com
+127.0.0.1 analytics.s3.amazonaws.com
 127.0.0.1 analytics.samsungknox.com
 127.0.0.1 analytics.skyscanner.net
 127.0.0.1 analytics.slashdotmedia.com
@@ -294,8 +304,10 @@
 127.0.0.1 api.ibeat-analytics.com
 127.0.0.1 api.instabug.com
 127.0.0.1 api.leanplum.com
+127.0.0.1 api.luckyorange.com
 127.0.0.1 api.miui.security.xiaomi.com
 127.0.0.1 api.mixpanel.com
+127.0.0.1 api.mouseflow.com
 127.0.0.1 api.nopbreak.ru
 127.0.0.1 api.personaclick.com
 127.0.0.1 api.perzonalization.com
@@ -358,6 +370,7 @@
 127.0.0.1 at.cbsi.com
 127.0.0.1 athena-event-provider.n11.com
 127.0.0.1 attr.appsflyer.com
+127.0.0.1 auction.unityads.unity3d.com
 127.0.0.1 audid-api.taobao.com
 127.0.0.1 audit-tcfv2.cmp.quantcast.com
 127.0.0.1 authbe.sec.intl.miui.com
@@ -383,6 +396,7 @@
 127.0.0.1 bat.bing.com
 127.0.0.1 bats.video.yahoo.com
 127.0.0.1 bcp.crwdcntrl.net
+127.0.0.1 bdapi-in-ads.realmemobile.com
 127.0.0.1 beacon.krxd.net
 127.0.0.1 beacon.riskified.com
 127.0.0.1 beacon.searchspring.io
@@ -411,6 +425,7 @@
 127.0.0.1 bngprm.com
 127.0.0.1 bnscbasvurugiristr.com
 127.0.0.1 bobabillydirect.org
+127.0.0.1 books-analytics-events.apple.com
 127.0.0.1 bordeaux.futurecdn.net
 127.0.0.1 boundlessveil.com
 127.0.0.1 bqstreamer.com
@@ -450,6 +465,7 @@
 127.0.0.1 camschat.net
 127.0.0.1 capi.connatix.com
 127.0.0.1 capture.trackjs.com
+127.0.0.1 careers.hotjar.com
 127.0.0.1 carrick-ui.advoncommerce.com
 127.0.0.1 carvecakes.com
 127.0.0.1 cas.avalon.perfdrive.com
@@ -587,6 +603,7 @@
 127.0.0.1 cdn-netmeraprod.turktelekom.com.tr
 127.0.0.1 cdn-settings.appsflyersdk.com
 127.0.0.1 cdn-settings.segment.com
+127.0.0.1 cdn-test.mouseflow.com
 127.0.0.1 cdn11.contentabc.com
 127.0.0.1 cdn2.admatic.com.tr
 127.0.0.1 cdn2.bildirt.com
@@ -608,8 +625,10 @@
 127.0.0.1 chatserver15.comm100.io
 127.0.0.1 childlikeform.com
 127.0.0.1 cimri.api.useinsider.com
+127.0.0.1 ck.ads.oppomobile.com
 127.0.0.1 cl.qualaroo.com
 127.0.0.1 clarity.ms
+127.0.0.1 claritybt.freshmarketer.com
 127.0.0.1 clarium.global.ssl.fastly.net
 127.0.0.1 clbanners9.com
 127.0.0.1 click.oneplus.cn
@@ -672,6 +691,7 @@
 127.0.0.1 cool.sunporno.com
 127.0.0.1 core-waw-1.wildcard.dns.army
 127.0.0.1 cosmos.marfeel.com
+127.0.0.1 counter.rambler.ru
 127.0.0.1 counter.yadro.ru
 127.0.0.1 countly.fibabanka.com.tr
 127.0.0.1 countly.iyzico.com
@@ -719,6 +739,7 @@
 127.0.0.1 d2t77mnxyo7adj.cloudfront.net
 127.0.0.1 d2v02itv0y9u9t.cloudfront.net
 127.0.0.1 d2wy8f7a9ursnm.cloudfront.net
+127.0.0.1 d3-umami.up.railway.app
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d31vxm9ubutrmw.cloudfront.net
 127.0.0.1 d35u1vg1q28b3w.cloudfront.net
@@ -732,6 +753,7 @@
 127.0.0.1 d899faa8b1.79b1c4498b.com
 127.0.0.1 da37c08c29.36b7ca5028.com
 127.0.0.1 danesuffocate.com
+127.0.0.1 data.ads.oppomobile.com
 127.0.0.1 data.flurry.com
 127.0.0.1 data.mistat.india.xiaomi.com
 127.0.0.1 data.mistat.intl.xiaomi.com
@@ -991,6 +1013,7 @@
 127.0.0.1 events.browsiprod.com
 127.0.0.1 events.getirapi.com
 127.0.0.1 events.getsitectrl.com
+127.0.0.1 events.hotjar.io
 127.0.0.1 events.jotform.com
 127.0.0.1 events.launchdarkly.com
 127.0.0.1 events.mapbox.com
@@ -1042,12 +1065,15 @@
 127.0.0.1 futureocto.com
 127.0.0.1 futureplc-com.videoplayerhub.com
 127.0.0.1 fvcwqkkqmuv.com
+127.0.0.1 fwtracks.freshmarketer.com
 127.0.0.1 g.3gl.net
 127.0.0.1 g.ezodn.com
 127.0.0.1 g.jwpsrv.com
 127.0.0.1 g2.gumgum.com
 127.0.0.1 g792337340.co
+127.0.0.1 gabg.hit.gemius.pl
 127.0.0.1 gads.pubmatic.com
+127.0.0.1 gahu.hit.gemius.pl
 127.0.0.1 game.starswalker.site
 127.0.0.1 game2.betgames.tv
 127.0.0.1 gamescdnfor.com
@@ -1105,10 +1131,12 @@
 127.0.0.1 grs.dbankcloud.cn
 127.0.0.1 grs.dbankcloud.com
 127.0.0.1 grs.dbankcloud.eu
+127.0.0.1 grs.hicloud.com
 127.0.0.1 grs.platform.dbankcloud.ru
 127.0.0.1 grsm.io
 127.0.0.1 gtm.flo.com.tr
 127.0.0.1 gtm.lidyana.com
+127.0.0.1 gtm.mouseflow.com
 127.0.0.1 gtrk.s3.amazonaws.com
 127.0.0.1 guldurenreklam.com
 127.0.0.1 gum.criteo.com
@@ -1136,6 +1164,7 @@
 127.0.0.1 hit.demirorenteknoloji.com
 127.0.0.1 hit.gemius.pl
 127.0.0.1 hit.mynet.com
+127.0.0.1 hit4.hotlog.ru
 127.0.0.1 hits.acunn.com
 127.0.0.1 hits.informer.com
 127.0.0.1 hits.tv8.com.tr
@@ -1178,6 +1207,7 @@
 127.0.0.1 id.rlcdn.com
 127.0.0.1 id.strmrdrfrokd.site
 127.0.0.1 id5-sync.com
+127.0.0.1 identify.hotjar.com
 127.0.0.1 idsync.rlcdn.com
 127.0.0.1 idx.liadm.com
 127.0.0.1 iframeri.strmrdrfrokd.site
@@ -1202,6 +1232,7 @@
 127.0.0.1 inklinkor.com
 127.0.0.1 insight.adsrvr.org
 127.0.0.1 insights.algolia.io
+127.0.0.1 insights.hotjar.com
 127.0.0.1 insights.sitesearch360.com
 127.0.0.1 instana.fibabanka.com.tr
 127.0.0.1 instant.page
@@ -1210,6 +1241,8 @@
 127.0.0.1 inv-nets.admixer.net
 127.0.0.1 invitejs.trustpilot.com
 127.0.0.1 io.innertrends.com
+127.0.0.1 iot-eu-logser.realme.com
+127.0.0.1 iot-logser.realme.com
 127.0.0.1 ipac.ctnsnet.com
 127.0.0.1 ipcheck.tmgrup.com.tr
 127.0.0.1 iplocation-api.wp.trt.com.tr
@@ -1290,6 +1323,7 @@
 127.0.0.1 loadus.exelator.com
 127.0.0.1 location.api.useinsider.com
 127.0.0.1 log.api.useinsider.com
+127.0.0.1 log.byteoversea.com
 127.0.0.1 log.cookieyes.com
 127.0.0.1 log.haberturk.com
 127.0.0.1 log.pinterest.com
@@ -1439,6 +1473,7 @@
 127.0.0.1 ninja.data.olxcdn.com
 127.0.0.1 nitroscripts.com
 127.0.0.1 nmetrics.samsung.com
+127.0.0.1 notes-analytics-events.apple.com
 127.0.0.1 notix.io
 127.0.0.1 ntm.netmera-web.com
 127.0.0.1 ntv.api.useinsider.com
@@ -1454,6 +1489,7 @@
 127.0.0.1 o120089.ingest.sentry.io
 127.0.0.1 o1277943.ingest.sentry.io
 127.0.0.1 o186239.ingest.sentry.io
+127.0.0.1 o2.mouseflow.com
 127.0.0.1 o22381.ingest.sentry.io
 127.0.0.1 o244019.ingest.sentry.io
 127.0.0.1 o315582.ingest.sentry.io
@@ -1473,6 +1509,7 @@
 127.0.0.1 odb.outbrain.com
 127.0.0.1 odr.mookie1.com
 127.0.0.1 offer.slgnt.eu
+127.0.0.1 offerwall.yandex.net
 127.0.0.1 oglenreklamiiaa.net
 127.0.0.1 oglenreklamiixs.net
 127.0.0.1 oglenvaktireklamms.net
@@ -1622,6 +1659,7 @@
 127.0.0.1 rauvoaty.net
 127.0.0.1 rcm-na.amazon-adsystem.com
 127.0.0.1 rdrctgoweb.com
+127.0.0.1 realtime.luckyorange.com
 127.0.0.1 rebrand.ly
 127.0.0.1 recommendation-api.analytics.onedio.com
 127.0.0.1 recommender.scarabresearch.com
@@ -1873,6 +1911,7 @@
 127.0.0.1 startup-mobile.ap.yandex-net.ru
 127.0.0.1 stat.tildacdn.com
 127.0.0.1 statcounter.com
+127.0.0.1 static.4wnetwork.com
 127.0.0.1 static.addtoany.com
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 static.adsafeprotected.com
@@ -1935,6 +1974,7 @@
 127.0.0.1 succeedscene.com
 127.0.0.1 sunlightmetrics.b-cdn.net
 127.0.0.1 supportmetrics.apple.com
+127.0.0.1 surveys.hotjar.com
 127.0.0.1 svibeacon.onezapp.com
 127.0.0.1 sw.wpu.sh
 127.0.0.1 swimsolution.ap-reklama.cz
@@ -2014,7 +2054,10 @@
 127.0.0.1 tns-counter.ru
 127.0.0.1 to.getnitropack.com
 127.0.0.1 tools.luckyorange.com
+127.0.0.1 tools.mouseflow.com
+127.0.0.1 top.list.ru
 127.0.0.1 top-fwz1.mail.ru
+127.0.0.1 top100-images.rambler.ru
 127.0.0.1 toplist.cz
 127.0.0.1 toyota.api.useinsider.com
 127.0.0.1 toyota.tt.omtrdc.net
@@ -2077,6 +2120,7 @@
 127.0.0.1 u.startup.mobile.webvisor.com
 127.0.0.1 u1102.com
 127.0.0.1 u10506.19.spylog.com
+127.0.0.1 u3401.26.spylog.com
 127.0.0.1 ua.realtimely.io
 127.0.0.1 ubuyanalytics.ubuy.com
 127.0.0.1 udmserve.net
@@ -2146,6 +2190,7 @@
 127.0.0.1 watchnewpics.space
 127.0.0.1 waust.at
 127.0.0.1 wd.adcolony.com
+127.0.0.1 weather-analytics-events.apple.com
 127.0.0.1 web.webpushs.com
 127.0.0.1 web-sdk.smartlook.com
 127.0.0.1 webanalytics.logitechg.com
@@ -2153,6 +2198,7 @@
 127.0.0.1 websdk.appsflyer.com
 127.0.0.1 webstats.garanti.com.tr
 127.0.0.1 webtrafficsource.com
+127.0.0.1 webview.unityads.unity3d.com
 127.0.0.1 wgo.mmstat.com
 127.0.0.1 whos.amung.us
 127.0.0.1 widget.cdn.vidyome.com
@@ -2177,6 +2223,7 @@
 127.0.0.1 ww1.image.us
 127.0.0.1 ww1.newffr.com
 127.0.0.1 ww38.main.termux-mirror.ml
+127.0.0.1 ww5.w3xs.com
 127.0.0.1 www.adsensecustomsearchads.com
 127.0.0.1 www.affiliatepro.it
 127.0.0.1 www.analyticsb2c.com
