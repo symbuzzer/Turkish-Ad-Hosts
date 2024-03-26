@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2024-03-22T12:51:56.892Z
+! Last modified: 2024-03-26T10:16:41.207Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -74,6 +74,7 @@
 ||ad.360yield.com^
 ||ad.360yield-basic.com^
 ||ad.a-ads.com^
+||ad.adriver.ru^
 ||ad.crwdcntrl.net^
 ||ad.donanimhaber.com^
 ||ad.linksynergy.com^
@@ -447,6 +448,7 @@
 ||cdn.efilli.com^
 ||cdn.eksiup.com^
 ||cdn.engine.4dsply.com^
+||cdn.enhencer.com^
 ||cdn.feathr.co^
 ||cdn.feedify.net^
 ||cdn.firstimpression.io^
@@ -528,6 +530,7 @@
 ||cdn-netmeraprod.turktelekom.com.tr^
 ||cdn-settings.appsflyersdk.com^
 ||cdn-settings.segment.com^
+||cdn1.ads.contentabc.com^
 ||cdn11.contentabc.com^
 ||cdn2.admatic.com.tr^
 ||cdn2.bildirt.com^
@@ -655,6 +658,7 @@
 ||d31qbv1cthcecs.cloudfront.net^
 ||d31vxm9ubutrmw.cloudfront.net^
 ||d35u1vg1q28b3w.cloudfront.net^
+||d3c.life^
 ||d3c8j8snkzfr1n.cloudfront.net^
 ||d3cgm8py10hi0z.cloudfront.net^
 ||d3g5ovfngjw9bw.cloudfront.net^
@@ -1046,6 +1050,7 @@
 ||links.services.disqus.com^
 ||live.demand.supply^
 ||live.primis.tech^
+||lnkd.demdex.net^
 ||load.sumo.com^
 ||loader.wisepops.com^
 ||loadus.exelator.com^
@@ -1153,6 +1158,7 @@
 ||mon-va.tiktokv.com^
 ||mon16-normal-useast5.tiktokv.us^
 ||monitor.clickcease.com^
+||monitor.ebay.com^
 ||monorail-edge.shopifysvc.com^
 ||monu.delivery^
 ||moonvids.online^
@@ -1188,6 +1194,7 @@
 ||nexus.toyota.com^
 ||ng.virgul.com^
 ||ng2.virgul.com^
+||nht-3.extreme-dm.com^
 ||ninja.akamaized.net^
 ||ninja.data.olxcdn.com^
 ||nitroscripts.com^
@@ -1216,6 +1223,7 @@
 ||onlinegiris-reklamm-vakifbank-web.cf^
 ||open.oneplus.net^
 ||openfpcdn.io^
+||openstat.net^
 ||operate-sdk-telemetry.unity3d.com^
 ||oth2kklpqszcjh2u2.ay.delivery^
 ||otnolatrnup.com^
@@ -1255,6 +1263,7 @@
 ||pisano.com.tr^
 ||piwik.femdomup.net^
 ||piwik.opendesktop.org^
+||piwik.pling.com^
 ||piwik.tapatalk.com^
 ||piwik.ubuntu-fr.org^
 ||pix.eu.criteo.net^
@@ -1268,6 +1277,7 @@
 ||pixel.sitescout.com^
 ||pixel.tapad.com^
 ||pixel.wp.com^
+||pixel-eu.rubiconproject.com^
 ||pixel-us-west.rubiconproject.com^
 ||pixels.ingbank.com.tr^
 ||pixels-1.ingbank.com.tr^
@@ -1303,6 +1313,7 @@
 ||principlessilas.com^
 ||privacy.gatekeeperconsent.com^
 ||privacy-policy.truste.com^
+||privatelands.biz^
 ||prod.flixgvid.flix360.io^
 ||prod-mediate-events.applovin.com^
 ||profitabledisplaycontent.com^
@@ -1614,6 +1625,7 @@
 ||stats.vidyome.com^
 ||stats.vk-portal.net^
 ||stats.vlitag.com^
+||stats.wordpress.com^
 ||stats.wp.com^
 ||statsforads.com^
 ||statsigapi.net^
@@ -1752,6 +1764,7 @@
 ||trk.pinterest.com^
 ||trk.storyly.io^
 ||trk.techtarget.com^
+||trkn.us^
 ||trreklamlarcom.xyz^
 ||tru.am^
 ||ts.cvastico.com^
@@ -1886,6 +1899,7 @@
 ||www.publisher-network.com^
 ||www.qdlbdpsctalt.com^
 ||www.rnengage.com^
+||www.shopperapproved.com^
 ||www.softwareadvice.com^
 ||www.summerhamster.com^
 ||www.voxmrcdgzuwb.com^

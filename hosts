@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 24032212
+# Version: 24032610
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -112,6 +112,7 @@
 127.0.0.1 ad.360yield.com
 127.0.0.1 ad.360yield-basic.com
 127.0.0.1 ad.a-ads.com
+127.0.0.1 ad.adriver.ru
 127.0.0.1 ad.crwdcntrl.net
 127.0.0.1 ad.donanimhaber.com
 127.0.0.1 ad.doubleclick.net
@@ -512,6 +513,7 @@
 127.0.0.1 cdn.efilli.com
 127.0.0.1 cdn.eksiup.com
 127.0.0.1 cdn.engine.4dsply.com
+127.0.0.1 cdn.enhencer.com
 127.0.0.1 cdn.fastclick.net
 127.0.0.1 cdn.feathr.co
 127.0.0.1 cdn.feedify.net
@@ -604,6 +606,7 @@
 127.0.0.1 cdn-settings.appsflyersdk.com
 127.0.0.1 cdn-settings.segment.com
 127.0.0.1 cdn-test.mouseflow.com
+127.0.0.1 cdn1.ads.contentabc.com
 127.0.0.1 cdn11.contentabc.com
 127.0.0.1 cdn2.admatic.com.tr
 127.0.0.1 cdn2.bildirt.com
@@ -743,6 +746,7 @@
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d31vxm9ubutrmw.cloudfront.net
 127.0.0.1 d35u1vg1q28b3w.cloudfront.net
+127.0.0.1 d3c.life
 127.0.0.1 d3c8j8snkzfr1n.cloudfront.net
 127.0.0.1 d3cgm8py10hi0z.cloudfront.net
 127.0.0.1 d3g5ovfngjw9bw.cloudfront.net
@@ -1318,6 +1322,7 @@
 127.0.0.1 links.services.disqus.com
 127.0.0.1 live.demand.supply
 127.0.0.1 live.primis.tech
+127.0.0.1 lnkd.demdex.net
 127.0.0.1 load.sumo.com
 127.0.0.1 loader.wisepops.com
 127.0.0.1 loadus.exelator.com
@@ -1434,6 +1439,7 @@
 127.0.0.1 mon-va.tiktokv.com
 127.0.0.1 mon16-normal-useast5.tiktokv.us
 127.0.0.1 monitor.clickcease.com
+127.0.0.1 monitor.ebay.com
 127.0.0.1 monorail-edge.shopifysvc.com
 127.0.0.1 monu.delivery
 127.0.0.1 moonvids.online
@@ -1469,6 +1475,7 @@
 127.0.0.1 nexus.toyota.com
 127.0.0.1 ng.virgul.com
 127.0.0.1 ng2.virgul.com
+127.0.0.1 nht-3.extreme-dm.com
 127.0.0.1 ninja.akamaized.net
 127.0.0.1 ninja.data.olxcdn.com
 127.0.0.1 nitroscripts.com
@@ -1522,6 +1529,7 @@
 127.0.0.1 onlinegiris-reklamm-vakifbank-web.cf
 127.0.0.1 open.oneplus.net
 127.0.0.1 openfpcdn.io
+127.0.0.1 openstat.net
 127.0.0.1 operate-sdk-telemetry.unity3d.com
 127.0.0.1 opus.analytics.yahoo.com
 127.0.0.1 oth2kklpqszcjh2u2.ay.delivery
@@ -1565,6 +1573,7 @@
 127.0.0.1 pisano.com.tr
 127.0.0.1 piwik.femdomup.net
 127.0.0.1 piwik.opendesktop.org
+127.0.0.1 piwik.pling.com
 127.0.0.1 piwik.tapatalk.com
 127.0.0.1 piwik.ubuntu-fr.org
 127.0.0.1 pix.eu.criteo.net
@@ -1578,6 +1587,7 @@
 127.0.0.1 pixel.sitescout.com
 127.0.0.1 pixel.tapad.com
 127.0.0.1 pixel.wp.com
+127.0.0.1 pixel-eu.rubiconproject.com
 127.0.0.1 pixel-us-west.rubiconproject.com
 127.0.0.1 pixels.ingbank.com.tr
 127.0.0.1 pixels-1.ingbank.com.tr
@@ -1616,6 +1626,7 @@
 127.0.0.1 principlessilas.com
 127.0.0.1 privacy.gatekeeperconsent.com
 127.0.0.1 privacy-policy.truste.com
+127.0.0.1 privatelands.biz
 127.0.0.1 pro.hit.gemius.pl
 127.0.0.1 prod.flixgvid.flix360.io
 127.0.0.1 prod-mediate-events.applovin.com
@@ -1953,6 +1964,7 @@
 127.0.0.1 stats.vidyome.com
 127.0.0.1 stats.vk-portal.net
 127.0.0.1 stats.vlitag.com
+127.0.0.1 stats.wordpress.com
 127.0.0.1 stats.wp.com
 127.0.0.1 statsforads.com
 127.0.0.1 statsigapi.net
@@ -2101,6 +2113,7 @@
 127.0.0.1 trk.pinterest.com
 127.0.0.1 trk.storyly.io
 127.0.0.1 trk.techtarget.com
+127.0.0.1 trkn.us
 127.0.0.1 trreklamlarcom.xyz
 127.0.0.1 tru.am
 127.0.0.1 ts.cvastico.com
@@ -2266,6 +2279,7 @@
 127.0.0.1 www.publisher-network.com
 127.0.0.1 www.qdlbdpsctalt.com
 127.0.0.1 www.rnengage.com
+127.0.0.1 www.shopperapproved.com
 127.0.0.1 www.softwareadvice.com
 127.0.0.1 www.statcounter.com
 127.0.0.1 www.statsforads.com
