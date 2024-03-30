@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 24032610
+# Version: 24033020
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -78,6 +78,7 @@
 127.0.0.1 a.magsrv.com
 127.0.0.1 a.mouseflow.com
 127.0.0.1 a.omappapi.com
+127.0.0.1 a.optmnstr.com
 127.0.0.1 a.orbsrv.com
 127.0.0.1 a.pemsrv.com
 127.0.0.1 a.pub.network
@@ -108,6 +109,7 @@
 127.0.0.1 ac3bce28b1ec4def93c344b2d5e13909-4c4cc75a16ed.cdn.forter.com
 127.0.0.1 accounts.doubleclick.net
 127.0.0.1 acdn.adnxs.com
+127.0.0.1 acdn.adnxs-simple.com
 127.0.0.1 acint.net
 127.0.0.1 ad.360yield.com
 127.0.0.1 ad.360yield-basic.com
@@ -193,6 +195,7 @@
 127.0.0.1 adservetx.media.net
 127.0.0.1 adservex.media.net
 127.0.0.1 adservice.google.co.in
+127.0.0.1 adservice.google.co.jp
 127.0.0.1 adservice.google.com
 127.0.0.1 adservice.google.com.tr
 127.0.0.1 adservice.google.de
@@ -482,6 +485,7 @@
 127.0.0.1 cdn.ad4game.com
 127.0.0.1 cdn.adhouse.pro
 127.0.0.1 cdn.adnuntius.com
+127.0.0.1 cdn.adnxs.com
 127.0.0.1 cdn.adpushup.com
 127.0.0.1 cdn.adsafeprotected.com
 127.0.0.1 cdn.adsninja.ca
@@ -628,12 +632,14 @@
 127.0.0.1 chatserver15.comm100.io
 127.0.0.1 childlikeform.com
 127.0.0.1 cimri.api.useinsider.com
+127.0.0.1 cis.schibsted.com
 127.0.0.1 ck.ads.oppomobile.com
 127.0.0.1 cl.qualaroo.com
 127.0.0.1 clarity.ms
 127.0.0.1 claritybt.freshmarketer.com
 127.0.0.1 clarium.global.ssl.fastly.net
 127.0.0.1 clbanners9.com
+127.0.0.1 clevernt.com
 127.0.0.1 click.oneplus.cn
 127.0.0.1 click.oneplus.com
 127.0.0.1 click.udimg.com
@@ -667,6 +673,7 @@
 127.0.0.1 collector.githubapp.com
 127.0.0.1 collector.prd-278964.gl-product-analytics.com
 127.0.0.1 collector.puhutv.com
+127.0.0.1 collector.schibsted.io
 127.0.0.1 collector.wawlabs.com
 127.0.0.1 collector.xhamster.com
 127.0.0.1 collector-1054.tvsquared.com
@@ -732,6 +739,7 @@
 127.0.0.1 d13k7prax1yi04.cloudfront.net
 127.0.0.1 d15kdpgjg3unno.cloudfront.net
 127.0.0.1 d1l6p2sc9645hc.cloudfront.net
+127.0.0.1 d1csp7vj6qqoa6.cloudfront.net
 127.0.0.1 d1upt0rqzff34l.cloudfront.net
 127.0.0.1 d1wc0ojltqk24g.cloudfront.net
 127.0.0.1 d1wix2gc2cgqis.cloudfront.net
@@ -1231,6 +1239,7 @@
 127.0.0.1 in.appcenter.ms
 127.0.0.1 in.hotjar.com
 127.0.0.1 inapps.appsflyer.com
+127.0.0.1 informer.yandex.ru
 127.0.0.1 ingress.linktr.ee
 127.0.0.1 init.supersonicads.com
 127.0.0.1 inklinkor.com
@@ -1285,6 +1294,7 @@
 127.0.0.1 jsc.adskeeper.co.uk
 127.0.0.1 jsc.adskeeper.com
 127.0.0.1 jsc.idealmedia.io
+127.0.0.1 jsc.marketgid.com
 127.0.0.1 jsc.mgid.com
 127.0.0.1 json.geoiplookup.io
 127.0.0.1 jsonip.com
@@ -1331,6 +1341,7 @@
 127.0.0.1 log.byteoversea.com
 127.0.0.1 log.cookieyes.com
 127.0.0.1 log.haberturk.com
+127.0.0.1 log.medietall.no
 127.0.0.1 log.pinterest.com
 127.0.0.1 log-va.tiktokv.com
 127.0.0.1 log17-normal-useast1a.tiktokv.com
@@ -1421,6 +1432,7 @@
 127.0.0.1 metrics4.data.hicloud.com
 127.0.0.1 metrics5.data.hicloud.com
 127.0.0.1 metricswpsh.com
+127.0.0.1 mg.marketgid.com
 127.0.0.1 micro.rubiconproject.com
 127.0.0.1 microsoftmscompoc.tt.omtrdc.net
 127.0.0.1 mitdmp.whiteboxdigital.ru
@@ -1432,6 +1444,7 @@
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile-sdk-config.gservice.emarsys.net
 127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
+127.0.0.1 mobtop.ru
 127.0.0.1 mon.isnssdk.com
 127.0.0.1 mon.tiktokv.com
 127.0.0.1 mon-i18n.tiktokv.com
@@ -1501,6 +1514,7 @@
 127.0.0.1 o244019.ingest.sentry.io
 127.0.0.1 o315582.ingest.sentry.io
 127.0.0.1 o33249.ingest.sentry.io
+127.0.0.1 o343074.ingest.sentry.io
 127.0.0.1 o363631.ingest.sentry.io
 127.0.0.1 o418887.ingest.sentry.io
 127.0.0.1 o435357.ingest.sentry.io
@@ -1640,6 +1654,7 @@
 127.0.0.1 pub-sdk-cfg.criteo.com
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 public.servenobid.com
+127.0.0.1 publisher.caroda.io
 127.0.0.1 publisher-assets.spot.im
 127.0.0.1 pugsgivehugs.com
 127.0.0.1 punosy.best
@@ -1817,6 +1832,7 @@
 127.0.0.1 sdk.fra-01.braze.eu
 127.0.0.1 sdk.poltio.com
 127.0.0.1 sdk.privacy-center.org
+127.0.0.1 sdk.pulse.schibsted.com
 127.0.0.1 sdk.sharethrough.com
 127.0.0.1 sdk-api-v1.singular.net
 127.0.0.1 sdk-events.inner-active.mobi
@@ -2031,6 +2047,7 @@
 127.0.0.1 tag.perfectaudience.com
 127.0.0.1 tag.rmp.rakuten.com
 127.0.0.1 tag.sp.advertising.com
+127.0.0.1 tag.wknd.ai
 127.0.0.1 tagan.adlightning.com
 127.0.0.1 tags.bluekai.com
 127.0.0.1 tags.bkrtx.com
@@ -2237,6 +2254,7 @@
 127.0.0.1 ww1.newffr.com
 127.0.0.1 ww38.main.termux-mirror.ml
 127.0.0.1 ww5.w3xs.com
+127.0.0.1 www.acint.net
 127.0.0.1 www.adsensecustomsearchads.com
 127.0.0.1 www.affiliatepro.it
 127.0.0.1 www.analyticsb2c.com
