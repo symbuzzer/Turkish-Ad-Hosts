@@ -93,7 +93,7 @@ jobs:
           cd zip/webroot
           echo '<html>' > index.html
           echo '<head>' >> index.html
-          echo '<meta http-equiv="refresh" content="0.001;URL=$REPO_URL">' >> index.html
+          echo '<meta http-equiv="refresh" content="0.001;URL='$REPO_URL'">' >> index.html
           echo '</head>' >> index.html
           echo '</html>' >> index.html
 
