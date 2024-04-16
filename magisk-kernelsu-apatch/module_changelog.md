@@ -1,4 +1,7 @@
 # Module Changelog:  
+## v1.0.10  
+- Added KernelSU's new feature: "webroot html UI" (thanks to [0x0021](https://github.com/0x0021))
+  
 ## v1.0.9  
 - Added updated version info to module changelog screen  
   
