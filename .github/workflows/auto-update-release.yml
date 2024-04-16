@@ -11,7 +11,7 @@ env:
   REPO_RAW_URL: "https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts"
   HOSTS_NAME: "Turkish-Ad-Hosts"
   MODULE_NAME: "Turkish Ad Hosts"
-  MODULE_VER: "1.0.9"
+  MODULE_VER: "1.0.10"
   AUTHOR: "Ali Beyaz"
   MODULE_DESC: "Türkiye'de yaygın kullanılan mobil uygulamalardaki (ve muhtemelen WEB sayfalarındaki) izleme (ve beraberinde muhtemelen reklam) ağlarını engellemek için gerekli hosts dosyası"
   MODULE_DESC_EN: "Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey..."
@@ -74,6 +74,7 @@ jobs:
           mkdir -p release
           mkdir -p zip/system/etc
           mkdir -p zip/common
+          mkdir -p zip/webroot
           mkdir -p zip/META-INF/com/google/android          
           
       - name: Downloading "Zackptg5/MMT-Extended-Next" template files from abit modified my own fork
@@ -86,6 +87,15 @@ jobs:
           wget https://raw.githubusercontent.com/symbuzzer/MMT-Extended-Next/main/common/install.sh
           wget https://raw.githubusercontent.com/symbuzzer/MMT-Extended-Next/main/META-INF/com/google/android/update-binary
           wget https://raw.githubusercontent.com/symbuzzer/MMT-Extended-Next/main/META-INF/com/google/android/updater-script
+
+      - name: Create "index.html" file
+        run:  |
+          cd zip/webroot
+          echo '<html>' > index.html
+          echo '<head>' >> index.html
+          echo '<meta http-equiv="refresh" content="0.001;URL=$REPO_URL">' >> index.html
+          echo '</head>' >> index.html
+          echo '</html>' >> index.html
 
       - name: Downloading "update.json" file
         run:  |
