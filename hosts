@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 24042008
+# Version: 24042110
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -55,6 +55,7 @@
 127.0.0.1 8236901.fls.doubleclick.net
 127.0.0.1 8415160.fls.doubleclick.net
 127.0.0.1 8512471.fls.doubleclick.net
+127.0.0.1 85otw.voluumtrk3.com
 127.0.0.1 8735967.fls.doubleclick.net
 127.0.0.1 8811098.fls.doubleclick.net
 127.0.0.1 8881img.com
@@ -519,6 +520,7 @@
 127.0.0.1 cdn.efilli.com
 127.0.0.1 cdn.eksiup.com
 127.0.0.1 cdn.engine.4dsply.com
+127.0.0.1 cdn.engine.phn.doublepimp.com
 127.0.0.1 cdn.enhencer.com
 127.0.0.1 cdn.fastclick.net
 127.0.0.1 cdn.feathr.co
@@ -594,6 +596,7 @@
 127.0.0.1 cdn.tsyndicate.com
 127.0.0.1 cdn.twinrdack.com
 127.0.0.1 cdn.twinrdsrv.com
+127.0.0.1 cdn.twinrdsyn.com
 127.0.0.1 cdn.unblockia.com
 127.0.0.1 cdn.unibotscdn.com
 127.0.0.1 cdn.usefathom.com
@@ -1006,6 +1009,7 @@
 127.0.0.1 elsa.memoinsights.com
 127.0.0.1 emea.hhkld.com
 127.0.0.1 engine.adzerk.net
+127.0.0.1 engine.phn.doublepimp.com
 127.0.0.1 enormousfoot.com
 127.0.0.1 epnt.ebay.com
 127.0.0.1 epttavm.api.useinsider.com
@@ -1202,6 +1206,7 @@
 127.0.0.1 htlbid.com
 127.0.0.1 hubt.pornhub.com
 127.0.0.1 hurriyet.api.useinsider.com
+127.0.0.1 hw-cdn.contentabc.com
 127.0.0.1 hw-cdn.trafficjunky.net
 127.0.0.1 hw-cdn2.adtng.com
 127.0.0.1 hw-cdn2.contentabc.com
@@ -1794,6 +1799,7 @@
 127.0.0.1 s-img.idealmedia.io
 127.0.0.1 s0.2mdn.net
 127.0.0.1 s1.adform.net
+127.0.0.1 s1.static.cfgr1.com
 127.0.0.1 s10.histats.com
 127.0.0.1 s2.adform.net
 127.0.0.1 s2.go-mpulse.net
@@ -1957,6 +1963,7 @@
 127.0.0.1 static.cloudflareinsights.com
 127.0.0.1 static.criteo.net
 127.0.0.1 static.doubleclick.net
+127.0.0.1 static.exoclick.com
 127.0.0.1 static.fd-api.com
 127.0.0.1 static.getclicky.com
 127.0.0.1 static.growthrx.in
@@ -2032,6 +2039,7 @@
 127.0.0.1 sync-tm.everesttech.net
 127.0.0.1 synchrobox.adswizz.com
 127.0.0.1 syndication.exoclick.com
+127.0.0.1 syndication.magsrv.com
 127.0.0.1 syndication.realsrv.com
 127.0.0.1 system-notify.app
 127.0.0.1 t.adx.opera.com
@@ -2218,6 +2226,7 @@
 127.0.0.1 vsh.visilabs.net
 127.0.0.1 vstvstsa.com
 127.0.0.1 vue.comm100.com
+127.0.0.1 vz-cdn.contentabc.com
 127.0.0.1 vz-cdn.trafficjunky.net
 127.0.0.1 vz-cdn2.adtng.com
 127.0.0.1 vz-cdn2.contentabc.com
@@ -2266,6 +2275,7 @@
 127.0.0.1 www.acint.net
 127.0.0.1 www.adsensecustomsearchads.com
 127.0.0.1 www.affiliatepro.it
+127.0.0.1 www.afgr1.com
 127.0.0.1 www.analyticsb2c.com
 127.0.0.1 www.artfut.com
 127.0.0.1 www.biphic.com
