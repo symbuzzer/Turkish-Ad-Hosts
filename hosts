@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 24042110
+# Version: 24042710
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -50,6 +50,7 @@
 127.0.0.1 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 127.0.0.1 6371800.collect.igodigital.com
 127.0.0.1 74b967be3a.68069795d1.com
+127.0.0.1 77b0619134.fc29334d79.com
 127.0.0.1 7fb6f12dd2.17dc91dc49.com
 127.0.0.1 8065991.fls.doubleclick.net
 127.0.0.1 8236901.fls.doubleclick.net
@@ -75,6 +76,7 @@
 127.0.0.1 a.exoclick.com
 127.0.0.1 a.exosrv.com
 127.0.0.1 a.jhfhdkhkh.site
+127.0.0.1 a.kinkadservercdn.com
 127.0.0.1 a.labadena.com
 127.0.0.1 a.magsrv.com
 127.0.0.1 a.mouseflow.com
@@ -178,6 +180,7 @@
 127.0.0.1 ads.yap.yahoo.com
 127.0.0.1 ads.yieldmo.com
 127.0.0.1 ads.youtube.com
+127.0.0.1 ads-a.juicyads.com
 127.0.0.1 ads-api.twitter.com
 127.0.0.1 ads-dev.pinterest.com
 127.0.0.1 ads-interfaces.sc-cdn.net
@@ -192,6 +195,7 @@
 127.0.0.1 adsdk.yandex.ru
 127.0.0.1 adserve.donanimhaber.com
 127.0.0.1 adserver.adtech.advertising.com
+127.0.0.1 adserver.juicyads.com
 127.0.0.1 adserver.unityads.unity3d.com
 127.0.0.1 adserver-us.adtech.advertising.com
 127.0.0.1 adservetx.media.net
@@ -308,6 +312,7 @@
 127.0.0.1 api.fouanalytics.com
 127.0.0.1 api.gameanalytics.com
 127.0.0.1 api.h2.he7ll.com
+127.0.0.1 api.houston.advgo.net
 127.0.0.1 api.ibeat-analytics.com
 127.0.0.1 api.instabug.com
 127.0.0.1 api.leanplum.com
@@ -572,6 +577,7 @@
 127.0.0.1 cdn.popcash.net
 127.0.0.1 cdn.preciso.net
 127.0.0.1 cdn.purpleads.io
+127.0.0.1 cdn.pushcrew.com
 127.0.0.1 cdn.pushmaster-cdn.xyz
 127.0.0.1 cdn.pushwoosh.com
 127.0.0.1 cdn.quantummetric.com
@@ -596,6 +602,7 @@
 127.0.0.1 cdn.tsyndicate.com
 127.0.0.1 cdn.twinrdack.com
 127.0.0.1 cdn.twinrdsrv.com
+127.0.0.1 cdn.twinrdsyn.com
 127.0.0.1 cdn.twinrdsyn.com
 127.0.0.1 cdn.unblockia.com
 127.0.0.1 cdn.unibotscdn.com
@@ -765,6 +772,7 @@
 127.0.0.1 d3cgm8py10hi0z.cloudfront.net
 127.0.0.1 d3g5ovfngjw9bw.cloudfront.net
 127.0.0.1 d3j3yrurxcqogk.cloudfront.net
+127.0.0.1 d3mr7y154d2qg5.cloudfront.net
 127.0.0.1 d3t87ooo0697p8.cloudfront.net
 127.0.0.1 d5nxst8fruw4z.cloudfront.net
 127.0.0.1 d692b70a4e.a6dc99d1a8.com
@@ -813,6 +821,7 @@
 127.0.0.1 dm.hybrid.ai
 127.0.0.1 dmg.digitaltarget.ru
 127.0.0.1 dmp.adform.net
+127.0.0.1 dmp.theadex.com
 127.0.0.1 dmtracking2.alibaba.com
 127.0.0.1 dmx.districtm.io
 127.0.0.1 dmxleo.dailymotion.com
@@ -835,6 +844,7 @@
 127.0.0.1 dttrk.com
 127.0.0.1 du0pud0sdlmzf.cloudfront.net
 127.0.0.1 ductquest.com
+127.0.0.1 dukingdraon.com
 127.0.0.1 duyuru-geldi-reklam-basvuru-com.ml
 127.0.0.1 dwin1.com
 127.0.0.1 dx.mountain.com
@@ -1289,6 +1299,7 @@
 127.0.0.1 js.go2sdk.com
 127.0.0.1 js.hs-analytics.net
 127.0.0.1 js.hs-scripts.com
+127.0.0.1 js.juicyads.com
 127.0.0.1 js.revsci.net
 127.0.0.1 js.rfp.fout.jp
 127.0.0.1 js.sddan.com
@@ -2049,6 +2060,7 @@
 127.0.0.1 t.dailymail.co.uk
 127.0.0.1 t.fapcat.com
 127.0.0.1 t.imgur.com
+127.0.0.1 t.sharethis.com
 127.0.0.1 t8.prnx.net
 127.0.0.1 tacticschangebabysitting.com
 127.0.0.1 tag.1rx.io
@@ -2119,10 +2131,12 @@
 127.0.0.1 tr.snapchat.com
 127.0.0.1 tr.www.cloudflare.com
 127.0.0.1 track.adform.net
+127.0.0.1 track.aftrk3.com
 127.0.0.1 track.analitycs.net
 127.0.0.1 track.appsflyer.com
 127.0.0.1 track.mailerlite.com
 127.0.0.1 track.mp4.center
+127.0.0.1 track.trfpump.com
 127.0.0.1 track.wattpad.com
 127.0.0.1 track.webgains.com
 127.0.0.1 track1.aniview.com
@@ -2136,6 +2150,7 @@
 127.0.0.1 tracking.mubi.com
 127.0.0.1 tracking.olx-st.com
 127.0.0.1 tracking.rus.miui.com
+127.0.0.1 tracking.sexcash.com
 127.0.0.1 tracking.swogo.net
 127.0.0.1 tramerodemelerimiz.blogspot.com
 127.0.0.1 trc.taboola.com
@@ -2216,6 +2231,7 @@
 127.0.0.1 vi.ml314.com
 127.0.0.1 video.ktkjmp.com
 127.0.0.1 video.mcpuwpsh.com
+127.0.0.1 video.mnaspm.com
 127.0.0.1 videosvc.ezoic.com
 127.0.0.1 vidstat.taboola.com
 127.0.0.1 view.adjust.com
@@ -2249,6 +2265,7 @@
 127.0.0.1 webview.unityads.unity3d.com
 127.0.0.1 wgo.mmstat.com
 127.0.0.1 whos.amung.us
+127.0.0.1 whulsaux.com
 127.0.0.1 widget.cdn.vidyome.com
 127.0.0.1 widget.criteo.com
 127.0.0.1 widget.engageya.com
@@ -2304,6 +2321,7 @@
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googletagservices.com
 127.0.0.1 www.howmanyview.com
+127.0.0.1 www.intellipopup.com
 127.0.0.1 www.linkconnector.com
 127.0.0.1 www.mainadv.com
 127.0.0.1 www.mczbf.com
