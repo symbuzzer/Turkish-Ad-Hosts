@@ -427,6 +427,7 @@ browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 browser-http-intake.logs.datadoghq.com
 browser-http-intake.logs.datadoghq.eu
+browser-intake-datadoghq.com
 browser-update.org
 bs.serving-sys.com
 bs.yandex.ru
