@@ -29,4 +29,4 @@
 - This list has been created by testing all applications one by one and examining the DNS addresses that have emerged by using MITM and other methods.    
 - You can see install and using guides from [Wiki page](https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki).  
 - If you want to add or remove a site from the block list or suggest app for scanning, please create [issue](https://github.com/symbuzzer/Turkish-Ad-Hosts/issues).  
-- This list will be updated daily.   
+- This list will try to be updated daily.  
