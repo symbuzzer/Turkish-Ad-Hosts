@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 24082307
+# Version: 24082408
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -162,6 +162,7 @@
 127.0.0.1 ads.exosrv.com
 127.0.0.1 ads.facebook.com
 127.0.0.1 ads.google.com
+127.0.0.1 ads.inmobi.com
 127.0.0.1 ads.linkedin.com
 127.0.0.1 ads.themoneytizer.com
 127.0.0.1 ads.ndtv1.com
@@ -202,6 +203,7 @@
 127.0.0.1 adserver-us.adtech.advertising.com
 127.0.0.1 adservetx.media.net
 127.0.0.1 adservex.media.net
+127.0.0.1 adservfnt-eu.dsp-api.moloco.com
 127.0.0.1 adservice.google.co.in
 127.0.0.1 adservice.google.co.jp
 127.0.0.1 adservice.google.com
@@ -734,6 +736,7 @@
 127.0.0.1 creativecdn.com
 127.0.0.1 cresfpho2ntesepapillo3.com
 127.0.0.1 crisistuesdayartillery.com
+127.0.0.1 cross-promo-provider.easybrain.com
 127.0.0.1 crta.dailymail.co.uk
 127.0.0.1 cs.admanmedia.com
 127.0.0.1 cs.luckyorange.net
@@ -1517,6 +1520,7 @@
 127.0.0.1 nitroscripts.com
 127.0.0.1 nmetrics.samsung.com
 127.0.0.1 notes-analytics-events.apple.com
+127.0.0.1 noti-eu.adsmoloco.com
 127.0.0.1 notix.io
 127.0.0.1 ntm.netmera-web.com
 127.0.0.1 ntv.api.useinsider.com
@@ -1861,6 +1865,7 @@
 127.0.0.1 sdk.sharethrough.com
 127.0.0.1 sdk-api-v1.singular.net
 127.0.0.1 sdk-events.inner-active.mobi
+127.0.0.1 sdkapi.dsp-api.moloco.com
 127.0.0.1 sdkapi.netmera.com
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
