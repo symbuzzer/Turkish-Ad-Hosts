@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 24082408
+# Version: 24101607
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -1540,6 +1540,7 @@
 127.0.0.1 o22381.ingest.sentry.io
 127.0.0.1 o244019.ingest.sentry.io
 127.0.0.1 o315582.ingest.sentry.io
+127.0.0.1 o324374.ingest.sentry.io
 127.0.0.1 o33249.ingest.sentry.io
 127.0.0.1 o343074.ingest.sentry.io
 127.0.0.1 o363631.ingest.sentry.io
