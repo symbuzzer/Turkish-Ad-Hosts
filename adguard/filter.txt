@@ -1,11 +1,11 @@
-!
+! Checksum: L7e91SB8cen9V5lq86rqKw
 ! Title: Turkish-Ad-Hosts
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2024-11-27T07:20:01.119Z
+! Last modified: 2025-01-06T08:23:43.164Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.29
+! Compiled by @adguard/hostlist-compiler v1.0.33
 !
 
 ||0.oldgyhogola.com^
@@ -1527,7 +1527,6 @@
 ||sdk.iad-05.braze.com^
 ||sdk.iad-06.braze.com^
 ||sdk.fra-01.braze.eu^
-||sdk.poltio.com^
 ||sdk.pulse.schibsted.com^
 ||sdk.sharethrough.com^
 ||sdk-api-v1.singular.net^
