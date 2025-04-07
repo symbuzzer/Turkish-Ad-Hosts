@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 25040205
+# Version: 25040706
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -337,6 +337,8 @@
 127.0.0.1 api.taps.io
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 127.0.0.1 api.useinsider.com
+127.0.0.1 api-dataroid.akbank.com
+127.0.0.1 api-dataroid.akode.com
 127.0.0.1 api-eu.bidmachine.io
 127.0.0.1 api-js.datadome.co
 127.0.0.1 api-public.addthis.com
@@ -723,6 +725,8 @@
 127.0.0.1 counter.yadro.ru
 127.0.0.1 countly.fibabanka.com.tr
 127.0.0.1 countly.iyzico.com
+127.0.0.1 countly.teb.com.tr
+127.0.0.1 countly.vakifbank.com.tr
 127.0.0.1 cp.pushwoosh.com
 127.0.0.1 cpro.baidustatic.com
 127.0.0.1 cr.frontend.weborama.fr
@@ -813,6 +817,7 @@
 127.0.0.1 device-metrics-us-2.amazon.com
 127.0.0.1 devices.carnivalmobile.com
 127.0.0.1 di.rlcdn.com
+127.0.0.1 digital-analytics.burgan.com.tr
 127.0.0.1 digital-vakifbank-reklam-web.tk
 127.0.0.1 diken.xyz
 127.0.0.1 direct-events-collector.spot.im
@@ -1122,8 +1127,6 @@
 127.0.0.1 geniuslinkcdn.com
 127.0.0.1 geo.ads.audio.thisisdax.com
 127.0.0.1 geo.yahoo.com
-127.0.0.1 geoim.bloomberght.com
-127.0.0.1 geoim.hurriyet.com
 127.0.0.1 geoloc.hurriyet.com.tr
 127.0.0.1 geolocation.onetrust.com
 127.0.0.1 gercekkampanyareklami.com
