@@ -325,6 +325,7 @@ api-public.addthis.com
 api-stg.ensonhaber.com
 api16-access-gcp.pangle.io
 api16-access-sg.pangle.io
+api16-access-wf-sg.pangle.io
 api2.amplitude.com
 api2.branch.io
 api3.siftscience.com
@@ -1537,6 +1538,7 @@ odb.outbrain.com
 odr.mookie1.com
 offer.slgnt.eu
 offerwall.yandex.net
+ogads-pa.clients6.google.com
 oglenreklamiiaa.net
 oglenreklamiixs.net
 oglenvaktireklamms.net
@@ -1695,6 +1697,7 @@ rebrand.ly
 recommendation-api.analytics.onedio.com
 recommender.scarabresearch.com
 recs.engageya.com
+redirect.appmetrica.yandex.com
 redirect.frontend.weborama.fr
 redis-end.tfla.xyz
 referrer.disqus.com
