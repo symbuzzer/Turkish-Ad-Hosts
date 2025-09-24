@@ -1,4 +1,4 @@
-# v25060619
+# v25092406
 ## TR
 - Eklenen DNSler için [commit sayfasını](https://github.com/symbuzzer/Turkish-Ad-Hosts/commits/main/dns) ziyaret edin  
 - Modül değişiklikleri için [changelog](https://github.com/symbuzzer/Turkish-Ad-Hosts/blob/main/magisk-kernelsu-apatch/module_changelog.md) sayfasına bakın  

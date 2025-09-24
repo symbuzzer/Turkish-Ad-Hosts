@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 25060619
+# Version: 25092406
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -345,6 +345,7 @@
 127.0.0.1 api-stg.ensonhaber.com
 127.0.0.1 api16-access-gcp.pangle.io
 127.0.0.1 api16-access-sg.pangle.io
+127.0.0.1 api16-access-wf-sg.pangle.io
 127.0.0.1 api2.amplitude.com
 127.0.0.1 api2.branch.io
 127.0.0.1 api3.siftscience.com
@@ -1557,6 +1558,7 @@
 127.0.0.1 odr.mookie1.com
 127.0.0.1 offer.slgnt.eu
 127.0.0.1 offerwall.yandex.net
+127.0.0.1 ogads-pa.clients6.google.com
 127.0.0.1 oglenreklamiiaa.net
 127.0.0.1 oglenreklamiixs.net
 127.0.0.1 oglenvaktireklamms.net
@@ -1715,6 +1717,7 @@
 127.0.0.1 recommendation-api.analytics.onedio.com
 127.0.0.1 recommender.scarabresearch.com
 127.0.0.1 recs.engageya.com
+127.0.0.1 redirect.appmetrica.yandex.com
 127.0.0.1 redirect.frontend.weborama.fr
 127.0.0.1 redis-end.tfla.xyz
 127.0.0.1 referrer.disqus.com
