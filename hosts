@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 25092606
+# Version: 25093009
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -583,6 +583,7 @@
 127.0.0.1 cdn.perfdrive.com
 127.0.0.1 cdn.permutive.com
 127.0.0.1 cdn.personaclick.com
+127.0.0.1 cdn.piano.io
 127.0.0.1 cdn.playwire.com
 127.0.0.1 cdn.popcash.net
 127.0.0.1 cdn.preciso.net
@@ -645,6 +646,7 @@
 127.0.0.1 cdn77.aj2550.bid
 127.0.0.1 cdn9.forter.com
 127.0.0.1 cdnads.geeksforgeeks.org
+127.0.0.1 cdnhorizon.nnmtools.com
 127.0.0.1 cdp.cloud.unity3d.com
 127.0.0.1 ce.lijit.com
 127.0.0.1 ced.sascdn.com
@@ -817,6 +819,7 @@
 127.0.0.1 depart.trinitymedia.ai
 127.0.0.1 deploy.mopinion.com
 127.0.0.1 dexerto-cdn.relevant-digital.com
+127.0.0.1 dev.visualwebsiteoptimizer.com
 127.0.0.1 device-metrics-us.amazon.com
 127.0.0.1 device-metrics-us-2.amazon.com
 127.0.0.1 devices.carnivalmobile.com
@@ -1036,6 +1039,7 @@
 127.0.0.1 engine.adzerk.net
 127.0.0.1 engine.phn.doublepimp.com
 127.0.0.1 enormousfoot.com
+127.0.0.1 entitlements.jwplayer.com
 127.0.0.1 epnt.ebay.com
 127.0.0.1 epttavm.api.useinsider.com
 127.0.0.1 errnewlog.umeng.com
@@ -1355,6 +1359,7 @@
 127.0.0.1 lgr.visilabs.net
 127.0.0.1 lh.limosiwooable.com
 127.0.0.1 lib.wtg-ads.com
+127.0.0.1 licensebuttons.net
 127.0.0.1 lider90.com
 127.0.0.1 limurol.com
 127.0.0.1 linkconnector.com
@@ -2029,6 +2034,7 @@
 127.0.0.1 str.hit.gemius.pl.hit.gemius.pl
 127.0.0.1 stretchsquirrel.com
 127.0.0.1 strmrdrfrokd.site
+127.0.0.1 sts.applovin.com
 127.0.0.1 stun.fpapi.io
 127.0.0.1 stun.voiparound.com
 127.0.0.1 su.addthis.com
