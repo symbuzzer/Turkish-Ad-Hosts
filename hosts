@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 25093009
+# Version: 25100318
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -655,6 +655,7 @@
 127.0.0.1 certify-js.alexametrics.com
 127.0.0.1 champagne.futurecdn.net
 127.0.0.1 childlikeform.com
+127.0.0.1 chimpstatic.com
 127.0.0.1 cimri.api.useinsider.com
 127.0.0.1 ciqepxipgs.com
 127.0.0.1 cis.schibsted.com
@@ -681,6 +682,7 @@
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cm.mgid.com
 127.0.0.1 cm.tns-counter.ru
+127.0.0.1 cmp.inmobi.com
 127.0.0.1 cmp.quantcast.com
 127.0.0.1 cmp.uniconsent.com
 127.0.0.1 cms.quantserve.com
@@ -1471,6 +1473,7 @@
 127.0.0.1 mitdmp.whiteboxdigital.ru
 127.0.0.1 ml314.com
 127.0.0.1 mobile.eum-appdynamics.com
+127.0.0.1 mobile.events.data.microsoft.com
 127.0.0.1 mobile.pipe.aria.microsoft.com
 127.0.0.1 mobile.useinsider.com
 127.0.0.1 mobile.yandexadexchange.net
@@ -1628,6 +1631,7 @@
 127.0.0.1 piwik.ubuntu-fr.org
 127.0.0.1 pix.eu.criteo.net
 127.0.0.1 pix.spot.im
+127.0.0.1 pix-cdn77.trafficjunky.net
 127.0.0.1 pixel.adsafeprotected.com
 127.0.0.1 pixel.advertising.com
 127.0.0.1 pixel.facebook.com

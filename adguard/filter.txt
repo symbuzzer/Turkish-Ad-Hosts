@@ -3,7 +3,7 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2025-09-30T09:11:34.970Z
+! Last modified: 2025-10-03T18:49:09.935Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -574,6 +574,7 @@
 ||certify-js.alexametrics.com^
 ||champagne.futurecdn.net^
 ||childlikeform.com^
+||chimpstatic.com^
 ||ciqepxipgs.com^
 ||cis.schibsted.com^
 ||ck.ads.oppomobile.com^
@@ -594,6 +595,7 @@
 ||cluster.awmdelivery.com^
 ||cm.everesttech.net^
 ||cm.mgid.com^
+||cmp.inmobi.com^
 ||cmp.quantcast.com^
 ||cmp.uniconsent.com^
 ||cms.quantserve.com^
@@ -1186,6 +1188,7 @@
 ||microsoftmscompoc.tt.omtrdc.net^
 ||mitdmp.whiteboxdigital.ru^
 ||mobile.eum-appdynamics.com^
+||mobile.events.data.microsoft.com^
 ||mobile.pipe.aria.microsoft.com^
 ||mobile.useinsider.com^
 ||mobile-collector.newrelic.com^
@@ -1311,6 +1314,7 @@
 ||piwik.ubuntu-fr.org^
 ||pix.eu.criteo.net^
 ||pix.spot.im^
+||pix-cdn77.trafficjunky.net^
 ||pixel.adsafeprotected.com^
 ||pixel.advertising.com^
 ||pixel.facebook.com^
