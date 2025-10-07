@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 25100318
+# Version: 25100708
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -220,6 +220,7 @@
 127.0.0.1 adsreklamizm.ga
 127.0.0.1 adsreklamizm.tk
 127.0.0.1 adtago.s3.amazonaws.com
+127.0.0.1 adtech.yahooinc.com
 127.0.0.1 adtest.avalibeyaz.com
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 adv.sec.miui.com
@@ -338,6 +339,7 @@
 127.0.0.1 api.taps.io
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 127.0.0.1 api.useinsider.com
+127.0.0.1 api-adservices.apple.com
 127.0.0.1 api-dataroid.akbank.com
 127.0.0.1 api-dataroid.akode.com
 127.0.0.1 api-eu.bidmachine.io
@@ -438,6 +440,7 @@
 127.0.0.1 bidder.criteo.com
 127.0.0.1 biddr.brealtime.com
 127.0.0.1 bigrourg.net
+127.0.0.1 bingads.microsoft.com
 127.0.0.1 bireysel-reklam-sayfamiz.tk
 127.0.0.1 bitcireklam.com
 127.0.0.1 bmrg.reflected.net
@@ -466,6 +469,7 @@
 127.0.0.1 btlr.sharethrough.com
 127.0.0.1 bts.a11k.com
 127.0.0.1 business.samsungusa.com
+127.0.0.1 business-api.tiktok.com
 127.0.0.1 busuanzi.ibruce.info
 127.0.0.1 buttons-config.sharethis.com
 127.0.0.1 c.aaxads.com
@@ -694,6 +698,7 @@
 127.0.0.1 cocoonelectronicsconfined.com
 127.0.0.1 code.createjs.com
 127.0.0.1 code.jivosite.com
+127.0.0.1 coinhive.com
 127.0.0.1 col.eum-appdynamics.com
 127.0.0.1 collect.dolap.com
 127.0.0.1 collect.trendyol.com
@@ -1134,6 +1139,7 @@
 127.0.0.1 gc.zgo.at
 127.0.0.1 gcdn.2mdn.net
 127.0.0.1 gdetr.hit.gemius.pl
+127.0.0.1 gemini.yahoo.com
 127.0.0.1 geniuslinkcdn.com
 127.0.0.1 geo.ads.audio.thisisdax.com
 127.0.0.1 geo.yahoo.com
@@ -1376,6 +1382,7 @@
 127.0.0.1 log.api.useinsider.com
 127.0.0.1 log.byteoversea.com
 127.0.0.1 log.cookieyes.com
+127.0.0.1 log.fc.yahoo.com
 127.0.0.1 log.haberturk.com
 127.0.0.1 log.medietall.no
 127.0.0.1 log.pinterest.com
@@ -1521,6 +1528,7 @@
 127.0.0.1 networksdk.ssacdn.com
 127.0.0.1 news.2xclick.ru
 127.0.0.1 news-muheji.com
+127.0.0.1 nexus.ensighten.com
 127.0.0.1 nexus.toyota.com
 127.0.0.1 ng.virgul.com
 127.0.0.1 ng2.virgul.com
@@ -1826,6 +1834,7 @@
 127.0.0.1 s.uuidksinc.net
 127.0.0.1 s.vi-serve.com
 127.0.0.1 s.visilabs.net
+127.0.0.1 s.youtube.com
 127.0.0.1 s-gm.mmstat.com
 127.0.0.1 s-img.idealmedia.io
 127.0.0.1 s0.2mdn.net
@@ -1930,6 +1939,7 @@
 127.0.0.1 slidecaffeinecrown.com
 127.0.0.1 slideff.com
 127.0.0.1 sm.rtb.mts.ru
+127.0.0.1 smartclip.com
 127.0.0.1 smetrics.nvidia.com
 127.0.0.1 smetrics.samsung.com
 127.0.0.1 snap.licdn.com
@@ -2203,6 +2213,7 @@
 127.0.0.1 u3401.26.spylog.com
 127.0.0.1 ua.realtimely.io
 127.0.0.1 ubuyanalytics.ubuy.com
+127.0.0.1 udcm.yahoo.com
 127.0.0.1 udmserve.net
 127.0.0.1 uh.calepinphrasal.com
 127.0.0.1 uip.semasio.net
@@ -2273,6 +2284,7 @@
 127.0.0.1 w3-reporting.reddit.com
 127.0.0.1 w3-reporting-nel.reddit.com
 127.0.0.1 watchnewpics.space
+127.0.0.1 watson.telemetry.microsoft.com
 127.0.0.1 waust.at
 127.0.0.1 wd.adcolony.com
 127.0.0.1 weather-analytics-events.apple.com
