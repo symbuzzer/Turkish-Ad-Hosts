@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 25102018
+# Version: 25122419
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -39,6 +39,7 @@
 127.0.0.1 2542116.fls.doubleclick.net
 127.0.0.1 3p-geo.yahoo.com
 127.0.0.1 3p-udc.yahoo.com
+127.0.0.1 3swu.adj.st
 127.0.0.1 4431932.fls.doubleclick.net
 127.0.0.1 4876222.fls.doubleclick.net
 127.0.0.1 4c4cc75a16ed.cdn4.forter.com
@@ -52,6 +53,7 @@
 127.0.0.1 74b967be3a.68069795d1.com
 127.0.0.1 77b0619134.fc29334d79.com
 127.0.0.1 7fb6f12dd2.17dc91dc49.com
+127.0.0.1 7t4g.adj.st
 127.0.0.1 8065991.fls.doubleclick.net
 127.0.0.1 8236901.fls.doubleclick.net
 127.0.0.1 8415160.fls.doubleclick.net
@@ -117,6 +119,7 @@
 127.0.0.1 acdn.adnxs.com
 127.0.0.1 acdn.adnxs-simple.com
 127.0.0.1 acint.net
+127.0.0.1 acjs.aliyun.com
 127.0.0.1 ad.360yield.com
 127.0.0.1 ad.360yield-basic.com
 127.0.0.1 ad.a-ads.com
@@ -138,8 +141,8 @@
 127.0.0.1 adc3-launch.adcolony.com
 127.0.0.1 addata.exxen.com
 127.0.0.1 addresseepaper.com
-127.0.0.1 ade.googlesyndication.com
 127.0.0.1 ade.clmbtech.com
+127.0.0.1 ade.googlesyndication.com
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 adform.net
 127.0.0.1 adfox.yandex.ru
@@ -179,6 +182,7 @@
 127.0.0.1 ads.rubiconproject.com
 127.0.0.1 ads.servebom.com
 127.0.0.1 ads.servenobid.com
+127.0.0.1 ads.snapchat.com
 127.0.0.1 ads.sportslocalmedia.com
 127.0.0.1 ads.stickyadstv.com
 127.0.0.1 ads.tiktok.com
@@ -190,6 +194,7 @@
 127.0.0.1 ads.youtube.com
 127.0.0.1 ads-a.juicyads.com
 127.0.0.1 ads-api.twitter.com
+127.0.0.1 ads-api.x.com
 127.0.0.1 ads-dev.pinterest.com
 127.0.0.1 ads-interfaces.sc-cdn.net
 127.0.0.1 ads-resources.waze.com
@@ -334,6 +339,7 @@
 127.0.0.1 api.mixpanel.com
 127.0.0.1 api.mouseflow.com
 127.0.0.1 api.nopbreak.ru
+127.0.0.1 api.permutive.com
 127.0.0.1 api.personaclick.com
 127.0.0.1 api.perzonalization.com
 127.0.0.1 api.protonaosp.kdrag0n.dev
@@ -426,6 +432,7 @@
 127.0.0.1 basher.ezodn.com
 127.0.0.1 bat.bing.com
 127.0.0.1 bats.video.yahoo.com
+127.0.0.1 bbc.gscontxt.net
 127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 bdapi-in-ads.realmemobile.com
 127.0.0.1 beacon.krxd.net
@@ -566,6 +573,7 @@
 127.0.0.1 cdn.intergi.com
 127.0.0.1 cdn.intergient.com
 127.0.0.1 cdn.izooto.com
+127.0.0.1 cdn.kmalgo.com
 127.0.0.1 cdn.krxd.net
 127.0.0.1 cdn.lr-in.com
 127.0.0.1 cdn.lr-in-prod.com
@@ -622,6 +630,7 @@
 127.0.0.1 cdn.tagdeliver.com
 127.0.0.1 cdn.teads.tv
 127.0.0.1 cdn.thequin.ai
+127.0.0.1 cdn.tinypass.com
 127.0.0.1 cdn.trackjs.com
 127.0.0.1 cdn.trafficdok.com
 127.0.0.1 cdn.tsyndicate.com
@@ -640,6 +649,7 @@
 127.0.0.1 cdn.yourwebbars.com
 127.0.0.1 cdn-api.admost.com
 127.0.0.1 cdn-au.onetrust.com
+127.0.0.1 cdn-eu.dynamicyield.com
 127.0.0.1 cdn-header-bidding.snack-media.com
 127.0.0.1 cdn-magiclinks.trackonomics.net
 127.0.0.1 cdn-native.pigeoon.com
@@ -734,6 +744,7 @@
 127.0.0.1 connect-dre.dbankcloud.cn
 127.0.0.1 connect-dre.hispace.hicloud.com
 127.0.0.1 consent.cookiebot.com
+127.0.0.1 consent.trustarc.com
 127.0.0.1 consent-manager-events.ogury.io
 127.0.0.1 consentlog.cookieyes.com
 127.0.0.1 content.mql5.com
@@ -1063,6 +1074,7 @@
 127.0.0.1 etl-xlmc-ssl.sandai.net
 127.0.0.1 eturkcell.netmera.com
 127.0.0.1 eu-mobile.events.data.microsoft.com
+127.0.0.1 euc1-turn.fpjs.io
 127.0.0.1 eum.instana.io
 127.0.0.1 eum.ing.com.tr
 127.0.0.1 eum.kuveytturk.com.tr
@@ -1144,6 +1156,7 @@
 127.0.0.1 garantibbva.api.dataroid.com
 127.0.0.1 garenta.api.useinsider.com
 127.0.0.1 gars.hit.gemius.pl
+127.0.0.1 gator.volces.com
 127.0.0.1 gatr.hit.gemius.pl
 127.0.0.1 gc.zgo.at
 127.0.0.1 gcdn.2mdn.net
@@ -1548,6 +1561,7 @@
 127.0.0.1 notes-analytics-events.apple.com
 127.0.0.1 noti-eu.adsmoloco.com
 127.0.0.1 notix.io
+127.0.0.1 nquw.adj.st
 127.0.0.1 ntm.netmera-web.com
 127.0.0.1 ntv.api.useinsider.com
 127.0.0.1 ntvpforever.com
@@ -1616,6 +1630,7 @@
 127.0.0.1 p.imgur.com
 127.0.0.1 p.typekit.net
 127.0.0.1 p-analytics.life
+127.0.0.1 p8zh.adj.st
 127.0.0.1 p11.techlab-cdn.com
 127.0.0.1 pad-v3.presage.io
 127.0.0.1 pagead2.googleadservices.com
@@ -1687,6 +1702,7 @@
 127.0.0.1 prebid.a-mo.net
 127.0.0.1 prebid.adnxs.com
 127.0.0.1 prebid.media.net
+127.0.0.1 prebit.the-ozone-project.com
 127.0.0.1 prebid-eu.creativecdn.com
 127.0.0.1 prebid-server.rubiconproject.com
 127.0.0.1 predataclient.b-cdn.net
@@ -1709,6 +1725,7 @@
 127.0.0.1 pub.doubleverify.com
 127.0.0.1 pub-sdk-cfg.criteo.com
 127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 public.profitwell.com
 127.0.0.1 public.servenobid.com
 127.0.0.1 publisher.caroda.io
 127.0.0.1 publisher-assets.spot.im
@@ -1739,6 +1756,7 @@
 127.0.0.1 radar.cedexis.com
 127.0.0.1 rauvoaty.net
 127.0.0.1 rcm-na.amazon-adsystem.com
+127.0.0.1 rcom-eu.dynamicyield.com
 127.0.0.1 rdrctgoweb.com
 127.0.0.1 realtime.luckyorange.com
 127.0.0.1 rebrand.ly
@@ -1952,6 +1970,7 @@
 127.0.0.1 snap.licdn.com
 127.0.0.1 snigelweb-com.videoplayerhub.com
 127.0.0.1 snippet.affilimate.io
+127.0.0.1 snssdk1340.onelink.me
 127.0.0.1 socket.streamable.com
 127.0.0.1 sommelier.futurehybrid.tech
 127.0.0.1 sonar.semantiqo.com
@@ -1982,6 +2001,7 @@
 127.0.0.1 st.dynamicyield.com
 127.0.0.1 st.hbrd.io
 127.0.0.1 st.top100.ru
+127.0.0.1 st-eu.dynamicyield.com
 127.0.0.1 st-n.ads1-adnow.com
 127.0.0.1 st-n.ads2-adnow.com
 127.0.0.1 st-n.ads3-adnow.com
@@ -2144,6 +2164,7 @@
 127.0.0.1 tibacta.com
 127.0.0.1 tlx.3lift.com
 127.0.0.1 tme.112.2o7.net
+127.0.0.1 tms.oracle.com
 127.0.0.1 tnc16-alisg.byteoversea.com
 127.0.0.1 tnc16-alisg.isnssdk.com
 127.0.0.1 tnc16-useast1a.byteoversea.com
@@ -2329,6 +2350,7 @@
 127.0.0.1 ws.sahibinden.com
 127.0.0.1 ws.sharethis.com
 127.0.0.1 ws-na.amazon-adsystem.com
+127.0.0.1 wsknow.net
 127.0.0.1 wurfl.io
 127.0.0.1 wuzbhjpvsf.com
 127.0.0.1 ww1.image.us
