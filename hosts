@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 25122419
+# Version: 26022010
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -352,6 +352,7 @@
 127.0.0.1 api.taps.io
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 127.0.0.1 api.useinsider.com
+127.0.0.1 api-2-0.spot.im
 127.0.0.1 api-adservices.apple.com
 127.0.0.1 api-dataroid.akbank.com
 127.0.0.1 api-dataroid.akode.com
@@ -459,6 +460,7 @@
 127.0.0.1 bireysel-reklam-sayfamiz.tk
 127.0.0.1 bitcireklam.com
 127.0.0.1 bmrg.reflected.net
+127.0.0.1 bnc.lt
 127.0.0.1 bncsdestekgiristr.com
 127.0.0.1 bngdyn.com
 127.0.0.1 bngprm.com
@@ -546,12 +548,15 @@
 127.0.0.1 cdn.carbonads.com
 127.0.0.1 cdn.clickiocdn.com
 127.0.0.1 cdn.cloudimagesb.com
+127.0.0.1 cdn.concert.io
 127.0.0.1 cdn.confiant-integrations.net
 127.0.0.1 cdn.convertbox.com
+127.0.0.1 cdn.cpex.cz
 127.0.0.1 cdn.dataroid.com
 127.0.0.1 cdn.dimml.io
 127.0.0.1 cdn.dokondigit.quest
 127.0.0.1 cdn.doubleverify.com
+127.0.0.1 cdn.dynamicyield.com
 127.0.0.1 cdn.efilli.com
 127.0.0.1 cdn.eksiup.com
 127.0.0.1 cdn.engine.4dsply.com
@@ -730,6 +735,7 @@
 127.0.0.1 collector.wawlabs.com
 127.0.0.1 collector.xhamster.com
 127.0.0.1 collector-1054.tvsquared.com
+127.0.0.1 collector-pxdojv695v.protechts.net
 127.0.0.1 commercialvalue.org
 127.0.0.1 conditionchange.com
 127.0.0.1 confiant-integrations.global.ssl.fastly.net
@@ -743,6 +749,7 @@
 127.0.0.1 connect.tapjoy.com
 127.0.0.1 connect-dre.dbankcloud.cn
 127.0.0.1 connect-dre.hispace.hicloud.com
+127.0.0.1 consent.cmp.oath.com
 127.0.0.1 consent.cookiebot.com
 127.0.0.1 consent.trustarc.com
 127.0.0.1 consent-manager-events.ogury.io
@@ -822,6 +829,7 @@
 127.0.0.1 d692b70a4e.a6dc99d1a8.com
 127.0.0.1 d899faa8b1.79b1c4498b.com
 127.0.0.1 da37c08c29.36b7ca5028.com
+127.0.0.1 dai.google.com
 127.0.0.1 danesuffocate.com
 127.0.0.1 data.ads.oppomobile.com
 127.0.0.1 data.flurry.com
@@ -1061,6 +1069,7 @@
 127.0.0.1 eitri.api.useinsider.com
 127.0.0.1 elo-io.videoplayerhub.com
 127.0.0.1 elonreptiloid.com
+127.0.0.1 elqtrk.intel.com
 127.0.0.1 elsa.memoinsights.com
 127.0.0.1 emea.hhkld.com
 127.0.0.1 engine.adzerk.net
@@ -1117,6 +1126,7 @@
 127.0.0.1 fcmatch.youtube.com
 127.0.0.1 fe.cabioredtop.com
 127.0.0.1 fid.agkn.com
+127.0.0.1 fingerprintjs.com
 127.0.0.1 firebase-settings.crashlytics.com
 127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 firebaselogging-pa.googleapis.com
@@ -1200,6 +1210,7 @@
 127.0.0.1 googleoptimize.com
 127.0.0.1 googlereklamsayfalari.com
 127.0.0.1 googletagmanager.com
+127.0.0.1 greatşs.com
 127.0.0.1 greekroo.xyz
 127.0.0.1 grid.bidswitch.net
 127.0.0.1 groovy-manul.pikapod.net
@@ -1324,6 +1335,7 @@
 127.0.0.1 iplocation-api.wp.trt.com.tr
 127.0.0.1 ipr.n11.com
 127.0.0.1 ir-na.amazon-adsystem.com
+127.0.0.1 ironsource.mobi
 127.0.0.1 iscep-stories.commencis.com
 127.0.0.1 isortagim.hangikredi.com
 127.0.0.1 istat.izlesene.com
@@ -1487,6 +1499,7 @@
 127.0.0.1 metrics.fitanalytics.com
 127.0.0.1 metrics.icloud.com
 127.0.0.1 metrics.mzstatic.com
+127.0.0.1 metrics.vinted.it
 127.0.0.1 metrics-dra.dt.hicloud.com
 127.0.0.1 metrics-logger.spot.im
 127.0.0.1 metrics1.data.hicloud.com
@@ -1636,6 +1649,7 @@
 127.0.0.1 pagead2.googleadservices.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 panel.afyads.com
+127.0.0.1 pangleglobal.com
 127.0.0.1 pangolin16.sgsnssdk.com
 127.0.0.1 parkingridiculous.com
 127.0.0.1 parksoftreklam.com
@@ -1647,6 +1661,7 @@
 127.0.0.1 pcookie.aliexpress.com
 127.0.0.1 pebed.dm-event.net
 127.0.0.1 pegasus.api.useinsider.com
+127.0.0.1 pendo-data-prod.box.com
 127.0.0.1 per1.segmentify.com
 127.0.0.1 per2.segmentify.com
 127.0.0.1 perr.h-cdn.com
@@ -1749,6 +1764,7 @@
 127.0.0.1 qds0l.publishers.tremorhub.com
 127.0.0.1 qgxbluhsgad.com
 127.0.0.1 qsearch-a.akamaihd.net
+127.0.0.1 quantcast.com
 127.0.0.1 r.admob.com
 127.0.0.1 r.apkpure.net
 127.0.0.1 r.skimresources.com
@@ -1906,6 +1922,7 @@
 127.0.0.1 sdk.iad-05.braze.com
 127.0.0.1 sdk.iad-06.braze.com
 127.0.0.1 sdk.fra-01.braze.eu
+127.0.0.1 sdk.postscrip.io
 127.0.0.1 sdk.pulse.schibsted.com
 127.0.0.1 sdk.sharethrough.com
 127.0.0.1 sdk-api-v1.singular.net
@@ -2414,6 +2431,7 @@
 127.0.0.1 www.w3counter.com
 127.0.0.1 www5.cbox.ws
 127.0.0.1 www9.smartadserver.com
+127.0.0.1 www91.intel.com
 127.0.0.1 wyhifdpatl.com
 127.0.0.1 wzrkt.com
 127.0.0.1 x.bidswitch.net
