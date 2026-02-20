@@ -332,6 +332,7 @@ api.sprig.com
 api.taps.io
 api.tw06.xlmc.sec.miui.com
 api.useinsider.com
+api-2-0.spot.im
 api-adservices.apple.com
 api-dataroid.akbank.com
 api-dataroid.akode.com
@@ -439,6 +440,7 @@ bingads.microsoft.com
 bireysel-reklam-sayfamiz.tk
 bitcireklam.com
 bmrg.reflected.net
+bnc.lt
 bncsdestekgiristr.com
 bngdyn.com
 bngprm.com
@@ -526,12 +528,15 @@ cdn.bvmcdn.net
 cdn.carbonads.com
 cdn.clickiocdn.com
 cdn.cloudimagesb.com
+cdn.concert.io
 cdn.confiant-integrations.net
 cdn.convertbox.com
+cdn.cpex.cz
 cdn.dataroid.com
 cdn.dimml.io
 cdn.dokondigit.quest
 cdn.doubleverify.com
+cdn.dynamicyield.com
 cdn.efilli.com
 cdn.eksiup.com
 cdn.engine.4dsply.com
@@ -710,6 +715,7 @@ collector.schibsted.io
 collector.wawlabs.com
 collector.xhamster.com
 collector-1054.tvsquared.com
+collector-pxdojv695v.protechts.net
 commercialvalue.org
 conditionchange.com
 confiant-integrations.global.ssl.fastly.net
@@ -723,6 +729,7 @@ configv2.unityads.unity3d.com
 connect.tapjoy.com
 connect-dre.dbankcloud.cn
 connect-dre.hispace.hicloud.com
+consent.cmp.oath.com
 consent.cookiebot.com
 consent.trustarc.com
 consent-manager-events.ogury.io
@@ -802,6 +809,7 @@ d5nxst8fruw4z.cloudfront.net
 d692b70a4e.a6dc99d1a8.com
 d899faa8b1.79b1c4498b.com
 da37c08c29.36b7ca5028.com
+dai.google.com
 danesuffocate.com
 data.ads.oppomobile.com
 data.flurry.com
@@ -1041,6 +1049,7 @@ egitimhanekurumum.net
 eitri.api.useinsider.com
 elo-io.videoplayerhub.com
 elonreptiloid.com
+elqtrk.intel.com
 elsa.memoinsights.com
 emea.hhkld.com
 engine.adzerk.net
@@ -1097,6 +1106,7 @@ fcmatch.google.com
 fcmatch.youtube.com
 fe.cabioredtop.com
 fid.agkn.com
+fingerprintjs.com
 firebase-settings.crashlytics.com
 firebaselogging.googleapis.com
 firebaselogging-pa.googleapis.com
@@ -1180,6 +1190,7 @@ googleadservices.com
 googleoptimize.com
 googlereklamsayfalari.com
 googletagmanager.com
+greatşs.com
 greekroo.xyz
 grid.bidswitch.net
 groovy-manul.pikapod.net
@@ -1304,6 +1315,7 @@ ipcheck.tmgrup.com.tr
 iplocation-api.wp.trt.com.tr
 ipr.n11.com
 ir-na.amazon-adsystem.com
+ironsource.mobi
 iscep-stories.commencis.com
 isortagim.hangikredi.com
 istat.izlesene.com
@@ -1467,6 +1479,7 @@ metrics.data.hicloud.com
 metrics.fitanalytics.com
 metrics.icloud.com
 metrics.mzstatic.com
+metrics.vinted.it
 metrics-dra.dt.hicloud.com
 metrics-logger.spot.im
 metrics1.data.hicloud.com
@@ -1616,6 +1629,7 @@ pad-v3.presage.io
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
 panel.afyads.com
+pangleglobal.com
 pangolin16.sgsnssdk.com
 parkingridiculous.com
 parksoftreklam.com
@@ -1627,6 +1641,7 @@ pcdn.dengage.com
 pcookie.aliexpress.com
 pebed.dm-event.net
 pegasus.api.useinsider.com
+pendo-data-prod.box.com
 per1.segmentify.com
 per2.segmentify.com
 perr.h-cdn.com
@@ -1729,6 +1744,7 @@ q.adrta.com
 qds0l.publishers.tremorhub.com
 qgxbluhsgad.com
 qsearch-a.akamaihd.net
+quantcast.com
 r.admob.com
 r.apkpure.net
 r.skimresources.com
@@ -1886,6 +1902,7 @@ sdk.iad-01.braze.com
 sdk.iad-05.braze.com
 sdk.iad-06.braze.com
 sdk.fra-01.braze.eu
+sdk.postscrip.io
 sdk.pulse.schibsted.com
 sdk.sharethrough.com
 sdk-api-v1.singular.net
@@ -2394,6 +2411,7 @@ www.voxmrcdgzuwb.com
 www.w3counter.com
 www5.cbox.ws
 www9.smartadserver.com
+www91.intel.com
 wyhifdpatl.com
 wzrkt.com
 x.bidswitch.net
