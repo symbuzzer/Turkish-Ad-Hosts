@@ -6,7 +6,7 @@
 # Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 # Format: Hosts
 # License: GPLv3
-# Version: 26022010
+# Version: 26032020
 # (Version also shows update date as YYMMDDHH)
 # Project start date: 17/11/2022
 # Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
@@ -172,6 +172,7 @@
 127.0.0.1 ads.google.com
 127.0.0.1 ads.inmobi.com
 127.0.0.1 ads.linkedin.com
+127.0.0.1 ads.microsoft.com
 127.0.0.1 ads.themoneytizer.com
 127.0.0.1 ads.ndtv1.com
 127.0.0.1 ads.pinterest.com
@@ -187,7 +188,9 @@
 127.0.0.1 ads.stickyadstv.com
 127.0.0.1 ads.tiktok.com
 127.0.0.1 ads.trafficjunky.net
+127.0.0.1 ads.x.com
 127.0.0.1 ads.vidoomy.com
+127.0.0.1 ads.vk.com
 127.0.0.1 ads.yahoo.com
 127.0.0.1 ads.yap.yahoo.com
 127.0.0.1 ads.yieldmo.com
@@ -782,6 +785,7 @@
 127.0.0.1 cross-promo-provider.easybrain.com
 127.0.0.1 crta.dailymail.co.uk
 127.0.0.1 cs.admanmedia.com
+127.0.0.1 cs.avito.ru
 127.0.0.1 cs.luckyorange.net
 127.0.0.1 cs.media.net
 127.0.0.1 cs.ns1p.net
@@ -1501,6 +1505,7 @@
 127.0.0.1 metrics.mzstatic.com
 127.0.0.1 metrics.vinted.it
 127.0.0.1 metrics-dra.dt.hicloud.com
+127.0.0.1 metrics-ingress-web.svc.vinted.com
 127.0.0.1 metrics-logger.spot.im
 127.0.0.1 metrics1.data.hicloud.com
 127.0.0.1 metrics2.data.hicloud.com
@@ -1922,7 +1927,7 @@
 127.0.0.1 sdk.iad-05.braze.com
 127.0.0.1 sdk.iad-06.braze.com
 127.0.0.1 sdk.fra-01.braze.eu
-127.0.0.1 sdk.postscrip.io
+127.0.0.1 sdk.postscript.io
 127.0.0.1 sdk.pulse.schibsted.com
 127.0.0.1 sdk.sharethrough.com
 127.0.0.1 sdk-api-v1.singular.net
@@ -1987,6 +1992,7 @@
 127.0.0.1 snap.licdn.com
 127.0.0.1 snigelweb-com.videoplayerhub.com
 127.0.0.1 snippet.affilimate.io
+127.0.0.1 snssdk1233.onelink.me
 127.0.0.1 snssdk1340.onelink.me
 127.0.0.1 socket.streamable.com
 127.0.0.1 sommelier.futurehybrid.tech
@@ -2067,6 +2073,7 @@
 127.0.0.1 statics.esputnik.com
 127.0.0.1 statics.olx.com.tr
 127.0.0.1 statistics.daktilo.com
+127.0.0.1 stats.avito.ru
 127.0.0.1 stats.bannersnack.com
 127.0.0.1 stats.birgun.net
 127.0.0.1 stats.g.doubleclick.net
