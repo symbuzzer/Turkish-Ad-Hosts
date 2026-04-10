@@ -3,9 +3,9 @@
 ! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
 ! License: GPLv3
-! Last modified: 2026-03-20T20:24:20.705Z
+! Last modified: 2026-04-10T07:09:31.997Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.39
+! Compiled by @adguard/hostlist-compiler v2.0.0
 !
 ||0.oldgyhogola.com^
 ||061353efff4748e1a51974616704a9cc.js.ubembed.com^
@@ -306,6 +306,7 @@
 ||api-2-0.spot.im^
 ||api-adservices.apple.com^
 ||api-dataroid.akbank.com^
+||api-dataroid.akbank.com.tr^
 ||api-dataroid.akode.com^
 ||api-eu.bidmachine.io^
 ||api-js.datadome.co^
@@ -578,6 +579,7 @@
 ||cdn.yourwebbars.com^
 ||cdn-api.admost.com^
 ||cdn-au.onetrust.com^
+||cdn-dataroid.akbank.com.tr^
 ||cdn-eu.dynamicyield.com^
 ||cdn-header-bidding.snack-media.com^
 ||cdn-magiclinks.trackonomics.net^
